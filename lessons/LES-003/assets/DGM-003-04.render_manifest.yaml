@@ -1,0 +1,23 @@
+schema_version: 1
+diagram_id: DGM-003-04
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-FILES-QUEEN-F-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: QUEEN
+    square: f4
+position_sha256: 12c89a1eaaf5ba2dbabea39e27b117ec85404fe0e821fb1533b3a0e76afe96d5
+presentation_sha256: 5b4893696bcfa92891d8c621506220d081beb3940c87f0d1178c3a26a03d9082
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-003#18#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 5f9e7cf7e89985c86ac213c2e8989faee4bab5f5e240b521f2459b9f3cd6df1f
+output_svg_sha256: 5f9e7cf7e89985c86ac213c2e8989faee4bab5f5e240b521f2459b9f3cd6df1f

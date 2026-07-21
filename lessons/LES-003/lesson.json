@@ -1,0 +1,1272 @@
+{
+  "lesson_id": "LES-003",
+  "kb_id": "KB-003",
+  "topic_id": "TOP-003",
+  "unit_id": "UNT-001",
+  "sequence": 3,
+  "objective": "**🎯 Today's Goal:**\nYour child can identify and name the vertical columns on a chess board.",
+  "success_criteria": "**✅ Lesson Success Criteria:**\n- Child can trace a file from top to bottom with their finger.\n- Child understands that files are vertical (up and down).\n- Child knows files are named with letters (a through h).",
+  "source_traces": {
+    "objective": "KB-003#1#B2",
+    "success_criteria": "KB-003#1#B3"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-003#1",
+      "content": "- **Topic**: Files\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: Chess Board (TOP-001)\n\n**🎯 Today's Goal:**\nYour child can identify and name the vertical columns on a chess board.\n\n**✅ Lesson Success Criteria:**\n- Child can trace a file from top to bottom with their finger.\n- Child understands that files are vertical (up and down).\n- Child knows files are named with letters (a through h).\n\n*(Purpose: \"Can I teach this today?\" Yes. This helps children navigate the board like a map.)*\n\n---"
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-003#2",
+      "content": "In chess, a \"file\" is a vertical column of eight squares running up and down the board, directly between the two players. There are eight files on a chess board, and they are labeled with lowercase letters from **a** to **h** (reading left to right from White's point of view).\n\n---"
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-003#3",
+      "content": "Files are half of the \"map coordinates\" of chess. Later, when your child learns how Rooks and Queens move, they will need to understand how to move \"up and down a file.\" Furthermore, every chess opening relies on controlling specific files, so learning the terminology early builds a foundation for advanced strategy.\n\n---"
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-003#4",
+      "content": "**Prerequisites:**\n- ✓ Chess Board (TOP-001)\n\n**What this unlocks:**\n- ✓ Squares (TOP-005)\n- ✓ Coordinates (TOP-006)\n- ✓ Rook (TOP-010)\n\n---"
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-003#5",
+      "content": "*This section is for YOUR understanding. Read it, absorb it.*\n\nWhen you look at a chess board, the lines of squares running straight from you to your opponent are called **files**. You can think of them as vertical columns. \n\nThere are 8 files in total. They are always labeled with lowercase letters: **a, b, c, d, e, f, g, h**. \nThese letters are always determined from the **White player's perspective**. The file on White's far left is the **a-file**. The file on White's far right is the **h-file**. Even if you are sitting on the Black side, the file on your far right is STILL the a-file! \n\n---"
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-003#6",
+      "content": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Introduce the Columns (2 mins)\nPlace an empty board on the table. Take a single piece (like a Rook) and slide it all the way from your side of the board to your child's side in a straight line.\n> *\"Did you know the chess board is like a city grid with streets? The streets that run straight forward and backward, from me to you, are called **Files**.\"*\n\n### Step 2 — Trace the Files (2 mins)\nHave your child take their finger and trace a line of squares from their side of the board all the way to your side.\n> *\"Show me a file. Trace it all the way across. Great! That whole column is one file.\"*\n\n### Step 3 — Introduce the Letters (3 mins)\nPoint to the letters printed on the edge of the board (if your board has them).\n> *\"Since there are 8 files, we give them names so they don't get confused. But we don't use numbers — we use the alphabet! a, b, c, d, e, f, g, h.\"*\nPoint to the 'e' file.\n> *\"If I put a piece anywhere on this street, it is on the e-file.\"*\n\n---"
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-003#7",
+      "content": "> **🚀 The Rocket Ship Analogy**\n> \n> Think of a file like the path of a rocket ship taking off into space. Rocket ships don't fly sideways; they go straight up! When a piece moves along a file, it blasts straight forward (or straight backward to land), just like a rocket. \n>\n> **Memory Trick:**\n> **\"Files Fly Forward\"** (Both start with the 'F' sound).\n\n---"
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know? 🎓",
+      "source_trace": "KB-003#8",
+      "content": "The word \"file\" in chess actually comes from the military! In an army, when soldiers stand in a line facing forward (one behind the other), it is called a \"file.\" When they stand side-by-side, it is called a \"rank.\" Chess uses the exact same military words for its board!\n\n---"
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-003#9",
+      "content": "**The e-file (Vertical Column)**\n\n![DGM-001 E-File](../../assets/diagrams/TOP-003/DGM-001_E_File.svg)\n*The highlighted squares show the e-file. Notice how it runs completely vertical from one side to the other.*\n\n---"
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-003#10",
+      "content": "A file is not just a single square; it is the entire line of 8 squares. A piece can be at the bottom of the e-file, the middle of the e-file, or the top of the e-file. As long as it stays in that vertical column, it is on the e-file.\n\n---"
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-003#11",
+      "content": "**8 Files: a through h**\n\n![DGM-002 All Files](../../assets/diagrams/TOP-003/DGM-002_All_Files.svg)\n*All 8 files are labeled at the bottom edge. These labels are always written from White's perspective (a on the left, h on the right).*\n\n---"
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-003#12",
+      "content": "![DGM-003 Rook On File](../../assets/diagrams/TOP-003/DGM-003_Rook_On_File.svg)\nIn many chess games, players will fight to control an \"open file\" (a file with no pawns on it). Here, a White Rook is placed on the c-file. Because Rooks move up and down files, placing a Rook on a file with no pawns gives it incredible power to look deep into the enemy camp.\n\n---"
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-003#13",
+      "content": "### Chess Mistakes\n- ❌ **Confusing Files with Ranks** — Calling a horizontal row a \"file.\" Just remember: Files fly forward!\n- ❌ **Reversing the letters** — A Black player might mistakenly call their far-left file the \"a-file.\" Remember, the letters are fixed based on White's view.\n\n### Teaching Mistakes\n- ❌ **Skipping the terminology** — Saying \"move it up that line\" instead of \"move it up the file.\" Use the real chess words from Day 1; children absorb vocabulary quickly!\n\n> **🧑‍🏫 Coach Tip:**\n> If your child struggles to remember which is a file and which is a rank, hand them an ordinary office file folder. Show them how you hold a file folder vertically to slide paper into it. Files are vertical!\n\n---"
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-003#14",
+      "content": "- **Use physical motion:** Hand gestures are powerful. Whenever you say the word \"file,\" make a vertical chopping motion with your hand, or point straight forward.\n- **Signs they understand:** When asked to point to the \"d-file,\" they point to the entire column, not just one square.\n\n> **🧑‍🏫 Coach Tip:**\n> Don't worry about teaching them to memorize exactly which file is 'c' or 'f' just yet. That comes later in TOP-006 (Coordinates). Right now, the goal is simply understanding the concept of vertical columns.\n\n---"
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-003#15",
+      "content": "**Q: My chess board doesn't have letters on the edges. Does that matter?**\nA: Not for this lesson! You can write the letters on small sticky notes and place them along White's edge of the board to help them visualize it. \n\n**Q: Should I teach Files and Ranks on the same day?**\nA: It depends on the child's age. For a 6-year-old, it is often best to teach Files today, and Ranks tomorrow, so they don't mix them up. For older children (8+), you can teach them back-to-back.\n\n**Q: Why are the letters always from White's perspective?**\nA: It creates a universal language. If both players used their own \"left,\" they would be talking about completely different parts of the board! Having one fixed map makes it fair for everyone.\n\n---"
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-003#16",
+      "content": "### 🚦 The Traffic Light\nPlace three pawns of the same color on different files (e.g., one on the a-file, one on the d-file, one on the h-file). Say: \"Red light!\" Your child stops. Say: \"Green light!\" Your child has to push all three pawns forward along their files as fast as they can until they hit the other side of the board.\n\n### 🧩 File Finder\nCall out a letter (e.g., \"The c-file!\"). Have your child take their finger and trace the entire c-file from bottom to top. \n\n---"
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge ⭐",
+      "source_trace": "KB-003#17",
+      "content": "### 🏆 The File Race\n**Challenge your child:**\n> \"Let's have a race! I'll put my Rook on this file, and you put your Rook on that file. Let's see who can slide their piece exactly down the file without falling off the edge!\"\n\n**Rules:**\n1. Place a White Rook on a1 and a Black Rook on h8.\n2. Have the child push the Rook straight down the file like a racecar on a track.\n3. If they slide diagonally or wobble into another file, they \"crash.\"\n4. This builds fine motor skills and reinforces the concept of a vertical column.\n\n---"
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-003#18",
+      "content": "### 🟢 Recognition (Easy)\nLook at the highlighted squares below. Is this a file?\n![DGM-001 E-File](../../assets/diagrams/TOP-003/DGM-001_E_File.svg)\n*Answer: Yes! It is a vertical column (the e-file).*\n\n### 🟡 Application (Medium)\nLook at this diagram. Which file is the Queen standing on?\n![DGM-004 Puzzle](../../assets/diagrams/TOP-003/DGM-004_Puzzle.svg)\n*Answer: The Queen is standing on the f-file.*\n\n### 🔴 Challenge (Hard)\n![DGM-005 Puzzle Solution](../../assets/diagrams/TOP-003/DGM-005_Puzzle_Solution.svg)\nIf a piece moves sideways (left or right), did it stay on the same file?\n*Answer: No. A file only goes straight up and down. If you move sideways, you are changing files!*\n\n---"
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-003#19",
+      "content": "*(No specific external resources required for this micro-concept. Review TOP-001 resources if needed.)*\n\n---"
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-003#20",
+      "content": "### Prerequisites\n- **Chess Board** (TOP-001)\n\n### Next Topics\n- **Squares** (TOP-005)\n- **Coordinates** (TOP-006)\n- **Rook** (TOP-010)\n\n### Related Concepts\n- **Ranks** (TOP-004) — The horizontal counterpart to files.\n\n---"
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check ✅",
+      "source_trace": "KB-003#21",
+      "content": "- [ ] Do I understand that files are vertical columns?\n- [ ] Do I know files are labeled a through h?\n- [ ] Did my child physically trace a file with their finger?\n- [ ] Can my child explain that files go \"forward and backward\"?\n- [ ] Can my child identify the difference between moving straight and moving sideways?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to **Ranks (TOP-004)**.\n**🔄 If several answers are \"No\":** Play \"The Traffic Light\" game in Section 16 to reinforce the forward direction.\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  diagrams: 5\n  mini_puzzles: 3\n  external_resources: 0\n  coach_challenges: 1\n  practice_activities: 2\n  coach_tips: 2\n  parent_faq: 3\n  estimated_read_time: 10 min\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-003-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-003#1#B1",
+      "parent_prompt_trace": "KB-003#1#B1",
+      "text": "- **Topic**: Files\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: Chess Board (TOP-001)\n\n**🎯 Today's Goal:**\nYour child can identify and name the vertical columns on a chess board.\n\n**✅ Lesson Success Criteria:**\n- Child can trace a file from top to bottom with their finger.\n- Child understands that files are vertical (up and down).\n- Child knows files are named with letters (a through h).\n\n*(Purpose: \"Can I teach this today?\" Yes. This helps children navigate the board like a map.)*"
+    },
+    {
+      "id": "LES-003-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-003#2#B1",
+      "parent_prompt_trace": "KB-003#2#B1",
+      "text": "In chess, a \"file\" is a vertical column of eight squares running up and down the board, directly between the two players. There are eight files on a chess board, and they are labeled with lowercase letters from **a** to **h** (reading left to right from White's point of view)."
+    },
+    {
+      "id": "LES-003-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-003#3#B1",
+      "parent_prompt_trace": "KB-003#3#B1",
+      "text": "Files are half of the \"map coordinates\" of chess. Later, when your child learns how Rooks and Queens move, they will need to understand how to move \"up and down a file.\" Furthermore, every chess opening relies on controlling specific files, so learning the terminology early builds a foundation for advanced strategy."
+    },
+    {
+      "id": "LES-003-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-003#4#B1",
+      "parent_prompt_trace": "KB-003#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Chess Board (TOP-001)\n\n**What this unlocks:**\n- ✓ Squares (TOP-005)\n- ✓ Coordinates (TOP-006)\n- ✓ Rook (TOP-010)"
+    },
+    {
+      "id": "LES-003-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-003#5#B1",
+      "parent_prompt_trace": "KB-003#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\nWhen you look at a chess board, the lines of squares running straight from you to your opponent are called **files**. You can think of them as vertical columns.\n\nThere are 8 files in total. They are always labeled with lowercase letters: **a, b, c, d, e, f, g, h**. \nThese letters are always determined from the **White player's perspective**. The file on White's far left is the **a-file**. The file on White's far right is the **h-file**. Even if you are sitting on the Black side, the file on your far right is STILL the a-file!"
+    },
+    {
+      "id": "LES-003-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-003#6#B1",
+      "parent_prompt_trace": "KB-003#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Introduce the Columns (2 mins)\nPlace an empty board on the table. Take a single piece (like a Rook) and slide it all the way from your side of the board to your child's side in a straight line.\n> *\"Did you know the chess board is like a city grid with streets? The streets that run straight forward and backward, from me to you, are called **Files**.\"*\n\n### Step 2 — Trace the Files (2 mins)\nHave your child take their finger and trace a line of squares from their side of the board all the way to your side.\n> *\"Show me a file. Trace it all the way across. Great! That whole column is one file.\"*\n\n### Step 3 — Introduce the Letters (3 mins)\nPoint to the letters printed on the edge of the board (if your board has them).\n> *\"Since there are 8 files, we give them names so they don't get confused. But we don't use numbers — we use the alphabet! a, b, c, d, e, f, g, h.\"*\nPoint to the 'e' file.\n> *\"If I put a piece anywhere on this street, it is on the e-file.\"*"
+    },
+    {
+      "id": "LES-003-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-003#7#B1",
+      "parent_prompt_trace": "KB-003#7#B1",
+      "text": "> **🚀 The Rocket Ship Analogy**\n> \n> Think of a file like the path of a rocket ship taking off into space. Rocket ships don't fly sideways; they go straight up! When a piece moves along a file, it blasts straight forward (or straight backward to land), just like a rocket. \n>\n> **Memory Trick:**\n> **\"Files Fly Forward\"** (Both start with the 'F' sound)."
+    },
+    {
+      "id": "LES-003-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-003#8#B1",
+      "parent_prompt_trace": "KB-003#8#B1",
+      "text": "The word \"file\" in chess actually comes from the military! In an army, when soldiers stand in a line facing forward (one behind the other), it is called a \"file.\" When they stand side-by-side, it is called a \"rank.\" Chess uses the exact same military words for its board!"
+    },
+    {
+      "id": "LES-003-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-003#9#B1",
+      "parent_prompt_trace": "KB-003#9#B1",
+      "text": "**The e-file (Vertical Column)**\n\n*The highlighted squares show the e-file. Notice how it runs completely vertical from one side to the other.*",
+      "diagram_id": "DGM-003-01",
+      "diagram_url": "assets/DGM-003-01.svg",
+      "position_id": "POS-FILES-EFILE-001",
+      "position_version": 1,
+      "position_title": "The e-file stands tall",
+      "diagram_alt": "The e-file stands tall"
+    },
+    {
+      "id": "LES-003-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-003#10#B1",
+      "parent_prompt_trace": "KB-003#10#B1",
+      "text": "A file is not just a single square; it is the entire line of 8 squares. A piece can be at the bottom of the e-file, the middle of the e-file, or the top of the e-file. As long as it stays in that vertical column, it is on the e-file."
+    },
+    {
+      "id": "LES-003-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-003#11#B1",
+      "parent_prompt_trace": "KB-003#11#B1",
+      "text": "**8 Files: a through h**\n\n*All 8 files are labeled at the bottom edge. These labels are always written from White's perspective (a on the left, h on the right).*",
+      "diagram_id": "DGM-003-02",
+      "diagram_url": "assets/DGM-003-02.svg",
+      "position_id": "POS-FILES-ALL-001",
+      "position_version": 1,
+      "position_title": "Eight letter roads from a to h",
+      "diagram_alt": "Eight letter roads from a to h"
+    },
+    {
+      "id": "LES-003-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-003#12#B1",
+      "parent_prompt_trace": "KB-003#12#B1",
+      "text": "In many chess games, players will fight to control an \"open file\" (a file with no pawns on it). Here, a White Rook is placed on the c-file. Because Rooks move up and down files, placing a Rook on a file with no pawns gives it incredible power to look deep into the enemy camp.",
+      "diagram_id": "DGM-003-03",
+      "diagram_url": "assets/DGM-003-03.svg",
+      "position_id": "POS-FILES-ROOK-C-001",
+      "position_version": 1,
+      "position_title": "Rook looking up the c-file",
+      "diagram_alt": "Rook looking up the c-file"
+    },
+    {
+      "id": "LES-003-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-003#13#B1",
+      "parent_prompt_trace": "KB-003#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Confusing Files with Ranks** — Calling a horizontal row a \"file.\" Just remember: Files fly forward!\n- ❌ **Reversing the letters** — A Black player might mistakenly call their far-left file the \"a-file.\" Remember, the letters are fixed based on White's view.\n\n### Teaching Mistakes\n- ❌ **Skipping the terminology** — Saying \"move it up that line\" instead of \"move it up the file.\" Use the real chess words from Day 1; children absorb vocabulary quickly!\n\n> **🧑‍🏫 Coach Tip:**\n> If your child struggles to remember which is a file and which is a rank, hand them an ordinary office file folder. Show them how you hold a file folder vertically to slide paper into it. Files are vertical!"
+    },
+    {
+      "id": "LES-003-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-003#14#B1",
+      "parent_prompt_trace": "KB-003#14#B1",
+      "text": "- **Use physical motion:** Hand gestures are powerful. Whenever you say the word \"file,\" make a vertical chopping motion with your hand, or point straight forward.\n- **Signs they understand:** When asked to point to the \"d-file,\" they point to the entire column, not just one square.\n\n> **🧑‍🏫 Coach Tip:**\n> Don't worry about teaching them to memorize exactly which file is 'c' or 'f' just yet. That comes later in TOP-006 (Coordinates). Right now, the goal is simply understanding the concept of vertical columns."
+    },
+    {
+      "id": "LES-003-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-003#15#B1",
+      "parent_prompt_trace": "KB-003#15#B1",
+      "text": "**Q: My chess board doesn't have letters on the edges. Does that matter?**\nA: Not for this lesson! You can write the letters on small sticky notes and place them along White's edge of the board to help them visualize it.\n\n**Q: Should I teach Files and Ranks on the same day?**\nA: It depends on the child's age. For a 6-year-old, it is often best to teach Files today, and Ranks tomorrow, so they don't mix them up. For older children (8+), you can teach them back-to-back.\n\n**Q: Why are the letters always from White's perspective?**\nA: It creates a universal language. If both players used their own \"left,\" they would be talking about completely different parts of the board! Having one fixed map makes it fair for everyone."
+    },
+    {
+      "id": "LES-003-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-003#16#B1",
+      "parent_prompt_trace": "KB-003#16#B1",
+      "text": "### 🚦 The Traffic Light\nPlace three pawns of the same color on different files (e.g., one on the a-file, one on the d-file, one on the h-file). Say: \"Red light!\" Your child stops. Say: \"Green light!\" Your child has to push all three pawns forward along their files as fast as they can until they hit the other side of the board.\n\n### 🧩 File Finder\nCall out a letter (e.g., \"The c-file!\"). Have your child take their finger and trace the entire c-file from bottom to top."
+    },
+    {
+      "id": "LES-003-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-003#17#B1",
+      "parent_prompt_trace": "KB-003#17#B1",
+      "text": "### 🏆 The File Race\n**Challenge your child:**\n> \"Let's have a race! I'll put my Rook on this file, and you put your Rook on that file. Let's see who can slide their piece exactly down the file without falling off the edge!\"\n\n**Rules:**\n1. Place a White Rook on a1 and a Black Rook on h8.\n2. Have the child push the Rook straight down the file like a racecar on a track.\n3. If they slide diagonally or wobble into another file, they \"crash.\"\n4. This builds fine motor skills and reinforces the concept of a vertical column."
+    },
+    {
+      "id": "LES-003-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-003#18#B1",
+      "parent_prompt_trace": "KB-003#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nLook at the highlighted squares below. Is this a file?\n\n*Answer: Yes! It is a vertical column (the e-file).*\n\n### 🟡 Application (Medium)\nLook at this diagram. Which file is the Queen standing on?\n\n*Answer: The Queen is standing on the f-file.*\n\n### 🔴 Challenge (Hard)\n\nIf a piece moves sideways (left or right), did it stay on the same file?\n*Answer: No. A file only goes straight up and down. If you move sideways, you are changing files!*",
+      "diagram_id": "DGM-003-04",
+      "diagram_url": "assets/DGM-003-04.svg",
+      "position_id": "POS-FILES-QUEEN-F-001",
+      "position_version": 1,
+      "position_title": "Which file holds the queen?",
+      "diagram_alt": "Which file holds the queen?"
+    },
+    {
+      "id": "LES-003-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-003#19#B1",
+      "parent_prompt_trace": "KB-003#19#B1",
+      "text": "*(No specific external resources required for this micro-concept. Review TOP-001 resources if needed.)*"
+    },
+    {
+      "id": "LES-003-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-003#20#B1",
+      "parent_prompt_trace": "KB-003#20#B1",
+      "text": "### Prerequisites\n- **Chess Board** (TOP-001)\n\n### Next Topics\n- **Squares** (TOP-005)\n- **Coordinates** (TOP-006)\n- **Rook** (TOP-010)\n\n### Related Concepts\n- **Ranks** (TOP-004) — The horizontal counterpart to files."
+    },
+    {
+      "id": "LES-003-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-003#21#B1",
+      "parent_prompt_trace": "KB-003#21#B1",
+      "text": "- [ ] Do I understand that files are vertical columns?\n- [ ] Do I know files are labeled a through h?\n- [ ] Did my child physically trace a file with their finger?\n- [ ] Can my child explain that files go \"forward and backward\"?\n- [ ] Can my child identify the difference between moving straight and moving sideways?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to **Ranks (TOP-004)**.\n**🔄 If several answers are \"No\":** Play \"The Traffic Light\" game in Section 16 to reinforce the forward direction."
+    }
+  ],
+  "task_references": [
+    "PZL-003-01",
+    "PZL-003-02",
+    "PZL-003-03",
+    "PZL-003-04",
+    "PZL-003-05"
+  ],
+  "diagram_references": [
+    "DGM-003-02",
+    "DGM-003-01",
+    "DGM-003-03",
+    "DGM-003-04"
+  ],
+  "diagram_deferrals": [
+    {
+      "diagram_target": "DGM-001",
+      "reason": "OUT_OF_SCOPE_PHASE_7",
+      "source_target": "../../assets/diagrams/TOP-003/DGM-001_E_File.svg"
+    },
+    {
+      "diagram_target": "DGM-003",
+      "reason": "OUT_OF_SCOPE_PHASE_7",
+      "source_target": "../../assets/diagrams/TOP-003/DGM-003_Rook_On_File.svg"
+    },
+    {
+      "diagram_target": "DGM-004",
+      "reason": "OUT_OF_SCOPE_PHASE_7",
+      "source_target": "../../assets/diagrams/TOP-003/DGM-004_Puzzle.svg"
+    },
+    {
+      "diagram_target": "DGM-005",
+      "reason": "PHASE_6_EDITORIAL_BACKLOG",
+      "source_target": "../../assets/diagrams/TOP-003/DGM-005_Puzzle_Solution.svg"
+    }
+  ],
+  "assessment_reference": "ASM-003",
+  "deferred_topics": [],
+  "teach_slides": [
+    {
+      "id": "LES-003-S01",
+      "type": "INTRO",
+      "title": "Letter roads",
+      "text": "Today we travel up and down the board.",
+      "parent_prompt": "Orient the board first",
+      "diagram_id": "DGM-003-02",
+      "diagram_url": "assets/DGM-003-02.svg",
+      "visual": {
+        "diagram_id": "DGM-003-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-FILES-ALL-001",
+      "position_version": 1,
+      "position_title": "Eight letter roads from a to h",
+      "diagram_alt": "Eight letter roads from a to h"
+    },
+    {
+      "id": "LES-003-S02",
+      "type": "DIAGRAM",
+      "title": "This is a file",
+      "text": "Files run vertically.",
+      "parent_prompt": "Trace one vertical line.",
+      "diagram_id": "DGM-003-02",
+      "diagram_url": "assets/DGM-003-02.svg",
+      "visual": {
+        "diagram_id": "DGM-003-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-FILES-ALL-001",
+      "position_version": 1,
+      "position_title": "Eight letter roads from a to h",
+      "diagram_alt": "Eight letter roads from a to h"
+    },
+    {
+      "id": "LES-003-S03",
+      "type": "EXPLAIN",
+      "title": "a through h",
+      "text": "Every file has one letter.",
+      "parent_prompt": "Point to the edge letters",
+      "diagram_id": "DGM-003-02",
+      "diagram_url": "assets/DGM-003-02.svg",
+      "visual": {
+        "diagram_id": "DGM-003-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-FILES-ALL-001",
+      "position_version": 1,
+      "position_title": "Eight letter roads from a to h",
+      "diagram_alt": "Eight letter roads from a to h"
+    },
+    {
+      "id": "LES-003-S04",
+      "type": "PHYSICAL_ACTIVITY",
+      "title": "Build a letter road",
+      "text": "Put eight tokens on one file.",
+      "parent_prompt": "Fill one file with tokens.",
+      "visual": {
+        "sticker": "detective",
+        "layout": "TEXT_ONLY",
+        "sticker_url": "assets/detective.svg",
+        "sticker_alt": "Chess detective searching for setup clues"
+      }
+    },
+    {
+      "id": "LES-003-S05",
+      "type": "QUESTION",
+      "title": "File or rank?",
+      "text": "Does a file stand tall or lie flat?",
+      "parent_prompt": "Ask before revealing",
+      "reveal": "It stands tall.",
+      "diagram_id": "DGM-003-02",
+      "diagram_url": "assets/DGM-003-02.svg",
+      "visual": {
+        "diagram_id": "DGM-003-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-FILES-ALL-001",
+      "position_version": 1,
+      "position_title": "Eight letter roads from a to h",
+      "diagram_alt": "Eight letter roads from a to h"
+    },
+    {
+      "id": "LES-003-S06",
+      "type": "PUZZLE",
+      "title": "Find the outside roads",
+      "text": "Trace the a-file and h-file.",
+      "parent_prompt": "Request a then h",
+      "diagram_id": "DGM-003-02",
+      "diagram_url": "assets/DGM-003-02.svg",
+      "visual": {
+        "diagram_id": "DGM-003-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-FILES-ALL-001",
+      "position_version": 1,
+      "position_title": "Eight letter roads from a to h",
+      "diagram_alt": "Eight letter roads from a to h"
+    },
+    {
+      "id": "LES-003-S07",
+      "type": "ASSESSMENT",
+      "title": "File detective",
+      "text": "Trace and name three files.",
+      "parent_prompt": "Use ASM-003",
+      "diagram_id": "DGM-003-02",
+      "diagram_url": "assets/DGM-003-02.svg",
+      "visual": {
+        "diagram_id": "DGM-003-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-FILES-ALL-001",
+      "position_version": 1,
+      "position_title": "Eight letter roads from a to h",
+      "diagram_alt": "Eight letter roads from a to h"
+    },
+    {
+      "id": "LES-003-S08",
+      "type": "REVIEW",
+      "title": "Files are letter roads",
+      "text": "They stand tall from a to h.",
+      "parent_prompt": "Repeat the memory phrase",
+      "diagram_id": "DGM-003-02",
+      "diagram_url": "assets/DGM-003-02.svg",
+      "visual": {
+        "diagram_id": "DGM-003-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-FILES-ALL-001",
+      "position_version": 1,
+      "position_title": "Eight letter roads from a to h",
+      "diagram_alt": "Eight letter roads from a to h"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-003-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-003#1#B1",
+      "parent_prompt_trace": "KB-003#1#B1",
+      "text": "- **Topic**: Files\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: Chess Board (TOP-001)\n\n**🎯 Today's Goal:**\nYour child can identify and name the vertical columns on a chess board.\n\n**✅ Lesson Success Criteria:**\n- Child can trace a file from top to bottom with their finger.\n- Child understands that files are vertical (up and down).\n- Child knows files are named with letters (a through h).\n\n*(Purpose: \"Can I teach this today?\" Yes. This helps children navigate the board like a map.)*"
+    },
+    {
+      "id": "LES-003-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-003#2#B1",
+      "parent_prompt_trace": "KB-003#2#B1",
+      "text": "In chess, a \"file\" is a vertical column of eight squares running up and down the board, directly between the two players. There are eight files on a chess board, and they are labeled with lowercase letters from **a** to **h** (reading left to right from White's point of view)."
+    },
+    {
+      "id": "LES-003-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-003#3#B1",
+      "parent_prompt_trace": "KB-003#3#B1",
+      "text": "Files are half of the \"map coordinates\" of chess. Later, when your child learns how Rooks and Queens move, they will need to understand how to move \"up and down a file.\" Furthermore, every chess opening relies on controlling specific files, so learning the terminology early builds a foundation for advanced strategy."
+    },
+    {
+      "id": "LES-003-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-003#4#B1",
+      "parent_prompt_trace": "KB-003#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Chess Board (TOP-001)\n\n**What this unlocks:**\n- ✓ Squares (TOP-005)\n- ✓ Coordinates (TOP-006)\n- ✓ Rook (TOP-010)"
+    },
+    {
+      "id": "LES-003-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-003#5#B1",
+      "parent_prompt_trace": "KB-003#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\nWhen you look at a chess board, the lines of squares running straight from you to your opponent are called **files**. You can think of them as vertical columns.\n\nThere are 8 files in total. They are always labeled with lowercase letters: **a, b, c, d, e, f, g, h**. \nThese letters are always determined from the **White player's perspective**. The file on White's far left is the **a-file**. The file on White's far right is the **h-file**. Even if you are sitting on the Black side, the file on your far right is STILL the a-file!"
+    },
+    {
+      "id": "LES-003-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-003#6#B1",
+      "parent_prompt_trace": "KB-003#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Introduce the Columns (2 mins)\nPlace an empty board on the table. Take a single piece (like a Rook) and slide it all the way from your side of the board to your child's side in a straight line.\n> *\"Did you know the chess board is like a city grid with streets? The streets that run straight forward and backward, from me to you, are called **Files**.\"*\n\n### Step 2 — Trace the Files (2 mins)\nHave your child take their finger and trace a line of squares from their side of the board all the way to your side.\n> *\"Show me a file. Trace it all the way across. Great! That whole column is one file.\"*\n\n### Step 3 — Introduce the Letters (3 mins)\nPoint to the letters printed on the edge of the board (if your board has them).\n> *\"Since there are 8 files, we give them names so they don't get confused. But we don't use numbers — we use the alphabet! a, b, c, d, e, f, g, h.\"*\nPoint to the 'e' file.\n> *\"If I put a piece anywhere on this street, it is on the e-file.\"*"
+    },
+    {
+      "id": "LES-003-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-003#7#B1",
+      "parent_prompt_trace": "KB-003#7#B1",
+      "text": "> **🚀 The Rocket Ship Analogy**\n> \n> Think of a file like the path of a rocket ship taking off into space. Rocket ships don't fly sideways; they go straight up! When a piece moves along a file, it blasts straight forward (or straight backward to land), just like a rocket. \n>\n> **Memory Trick:**\n> **\"Files Fly Forward\"** (Both start with the 'F' sound)."
+    },
+    {
+      "id": "LES-003-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-003#8#B1",
+      "parent_prompt_trace": "KB-003#8#B1",
+      "text": "The word \"file\" in chess actually comes from the military! In an army, when soldiers stand in a line facing forward (one behind the other), it is called a \"file.\" When they stand side-by-side, it is called a \"rank.\" Chess uses the exact same military words for its board!"
+    },
+    {
+      "id": "LES-003-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-003#9#B1",
+      "parent_prompt_trace": "KB-003#9#B1",
+      "text": "**The e-file (Vertical Column)**\n\n*The highlighted squares show the e-file. Notice how it runs completely vertical from one side to the other.*",
+      "diagram_id": "DGM-003-01",
+      "diagram_url": "assets/DGM-003-01.svg",
+      "position_id": "POS-FILES-EFILE-001",
+      "position_version": 1,
+      "position_title": "The e-file stands tall",
+      "diagram_alt": "The e-file stands tall"
+    },
+    {
+      "id": "LES-003-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-003#10#B1",
+      "parent_prompt_trace": "KB-003#10#B1",
+      "text": "A file is not just a single square; it is the entire line of 8 squares. A piece can be at the bottom of the e-file, the middle of the e-file, or the top of the e-file. As long as it stays in that vertical column, it is on the e-file."
+    },
+    {
+      "id": "LES-003-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-003#11#B1",
+      "parent_prompt_trace": "KB-003#11#B1",
+      "text": "**8 Files: a through h**\n\n*All 8 files are labeled at the bottom edge. These labels are always written from White's perspective (a on the left, h on the right).*",
+      "diagram_id": "DGM-003-02",
+      "diagram_url": "assets/DGM-003-02.svg",
+      "position_id": "POS-FILES-ALL-001",
+      "position_version": 1,
+      "position_title": "Eight letter roads from a to h",
+      "diagram_alt": "Eight letter roads from a to h"
+    },
+    {
+      "id": "LES-003-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-003#12#B1",
+      "parent_prompt_trace": "KB-003#12#B1",
+      "text": "In many chess games, players will fight to control an \"open file\" (a file with no pawns on it). Here, a White Rook is placed on the c-file. Because Rooks move up and down files, placing a Rook on a file with no pawns gives it incredible power to look deep into the enemy camp.",
+      "diagram_id": "DGM-003-03",
+      "diagram_url": "assets/DGM-003-03.svg",
+      "position_id": "POS-FILES-ROOK-C-001",
+      "position_version": 1,
+      "position_title": "Rook looking up the c-file",
+      "diagram_alt": "Rook looking up the c-file"
+    },
+    {
+      "id": "LES-003-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-003#13#B1",
+      "parent_prompt_trace": "KB-003#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Confusing Files with Ranks** — Calling a horizontal row a \"file.\" Just remember: Files fly forward!\n- ❌ **Reversing the letters** — A Black player might mistakenly call their far-left file the \"a-file.\" Remember, the letters are fixed based on White's view.\n\n### Teaching Mistakes\n- ❌ **Skipping the terminology** — Saying \"move it up that line\" instead of \"move it up the file.\" Use the real chess words from Day 1; children absorb vocabulary quickly!\n\n> **🧑‍🏫 Coach Tip:**\n> If your child struggles to remember which is a file and which is a rank, hand them an ordinary office file folder. Show them how you hold a file folder vertically to slide paper into it. Files are vertical!"
+    },
+    {
+      "id": "LES-003-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-003#14#B1",
+      "parent_prompt_trace": "KB-003#14#B1",
+      "text": "- **Use physical motion:** Hand gestures are powerful. Whenever you say the word \"file,\" make a vertical chopping motion with your hand, or point straight forward.\n- **Signs they understand:** When asked to point to the \"d-file,\" they point to the entire column, not just one square.\n\n> **🧑‍🏫 Coach Tip:**\n> Don't worry about teaching them to memorize exactly which file is 'c' or 'f' just yet. That comes later in TOP-006 (Coordinates). Right now, the goal is simply understanding the concept of vertical columns."
+    },
+    {
+      "id": "LES-003-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-003#15#B1",
+      "parent_prompt_trace": "KB-003#15#B1",
+      "text": "**Q: My chess board doesn't have letters on the edges. Does that matter?**\nA: Not for this lesson! You can write the letters on small sticky notes and place them along White's edge of the board to help them visualize it.\n\n**Q: Should I teach Files and Ranks on the same day?**\nA: It depends on the child's age. For a 6-year-old, it is often best to teach Files today, and Ranks tomorrow, so they don't mix them up. For older children (8+), you can teach them back-to-back.\n\n**Q: Why are the letters always from White's perspective?**\nA: It creates a universal language. If both players used their own \"left,\" they would be talking about completely different parts of the board! Having one fixed map makes it fair for everyone."
+    },
+    {
+      "id": "LES-003-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-003#16#B1",
+      "parent_prompt_trace": "KB-003#16#B1",
+      "text": "### 🚦 The Traffic Light\nPlace three pawns of the same color on different files (e.g., one on the a-file, one on the d-file, one on the h-file). Say: \"Red light!\" Your child stops. Say: \"Green light!\" Your child has to push all three pawns forward along their files as fast as they can until they hit the other side of the board.\n\n### 🧩 File Finder\nCall out a letter (e.g., \"The c-file!\"). Have your child take their finger and trace the entire c-file from bottom to top."
+    },
+    {
+      "id": "LES-003-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-003#17#B1",
+      "parent_prompt_trace": "KB-003#17#B1",
+      "text": "### 🏆 The File Race\n**Challenge your child:**\n> \"Let's have a race! I'll put my Rook on this file, and you put your Rook on that file. Let's see who can slide their piece exactly down the file without falling off the edge!\"\n\n**Rules:**\n1. Place a White Rook on a1 and a Black Rook on h8.\n2. Have the child push the Rook straight down the file like a racecar on a track.\n3. If they slide diagonally or wobble into another file, they \"crash.\"\n4. This builds fine motor skills and reinforces the concept of a vertical column."
+    },
+    {
+      "id": "LES-003-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-003#18#B1",
+      "parent_prompt_trace": "KB-003#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nLook at the highlighted squares below. Is this a file?\n\n*Answer: Yes! It is a vertical column (the e-file).*\n\n### 🟡 Application (Medium)\nLook at this diagram. Which file is the Queen standing on?\n\n*Answer: The Queen is standing on the f-file.*\n\n### 🔴 Challenge (Hard)\n\nIf a piece moves sideways (left or right), did it stay on the same file?\n*Answer: No. A file only goes straight up and down. If you move sideways, you are changing files!*",
+      "diagram_id": "DGM-003-04",
+      "diagram_url": "assets/DGM-003-04.svg",
+      "position_id": "POS-FILES-QUEEN-F-001",
+      "position_version": 1,
+      "position_title": "Which file holds the queen?",
+      "diagram_alt": "Which file holds the queen?"
+    },
+    {
+      "id": "LES-003-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-003#19#B1",
+      "parent_prompt_trace": "KB-003#19#B1",
+      "text": "*(No specific external resources required for this micro-concept. Review TOP-001 resources if needed.)*"
+    },
+    {
+      "id": "LES-003-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-003#20#B1",
+      "parent_prompt_trace": "KB-003#20#B1",
+      "text": "### Prerequisites\n- **Chess Board** (TOP-001)\n\n### Next Topics\n- **Squares** (TOP-005)\n- **Coordinates** (TOP-006)\n- **Rook** (TOP-010)\n\n### Related Concepts\n- **Ranks** (TOP-004) — The horizontal counterpart to files."
+    },
+    {
+      "id": "LES-003-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-003#21#B1",
+      "parent_prompt_trace": "KB-003#21#B1",
+      "text": "- [ ] Do I understand that files are vertical columns?\n- [ ] Do I know files are labeled a through h?\n- [ ] Did my child physically trace a file with their finger?\n- [ ] Can my child explain that files go \"forward and backward\"?\n- [ ] Can my child identify the difference between moving straight and moving sideways?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to **Ranks (TOP-004)**.\n**🔄 If several answers are \"No\":** Play \"The Traffic Light\" game in Section 16 to reinforce the forward direction."
+    }
+  ],
+  "title": "Files — Letter Roads",
+  "duration_minutes": 25,
+  "memory_phrase": "Files stand tall and use letters.",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 25,
+    "slides": [
+      {
+        "id": "LES-003-S01",
+        "type": "INTRO",
+        "title": "Letter roads",
+        "text": "Today we travel up and down the board.",
+        "parent_prompt": "Orient the board first",
+        "diagram_id": "DGM-003-02",
+        "diagram_url": "assets/DGM-003-02.svg",
+        "visual": {
+          "diagram_id": "DGM-003-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-FILES-ALL-001",
+        "position_version": 1,
+        "position_title": "Eight letter roads from a to h",
+        "diagram_alt": "Eight letter roads from a to h"
+      },
+      {
+        "id": "LES-003-S02",
+        "type": "DIAGRAM",
+        "title": "This is a file",
+        "text": "Files run vertically.",
+        "parent_prompt": "Trace one vertical line.",
+        "diagram_id": "DGM-003-02",
+        "diagram_url": "assets/DGM-003-02.svg",
+        "visual": {
+          "diagram_id": "DGM-003-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-FILES-ALL-001",
+        "position_version": 1,
+        "position_title": "Eight letter roads from a to h",
+        "diagram_alt": "Eight letter roads from a to h"
+      },
+      {
+        "id": "LES-003-S03",
+        "type": "EXPLAIN",
+        "title": "a through h",
+        "text": "Every file has one letter.",
+        "parent_prompt": "Point to the edge letters",
+        "diagram_id": "DGM-003-02",
+        "diagram_url": "assets/DGM-003-02.svg",
+        "visual": {
+          "diagram_id": "DGM-003-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-FILES-ALL-001",
+        "position_version": 1,
+        "position_title": "Eight letter roads from a to h",
+        "diagram_alt": "Eight letter roads from a to h"
+      },
+      {
+        "id": "LES-003-S04",
+        "type": "PHYSICAL_ACTIVITY",
+        "title": "Build a letter road",
+        "text": "Put eight tokens on one file.",
+        "parent_prompt": "Fill one file with tokens.",
+        "visual": {
+          "sticker": "detective",
+          "layout": "TEXT_ONLY",
+          "sticker_url": "assets/detective.svg",
+          "sticker_alt": "Chess detective searching for setup clues"
+        }
+      },
+      {
+        "id": "LES-003-S05",
+        "type": "QUESTION",
+        "title": "File or rank?",
+        "text": "Does a file stand tall or lie flat?",
+        "parent_prompt": "Ask before revealing",
+        "reveal": "It stands tall.",
+        "diagram_id": "DGM-003-02",
+        "diagram_url": "assets/DGM-003-02.svg",
+        "visual": {
+          "diagram_id": "DGM-003-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-FILES-ALL-001",
+        "position_version": 1,
+        "position_title": "Eight letter roads from a to h",
+        "diagram_alt": "Eight letter roads from a to h"
+      },
+      {
+        "id": "LES-003-S06",
+        "type": "PUZZLE",
+        "title": "Find the outside roads",
+        "text": "Trace the a-file and h-file.",
+        "parent_prompt": "Request a then h",
+        "diagram_id": "DGM-003-02",
+        "diagram_url": "assets/DGM-003-02.svg",
+        "visual": {
+          "diagram_id": "DGM-003-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-FILES-ALL-001",
+        "position_version": 1,
+        "position_title": "Eight letter roads from a to h",
+        "diagram_alt": "Eight letter roads from a to h"
+      },
+      {
+        "id": "LES-003-S07",
+        "type": "ASSESSMENT",
+        "title": "File detective",
+        "text": "Trace and name three files.",
+        "parent_prompt": "Use ASM-003",
+        "diagram_id": "DGM-003-02",
+        "diagram_url": "assets/DGM-003-02.svg",
+        "visual": {
+          "diagram_id": "DGM-003-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-FILES-ALL-001",
+        "position_version": 1,
+        "position_title": "Eight letter roads from a to h",
+        "diagram_alt": "Eight letter roads from a to h"
+      },
+      {
+        "id": "LES-003-S08",
+        "type": "REVIEW",
+        "title": "Files are letter roads",
+        "text": "They stand tall from a to h.",
+        "parent_prompt": "Repeat the memory phrase",
+        "diagram_id": "DGM-003-02",
+        "diagram_url": "assets/DGM-003-02.svg",
+        "visual": {
+          "diagram_id": "DGM-003-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-FILES-ALL-001",
+        "position_version": 1,
+        "position_title": "Eight letter roads from a to h",
+        "diagram_alt": "Eight letter roads from a to h"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-003-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-003#1#B1",
+        "parent_prompt_trace": "KB-003#1#B1",
+        "text": "- **Topic**: Files\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: Chess Board (TOP-001)\n\n**🎯 Today's Goal:**\nYour child can identify and name the vertical columns on a chess board.\n\n**✅ Lesson Success Criteria:**\n- Child can trace a file from top to bottom with their finger.\n- Child understands that files are vertical (up and down).\n- Child knows files are named with letters (a through h).\n\n*(Purpose: \"Can I teach this today?\" Yes. This helps children navigate the board like a map.)*"
+      },
+      {
+        "id": "LES-003-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-003#2#B1",
+        "parent_prompt_trace": "KB-003#2#B1",
+        "text": "In chess, a \"file\" is a vertical column of eight squares running up and down the board, directly between the two players. There are eight files on a chess board, and they are labeled with lowercase letters from **a** to **h** (reading left to right from White's point of view)."
+      },
+      {
+        "id": "LES-003-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-003#3#B1",
+        "parent_prompt_trace": "KB-003#3#B1",
+        "text": "Files are half of the \"map coordinates\" of chess. Later, when your child learns how Rooks and Queens move, they will need to understand how to move \"up and down a file.\" Furthermore, every chess opening relies on controlling specific files, so learning the terminology early builds a foundation for advanced strategy."
+      },
+      {
+        "id": "LES-003-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-003#4#B1",
+        "parent_prompt_trace": "KB-003#4#B1",
+        "text": "**Prerequisites:**\n- ✓ Chess Board (TOP-001)\n\n**What this unlocks:**\n- ✓ Squares (TOP-005)\n- ✓ Coordinates (TOP-006)\n- ✓ Rook (TOP-010)"
+      },
+      {
+        "id": "LES-003-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-003#5#B1",
+        "parent_prompt_trace": "KB-003#5#B1",
+        "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\nWhen you look at a chess board, the lines of squares running straight from you to your opponent are called **files**. You can think of them as vertical columns.\n\nThere are 8 files in total. They are always labeled with lowercase letters: **a, b, c, d, e, f, g, h**. \nThese letters are always determined from the **White player's perspective**. The file on White's far left is the **a-file**. The file on White's far right is the **h-file**. Even if you are sitting on the Black side, the file on your far right is STILL the a-file!"
+      },
+      {
+        "id": "LES-003-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-003#6#B1",
+        "parent_prompt_trace": "KB-003#6#B1",
+        "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Introduce the Columns (2 mins)\nPlace an empty board on the table. Take a single piece (like a Rook) and slide it all the way from your side of the board to your child's side in a straight line.\n> *\"Did you know the chess board is like a city grid with streets? The streets that run straight forward and backward, from me to you, are called **Files**.\"*\n\n### Step 2 — Trace the Files (2 mins)\nHave your child take their finger and trace a line of squares from their side of the board all the way to your side.\n> *\"Show me a file. Trace it all the way across. Great! That whole column is one file.\"*\n\n### Step 3 — Introduce the Letters (3 mins)\nPoint to the letters printed on the edge of the board (if your board has them).\n> *\"Since there are 8 files, we give them names so they don't get confused. But we don't use numbers — we use the alphabet! a, b, c, d, e, f, g, h.\"*\nPoint to the 'e' file.\n> *\"If I put a piece anywhere on this street, it is on the e-file.\"*"
+      },
+      {
+        "id": "LES-003-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-003#7#B1",
+        "parent_prompt_trace": "KB-003#7#B1",
+        "text": "> **🚀 The Rocket Ship Analogy**\n> \n> Think of a file like the path of a rocket ship taking off into space. Rocket ships don't fly sideways; they go straight up! When a piece moves along a file, it blasts straight forward (or straight backward to land), just like a rocket. \n>\n> **Memory Trick:**\n> **\"Files Fly Forward\"** (Both start with the 'F' sound)."
+      },
+      {
+        "id": "LES-003-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know? 🎓",
+        "source_trace": "KB-003#8#B1",
+        "parent_prompt_trace": "KB-003#8#B1",
+        "text": "The word \"file\" in chess actually comes from the military! In an army, when soldiers stand in a line facing forward (one behind the other), it is called a \"file.\" When they stand side-by-side, it is called a \"rank.\" Chess uses the exact same military words for its board!"
+      },
+      {
+        "id": "LES-003-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-003#9#B1",
+        "parent_prompt_trace": "KB-003#9#B1",
+        "text": "**The e-file (Vertical Column)**\n\n*The highlighted squares show the e-file. Notice how it runs completely vertical from one side to the other.*",
+        "diagram_id": "DGM-003-01",
+        "diagram_url": "assets/DGM-003-01.svg",
+        "position_id": "POS-FILES-EFILE-001",
+        "position_version": 1,
+        "position_title": "The e-file stands tall",
+        "diagram_alt": "The e-file stands tall"
+      },
+      {
+        "id": "LES-003-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-003#10#B1",
+        "parent_prompt_trace": "KB-003#10#B1",
+        "text": "A file is not just a single square; it is the entire line of 8 squares. A piece can be at the bottom of the e-file, the middle of the e-file, or the top of the e-file. As long as it stays in that vertical column, it is on the e-file."
+      },
+      {
+        "id": "LES-003-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-003#11#B1",
+        "parent_prompt_trace": "KB-003#11#B1",
+        "text": "**8 Files: a through h**\n\n*All 8 files are labeled at the bottom edge. These labels are always written from White's perspective (a on the left, h on the right).*",
+        "diagram_id": "DGM-003-02",
+        "diagram_url": "assets/DGM-003-02.svg",
+        "position_id": "POS-FILES-ALL-001",
+        "position_version": 1,
+        "position_title": "Eight letter roads from a to h",
+        "diagram_alt": "Eight letter roads from a to h"
+      },
+      {
+        "id": "LES-003-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-003#12#B1",
+        "parent_prompt_trace": "KB-003#12#B1",
+        "text": "In many chess games, players will fight to control an \"open file\" (a file with no pawns on it). Here, a White Rook is placed on the c-file. Because Rooks move up and down files, placing a Rook on a file with no pawns gives it incredible power to look deep into the enemy camp.",
+        "diagram_id": "DGM-003-03",
+        "diagram_url": "assets/DGM-003-03.svg",
+        "position_id": "POS-FILES-ROOK-C-001",
+        "position_version": 1,
+        "position_title": "Rook looking up the c-file",
+        "diagram_alt": "Rook looking up the c-file"
+      },
+      {
+        "id": "LES-003-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-003#13#B1",
+        "parent_prompt_trace": "KB-003#13#B1",
+        "text": "### Chess Mistakes\n- ❌ **Confusing Files with Ranks** — Calling a horizontal row a \"file.\" Just remember: Files fly forward!\n- ❌ **Reversing the letters** — A Black player might mistakenly call their far-left file the \"a-file.\" Remember, the letters are fixed based on White's view.\n\n### Teaching Mistakes\n- ❌ **Skipping the terminology** — Saying \"move it up that line\" instead of \"move it up the file.\" Use the real chess words from Day 1; children absorb vocabulary quickly!\n\n> **🧑‍🏫 Coach Tip:**\n> If your child struggles to remember which is a file and which is a rank, hand them an ordinary office file folder. Show them how you hold a file folder vertically to slide paper into it. Files are vertical!"
+      },
+      {
+        "id": "LES-003-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-003#14#B1",
+        "parent_prompt_trace": "KB-003#14#B1",
+        "text": "- **Use physical motion:** Hand gestures are powerful. Whenever you say the word \"file,\" make a vertical chopping motion with your hand, or point straight forward.\n- **Signs they understand:** When asked to point to the \"d-file,\" they point to the entire column, not just one square.\n\n> **🧑‍🏫 Coach Tip:**\n> Don't worry about teaching them to memorize exactly which file is 'c' or 'f' just yet. That comes later in TOP-006 (Coordinates). Right now, the goal is simply understanding the concept of vertical columns."
+      },
+      {
+        "id": "LES-003-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-003#15#B1",
+        "parent_prompt_trace": "KB-003#15#B1",
+        "text": "**Q: My chess board doesn't have letters on the edges. Does that matter?**\nA: Not for this lesson! You can write the letters on small sticky notes and place them along White's edge of the board to help them visualize it.\n\n**Q: Should I teach Files and Ranks on the same day?**\nA: It depends on the child's age. For a 6-year-old, it is often best to teach Files today, and Ranks tomorrow, so they don't mix them up. For older children (8+), you can teach them back-to-back.\n\n**Q: Why are the letters always from White's perspective?**\nA: It creates a universal language. If both players used their own \"left,\" they would be talking about completely different parts of the board! Having one fixed map makes it fair for everyone."
+      },
+      {
+        "id": "LES-003-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-003#16#B1",
+        "parent_prompt_trace": "KB-003#16#B1",
+        "text": "### 🚦 The Traffic Light\nPlace three pawns of the same color on different files (e.g., one on the a-file, one on the d-file, one on the h-file). Say: \"Red light!\" Your child stops. Say: \"Green light!\" Your child has to push all three pawns forward along their files as fast as they can until they hit the other side of the board.\n\n### 🧩 File Finder\nCall out a letter (e.g., \"The c-file!\"). Have your child take their finger and trace the entire c-file from bottom to top."
+      },
+      {
+        "id": "LES-003-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge ⭐",
+        "source_trace": "KB-003#17#B1",
+        "parent_prompt_trace": "KB-003#17#B1",
+        "text": "### 🏆 The File Race\n**Challenge your child:**\n> \"Let's have a race! I'll put my Rook on this file, and you put your Rook on that file. Let's see who can slide their piece exactly down the file without falling off the edge!\"\n\n**Rules:**\n1. Place a White Rook on a1 and a Black Rook on h8.\n2. Have the child push the Rook straight down the file like a racecar on a track.\n3. If they slide diagonally or wobble into another file, they \"crash.\"\n4. This builds fine motor skills and reinforces the concept of a vertical column."
+      },
+      {
+        "id": "LES-003-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-003#18#B1",
+        "parent_prompt_trace": "KB-003#18#B1",
+        "text": "### 🟢 Recognition (Easy)\nLook at the highlighted squares below. Is this a file?\n\n*Answer: Yes! It is a vertical column (the e-file).*\n\n### 🟡 Application (Medium)\nLook at this diagram. Which file is the Queen standing on?\n\n*Answer: The Queen is standing on the f-file.*\n\n### 🔴 Challenge (Hard)\n\nIf a piece moves sideways (left or right), did it stay on the same file?\n*Answer: No. A file only goes straight up and down. If you move sideways, you are changing files!*",
+        "diagram_id": "DGM-003-04",
+        "diagram_url": "assets/DGM-003-04.svg",
+        "position_id": "POS-FILES-QUEEN-F-001",
+        "position_version": 1,
+        "position_title": "Which file holds the queen?",
+        "diagram_alt": "Which file holds the queen?"
+      },
+      {
+        "id": "LES-003-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-003#19#B1",
+        "parent_prompt_trace": "KB-003#19#B1",
+        "text": "*(No specific external resources required for this micro-concept. Review TOP-001 resources if needed.)*"
+      },
+      {
+        "id": "LES-003-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-003#20#B1",
+        "parent_prompt_trace": "KB-003#20#B1",
+        "text": "### Prerequisites\n- **Chess Board** (TOP-001)\n\n### Next Topics\n- **Squares** (TOP-005)\n- **Coordinates** (TOP-006)\n- **Rook** (TOP-010)\n\n### Related Concepts\n- **Ranks** (TOP-004) — The horizontal counterpart to files."
+      },
+      {
+        "id": "LES-003-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check ✅",
+        "source_trace": "KB-003#21#B1",
+        "parent_prompt_trace": "KB-003#21#B1",
+        "text": "- [ ] Do I understand that files are vertical columns?\n- [ ] Do I know files are labeled a through h?\n- [ ] Did my child physically trace a file with their finger?\n- [ ] Can my child explain that files go \"forward and backward\"?\n- [ ] Can my child identify the difference between moving straight and moving sideways?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to **Ranks (TOP-004)**.\n**🔄 If several answers are \"No\":** Play \"The Traffic Light\" game in Section 16 to reinforce the forward direction."
+      }
+    ]
+  }
+}

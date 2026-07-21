@@ -1,0 +1,15 @@
+{
+  "lesson_id": "LES-005",
+  "assessment_id": "ASM-005",
+  "rubric": {
+    "criteria": "- [ ] Do I know how many squares are on the board? (64)\n- [ ] Can I point out the 4 center squares?\n- [ ] Did my child understand that a square is an intersection?\n- [ ] Can my child place a piece directly in the center of a square?\n- [ ] Does my child know that squares alternate light and dark?",
+    "source_trace": "KB-005#21#B1"
+  },
+  "task_references": [
+    "PZL-005-01",
+    "PZL-005-02",
+    "PZL-005-03",
+    "PZL-005-04",
+    "PZL-005-05"
+  ]
+}

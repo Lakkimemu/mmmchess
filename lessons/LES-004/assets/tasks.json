@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-004",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-004-01",
+      "kb_id": "KB-004",
+      "lesson_id": "LES-004",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Trace any one rank.",
+      "hint": "Move from left to right.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "A horizontal line of eight squares."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-004.yaml",
+        "source_sha256": "76873753cd9fb96f8b5b4954215cd6180f4edb12c425b8722f66b41cd7e7de50",
+        "field": "exercises",
+        "anchor": "EX-004-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-004-02",
+      "kb_id": "KB-004",
+      "lesson_id": "LES-004",
+      "task_type": "FIND_SQUARE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Find the first rank.",
+      "hint": "Look for number 1 on the edge.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The horizontal rank labeled 1."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-004.yaml",
+        "source_sha256": "76873753cd9fb96f8b5b4954215cd6180f4edb12c425b8722f66b41cd7e7de50",
+        "field": "exercises",
+        "anchor": "EX-004-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-004-03",
+      "kb_id": "KB-004",
+      "lesson_id": "LES-004",
+      "task_type": "FIND_SQUARE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Find the eighth rank.",
+      "hint": "Look at the opposite side.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The horizontal rank labeled 8."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-004.yaml",
+        "source_sha256": "76873753cd9fb96f8b5b4954215cd6180f4edb12c425b8722f66b41cd7e7de50",
+        "field": "exercises",
+        "anchor": "EX-004-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-004-04",
+      "kb_id": "KB-004",
+      "lesson_id": "LES-004",
+      "task_type": "PLACE_PIECE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Place eight tokens on one rank.",
+      "hint": "Do not move up or down.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "All tokens form one horizontal line."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-004.yaml",
+        "source_sha256": "76873753cd9fb96f8b5b4954215cd6180f4edb12c425b8722f66b41cd7e7de50",
+        "field": "exercises",
+        "anchor": "EX-004-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-004-05",
+      "kb_id": "KB-004",
+      "lesson_id": "LES-004",
+      "task_type": "FIND_SQUARE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Point to a file and then a rank.",
+      "hint": "Letters stand; numbers lie flat.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "A vertical letter road"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-004.yaml",
+        "source_sha256": "76873753cd9fb96f8b5b4954215cd6180f4edb12c425b8722f66b41cd7e7de50",
+        "field": "exercises",
+        "anchor": "EX-004-05"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

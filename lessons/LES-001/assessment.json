@@ -1,0 +1,15 @@
+{
+  "lesson_id": "LES-001",
+  "assessment_id": "ASM-001",
+  "rubric": {
+    "criteria": "*Answer these questions honestly. If most answers are \"Yes,\" you and your child are ready to move on.*",
+    "source_trace": "KB-001#21#B1"
+  },
+  "task_references": [
+    "PZL-001-01",
+    "PZL-001-02",
+    "PZL-001-03",
+    "PZL-001-04",
+    "PZL-001-05"
+  ]
+}

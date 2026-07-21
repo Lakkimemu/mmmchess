@@ -1,0 +1,15 @@
+{
+  "lesson_id": "LES-004",
+  "assessment_id": "ASM-004",
+  "rubric": {
+    "criteria": "- [ ] Do I understand that ranks are horizontal rows?\n- [ ] Do I know ranks are numbered 1 through 8?\n- [ ] Did my child physically trace a rank with their finger?\n- [ ] Can my child explain that ranks go \"left and right\"?\n- [ ] Does my child know White pawns start on Rank 2?",
+    "source_trace": "KB-004#21#B1"
+  },
+  "task_references": [
+    "PZL-004-01",
+    "PZL-004-02",
+    "PZL-004-03",
+    "PZL-004-04",
+    "PZL-004-05"
+  ]
+}

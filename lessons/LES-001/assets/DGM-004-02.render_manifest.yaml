@@ -1,0 +1,19 @@
+schema_version: 1
+diagram_id: DGM-004-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-RANKS-FIFTH-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces: []
+position_sha256: 02ce993ffb4908123d39199f836eeddfcf183e8fa6c125f8bf1f378c63e6c61f
+presentation_sha256: 8773c4f924f21b2b405bf2e38a4388be28f3207a2eebf7f5889803396ab13b2b
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-004#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 2904efe62561d4649c30cceffc7fe4a12c59578e022828a23db8246d7befa4ff
+output_svg_sha256: 2904efe62561d4649c30cceffc7fe4a12c59578e022828a23db8246d7befa4ff

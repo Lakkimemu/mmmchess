@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-028",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-028-01",
+      "kb_id": "KB-028",
+      "lesson_id": "LES-028",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "In the royal-fork diagram name both pieces attacked by the knight.",
+      "hint": "Follow both L-shaped knight attacks.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The Black king and Black rook."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-028.yaml",
+        "source_sha256": "254c0ace8ab257c6ea0376dab9944e22a4275710e1a944c835dbc009741498b9",
+        "field": "exercises",
+        "anchor": "EX-028-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-028-02",
+      "kb_id": "KB-028",
+      "lesson_id": "LES-028",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "In the pawn-fork diagram name both pieces attacked by the pawn.",
+      "hint": "Pawns attack one square diagonally on each side.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The Black knight and Black bishop."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-028.yaml",
+        "source_sha256": "254c0ace8ab257c6ea0376dab9944e22a4275710e1a944c835dbc009741498b9",
+        "field": "exercises",
+        "anchor": "EX-028-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-028-03",
+      "kb_id": "KB-028",
+      "lesson_id": "LES-028",
+      "task_type": "PLACE_PIECE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Put a Black king on e8 and Black queen on e4. Find a square where a White knight attacks both.",
+      "hint": "Test L-shaped jumps that reach both targets.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Place the White knight on d6."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-028.yaml",
+        "source_sha256": "254c0ace8ab257c6ea0376dab9944e22a4275710e1a944c835dbc009741498b9",
+        "field": "exercises",
+        "anchor": "EX-028-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-028-04",
+      "kb_id": "KB-028",
+      "lesson_id": "LES-028",
+      "task_type": "EXPLAIN_POSITION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Explain why the opponent usually cannot save both forked pieces.",
+      "hint": "Count how many moves the opponent gets now.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The opponent can move only one piece per turn."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-028.yaml",
+        "source_sha256": "254c0ace8ab257c6ea0376dab9944e22a4275710e1a944c835dbc009741498b9",
+        "field": "exercises",
+        "anchor": "EX-028-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-028-05",
+      "kb_id": "KB-028",
+      "lesson_id": "LES-028",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Before playing a fork decide what safety question to ask.",
+      "hint": "A Two-Headed Dragon must stand on a safe square.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Ask whether the opponent can capture the forking piece."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-028.yaml",
+        "source_sha256": "254c0ace8ab257c6ea0376dab9944e22a4275710e1a944c835dbc009741498b9",
+        "field": "exercises",
+        "anchor": "EX-028-05"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-028-06",
+      "kb_id": "KB-028",
+      "lesson_id": "LES-028",
+      "task_type": "TACTICAL_SEQUENCE",
+      "source_type": "LICHESS_CC0",
+      "prompt": "Find the best tactical sequence for the side to move.",
+      "hint": "Look for forcing moves: checks, captures, and threats.",
+      "position": {
+        "fen": "3r2k1/6pp/p2qpp2/Ppp5/4PP2/1N4P1/R4Q1P/6K1 b - - 4 34"
+      },
+      "answer": {
+        "kind": "MOVE_SEQUENCE",
+        "text": "Qd1+ Kg2 Qxb3",
+        "moves_uci": [
+          "d6d1",
+          "g1g2",
+          "d1b3"
+        ],
+        "moves_san": [
+          "Qd1+",
+          "Kg2",
+          "Qxb3"
+        ]
+      },
+      "difficulty": "BEGINNER",
+      "source_puzzle_id": "kQs6y",
+      "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+      "source_trace": {
+        "source_path": "puzzles/snapshots/LICHESS_PUZZLES_2026-07-05.selected.json",
+        "source_sha256": "6cdd41f3ae8fd5c114e18bbb0021a3151e3c778f888fe2d17c5741cc0d835070",
+        "field": "records",
+        "anchor": "kQs6y"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "lesson_id": "LES-003",
+  "assessment_id": "ASM-003",
+  "rubric": {
+    "criteria": "- [ ] Do I understand that files are vertical columns?\n- [ ] Do I know files are labeled a through h?\n- [ ] Did my child physically trace a file with their finger?\n- [ ] Can my child explain that files go \"forward and backward\"?\n- [ ] Can my child identify the difference between moving straight and moving sideways?",
+    "source_trace": "KB-003#21#B1"
+  },
+  "task_references": [
+    "PZL-003-01",
+    "PZL-003-02",
+    "PZL-003-03",
+    "PZL-003-04",
+    "PZL-003-05"
+  ]
+}

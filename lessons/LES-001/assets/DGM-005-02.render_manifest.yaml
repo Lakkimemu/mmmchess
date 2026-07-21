@@ -1,0 +1,19 @@
+schema_version: 1
+diagram_id: DGM-005-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-SQUARES-INTERSECTION-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces: []
+position_sha256: e3ac6d2cbd58c4b12879c2fab3e74fab750f2be91abd9ec07834ea614fb12ee5
+presentation_sha256: ee7b9df7ca9dc6e5cd6344e151c4b6c5746c88f30d0b423a185f774c8b5674b5
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-005#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 56dcb3c6fb628585430eabeb610e029629ae971e630263b5e9a8d52c9a6e410c
+output_svg_sha256: 56dcb3c6fb628585430eabeb610e029629ae971e630263b5e9a8d52c9a6e410c

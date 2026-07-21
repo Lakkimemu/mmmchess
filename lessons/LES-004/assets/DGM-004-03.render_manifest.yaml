@@ -1,0 +1,19 @@
+diagram_id: DGM-004-03
+source_package: KB-004
+renderer_version: 1.0.0
+theme_id: PCA_DEFAULT
+layout: LAYOUT_STATIC_BOARD
+assets_used:
+- PIECE-BK-STANDARD
+- PIECE-BP-STANDARD
+- PIECE-WK-STANDARD
+- PIECE-WP-STANDARD
+patterns_used:
+- VP-011
+pattern_requests:
+- id: VP-011
+  resolved_id: VP-011
+  parameters:
+    teaching_category: board_coordinates
+    position_source: TPD/CPL
+generated_at: '2026-07-11T16:31:42.606138+00:00'

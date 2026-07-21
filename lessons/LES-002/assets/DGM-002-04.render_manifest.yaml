@@ -1,0 +1,19 @@
+schema_version: 1
+diagram_id: DGM-002-04
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-BOARD-ORIENT-PUZZLE-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces: []
+position_sha256: 110746758b7bc9eea58a3be94f5b5402b6b480e3e02cde4a58e2a6dda40dc2ee
+presentation_sha256: 4ffec8610e995edfa81ac82cc46228a39d3b03b8372e10e7626262fe9460bf77
+presentation_theme: PCA_GREEN_IVORY_INVERTED_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-002#18#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 33a98874871b31e2e4a7ac96a159b40fcc4da619d816ee4b633c106a07c074c5
+output_svg_sha256: 33a98874871b31e2e4a7ac96a159b40fcc4da619d816ee4b633c106a07c074c5

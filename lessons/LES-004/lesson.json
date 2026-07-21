@@ -1,0 +1,1218 @@
+{
+  "lesson_id": "LES-004",
+  "kb_id": "KB-004",
+  "topic_id": "TOP-004",
+  "unit_id": "UNT-001",
+  "sequence": 4,
+  "objective": "**🎯 Today's Goal:**\nYour child can identify and name the horizontal rows on a chess board.",
+  "success_criteria": "**✅ Lesson Success Criteria:**\n- Child can trace a rank from side to side with their finger.\n- Child understands that ranks are horizontal (left and right).\n- Child knows ranks are numbered 1 through 8.",
+  "source_traces": {
+    "objective": "KB-004#1#B2",
+    "success_criteria": "KB-004#1#B3"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-004#1",
+      "content": "- **Topic**: Ranks\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: Chess Board (TOP-001)\n\n**🎯 Today's Goal:**\nYour child can identify and name the horizontal rows on a chess board.\n\n**✅ Lesson Success Criteria:**\n- Child can trace a rank from side to side with their finger.\n- Child understands that ranks are horizontal (left and right).\n- Child knows ranks are numbered 1 through 8.\n\n*(Purpose: \"Can I teach this today?\" Yes. This is the second half of understanding the board map.)*\n\n---"
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-004#2",
+      "content": "In chess, a \"rank\" is a horizontal row of eight squares running side-to-side across the board. There are eight ranks on a chess board, and they are labeled with numbers from **1** to **8** (starting from White's side of the board and counting up toward Black's side).\n\n---"
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-004#3",
+      "content": "Ranks complete the grid of the chess board. Knowing ranks is essential for setting up the pieces (pawns go on the 2nd and 7th ranks) and for understanding how pawns promote when they reach the 8th rank. Later, understanding \"back rank\" weaknesses is a critical tactical skill.\n\n---"
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-004#4",
+      "content": "**Prerequisites:**\n- ✓ Chess Board (TOP-001)\n\n**What this unlocks:**\n- ✓ Squares (TOP-005)\n- ✓ Coordinates (TOP-006)\n- ✓ Pawn (TOP-013)\n\n---"
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-004#5",
+      "content": "*This section is for YOUR understanding. Read it, absorb it.*\n\nIf files are vertical columns (like streets), then **ranks** are horizontal rows (like avenues). They run left-to-right across the board.\n\nThere are 8 ranks in total. They are always labeled with numbers: **1, 2, 3, 4, 5, 6, 7, 8**. \nThese numbers are always determined from the **White player's perspective**. The row closest to the White player is the **1st Rank**. The row closest to the Black player is the **8th Rank**. Even if you are sitting on the Black side, the row closest to you is still the 8th rank!\n\n---"
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-004#6",
+      "content": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Introduce the Rows (2 mins)\nPlace an empty board on the table. Take a piece and slide it from the left side of the board to the right side in a straight line.\n> *\"We learned that files go straight forward. But what about the streets that go side-to-side? These horizontal rows are called **Ranks**.\"*\n\n### Step 2 — Trace the Ranks (2 mins)\nHave your child take their finger and trace a line of squares from left to right.\n> *\"Show me a rank. Trace it all the way across. Excellent! That whole row is one rank.\"*\n\n### Step 3 — Introduce the Numbers (3 mins)\nPoint to the numbers printed on the edge of the board.\n> *\"We used letters for files, so we use numbers for ranks! 1, 2, 3, 4, 5, 6, 7, 8. The rank closest to the White pieces is Rank 1. Let's count them together all the way to Rank 8.\"*\n\n---"
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-004#7",
+      "content": "> **🪜 The Ladder Analogy**\n> \n> Think of the chess board as a giant ladder lying on the ground. When you climb a ladder, you step on the horizontal rungs to go higher. In chess, the ranks are like the rungs of a ladder. The White pieces start on rung 1 and 2, and they want to climb all the way to rung 8! \n>\n> **Memory Trick:**\n> **\"Ranks go Right and Left\"** (Both start with the 'R' sound).\n\n---"
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know? 🎓",
+      "source_trace": "KB-004#8",
+      "content": "In military language, when soldiers stand shoulder-to-shoulder in a long line, it is called a \"rank.\" (When they stand front-to-back, it is a \"file\"). So when you line all your pawns up side-by-side on the 2nd rank, they are standing in a perfect military formation!\n\n---"
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-004#9",
+      "content": "**The 5th Rank (Horizontal Row)**\n\n![DGM-001 Fifth Rank](../../assets/diagrams/TOP-004/DGM-001_Fifth_Rank.svg)\n*The highlighted squares show the 5th rank. Notice how it runs completely horizontal from one side to the other.*\n\n---"
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-004#10",
+      "content": "A rank is not just a single square; it is the entire row of 8 squares. A piece can be on the left side of the 3rd rank, or the right side of the 3rd rank. As long as it stays in that horizontal row, it is on the 3rd rank.\n\n---"
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-004#11",
+      "content": "**Starting Ranks**\n\n![DGM-002 Starting Ranks](../../assets/diagrams/TOP-004/DGM-002_Starting_Ranks.svg)\n*Pieces are set up based on ranks. White's major pieces go on Rank 1, and White's pawns go on Rank 2. Black's pawns go on Rank 7, and Black's major pieces go on Rank 8.*\n\n---"
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-004#12",
+      "content": "![DGM-003 Pawn Rank](../../assets/diagrams/TOP-004/DGM-003_Pawn_Rank.svg)\nRanks are critical for pawns. A pawn can only ever move forward. If a White pawn manages to march all the way across the board and step onto the 8th Rank, it gets promoted into a Queen! Knowing where the 8th rank is becomes the most exciting part of the game for a pawn.\n\n---"
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-004#13",
+      "content": "### Chess Mistakes\n- ❌ **Confusing Ranks with Files** — Calling a vertical column a \"rank.\" Just remember: Ranks go Right and left!\n- ❌ **Reversing the numbers** — A Black player might mistakenly call the row closest to them \"Rank 1.\" Remember, Rank 1 is always where the White pieces start.\n\n### Teaching Mistakes\n- ❌ **Teaching both simultaneously** — Trying to teach \"Files and Ranks\" in one giant lesson often results in the child mixing them up. Teach one, play a game, then teach the other.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child struggles to remember which is a rank and which is a file, use the \"Ladder and Rocket\" trick. Ask them: \"Are we climbing the ladder (Ranks) or flying the rocket (Files)?\"\n\n---"
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-004#14",
+      "content": "- **Use physical motion:** Hand gestures are powerful. Whenever you say the word \"rank,\" sweep your hand horizontally from side to side.\n- **Signs they understand:** When asked to point to the \"4th rank,\" they sweep their hand across the entire row, not just pointing at one square.\n\n> **🧑‍🏫 Coach Tip:**\n> A great way to reinforce ranks is during setup. Don't say \"put the pawns in front.\" Say \"put all the White pawns on the 2nd Rank.\" Using the vocabulary in context makes it stick.\n\n---"
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-004#15",
+      "content": "**Q: My child keeps confusing ranks and files. What should I do?**\nA: Take a break from the terminology! Just play a few fun games using the board. Tomorrow, review just ONE of them (e.g., only Ranks). The brain needs sleep to solidify these spatial concepts.\n\n**Q: Do I need to teach coordinates (like e4) right now?**\nA: No! Coordinates (TOP-006) combine files and ranks together. Wait until your child is completely comfortable with files and ranks individually before putting them together.\n\n**Q: Why do Black's pieces start on 7 and 8 instead of 1 and 2?**\nA: Because the map is drawn from White's perspective! Imagine looking at a map of a country. The bottom is always South (Rank 1) and the top is always North (Rank 8), no matter where you are standing.\n\n---"
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-004#16",
+      "content": "### 🪜 Ladder Climb\nTake a single White pawn. Place it on the 2nd Rank. Tell your child to \"climb the ladder.\" They must move the pawn one square forward, and as they do, they must shout the number of the rank they landed on: \"Rank 3! Rank 4! Rank 5!\" all the way to 8.\n\n### 🧩 Rank Sweeper\nTake a Rook. Place it anywhere on the board. Tell your child to \"sweep the rank!\" They must slide the Rook horizontally all the way to the edge of the board. \n\n---"
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge ⭐",
+      "source_trace": "KB-004#17",
+      "content": "### 🏆 The Pawn Lineup\n**Challenge your child:**\n> \"I bet you can't line up all 8 of your pawns on the correct rank with your eyes closed!\"\n\n**Rules:**\n1. Tell the child they are playing White.\n2. Have them close their eyes (or blindfold them).\n3. Hand them pawns one by one. They must feel the edge of the board and place the pawns side-by-side on the 2nd Rank.\n4. When they are done, have them open their eyes and check their work! This builds incredible tactile awareness of the board's rows.\n\n---"
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-004#18",
+      "content": "### 🟢 Recognition (Easy)\nLook at the highlighted squares below. Is this a rank or a file?\n![DGM-001 Fifth Rank](../../assets/diagrams/TOP-004/DGM-001_Fifth_Rank.svg)\n*Answer: It is a rank! It goes side-to-side horizontally.*\n\n### 🟡 Application (Medium)\nLook at this diagram. Which rank are the Rooks standing on?\n![DGM-004 Puzzle](../../assets/diagrams/TOP-004/DGM-004_Puzzle.svg)\n*Answer: The Rooks are standing on the 7th Rank.*\n\n### 🔴 Challenge (Hard)\n![DGM-005 Puzzle Solution](../../assets/diagrams/TOP-004/DGM-005_Puzzle_Solution.svg)\nYou are playing Black. Your pawns start on the 7th Rank. When they move forward, do they go to the 8th Rank or the 6th Rank?\n*Answer: The 6th Rank! Because Black sits at the \"top\" of the board, moving forward means the rank numbers get smaller (7, then 6, then 5...).*\n\n---"
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-004#19",
+      "content": "*(No specific external resources required for this micro-concept. Review TOP-001 resources if needed.)*\n\n---"
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-004#20",
+      "content": "### Prerequisites\n- **Chess Board** (TOP-001)\n\n### Next Topics\n- **Squares** (TOP-005)\n- **Coordinates** (TOP-006)\n- **Pawn** (TOP-013)\n\n### Related Concepts\n- **Files** (TOP-003) — The vertical counterpart to ranks.\n\n---"
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check ✅",
+      "source_trace": "KB-004#21",
+      "content": "- [ ] Do I understand that ranks are horizontal rows?\n- [ ] Do I know ranks are numbered 1 through 8?\n- [ ] Did my child physically trace a rank with their finger?\n- [ ] Can my child explain that ranks go \"left and right\"?\n- [ ] Does my child know White pawns start on Rank 2?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to **Squares (TOP-005)** or **Coordinates (TOP-006)**.\n**🔄 If several answers are \"No\":** Play the \"Ladder Climb\" game in Section 16 to reinforce the numbers.\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  diagrams: 5\n  mini_puzzles: 3\n  external_resources: 0\n  coach_challenges: 1\n  practice_activities: 2\n  coach_tips: 2\n  parent_faq: 3\n  estimated_read_time: 10 min\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-004-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-004#1#B1",
+      "parent_prompt_trace": "KB-004#1#B1",
+      "text": "- **Topic**: Ranks\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: Chess Board (TOP-001)\n\n**🎯 Today's Goal:**\nYour child can identify and name the horizontal rows on a chess board.\n\n**✅ Lesson Success Criteria:**\n- Child can trace a rank from side to side with their finger.\n- Child understands that ranks are horizontal (left and right).\n- Child knows ranks are numbered 1 through 8.\n\n*(Purpose: \"Can I teach this today?\" Yes. This is the second half of understanding the board map.)*"
+    },
+    {
+      "id": "LES-004-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-004#2#B1",
+      "parent_prompt_trace": "KB-004#2#B1",
+      "text": "In chess, a \"rank\" is a horizontal row of eight squares running side-to-side across the board. There are eight ranks on a chess board, and they are labeled with numbers from **1** to **8** (starting from White's side of the board and counting up toward Black's side)."
+    },
+    {
+      "id": "LES-004-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-004#3#B1",
+      "parent_prompt_trace": "KB-004#3#B1",
+      "text": "Ranks complete the grid of the chess board. Knowing ranks is essential for setting up the pieces (pawns go on the 2nd and 7th ranks) and for understanding how pawns promote when they reach the 8th rank. Later, understanding \"back rank\" weaknesses is a critical tactical skill."
+    },
+    {
+      "id": "LES-004-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-004#4#B1",
+      "parent_prompt_trace": "KB-004#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Chess Board (TOP-001)\n\n**What this unlocks:**\n- ✓ Squares (TOP-005)\n- ✓ Coordinates (TOP-006)\n- ✓ Pawn (TOP-013)"
+    },
+    {
+      "id": "LES-004-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-004#5#B1",
+      "parent_prompt_trace": "KB-004#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\nIf files are vertical columns (like streets), then **ranks** are horizontal rows (like avenues). They run left-to-right across the board.\n\nThere are 8 ranks in total. They are always labeled with numbers: **1, 2, 3, 4, 5, 6, 7, 8**. \nThese numbers are always determined from the **White player's perspective**. The row closest to the White player is the **1st Rank**. The row closest to the Black player is the **8th Rank**. Even if you are sitting on the Black side, the row closest to you is still the 8th rank!"
+    },
+    {
+      "id": "LES-004-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-004#6#B1",
+      "parent_prompt_trace": "KB-004#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Introduce the Rows (2 mins)\nPlace an empty board on the table. Take a piece and slide it from the left side of the board to the right side in a straight line.\n> *\"We learned that files go straight forward. But what about the streets that go side-to-side? These horizontal rows are called **Ranks**.\"*\n\n### Step 2 — Trace the Ranks (2 mins)\nHave your child take their finger and trace a line of squares from left to right.\n> *\"Show me a rank. Trace it all the way across. Excellent! That whole row is one rank.\"*\n\n### Step 3 — Introduce the Numbers (3 mins)\nPoint to the numbers printed on the edge of the board.\n> *\"We used letters for files, so we use numbers for ranks! 1, 2, 3, 4, 5, 6, 7, 8. The rank closest to the White pieces is Rank 1. Let's count them together all the way to Rank 8.\"*"
+    },
+    {
+      "id": "LES-004-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-004#7#B1",
+      "parent_prompt_trace": "KB-004#7#B1",
+      "text": "> **🪜 The Ladder Analogy**\n> \n> Think of the chess board as a giant ladder lying on the ground. When you climb a ladder, you step on the horizontal rungs to go higher. In chess, the ranks are like the rungs of a ladder. The White pieces start on rung 1 and 2, and they want to climb all the way to rung 8! \n>\n> **Memory Trick:**\n> **\"Ranks go Right and Left\"** (Both start with the 'R' sound)."
+    },
+    {
+      "id": "LES-004-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-004#8#B1",
+      "parent_prompt_trace": "KB-004#8#B1",
+      "text": "In military language, when soldiers stand shoulder-to-shoulder in a long line, it is called a \"rank.\" (When they stand front-to-back, it is a \"file\"). So when you line all your pawns up side-by-side on the 2nd rank, they are standing in a perfect military formation!"
+    },
+    {
+      "id": "LES-004-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-004#9#B1",
+      "parent_prompt_trace": "KB-004#9#B1",
+      "text": "**The 5th Rank (Horizontal Row)**\n\n*The highlighted squares show the 5th rank. Notice how it runs completely horizontal from one side to the other.*",
+      "diagram_id": "DGM-004-01",
+      "diagram_url": "assets/DGM-004-01.svg"
+    },
+    {
+      "id": "LES-004-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-004#10#B1",
+      "parent_prompt_trace": "KB-004#10#B1",
+      "text": "A rank is not just a single square; it is the entire row of 8 squares. A piece can be on the left side of the 3rd rank, or the right side of the 3rd rank. As long as it stays in that horizontal row, it is on the 3rd rank."
+    },
+    {
+      "id": "LES-004-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-004#11#B1",
+      "parent_prompt_trace": "KB-004#11#B1",
+      "text": "**Starting Ranks**\n\n*Pieces are set up based on ranks. White's major pieces go on Rank 1, and White's pawns go on Rank 2. Black's pawns go on Rank 7, and Black's major pieces go on Rank 8.*"
+    },
+    {
+      "id": "LES-004-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-004#12#B1",
+      "parent_prompt_trace": "KB-004#12#B1",
+      "text": "Ranks are critical for pawns. A pawn can only ever move forward. If a White pawn manages to march all the way across the board and step onto the 8th Rank, it gets promoted into a Queen! Knowing where the 8th rank is becomes the most exciting part of the game for a pawn.",
+      "diagram_id": "DGM-004-03",
+      "diagram_url": "assets/DGM-004-03.svg"
+    },
+    {
+      "id": "LES-004-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-004#13#B1",
+      "parent_prompt_trace": "KB-004#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Confusing Ranks with Files** — Calling a vertical column a \"rank.\" Just remember: Ranks go Right and left!\n- ❌ **Reversing the numbers** — A Black player might mistakenly call the row closest to them \"Rank 1.\" Remember, Rank 1 is always where the White pieces start.\n\n### Teaching Mistakes\n- ❌ **Teaching both simultaneously** — Trying to teach \"Files and Ranks\" in one giant lesson often results in the child mixing them up. Teach one, play a game, then teach the other.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child struggles to remember which is a rank and which is a file, use the \"Ladder and Rocket\" trick. Ask them: \"Are we climbing the ladder (Ranks) or flying the rocket (Files)?\""
+    },
+    {
+      "id": "LES-004-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-004#14#B1",
+      "parent_prompt_trace": "KB-004#14#B1",
+      "text": "- **Use physical motion:** Hand gestures are powerful. Whenever you say the word \"rank,\" sweep your hand horizontally from side to side.\n- **Signs they understand:** When asked to point to the \"4th rank,\" they sweep their hand across the entire row, not just pointing at one square.\n\n> **🧑‍🏫 Coach Tip:**\n> A great way to reinforce ranks is during setup. Don't say \"put the pawns in front.\" Say \"put all the White pawns on the 2nd Rank.\" Using the vocabulary in context makes it stick."
+    },
+    {
+      "id": "LES-004-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-004#15#B1",
+      "parent_prompt_trace": "KB-004#15#B1",
+      "text": "**Q: My child keeps confusing ranks and files. What should I do?**\nA: Take a break from the terminology! Just play a few fun games using the board. Tomorrow, review just ONE of them (e.g., only Ranks). The brain needs sleep to solidify these spatial concepts.\n\n**Q: Do I need to teach coordinates (like e4) right now?**\nA: No! Coordinates (TOP-006) combine files and ranks together. Wait until your child is completely comfortable with files and ranks individually before putting them together.\n\n**Q: Why do Black's pieces start on 7 and 8 instead of 1 and 2?**\nA: Because the map is drawn from White's perspective! Imagine looking at a map of a country. The bottom is always South (Rank 1) and the top is always North (Rank 8), no matter where you are standing."
+    },
+    {
+      "id": "LES-004-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-004#16#B1",
+      "parent_prompt_trace": "KB-004#16#B1",
+      "text": "### 🪜 Ladder Climb\nTake a single White pawn. Place it on the 2nd Rank. Tell your child to \"climb the ladder.\" They must move the pawn one square forward, and as they do, they must shout the number of the rank they landed on: \"Rank 3! Rank 4! Rank 5!\" all the way to 8.\n\n### 🧩 Rank Sweeper\nTake a Rook. Place it anywhere on the board. Tell your child to \"sweep the rank!\" They must slide the Rook horizontally all the way to the edge of the board."
+    },
+    {
+      "id": "LES-004-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-004#17#B1",
+      "parent_prompt_trace": "KB-004#17#B1",
+      "text": "### 🏆 The Pawn Lineup\n**Challenge your child:**\n> \"I bet you can't line up all 8 of your pawns on the correct rank with your eyes closed!\"\n\n**Rules:**\n1. Tell the child they are playing White.\n2. Have them close their eyes (or blindfold them).\n3. Hand them pawns one by one. They must feel the edge of the board and place the pawns side-by-side on the 2nd Rank.\n4. When they are done, have them open their eyes and check their work! This builds incredible tactile awareness of the board's rows."
+    },
+    {
+      "id": "LES-004-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-004#18#B1",
+      "parent_prompt_trace": "KB-004#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nLook at the highlighted squares below. Is this a rank or a file?\n\n*Answer: It is a rank! It goes side-to-side horizontally.*\n\n### 🟡 Application (Medium)\nLook at this diagram. Which rank are the Rooks standing on?\n\n*Answer: The Rooks are standing on the 7th Rank.*\n\n### 🔴 Challenge (Hard)\n\nYou are playing Black. Your pawns start on the 7th Rank. When they move forward, do they go to the 8th Rank or the 6th Rank?\n*Answer: The 6th Rank! Because Black sits at the \"top\" of the board, moving forward means the rank numbers get smaller (7, then 6, then 5...).*",
+      "diagram_id": "DGM-004-04",
+      "diagram_url": "assets/DGM-004-04.svg"
+    },
+    {
+      "id": "LES-004-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-004#19#B1",
+      "parent_prompt_trace": "KB-004#19#B1",
+      "text": "*(No specific external resources required for this micro-concept. Review TOP-001 resources if needed.)*"
+    },
+    {
+      "id": "LES-004-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-004#20#B1",
+      "parent_prompt_trace": "KB-004#20#B1",
+      "text": "### Prerequisites\n- **Chess Board** (TOP-001)\n\n### Next Topics\n- **Squares** (TOP-005)\n- **Coordinates** (TOP-006)\n- **Pawn** (TOP-013)\n\n### Related Concepts\n- **Files** (TOP-003) — The vertical counterpart to ranks."
+    },
+    {
+      "id": "LES-004-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-004#21#B1",
+      "parent_prompt_trace": "KB-004#21#B1",
+      "text": "- [ ] Do I understand that ranks are horizontal rows?\n- [ ] Do I know ranks are numbered 1 through 8?\n- [ ] Did my child physically trace a rank with their finger?\n- [ ] Can my child explain that ranks go \"left and right\"?\n- [ ] Does my child know White pawns start on Rank 2?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to **Squares (TOP-005)** or **Coordinates (TOP-006)**.\n**🔄 If several answers are \"No\":** Play the \"Ladder Climb\" game in Section 16 to reinforce the numbers."
+    }
+  ],
+  "task_references": [
+    "PZL-004-01",
+    "PZL-004-02",
+    "PZL-004-03",
+    "PZL-004-04",
+    "PZL-004-05"
+  ],
+  "diagram_references": [
+    "DGM-004-02",
+    "DGM-004-01",
+    "DGM-004-03",
+    "DGM-004-04"
+  ],
+  "diagram_deferrals": [
+    {
+      "diagram_target": "DGM-002",
+      "reason": "OUT_OF_SCOPE_PHASE_7",
+      "source_target": "../../assets/diagrams/TOP-004/DGM-002_Starting_Ranks.svg"
+    },
+    {
+      "diagram_target": "DGM-003",
+      "reason": "OUT_OF_SCOPE_PHASE_7",
+      "source_target": "../../assets/diagrams/TOP-004/DGM-003_Pawn_Rank.svg"
+    },
+    {
+      "diagram_target": "DGM-004",
+      "reason": "OUT_OF_SCOPE_PHASE_7",
+      "source_target": "../../assets/diagrams/TOP-004/DGM-004_Puzzle.svg"
+    },
+    {
+      "diagram_target": "DGM-005",
+      "reason": "PHASE_6_EDITORIAL_BACKLOG",
+      "source_target": "../../assets/diagrams/TOP-004/DGM-005_Puzzle_Solution.svg"
+    }
+  ],
+  "assessment_reference": "ASM-004",
+  "deferred_topics": [],
+  "teach_slides": [
+    {
+      "id": "LES-004-S01",
+      "type": "INTRO",
+      "title": "Number roads",
+      "text": "Today we travel across the board.",
+      "parent_prompt": "Review one file",
+      "diagram_id": "DGM-004-02",
+      "diagram_url": "assets/DGM-004-02.svg",
+      "visual": {
+        "diagram_id": "DGM-004-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-RANKS-FIFTH-001",
+      "position_version": 1,
+      "position_title": "The fifth rank runs side to side",
+      "diagram_alt": "The fifth rank runs side to side"
+    },
+    {
+      "id": "LES-004-S02",
+      "type": "DIAGRAM",
+      "title": "This is a rank",
+      "text": "Ranks run horizontally.",
+      "parent_prompt": "Trace one horizontal line.",
+      "diagram_id": "DGM-004-02",
+      "diagram_url": "assets/DGM-004-02.svg",
+      "visual": {
+        "diagram_id": "DGM-004-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-RANKS-FIFTH-001",
+      "position_version": 1,
+      "position_title": "The fifth rank runs side to side",
+      "diagram_alt": "The fifth rank runs side to side"
+    },
+    {
+      "id": "LES-004-S03",
+      "type": "EXPLAIN",
+      "title": "1 through 8",
+      "text": "Every rank has one number.",
+      "parent_prompt": "Point to the edge numbers",
+      "diagram_id": "DGM-004-02",
+      "diagram_url": "assets/DGM-004-02.svg",
+      "visual": {
+        "diagram_id": "DGM-004-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-RANKS-FIFTH-001",
+      "position_version": 1,
+      "position_title": "The fifth rank runs side to side",
+      "diagram_alt": "The fifth rank runs side to side"
+    },
+    {
+      "id": "LES-004-S04",
+      "type": "PHYSICAL_ACTIVITY",
+      "title": "Build a number road",
+      "text": "Put eight tokens on one rank.",
+      "parent_prompt": "Fill one rank with tokens",
+      "visual": {
+        "sticker": "detective",
+        "layout": "TEXT_ONLY",
+        "sticker_url": "assets/detective.svg",
+        "sticker_alt": "Chess detective searching for setup clues"
+      }
+    },
+    {
+      "id": "LES-004-S05",
+      "type": "QUESTION",
+      "title": "Rank or file?",
+      "text": "Does a rank stand tall or lie flat?",
+      "parent_prompt": "Ask before revealing.",
+      "reveal": "It lies flat.",
+      "diagram_id": "DGM-004-02",
+      "diagram_url": "assets/DGM-004-02.svg",
+      "visual": {
+        "diagram_id": "DGM-004-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-RANKS-FIFTH-001",
+      "position_version": 1,
+      "position_title": "The fifth rank runs side to side",
+      "diagram_alt": "The fifth rank runs side to side"
+    },
+    {
+      "id": "LES-004-S06",
+      "type": "PUZZLE",
+      "title": "Make a cross",
+      "text": "One file and one rank meet.",
+      "parent_prompt": "Make a file and rank cross",
+      "diagram_id": "DGM-004-02",
+      "diagram_url": "assets/DGM-004-02.svg",
+      "visual": {
+        "diagram_id": "DGM-004-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-RANKS-FIFTH-001",
+      "position_version": 1,
+      "position_title": "The fifth rank runs side to side",
+      "diagram_alt": "The fifth rank runs side to side"
+    },
+    {
+      "id": "LES-004-S07",
+      "type": "ASSESSMENT",
+      "title": "Rank detective",
+      "text": "Trace and name three ranks.",
+      "parent_prompt": "Use ASM-004",
+      "diagram_id": "DGM-004-02",
+      "diagram_url": "assets/DGM-004-02.svg",
+      "visual": {
+        "diagram_id": "DGM-004-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-RANKS-FIFTH-001",
+      "position_version": 1,
+      "position_title": "The fifth rank runs side to side",
+      "diagram_alt": "The fifth rank runs side to side"
+    },
+    {
+      "id": "LES-004-S08",
+      "type": "REVIEW",
+      "title": "Letters tall",
+      "text": "Files stand; ranks lie flat.",
+      "parent_prompt": "Contrast files and ranks",
+      "diagram_id": "DGM-004-02",
+      "diagram_url": "assets/DGM-004-02.svg",
+      "visual": {
+        "diagram_id": "DGM-004-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-RANKS-FIFTH-001",
+      "position_version": 1,
+      "position_title": "The fifth rank runs side to side",
+      "diagram_alt": "The fifth rank runs side to side"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-004-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-004#1#B1",
+      "parent_prompt_trace": "KB-004#1#B1",
+      "text": "- **Topic**: Ranks\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: Chess Board (TOP-001)\n\n**🎯 Today's Goal:**\nYour child can identify and name the horizontal rows on a chess board.\n\n**✅ Lesson Success Criteria:**\n- Child can trace a rank from side to side with their finger.\n- Child understands that ranks are horizontal (left and right).\n- Child knows ranks are numbered 1 through 8.\n\n*(Purpose: \"Can I teach this today?\" Yes. This is the second half of understanding the board map.)*"
+    },
+    {
+      "id": "LES-004-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-004#2#B1",
+      "parent_prompt_trace": "KB-004#2#B1",
+      "text": "In chess, a \"rank\" is a horizontal row of eight squares running side-to-side across the board. There are eight ranks on a chess board, and they are labeled with numbers from **1** to **8** (starting from White's side of the board and counting up toward Black's side)."
+    },
+    {
+      "id": "LES-004-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-004#3#B1",
+      "parent_prompt_trace": "KB-004#3#B1",
+      "text": "Ranks complete the grid of the chess board. Knowing ranks is essential for setting up the pieces (pawns go on the 2nd and 7th ranks) and for understanding how pawns promote when they reach the 8th rank. Later, understanding \"back rank\" weaknesses is a critical tactical skill."
+    },
+    {
+      "id": "LES-004-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-004#4#B1",
+      "parent_prompt_trace": "KB-004#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Chess Board (TOP-001)\n\n**What this unlocks:**\n- ✓ Squares (TOP-005)\n- ✓ Coordinates (TOP-006)\n- ✓ Pawn (TOP-013)"
+    },
+    {
+      "id": "LES-004-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-004#5#B1",
+      "parent_prompt_trace": "KB-004#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\nIf files are vertical columns (like streets), then **ranks** are horizontal rows (like avenues). They run left-to-right across the board.\n\nThere are 8 ranks in total. They are always labeled with numbers: **1, 2, 3, 4, 5, 6, 7, 8**. \nThese numbers are always determined from the **White player's perspective**. The row closest to the White player is the **1st Rank**. The row closest to the Black player is the **8th Rank**. Even if you are sitting on the Black side, the row closest to you is still the 8th rank!"
+    },
+    {
+      "id": "LES-004-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-004#6#B1",
+      "parent_prompt_trace": "KB-004#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Introduce the Rows (2 mins)\nPlace an empty board on the table. Take a piece and slide it from the left side of the board to the right side in a straight line.\n> *\"We learned that files go straight forward. But what about the streets that go side-to-side? These horizontal rows are called **Ranks**.\"*\n\n### Step 2 — Trace the Ranks (2 mins)\nHave your child take their finger and trace a line of squares from left to right.\n> *\"Show me a rank. Trace it all the way across. Excellent! That whole row is one rank.\"*\n\n### Step 3 — Introduce the Numbers (3 mins)\nPoint to the numbers printed on the edge of the board.\n> *\"We used letters for files, so we use numbers for ranks! 1, 2, 3, 4, 5, 6, 7, 8. The rank closest to the White pieces is Rank 1. Let's count them together all the way to Rank 8.\"*"
+    },
+    {
+      "id": "LES-004-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-004#7#B1",
+      "parent_prompt_trace": "KB-004#7#B1",
+      "text": "> **🪜 The Ladder Analogy**\n> \n> Think of the chess board as a giant ladder lying on the ground. When you climb a ladder, you step on the horizontal rungs to go higher. In chess, the ranks are like the rungs of a ladder. The White pieces start on rung 1 and 2, and they want to climb all the way to rung 8! \n>\n> **Memory Trick:**\n> **\"Ranks go Right and Left\"** (Both start with the 'R' sound)."
+    },
+    {
+      "id": "LES-004-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-004#8#B1",
+      "parent_prompt_trace": "KB-004#8#B1",
+      "text": "In military language, when soldiers stand shoulder-to-shoulder in a long line, it is called a \"rank.\" (When they stand front-to-back, it is a \"file\"). So when you line all your pawns up side-by-side on the 2nd rank, they are standing in a perfect military formation!"
+    },
+    {
+      "id": "LES-004-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-004#9#B1",
+      "parent_prompt_trace": "KB-004#9#B1",
+      "text": "**The 5th Rank (Horizontal Row)**\n\n*The highlighted squares show the 5th rank. Notice how it runs completely horizontal from one side to the other.*",
+      "diagram_id": "DGM-004-01",
+      "diagram_url": "assets/DGM-004-01.svg"
+    },
+    {
+      "id": "LES-004-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-004#10#B1",
+      "parent_prompt_trace": "KB-004#10#B1",
+      "text": "A rank is not just a single square; it is the entire row of 8 squares. A piece can be on the left side of the 3rd rank, or the right side of the 3rd rank. As long as it stays in that horizontal row, it is on the 3rd rank."
+    },
+    {
+      "id": "LES-004-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-004#11#B1",
+      "parent_prompt_trace": "KB-004#11#B1",
+      "text": "**Starting Ranks**\n\n*Pieces are set up based on ranks. White's major pieces go on Rank 1, and White's pawns go on Rank 2. Black's pawns go on Rank 7, and Black's major pieces go on Rank 8.*"
+    },
+    {
+      "id": "LES-004-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-004#12#B1",
+      "parent_prompt_trace": "KB-004#12#B1",
+      "text": "Ranks are critical for pawns. A pawn can only ever move forward. If a White pawn manages to march all the way across the board and step onto the 8th Rank, it gets promoted into a Queen! Knowing where the 8th rank is becomes the most exciting part of the game for a pawn.",
+      "diagram_id": "DGM-004-03",
+      "diagram_url": "assets/DGM-004-03.svg"
+    },
+    {
+      "id": "LES-004-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-004#13#B1",
+      "parent_prompt_trace": "KB-004#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Confusing Ranks with Files** — Calling a vertical column a \"rank.\" Just remember: Ranks go Right and left!\n- ❌ **Reversing the numbers** — A Black player might mistakenly call the row closest to them \"Rank 1.\" Remember, Rank 1 is always where the White pieces start.\n\n### Teaching Mistakes\n- ❌ **Teaching both simultaneously** — Trying to teach \"Files and Ranks\" in one giant lesson often results in the child mixing them up. Teach one, play a game, then teach the other.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child struggles to remember which is a rank and which is a file, use the \"Ladder and Rocket\" trick. Ask them: \"Are we climbing the ladder (Ranks) or flying the rocket (Files)?\""
+    },
+    {
+      "id": "LES-004-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-004#14#B1",
+      "parent_prompt_trace": "KB-004#14#B1",
+      "text": "- **Use physical motion:** Hand gestures are powerful. Whenever you say the word \"rank,\" sweep your hand horizontally from side to side.\n- **Signs they understand:** When asked to point to the \"4th rank,\" they sweep their hand across the entire row, not just pointing at one square.\n\n> **🧑‍🏫 Coach Tip:**\n> A great way to reinforce ranks is during setup. Don't say \"put the pawns in front.\" Say \"put all the White pawns on the 2nd Rank.\" Using the vocabulary in context makes it stick."
+    },
+    {
+      "id": "LES-004-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-004#15#B1",
+      "parent_prompt_trace": "KB-004#15#B1",
+      "text": "**Q: My child keeps confusing ranks and files. What should I do?**\nA: Take a break from the terminology! Just play a few fun games using the board. Tomorrow, review just ONE of them (e.g., only Ranks). The brain needs sleep to solidify these spatial concepts.\n\n**Q: Do I need to teach coordinates (like e4) right now?**\nA: No! Coordinates (TOP-006) combine files and ranks together. Wait until your child is completely comfortable with files and ranks individually before putting them together.\n\n**Q: Why do Black's pieces start on 7 and 8 instead of 1 and 2?**\nA: Because the map is drawn from White's perspective! Imagine looking at a map of a country. The bottom is always South (Rank 1) and the top is always North (Rank 8), no matter where you are standing."
+    },
+    {
+      "id": "LES-004-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-004#16#B1",
+      "parent_prompt_trace": "KB-004#16#B1",
+      "text": "### 🪜 Ladder Climb\nTake a single White pawn. Place it on the 2nd Rank. Tell your child to \"climb the ladder.\" They must move the pawn one square forward, and as they do, they must shout the number of the rank they landed on: \"Rank 3! Rank 4! Rank 5!\" all the way to 8.\n\n### 🧩 Rank Sweeper\nTake a Rook. Place it anywhere on the board. Tell your child to \"sweep the rank!\" They must slide the Rook horizontally all the way to the edge of the board."
+    },
+    {
+      "id": "LES-004-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-004#17#B1",
+      "parent_prompt_trace": "KB-004#17#B1",
+      "text": "### 🏆 The Pawn Lineup\n**Challenge your child:**\n> \"I bet you can't line up all 8 of your pawns on the correct rank with your eyes closed!\"\n\n**Rules:**\n1. Tell the child they are playing White.\n2. Have them close their eyes (or blindfold them).\n3. Hand them pawns one by one. They must feel the edge of the board and place the pawns side-by-side on the 2nd Rank.\n4. When they are done, have them open their eyes and check their work! This builds incredible tactile awareness of the board's rows."
+    },
+    {
+      "id": "LES-004-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-004#18#B1",
+      "parent_prompt_trace": "KB-004#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nLook at the highlighted squares below. Is this a rank or a file?\n\n*Answer: It is a rank! It goes side-to-side horizontally.*\n\n### 🟡 Application (Medium)\nLook at this diagram. Which rank are the Rooks standing on?\n\n*Answer: The Rooks are standing on the 7th Rank.*\n\n### 🔴 Challenge (Hard)\n\nYou are playing Black. Your pawns start on the 7th Rank. When they move forward, do they go to the 8th Rank or the 6th Rank?\n*Answer: The 6th Rank! Because Black sits at the \"top\" of the board, moving forward means the rank numbers get smaller (7, then 6, then 5...).*",
+      "diagram_id": "DGM-004-04",
+      "diagram_url": "assets/DGM-004-04.svg"
+    },
+    {
+      "id": "LES-004-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-004#19#B1",
+      "parent_prompt_trace": "KB-004#19#B1",
+      "text": "*(No specific external resources required for this micro-concept. Review TOP-001 resources if needed.)*"
+    },
+    {
+      "id": "LES-004-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-004#20#B1",
+      "parent_prompt_trace": "KB-004#20#B1",
+      "text": "### Prerequisites\n- **Chess Board** (TOP-001)\n\n### Next Topics\n- **Squares** (TOP-005)\n- **Coordinates** (TOP-006)\n- **Pawn** (TOP-013)\n\n### Related Concepts\n- **Files** (TOP-003) — The vertical counterpart to ranks."
+    },
+    {
+      "id": "LES-004-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-004#21#B1",
+      "parent_prompt_trace": "KB-004#21#B1",
+      "text": "- [ ] Do I understand that ranks are horizontal rows?\n- [ ] Do I know ranks are numbered 1 through 8?\n- [ ] Did my child physically trace a rank with their finger?\n- [ ] Can my child explain that ranks go \"left and right\"?\n- [ ] Does my child know White pawns start on Rank 2?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to **Squares (TOP-005)** or **Coordinates (TOP-006)**.\n**🔄 If several answers are \"No\":** Play the \"Ladder Climb\" game in Section 16 to reinforce the numbers."
+    }
+  ],
+  "title": "Ranks — Number Roads",
+  "duration_minutes": 25,
+  "memory_phrase": "Ranks lie flat and use numbers.",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 25,
+    "slides": [
+      {
+        "id": "LES-004-S01",
+        "type": "INTRO",
+        "title": "Number roads",
+        "text": "Today we travel across the board.",
+        "parent_prompt": "Review one file",
+        "diagram_id": "DGM-004-02",
+        "diagram_url": "assets/DGM-004-02.svg",
+        "visual": {
+          "diagram_id": "DGM-004-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-RANKS-FIFTH-001",
+        "position_version": 1,
+        "position_title": "The fifth rank runs side to side",
+        "diagram_alt": "The fifth rank runs side to side"
+      },
+      {
+        "id": "LES-004-S02",
+        "type": "DIAGRAM",
+        "title": "This is a rank",
+        "text": "Ranks run horizontally.",
+        "parent_prompt": "Trace one horizontal line.",
+        "diagram_id": "DGM-004-02",
+        "diagram_url": "assets/DGM-004-02.svg",
+        "visual": {
+          "diagram_id": "DGM-004-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-RANKS-FIFTH-001",
+        "position_version": 1,
+        "position_title": "The fifth rank runs side to side",
+        "diagram_alt": "The fifth rank runs side to side"
+      },
+      {
+        "id": "LES-004-S03",
+        "type": "EXPLAIN",
+        "title": "1 through 8",
+        "text": "Every rank has one number.",
+        "parent_prompt": "Point to the edge numbers",
+        "diagram_id": "DGM-004-02",
+        "diagram_url": "assets/DGM-004-02.svg",
+        "visual": {
+          "diagram_id": "DGM-004-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-RANKS-FIFTH-001",
+        "position_version": 1,
+        "position_title": "The fifth rank runs side to side",
+        "diagram_alt": "The fifth rank runs side to side"
+      },
+      {
+        "id": "LES-004-S04",
+        "type": "PHYSICAL_ACTIVITY",
+        "title": "Build a number road",
+        "text": "Put eight tokens on one rank.",
+        "parent_prompt": "Fill one rank with tokens",
+        "visual": {
+          "sticker": "detective",
+          "layout": "TEXT_ONLY",
+          "sticker_url": "assets/detective.svg",
+          "sticker_alt": "Chess detective searching for setup clues"
+        }
+      },
+      {
+        "id": "LES-004-S05",
+        "type": "QUESTION",
+        "title": "Rank or file?",
+        "text": "Does a rank stand tall or lie flat?",
+        "parent_prompt": "Ask before revealing.",
+        "reveal": "It lies flat.",
+        "diagram_id": "DGM-004-02",
+        "diagram_url": "assets/DGM-004-02.svg",
+        "visual": {
+          "diagram_id": "DGM-004-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-RANKS-FIFTH-001",
+        "position_version": 1,
+        "position_title": "The fifth rank runs side to side",
+        "diagram_alt": "The fifth rank runs side to side"
+      },
+      {
+        "id": "LES-004-S06",
+        "type": "PUZZLE",
+        "title": "Make a cross",
+        "text": "One file and one rank meet.",
+        "parent_prompt": "Make a file and rank cross",
+        "diagram_id": "DGM-004-02",
+        "diagram_url": "assets/DGM-004-02.svg",
+        "visual": {
+          "diagram_id": "DGM-004-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-RANKS-FIFTH-001",
+        "position_version": 1,
+        "position_title": "The fifth rank runs side to side",
+        "diagram_alt": "The fifth rank runs side to side"
+      },
+      {
+        "id": "LES-004-S07",
+        "type": "ASSESSMENT",
+        "title": "Rank detective",
+        "text": "Trace and name three ranks.",
+        "parent_prompt": "Use ASM-004",
+        "diagram_id": "DGM-004-02",
+        "diagram_url": "assets/DGM-004-02.svg",
+        "visual": {
+          "diagram_id": "DGM-004-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-RANKS-FIFTH-001",
+        "position_version": 1,
+        "position_title": "The fifth rank runs side to side",
+        "diagram_alt": "The fifth rank runs side to side"
+      },
+      {
+        "id": "LES-004-S08",
+        "type": "REVIEW",
+        "title": "Letters tall",
+        "text": "Files stand; ranks lie flat.",
+        "parent_prompt": "Contrast files and ranks",
+        "diagram_id": "DGM-004-02",
+        "diagram_url": "assets/DGM-004-02.svg",
+        "visual": {
+          "diagram_id": "DGM-004-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-RANKS-FIFTH-001",
+        "position_version": 1,
+        "position_title": "The fifth rank runs side to side",
+        "diagram_alt": "The fifth rank runs side to side"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-004-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-004#1#B1",
+        "parent_prompt_trace": "KB-004#1#B1",
+        "text": "- **Topic**: Ranks\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: Chess Board (TOP-001)\n\n**🎯 Today's Goal:**\nYour child can identify and name the horizontal rows on a chess board.\n\n**✅ Lesson Success Criteria:**\n- Child can trace a rank from side to side with their finger.\n- Child understands that ranks are horizontal (left and right).\n- Child knows ranks are numbered 1 through 8.\n\n*(Purpose: \"Can I teach this today?\" Yes. This is the second half of understanding the board map.)*"
+      },
+      {
+        "id": "LES-004-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-004#2#B1",
+        "parent_prompt_trace": "KB-004#2#B1",
+        "text": "In chess, a \"rank\" is a horizontal row of eight squares running side-to-side across the board. There are eight ranks on a chess board, and they are labeled with numbers from **1** to **8** (starting from White's side of the board and counting up toward Black's side)."
+      },
+      {
+        "id": "LES-004-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-004#3#B1",
+        "parent_prompt_trace": "KB-004#3#B1",
+        "text": "Ranks complete the grid of the chess board. Knowing ranks is essential for setting up the pieces (pawns go on the 2nd and 7th ranks) and for understanding how pawns promote when they reach the 8th rank. Later, understanding \"back rank\" weaknesses is a critical tactical skill."
+      },
+      {
+        "id": "LES-004-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-004#4#B1",
+        "parent_prompt_trace": "KB-004#4#B1",
+        "text": "**Prerequisites:**\n- ✓ Chess Board (TOP-001)\n\n**What this unlocks:**\n- ✓ Squares (TOP-005)\n- ✓ Coordinates (TOP-006)\n- ✓ Pawn (TOP-013)"
+      },
+      {
+        "id": "LES-004-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-004#5#B1",
+        "parent_prompt_trace": "KB-004#5#B1",
+        "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\nIf files are vertical columns (like streets), then **ranks** are horizontal rows (like avenues). They run left-to-right across the board.\n\nThere are 8 ranks in total. They are always labeled with numbers: **1, 2, 3, 4, 5, 6, 7, 8**. \nThese numbers are always determined from the **White player's perspective**. The row closest to the White player is the **1st Rank**. The row closest to the Black player is the **8th Rank**. Even if you are sitting on the Black side, the row closest to you is still the 8th rank!"
+      },
+      {
+        "id": "LES-004-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-004#6#B1",
+        "parent_prompt_trace": "KB-004#6#B1",
+        "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Introduce the Rows (2 mins)\nPlace an empty board on the table. Take a piece and slide it from the left side of the board to the right side in a straight line.\n> *\"We learned that files go straight forward. But what about the streets that go side-to-side? These horizontal rows are called **Ranks**.\"*\n\n### Step 2 — Trace the Ranks (2 mins)\nHave your child take their finger and trace a line of squares from left to right.\n> *\"Show me a rank. Trace it all the way across. Excellent! That whole row is one rank.\"*\n\n### Step 3 — Introduce the Numbers (3 mins)\nPoint to the numbers printed on the edge of the board.\n> *\"We used letters for files, so we use numbers for ranks! 1, 2, 3, 4, 5, 6, 7, 8. The rank closest to the White pieces is Rank 1. Let's count them together all the way to Rank 8.\"*"
+      },
+      {
+        "id": "LES-004-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-004#7#B1",
+        "parent_prompt_trace": "KB-004#7#B1",
+        "text": "> **🪜 The Ladder Analogy**\n> \n> Think of the chess board as a giant ladder lying on the ground. When you climb a ladder, you step on the horizontal rungs to go higher. In chess, the ranks are like the rungs of a ladder. The White pieces start on rung 1 and 2, and they want to climb all the way to rung 8! \n>\n> **Memory Trick:**\n> **\"Ranks go Right and Left\"** (Both start with the 'R' sound)."
+      },
+      {
+        "id": "LES-004-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know? 🎓",
+        "source_trace": "KB-004#8#B1",
+        "parent_prompt_trace": "KB-004#8#B1",
+        "text": "In military language, when soldiers stand shoulder-to-shoulder in a long line, it is called a \"rank.\" (When they stand front-to-back, it is a \"file\"). So when you line all your pawns up side-by-side on the 2nd rank, they are standing in a perfect military formation!"
+      },
+      {
+        "id": "LES-004-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-004#9#B1",
+        "parent_prompt_trace": "KB-004#9#B1",
+        "text": "**The 5th Rank (Horizontal Row)**\n\n*The highlighted squares show the 5th rank. Notice how it runs completely horizontal from one side to the other.*",
+        "diagram_id": "DGM-004-01",
+        "diagram_url": "assets/DGM-004-01.svg"
+      },
+      {
+        "id": "LES-004-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-004#10#B1",
+        "parent_prompt_trace": "KB-004#10#B1",
+        "text": "A rank is not just a single square; it is the entire row of 8 squares. A piece can be on the left side of the 3rd rank, or the right side of the 3rd rank. As long as it stays in that horizontal row, it is on the 3rd rank."
+      },
+      {
+        "id": "LES-004-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-004#11#B1",
+        "parent_prompt_trace": "KB-004#11#B1",
+        "text": "**Starting Ranks**\n\n*Pieces are set up based on ranks. White's major pieces go on Rank 1, and White's pawns go on Rank 2. Black's pawns go on Rank 7, and Black's major pieces go on Rank 8.*"
+      },
+      {
+        "id": "LES-004-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-004#12#B1",
+        "parent_prompt_trace": "KB-004#12#B1",
+        "text": "Ranks are critical for pawns. A pawn can only ever move forward. If a White pawn manages to march all the way across the board and step onto the 8th Rank, it gets promoted into a Queen! Knowing where the 8th rank is becomes the most exciting part of the game for a pawn.",
+        "diagram_id": "DGM-004-03",
+        "diagram_url": "assets/DGM-004-03.svg"
+      },
+      {
+        "id": "LES-004-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-004#13#B1",
+        "parent_prompt_trace": "KB-004#13#B1",
+        "text": "### Chess Mistakes\n- ❌ **Confusing Ranks with Files** — Calling a vertical column a \"rank.\" Just remember: Ranks go Right and left!\n- ❌ **Reversing the numbers** — A Black player might mistakenly call the row closest to them \"Rank 1.\" Remember, Rank 1 is always where the White pieces start.\n\n### Teaching Mistakes\n- ❌ **Teaching both simultaneously** — Trying to teach \"Files and Ranks\" in one giant lesson often results in the child mixing them up. Teach one, play a game, then teach the other.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child struggles to remember which is a rank and which is a file, use the \"Ladder and Rocket\" trick. Ask them: \"Are we climbing the ladder (Ranks) or flying the rocket (Files)?\""
+      },
+      {
+        "id": "LES-004-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-004#14#B1",
+        "parent_prompt_trace": "KB-004#14#B1",
+        "text": "- **Use physical motion:** Hand gestures are powerful. Whenever you say the word \"rank,\" sweep your hand horizontally from side to side.\n- **Signs they understand:** When asked to point to the \"4th rank,\" they sweep their hand across the entire row, not just pointing at one square.\n\n> **🧑‍🏫 Coach Tip:**\n> A great way to reinforce ranks is during setup. Don't say \"put the pawns in front.\" Say \"put all the White pawns on the 2nd Rank.\" Using the vocabulary in context makes it stick."
+      },
+      {
+        "id": "LES-004-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-004#15#B1",
+        "parent_prompt_trace": "KB-004#15#B1",
+        "text": "**Q: My child keeps confusing ranks and files. What should I do?**\nA: Take a break from the terminology! Just play a few fun games using the board. Tomorrow, review just ONE of them (e.g., only Ranks). The brain needs sleep to solidify these spatial concepts.\n\n**Q: Do I need to teach coordinates (like e4) right now?**\nA: No! Coordinates (TOP-006) combine files and ranks together. Wait until your child is completely comfortable with files and ranks individually before putting them together.\n\n**Q: Why do Black's pieces start on 7 and 8 instead of 1 and 2?**\nA: Because the map is drawn from White's perspective! Imagine looking at a map of a country. The bottom is always South (Rank 1) and the top is always North (Rank 8), no matter where you are standing."
+      },
+      {
+        "id": "LES-004-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-004#16#B1",
+        "parent_prompt_trace": "KB-004#16#B1",
+        "text": "### 🪜 Ladder Climb\nTake a single White pawn. Place it on the 2nd Rank. Tell your child to \"climb the ladder.\" They must move the pawn one square forward, and as they do, they must shout the number of the rank they landed on: \"Rank 3! Rank 4! Rank 5!\" all the way to 8.\n\n### 🧩 Rank Sweeper\nTake a Rook. Place it anywhere on the board. Tell your child to \"sweep the rank!\" They must slide the Rook horizontally all the way to the edge of the board."
+      },
+      {
+        "id": "LES-004-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge ⭐",
+        "source_trace": "KB-004#17#B1",
+        "parent_prompt_trace": "KB-004#17#B1",
+        "text": "### 🏆 The Pawn Lineup\n**Challenge your child:**\n> \"I bet you can't line up all 8 of your pawns on the correct rank with your eyes closed!\"\n\n**Rules:**\n1. Tell the child they are playing White.\n2. Have them close their eyes (or blindfold them).\n3. Hand them pawns one by one. They must feel the edge of the board and place the pawns side-by-side on the 2nd Rank.\n4. When they are done, have them open their eyes and check their work! This builds incredible tactile awareness of the board's rows."
+      },
+      {
+        "id": "LES-004-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-004#18#B1",
+        "parent_prompt_trace": "KB-004#18#B1",
+        "text": "### 🟢 Recognition (Easy)\nLook at the highlighted squares below. Is this a rank or a file?\n\n*Answer: It is a rank! It goes side-to-side horizontally.*\n\n### 🟡 Application (Medium)\nLook at this diagram. Which rank are the Rooks standing on?\n\n*Answer: The Rooks are standing on the 7th Rank.*\n\n### 🔴 Challenge (Hard)\n\nYou are playing Black. Your pawns start on the 7th Rank. When they move forward, do they go to the 8th Rank or the 6th Rank?\n*Answer: The 6th Rank! Because Black sits at the \"top\" of the board, moving forward means the rank numbers get smaller (7, then 6, then 5...).*",
+        "diagram_id": "DGM-004-04",
+        "diagram_url": "assets/DGM-004-04.svg"
+      },
+      {
+        "id": "LES-004-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-004#19#B1",
+        "parent_prompt_trace": "KB-004#19#B1",
+        "text": "*(No specific external resources required for this micro-concept. Review TOP-001 resources if needed.)*"
+      },
+      {
+        "id": "LES-004-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-004#20#B1",
+        "parent_prompt_trace": "KB-004#20#B1",
+        "text": "### Prerequisites\n- **Chess Board** (TOP-001)\n\n### Next Topics\n- **Squares** (TOP-005)\n- **Coordinates** (TOP-006)\n- **Pawn** (TOP-013)\n\n### Related Concepts\n- **Files** (TOP-003) — The vertical counterpart to ranks."
+      },
+      {
+        "id": "LES-004-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check ✅",
+        "source_trace": "KB-004#21#B1",
+        "parent_prompt_trace": "KB-004#21#B1",
+        "text": "- [ ] Do I understand that ranks are horizontal rows?\n- [ ] Do I know ranks are numbered 1 through 8?\n- [ ] Did my child physically trace a rank with their finger?\n- [ ] Can my child explain that ranks go \"left and right\"?\n- [ ] Does my child know White pawns start on Rank 2?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to **Squares (TOP-005)** or **Coordinates (TOP-006)**.\n**🔄 If several answers are \"No\":** Play the \"Ladder Climb\" game in Section 16 to reinforce the numbers."
+      }
+    ]
+  }
+}

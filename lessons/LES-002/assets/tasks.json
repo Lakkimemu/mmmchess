@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-002",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-002-01",
+      "kb_id": "KB-002",
+      "lesson_id": "LES-002",
+      "task_type": "FIND_SQUARE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Touch your right hand.",
+      "hint": "This is the hand on your right side.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The child's right hand."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-002.yaml",
+        "source_sha256": "0eb513a202a095a12629d2b2832a1c636bf79c31cf144f1e9bc141468d09edb1",
+        "field": "exercises",
+        "anchor": "EX-002-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-002-02",
+      "kb_id": "KB-002",
+      "lesson_id": "LES-002",
+      "task_type": "FIND_SQUARE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Point to the bottom-right board corner.",
+      "hint": "Find the closest corner to your right hand.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The corner nearest the child's right hand."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-002.yaml",
+        "source_sha256": "0eb513a202a095a12629d2b2832a1c636bf79c31cf144f1e9bc141468d09edb1",
+        "field": "exercises",
+        "anchor": "EX-002-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-002-03",
+      "kb_id": "KB-002",
+      "lesson_id": "LES-002",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Decide whether the board is correctly oriented.",
+      "hint": "Use the memory phrase.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Correct only when bottom-right is light."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-002.yaml",
+        "source_sha256": "0eb513a202a095a12629d2b2832a1c636bf79c31cf144f1e9bc141468d09edb1",
+        "field": "exercises",
+        "anchor": "EX-002-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-002-04",
+      "kb_id": "KB-002",
+      "lesson_id": "LES-002",
+      "task_type": "PLACE_PIECE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Fix an incorrectly rotated board.",
+      "hint": "Check the corner beside your right hand.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Rotate it until bottom-right is light."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-002.yaml",
+        "source_sha256": "0eb513a202a095a12629d2b2832a1c636bf79c31cf144f1e9bc141468d09edb1",
+        "field": "exercises",
+        "anchor": "EX-002-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-002-05",
+      "kb_id": "KB-002",
+      "lesson_id": "LES-002",
+      "task_type": "PLACE_PIECE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Move to the opposite chair and verify the board.",
+      "hint": "Check from the new player's view.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The bottom-right corner from that chair is also light."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-002.yaml",
+        "source_sha256": "0eb513a202a095a12629d2b2832a1c636bf79c31cf144f1e9bc141468d09edb1",
+        "field": "exercises",
+        "anchor": "EX-002-05"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

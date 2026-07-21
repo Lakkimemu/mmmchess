@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-003",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-003-01",
+      "kb_id": "KB-003",
+      "lesson_id": "LES-003",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Trace any one file.",
+      "hint": "Move from one player's side toward the other.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "A vertical line of eight squares."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-003.yaml",
+        "source_sha256": "0be9d98bd427ef203a85acc463d32101197ded78aab98aa35caf033127c9d315",
+        "field": "exercises",
+        "anchor": "EX-003-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-003-02",
+      "kb_id": "KB-003",
+      "lesson_id": "LES-003",
+      "task_type": "FIND_SQUARE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Find the a-file.",
+      "hint": "Look for the letter a on the edge.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The vertical file labeled a."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-003.yaml",
+        "source_sha256": "0be9d98bd427ef203a85acc463d32101197ded78aab98aa35caf033127c9d315",
+        "field": "exercises",
+        "anchor": "EX-003-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-003-03",
+      "kb_id": "KB-003",
+      "lesson_id": "LES-003",
+      "task_type": "FIND_SQUARE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Find the h-file.",
+      "hint": "Look at the opposite outside edge.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The vertical file labeled h."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-003.yaml",
+        "source_sha256": "0be9d98bd427ef203a85acc463d32101197ded78aab98aa35caf033127c9d315",
+        "field": "exercises",
+        "anchor": "EX-003-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-003-04",
+      "kb_id": "KB-003",
+      "lesson_id": "LES-003",
+      "task_type": "PLACE_PIECE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Place eight tokens on one file.",
+      "hint": "Do not move sideways.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "All tokens form one vertical line."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-003.yaml",
+        "source_sha256": "0be9d98bd427ef203a85acc463d32101197ded78aab98aa35caf033127c9d315",
+        "field": "exercises",
+        "anchor": "EX-003-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-003-05",
+      "kb_id": "KB-003",
+      "lesson_id": "LES-003",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Say whether a horizontal line is a file.",
+      "hint": "Files stand tall.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No; files are vertical."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-003.yaml",
+        "source_sha256": "0be9d98bd427ef203a85acc463d32101197ded78aab98aa35caf033127c9d315",
+        "field": "exercises",
+        "anchor": "EX-003-05"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+schema_version: 1
+diagram_id: DGM-028-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-FORK-KNIGHT-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KNIGHT
+    square: c7
+  - color: BLACK
+    piece_type: KING
+    square: e8
+  - color: BLACK
+    piece_type: ROOK
+    square: a8
+position_sha256: 3613fe8bf9e68d5b3010863c8eca7c4d0d75251e4eaec0b6ddec1c9f06243ad5
+presentation_sha256: 629fc329421dbc1bb013459e0cc82704f87e73da285948a8a6a000868ede9612
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- ATTACKS
+- ATTACKS
+- TARGET_COUNT_AT_LEAST
+- PIECE_COUNT_AT_MOST
+source_trace: KB-028#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: e24a3799ca691e72d68ed72113d6e4b5ce4382612f83f4dccc68c3214e50ab9d
+output_svg_sha256: e24a3799ca691e72d68ed72113d6e4b5ce4382612f83f4dccc68c3214e50ab9d

@@ -1,0 +1,19 @@
+schema_version: 1
+diagram_id: DGM-003-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-FILES-EFILE-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces: []
+position_sha256: 8bcf57292a86a6b86973b6025adeb5314f4322e51c203e27e081a02154e7def2
+presentation_sha256: e9322159eab6f6148397e73bf9034dccb2409b216b912f937fab39b53950b7e1
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-003#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 907edc37ff701646e31bb1e0f1ac12a3433b073dd22faa6e41d816a99f105df9
+output_svg_sha256: 907edc37ff701646e31bb1e0f1ac12a3433b073dd22faa6e41d816a99f105df9

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="760" viewBox="0 0 860 760" role="img" aria-label="DGM-004-01">
+<metadata><renderer_version>1.0.0</renderer_version><animation_supported>true</animation_supported></metadata>
+<defs><filter id="boardShadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#26361F" flood-opacity="0.25"/><feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#26361F" flood-opacity="0.15"/></filter><filter id="boardInsetShadow"><feOffset dx="0" dy="0"/><feGaussianBlur stdDeviation="3" result="offset-blur"/><feComposite operator="out" in="SourceGraphic" in2="offset-blur" result="inverse"/><feFlood flood-color="black" flood-opacity="0.3" result="color"/><feComposite operator="in" in="color" in2="inverse" result="shadow"/><feComposite operator="over" in="shadow" in2="SourceGraphic"/></filter><filter id="feltTexture" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" result="noise"/><feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.1 0" in="noise" result="coloredNoise"/><feBlend in="SourceGraphic" in2="coloredNoise" mode="multiply"/></filter><filter id="softGoldGlow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7" result="blur"/><feFlood flood-color="#FFD166" flood-opacity="0.45" result="color"/><feComposite in="color" in2="blur" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="correctGreenGlow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7" result="blur"/><feFlood flood-color="#66D19E" flood-opacity="0.45" result="color"/><feComposite in="color" in2="blur" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="threatRedGlow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7" result="blur"/><feFlood flood-color="#FF6B6B" flood-opacity="0.45" result="color"/><feComposite in="color" in2="blur" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="teachingPurpleGlow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7" result="blur"/><feFlood flood-color="#A78BFA" flood-opacity="0.45" result="color"/><feComposite in="color" in2="blur" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="targetOrangeGlow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7" result="blur"/><feFlood flood-color="#FFA94D" flood-opacity="0.45" result="color"/><feComposite in="color" in2="blur" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="pieceStrongShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="2.5" stdDeviation="2.8" flood-color="#111111" flood-opacity="0.52"/></filter><filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.16"/></filter><linearGradient id="labelGrad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#FFF9E6"/></linearGradient></defs>
+<style>
+  @media (prefers-reduced-motion: no-preference) {
+    @keyframes pulseGlow { 0% { opacity: 0.2; } 50% { opacity: 0.5; } 100% { opacity: 0.2; } }
+    @keyframes fadeIn { 0% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes drawOn { 0% { stroke-dashoffset: 1000; } 100% { stroke-dashoffset: 0; } }
+    @keyframes gentleBounce { 0% { transform: translateY(0); } 50% { transform: translateY(-3px); } 100% { transform: translateY(0); } }
+    .pattern-label { animation: fadeIn 0.6s ease-out both; }
+    .draw-arrow { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: drawOn 1.2s ease-out forwards; }
+    #puzzle-prompt { animation: gentleBounce 2s ease-in-out infinite; }
+  }
+</style>
+
+<rect width="860" height="760" fill="#FFFDF8"/>
+<g id="layout-frame"><defs><linearGradient id="frameGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#FFFDF8"/><stop offset="100%" stop-color="#F5EDD8"/></linearGradient></defs><rect x="18" y="18" width="824" height="724" rx="28" fill="url(#frameGrad)" stroke="#E8DFC7" filter="url(#cardShadow)"/><rect x="34" y="34" width="792" height="692" rx="22" fill="#FFFFFF" stroke="#F1E8D4"/></g>
+<g id="layout-header" font-family="Poppins, Nunito, Inter, sans-serif">
+<text x="430.00" y="78.00" text-anchor="middle" font-size="32" font-weight="800" letter-spacing="0.5" fill="#1A1A1A">
+<tspan x="430.00" dy="0">Core takeaway: Ranks</tspan>
+</text>
+<text x="430.00" y="112.00" text-anchor="middle" font-size="18" font-weight="400" fill="#444444">Source section: 9. Board Diagram 1 — Basic Concept</text>
+</g>
+<g id="summary-card" font-family="Poppins, Nunito, Inter, sans-serif">
+<rect x="76.00" y="166.00" width="708.00" height="418.00" rx="18" fill="#FFF9E6" stroke="#FFE082" filter="url(#cardShadow)"/>
+<circle cx="122.00" cy="233.00" r="14" fill="#66D19E"/>
+<text x="122.00" y="238.00" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">1</text>
+<text x="152.00" y="240.00" font-size="20" font-weight="600" fill="#1A1A1A">Core takeaway for Ranks</text>
+<circle cx="122.00" cy="307.00" r="14" fill="#66D19E"/>
+<text x="122.00" y="312.00" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">2</text>
+<text x="152.00" y="314.00" font-size="20" font-weight="600" fill="#1A1A1A">TOP-004</text>
+</g>
+<g id="square-highlights">
+</g>
+<g id="pattern-target-glows">
+</g>
+<g id="piece-highlights">
+</g>
+<g id="pattern-feature-labels" font-family="Poppins, Nunito, Inter, sans-serif">
+</g>
+</svg>

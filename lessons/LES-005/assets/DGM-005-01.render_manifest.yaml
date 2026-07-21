@@ -1,0 +1,14 @@
+diagram_id: DGM-005-01
+source_package: KB-005
+renderer_version: 1.0.0
+theme_id: PCA_DEFAULT
+layout: LAYOUT_SUMMARY_CARD
+assets_used: []
+patterns_used:
+- VP-015
+pattern_requests:
+- id: VP-015
+  resolved_id: VP-015
+  parameters:
+    source_section: 9. Board Diagram 1 — Basic Concept
+generated_at: '2026-07-11T16:31:43.289431+00:00'

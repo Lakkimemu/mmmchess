@@ -1,0 +1,19 @@
+schema_version: 1
+diagram_id: DGM-002-03
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-BOARD-ORIENT-OPPOSITE-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces: []
+position_sha256: fea32365ab5e90746b6475a244da9944c4ca3463ea54b18ace29d0b24037f7ac
+presentation_sha256: 4da71696feaec1ec1c7d51a2d930cb9637c01f425811a0391c2be4dbfe2d7231
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-002#16#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 96f73fcbce13c7a2dbf991af787775a1c7b9c396f27375522ed595efb1fac840
+output_svg_sha256: 96f73fcbce13c7a2dbf991af787775a1c7b9c396f27375522ed595efb1fac840

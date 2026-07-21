@@ -1,0 +1,15 @@
+{
+  "lesson_id": "LES-002",
+  "assessment_id": "ASM-002",
+  "rubric": {
+    "criteria": "- [ ] Do I understand the \"Light on Right\" rule?\n- [ ] Can I instantly spot if a board is sideways?\n- [ ] Did my child physically touch the right-hand corner during the lesson?\n- [ ] Can my child identify a sideways board?\n- [ ] Does my child know that both players have a light square on their right?",
+    "source_trace": "KB-002#21#B1"
+  },
+  "task_references": [
+    "PZL-002-01",
+    "PZL-002-02",
+    "PZL-002-03",
+    "PZL-002-04",
+    "PZL-002-05"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-001",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-001-01",
+      "kb_id": "KB-001",
+      "lesson_id": "LES-001",
+      "task_type": "FIND_SQUARE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Point to any light square.",
+      "hint": "Look for the lighter color.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Any light-colored square."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-001.yaml",
+        "source_sha256": "adc817c2d1e6d34466d279ed8a800152536eee12751c304de350191ed8383f81",
+        "field": "exercises",
+        "anchor": "EX-001-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-001-02",
+      "kb_id": "KB-001",
+      "lesson_id": "LES-001",
+      "task_type": "FIND_SQUARE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Point to any dark square.",
+      "hint": "Look beside a light square.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Any dark-colored square."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-001.yaml",
+        "source_sha256": "adc817c2d1e6d34466d279ed8a800152536eee12751c304de350191ed8383f81",
+        "field": "exercises",
+        "anchor": "EX-001-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-001-03",
+      "kb_id": "KB-001",
+      "lesson_id": "LES-001",
+      "task_type": "FIND_SQUARE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Count the squares along one edge.",
+      "hint": "Touch each square once.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Eight."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-001.yaml",
+        "source_sha256": "adc817c2d1e6d34466d279ed8a800152536eee12751c304de350191ed8383f81",
+        "field": "exercises",
+        "anchor": "EX-001-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-001-04",
+      "kb_id": "KB-001",
+      "lesson_id": "LES-001",
+      "task_type": "PLACE_PIECE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Put a token on a corner square.",
+      "hint": "Find where two edges meet.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Any of the four corner squares."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-001.yaml",
+        "source_sha256": "adc817c2d1e6d34466d279ed8a800152536eee12751c304de350191ed8383f81",
+        "field": "exercises",
+        "anchor": "EX-001-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-001-05",
+      "kb_id": "KB-001",
+      "lesson_id": "LES-001",
+      "task_type": "FIND_SQUARE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Find two neighboring squares with different colors.",
+      "hint": "The colors take turns.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Any adjacent light-and-dark pair."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-001.yaml",
+        "source_sha256": "adc817c2d1e6d34466d279ed8a800152536eee12751c304de350191ed8383f81",
+        "field": "exercises",
+        "anchor": "EX-001-05"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

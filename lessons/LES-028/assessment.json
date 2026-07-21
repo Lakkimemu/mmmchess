@@ -1,0 +1,16 @@
+{
+  "lesson_id": "LES-028",
+  "assessment_id": "ASM-028",
+  "rubric": {
+    "criteria": "- [ ] Do I understand that a Fork exploits the \"one move per turn\" rule?\n- [ ] Do I know why a fork involving a Check is the most powerful?\n- [ ] Do I know that Pawns can deliver forks too?\n- [ ] Did we practice the \"Dragon Drill\"?",
+    "source_trace": "KB-028#21#B1"
+  },
+  "task_references": [
+    "PZL-028-01",
+    "PZL-028-02",
+    "PZL-028-03",
+    "PZL-028-04",
+    "PZL-028-05",
+    "PZL-028-06"
+  ]
+}

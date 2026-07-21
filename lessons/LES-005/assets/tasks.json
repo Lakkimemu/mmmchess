@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-005",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-005-01",
+      "kb_id": "KB-005",
+      "lesson_id": "LES-005",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Show where the a-file and first rank meet.",
+      "hint": "Follow file a and rank 1.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "a1."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-005.yaml",
+        "source_sha256": "22472f3a1bb5d04aa0595d108006370e02488e557962ab5ca34ceec047430af0",
+        "field": "exercises",
+        "anchor": "EX-005-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-005-02",
+      "kb_id": "KB-005",
+      "lesson_id": "LES-005",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Show where the h-file and eighth rank meet.",
+      "hint": "Follow file h and rank 8.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "h8."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-005.yaml",
+        "source_sha256": "22472f3a1bb5d04aa0595d108006370e02488e557962ab5ca34ceec047430af0",
+        "field": "exercises",
+        "anchor": "EX-005-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-005-03",
+      "kb_id": "KB-005",
+      "lesson_id": "LES-005",
+      "task_type": "PLACE_PIECE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Put tokens on the four center squares.",
+      "hint": "Find the middle four squares.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "d4"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-005.yaml",
+        "source_sha256": "22472f3a1bb5d04aa0595d108006370e02488e557962ab5ca34ceec047430af0",
+        "field": "exercises",
+        "anchor": "EX-005-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-005-04",
+      "kb_id": "KB-005",
+      "lesson_id": "LES-005",
+      "task_type": "FIND_SQUARE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Point to any edge square that is not a corner.",
+      "hint": "Stay on an edge but move away from the corner.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Any non-corner square on the outside edge."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-005.yaml",
+        "source_sha256": "22472f3a1bb5d04aa0595d108006370e02488e557962ab5ca34ceec047430af0",
+        "field": "exercises",
+        "anchor": "EX-005-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-005-05",
+      "kb_id": "KB-005",
+      "lesson_id": "LES-005",
+      "task_type": "EXPLAIN_POSITION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Explain what makes one square's location.",
+      "hint": "One letter road crosses one number road.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "One file and one rank."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-005.yaml",
+        "source_sha256": "22472f3a1bb5d04aa0595d108006370e02488e557962ab5ca34ceec047430af0",
+        "field": "exercises",
+        "anchor": "EX-005-05"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}
