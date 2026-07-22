@@ -1,0 +1,19 @@
+schema_version: 1
+diagram_id: DGM-006-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-COORDINATES-INTERSECTION-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces: []
+position_sha256: 7f462b1065f43904a8955005e49f2931a828956801c97ec1e10e794ef8b2c7e6
+presentation_sha256: a4513fac15ea3e6e620a15c388230bdb6059f255f950994e26f4a51bf24e0bba
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-006#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: a84d5a6d57565da219216e5f9097dcc06e6b12110a13bce502b78f6764a7f7d4
+output_svg_sha256: a84d5a6d57565da219216e5f9097dcc06e6b12110a13bce502b78f6764a7f7d4

@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-007",
+  "assessment_id": "ASM-007",
+  "rubric": {
+    "criteria": "- [ ] Do I understand how to find a coordinate using the edges?\n- [ ] Do I know that the letter always comes first?\n- [ ] Did my child successfully use their fingers to trace to a square?\n- [ ] Can my child name a square that I point to?\n- [ ] Can my child place a piece on a square that I name?",
+    "source_trace": "KB-006#21#B1"
+  },
+  "task_references": [
+    "PZL-007-01",
+    "PZL-007-02",
+    "PZL-007-03",
+    "PZL-007-04"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-007",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-007-01",
+      "kb_id": "KB-006",
+      "lesson_id": "LES-007",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "When naming a square, which comes first: the letter or the number?",
+      "hint": "Letters lead the way.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The letter!"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-007.yaml",
+        "source_sha256": "b9bf54d020d8437be8fbd84bbc8fac649ba16b6ad9d7245a85a00686824569d7",
+        "field": "exercises",
+        "anchor": "EX-007-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-007-02",
+      "kb_id": "KB-006",
+      "lesson_id": "LES-007",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Look at the highlighted square. What is its secret name?",
+      "hint": "Check the bottom letter and side number.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "g7"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-007.yaml",
+        "source_sha256": "b9bf54d020d8437be8fbd84bbc8fac649ba16b6ad9d7245a85a00686824569d7",
+        "field": "exercises",
+        "anchor": "EX-007-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-007-03",
+      "kb_id": "KB-006",
+      "lesson_id": "LES-007",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "If you place a piece on a1, and move it straight up the board by 3 squares, what coordinate is it on now?",
+      "hint": "Move up the a-file.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "a4"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-007.yaml",
+        "source_sha256": "b9bf54d020d8437be8fbd84bbc8fac649ba16b6ad9d7245a85a00686824569d7",
+        "field": "exercises",
+        "anchor": "EX-007-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-007-04",
+      "kb_id": "KB-006",
+      "lesson_id": "LES-007",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "If you place a piece on a1, and move it straight right by 3 squares, what coordinate is it on now?",
+      "hint": "Move along the 1st rank.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "d1"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-007.yaml",
+        "source_sha256": "b9bf54d020d8437be8fbd84bbc8fac649ba16b6ad9d7245a85a00686824569d7",
+        "field": "exercises",
+        "anchor": "EX-007-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,1263 @@
+{
+  "lesson_id": "LES-007",
+  "kb_id": "KB-006",
+  "topic_id": "TOP-006",
+  "unit_id": "UNT-001",
+  "sequence": 7,
+  "objective": "**🎯 Today's Goal:**\nYour child can combine a file letter and a rank number to name any specific square on the board.",
+  "success_criteria": "**✅ Lesson Success Criteria:**\n- Child understands that the letter always comes first (e.g., \"e4\", not \"4e\").\n- Child can correctly locate a called-out square on the board.\n- Child can name the square a piece is currently standing on.",
+  "source_traces": {
+    "objective": "KB-006#1#B2",
+    "success_criteria": "KB-006#1#B3"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-006#1",
+      "content": "- **Topic**: Coordinates\n- **Difficulty**: Beginner\n- **Typical age**: 7+\n- **Estimated teaching time**: 15 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: Files (TOP-003), Ranks (TOP-004), Squares (TOP-005)\n\n**🎯 Today's Goal:**\nYour child can combine a file letter and a rank number to name any specific square on the board.\n\n**✅ Lesson Success Criteria:**\n- Child understands that the letter always comes first (e.g., \"e4\", not \"4e\").\n- Child can correctly locate a called-out square on the board.\n- Child can name the square a piece is currently standing on.\n\n*(Purpose: \"Can I teach this today?\" Yes, if they know files and ranks. This is how chess players communicate.)*\n\n---"
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-006#2",
+      "content": "Coordinates are the naming system used to identify every single square on the chess board. The coordinate of a square is a two-character name: the letter of its file followed immediately by the number of its rank (for example, **e4** or **h8**). \n\n---"
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-006#3",
+      "content": "Coordinates are the language of chess. If your child wants to read a chess book, watch a chess video, use a chess app, or write down their moves in a tournament, they must know coordinates. Without coordinates, you can only say \"move that horsey thing over there.\" With coordinates, you can say \"Knight to f3.\" It transforms chess from a confusing puzzle into a clear, communicable map.\n\n---"
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-006#4",
+      "content": "**Prerequisites:**\n- ✓ Files (TOP-003)\n- ✓ Ranks (TOP-004)\n- ✓ Squares (TOP-005)\n\n**What this unlocks:**\n- ✓ Algebraic Notation (TOP-017)\n\n---"
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-006#5",
+      "content": "*This section is for YOUR understanding. Read it, absorb it.*\n\nEvery square is an intersection of a file (vertical, a-h) and a rank (horizontal, 1-8). \nTo name the square, you simply smash the file and rank together. \n**The rule is absolute: The letter ALWAYS comes first.** It is never \"4e\"; it is always \"e4\".\n\nThink of it like playing the game Battleship. You find the letter on the bottom edge, follow it up, find the number on the side edge, follow it across, and where your fingers meet is the coordinate. \n\nThe bottom-left corner from White's perspective is always **a1**. The top-right corner is **h8**.\n\n---"
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-006#6",
+      "content": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — The Name Game (2 mins)\n> *\"Every single square on this board has a secret name. If you know the secret names, you can read chess books and talk like a grandmaster. Do you want to learn the secret code?\"*\n\n### Step 2 — The Finger Slide (3 mins)\nPlace a pawn on e4. \n> *\"To find a square's name, we use two fingers. Put one finger on the letter at the bottom. Put your other finger on the number at the side. Now slide them together until they crash!\"*\nDemonstrate sliding up from 'e' and across from '4' until your fingers meet at the pawn.\n\n### Step 3 — The Letter First Rule (2 mins)\n> *\"When they crash, they make a name! But there's a strict rule: The letter always gets to speak first. So we don't say 4e... we say **e4**! What square is this pawn on? e4!\"*\n\n### Step 4 — Guided Practice (3 mins)\nMove the pawn to a few different squares (d5, g2, b7) and have them do the finger slide to tell you the name. Always correct them gently if they put the number first.\n\n---"
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-006#7",
+      "content": "> **🚢 The Battleship Analogy**\n> \n> If you have ever played the game Battleship, chess coordinates work exactly the same way! You are trying to find the exact spot on the map. You look at the letters on the bottom (the streets) and the numbers on the side (the house numbers).\n>\n> **Memory Trick:**\n> **\"Letters lead the way!\"** (To remind them that the letter always comes before the number).\n\n---"
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know? 🎓",
+      "source_trace": "KB-006#8",
+      "content": "In the old days, chess players used a very complicated system called \"Descriptive Notation\" where they would write things like \"Pawn to King's Bishop 4.\" It was incredibly confusing! The coordinate system we use today (Algebraic Notation) was officially adopted by the World Chess Federation because it is so much easier for children (and adults!) to learn.\n\n---"
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-006#9",
+      "content": "**Finding e4**\n\n![DGM-001 Finding E4](../../assets/diagrams/TOP-006/DGM-001_Finding_E4.svg)\n*To find e4, track up from the 'e' file and across from the '4' rank. Where they meet is the e4 square.*\n\n---"
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-006#10",
+      "content": "Because there are 8 files and 8 ranks, there are 64 unique combinations. No two squares have the same coordinate. If a coach tells you to \"place a Rook on h1,\" there is only one possible square in the entire universe they could be talking about.\n\n---"
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-006#11",
+      "content": "**The Four Corners**\n\n![DGM-003 Corners](../../assets/diagrams/TOP-006/DGM-003_Corners.svg)\n*The absolute edges of the map: a1 (bottom-left), h1 (bottom-right), a8 (top-left), h8 (top-right).*\n\n---"
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-006#12",
+      "content": "![DGM-002 All Coords](../../assets/diagrams/TOP-006/DGM-002_All_Coords.svg)\nThis is what the board looks like to a Grandmaster. They don't just see blank squares; they instantly see the name of every square. When Magnus Carlsen thinks about a move, his brain is literally saying, \"If I go to f6, he goes to g5.\"\n\n---"
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-006#13",
+      "content": "### Chess Mistakes\n- ❌ **Number first** — Saying \"4e\" instead of \"e4\". Fix this every time it happens. \"Letters lead the way!\"\n- ❌ **Counting from the wrong side** — If playing Black, a child might look at the row closest to them and think it's Rank 1, calling a square \"e1\" when it is actually \"e8\". Remind them the printed numbers never change.\n\n### Teaching Mistakes\n- ❌ **Forcing memorization too early** — Don't force a child to memorize the board without using their fingers to trace. The finger-slide is a necessary physical crutch that they will naturally outgrow.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child keeps mixing up the letter and number order, write their initials on a piece of paper. Say, \"Just like your first name comes before your last name, the letter's name comes before the number's name.\"\n\n---"
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-006#14",
+      "content": "- **Patience is key:** Reading coordinates takes time. A 6-year-old might take 10 seconds to figure out a single square. Let them take 10 seconds. Do not rush them or say the answer for them.\n- **Signs they understand:** They correctly read the letter from the bottom edge and the number from the side, combining them in the right order.\n\n> **🧑‍🏫 Coach Tip:**\n> A great way to practice is to make coordinates a part of daily play. Instead of saying \"Put your pieces away,\" say \"Can you put all the White pawns on the 2nd rank, starting at a2?\"\n\n---"
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-006#15",
+      "content": "**Q: My board doesn't have letters and numbers on the edges. What do I do?**\nA: You really need them for this lesson. You can buy a cheap roll-up vinyl board with coordinates, or you can write them on masking tape and stick them to the edges of your wooden board. \n\n**Q: Do they need to instantly know where \"g6\" is without looking at the edges?**\nA: No! \"Blind\" board vision takes years of practice. For a beginner, taking a few seconds to slide their fingers from the edges is perfectly fine and completely normal.\n\n**Q: Should I teach them how to write down moves today?**\nA: No. Writing moves (Algebraic Notation, TOP-017) involves piece letters (like 'N' for Knight) combined with coordinates. That is too much for today. Today is just about naming the squares.\n\n---"
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-006#16",
+      "content": "### 🏴‍☠️ Pirate Treasure Map\nTake a coin or a piece of candy and place it on a square. Tell your child, \"The pirate treasure is buried at...\" and wait. They have to read the coordinates of the square to claim the treasure!\n\n### 🎯 The Caller\nGive your child a Knight. You call out a coordinate: \"c3!\" They must take their Knight and place it on c3. Then, swap! They call out a coordinate, and you have to place the piece. (Make a mistake on purpose occasionally and see if they catch you).\n\n---"
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge ⭐",
+      "source_trace": "KB-006#17",
+      "content": "### 🏆 The Coordinate Bingo\n**Challenge your child:**\n> \"I am going to place 5 pawns on random squares. I'll time you to see how fast you can name all 5 squares!\"\n\n**Rules:**\n1. Place 5 pawns randomly on the board.\n2. Start a timer.\n3. The child points to each pawn and names the coordinate (e.g., \"d4... a7... f2...\").\n4. Stop the timer when they get all 5 right.\n5. Do it again and see if they can beat their record!\n\n---"
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-006#18",
+      "content": "### 🟢 Recognition (Easy)\nWhen naming a square, which comes first: the letter or the number?\n*Answer: The letter! Letters lead the way (e.g., e4).*\n\n### 🟡 Application (Medium)\nLook at the highlighted square below. What is its secret name?\n![DGM-006-04 Puzzle](../../assets/diagrams/TOP-006/DGM-006-04_Puzzle.svg)\n*Answer: g7.*\n\n### 🔴 Challenge (Hard)\n![DGM-006-05 Puzzle Solution](../../assets/diagrams/TOP-006/DGM-006-05_Puzzle_Solution.svg)\nIf you place a piece on **a1**, and move it straight up the board by 3 squares, what coordinate is it on now?\n*Answer: a4! (a1 -> a2 -> a3 -> a4).*\n\n---"
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-006#19",
+      "content": "### Interactive Practice\n- **Lichess Coordinate Trainer** — An excellent, gamified tool where squares light up and you have to click the right one before time runs out. Great for older kids (8+). *(RESRC-007)*\n  - https://lichess.org/training/coordinate\n- **Lichess Learn Board Exercises** — Perfect for younger kids (6-8) to practice moving to target squares. *(RESRC-008)*\n  - https://lichess.org/learn#/\n\n---"
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-006#20",
+      "content": "### Prerequisites\n- **Files** (TOP-003)\n- **Ranks** (TOP-004)\n- **Squares** (TOP-005)\n\n### Next Topics\n- **Algebraic Notation** (TOP-017) — Using coordinates to write down moves.\n\n### Related Concepts\n- None\n\n---"
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check ✅",
+      "source_trace": "KB-006#21",
+      "content": "- [ ] Do I understand how to find a coordinate using the edges?\n- [ ] Do I know that the letter always comes first?\n- [ ] Did my child successfully use their fingers to trace to a square?\n- [ ] Can my child name a square that I point to?\n- [ ] Can my child place a piece on a square that I name?\n\n**✅ If most answers are \"Yes\":** Congratulations — your child can now read the chess map! Move on to **Chess Pieces (TOP-007)**.\n**🔄 If several answers are \"No\":** Play \"The Caller\" game in Section 16 to build their confidence.\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  diagrams: 5\n  mini_puzzles: 3\n  external_resources: 2\n  coach_challenges: 1\n  practice_activities: 2\n  coach_tips: 2\n  parent_faq: 3\n  estimated_read_time: 15 min\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-007-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-006#1#B1",
+      "parent_prompt_trace": "KB-006#1#B1",
+      "text": "- **Topic**: Coordinates\n- **Difficulty**: Beginner\n- **Typical age**: 7+\n- **Estimated teaching time**: 15 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: Files (TOP-003), Ranks (TOP-004), Squares (TOP-005)\n\n**🎯 Today's Goal:**\nYour child can combine a file letter and a rank number to name any specific square on the board.\n\n**✅ Lesson Success Criteria:**\n- Child understands that the letter always comes first (e.g., \"e4\", not \"4e\").\n- Child can correctly locate a called-out square on the board.\n- Child can name the square a piece is currently standing on.\n\n*(Purpose: \"Can I teach this today?\" Yes, if they know files and ranks. This is how chess players communicate.)*"
+    },
+    {
+      "id": "LES-007-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-006#2#B1",
+      "parent_prompt_trace": "KB-006#2#B1",
+      "text": "Coordinates are the naming system used to identify every single square on the chess board. The coordinate of a square is a two-character name: the letter of its file followed immediately by the number of its rank (for example, **e4** or **h8**)."
+    },
+    {
+      "id": "LES-007-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-006#3#B1",
+      "parent_prompt_trace": "KB-006#3#B1",
+      "text": "Coordinates are the language of chess. If your child wants to read a chess book, watch a chess video, use a chess app, or write down their moves in a tournament, they must know coordinates. Without coordinates, you can only say \"move that horsey thing over there.\" With coordinates, you can say \"Knight to f3.\" It transforms chess from a confusing puzzle into a clear, communicable map."
+    },
+    {
+      "id": "LES-007-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-006#4#B1",
+      "parent_prompt_trace": "KB-006#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Files (TOP-003)\n- ✓ Ranks (TOP-004)\n- ✓ Squares (TOP-005)\n\n**What this unlocks:**\n- ✓ Algebraic Notation (TOP-017)"
+    },
+    {
+      "id": "LES-007-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-006#5#B1",
+      "parent_prompt_trace": "KB-006#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\nEvery square is an intersection of a file (vertical, a-h) and a rank (horizontal, 1-8). \nTo name the square, you simply smash the file and rank together. \n**The rule is absolute: The letter ALWAYS comes first.** It is never \"4e\"; it is always \"e4\".\n\nThink of it like playing the game Battleship. You find the letter on the bottom edge, follow it up, find the number on the side edge, follow it across, and where your fingers meet is the coordinate.\n\nThe bottom-left corner from White's perspective is always **a1**. The top-right corner is **h8**."
+    },
+    {
+      "id": "LES-007-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-006#6#B1",
+      "parent_prompt_trace": "KB-006#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — The Name Game (2 mins)\n> *\"Every single square on this board has a secret name. If you know the secret names, you can read chess books and talk like a grandmaster. Do you want to learn the secret code?\"*\n\n### Step 2 — The Finger Slide (3 mins)\nPlace a pawn on e4. \n> *\"To find a square's name, we use two fingers. Put one finger on the letter at the bottom. Put your other finger on the number at the side. Now slide them together until they crash!\"*\nDemonstrate sliding up from 'e' and across from '4' until your fingers meet at the pawn.\n\n### Step 3 — The Letter First Rule (2 mins)\n> *\"When they crash, they make a name! But there's a strict rule: The letter always gets to speak first. So we don't say 4e... we say **e4**! What square is this pawn on? e4!\"*\n\n### Step 4 — Guided Practice (3 mins)\nMove the pawn to a few different squares (d5, g2, b7) and have them do the finger slide to tell you the name. Always correct them gently if they put the number first."
+    },
+    {
+      "id": "LES-007-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-006#7#B1",
+      "parent_prompt_trace": "KB-006#7#B1",
+      "text": "> **🚢 The Battleship Analogy**\n> \n> If you have ever played the game Battleship, chess coordinates work exactly the same way! You are trying to find the exact spot on the map. You look at the letters on the bottom (the streets) and the numbers on the side (the house numbers).\n>\n> **Memory Trick:**\n> **\"Letters lead the way!\"** (To remind them that the letter always comes before the number)."
+    },
+    {
+      "id": "LES-007-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-006#8#B1",
+      "parent_prompt_trace": "KB-006#8#B1",
+      "text": "In the old days, chess players used a very complicated system called \"Descriptive Notation\" where they would write things like \"Pawn to King's Bishop 4.\" It was incredibly confusing! The coordinate system we use today (Algebraic Notation) was officially adopted by the World Chess Federation because it is so much easier for children (and adults!) to learn."
+    },
+    {
+      "id": "LES-007-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-006#9#B1",
+      "parent_prompt_trace": "KB-006#9#B1",
+      "text": "**Finding e4**\n\n*To find e4, track up from the 'e' file and across from the '4' rank. Where they meet is the e4 square.*",
+      "diagram_id": "DGM-006-01",
+      "diagram_url": "assets/DGM-006-01.svg",
+      "position_id": "POS-COORDINATES-INTERSECTION-001",
+      "position_version": 1,
+      "position_title": "Empty board for e4 intersection",
+      "diagram_alt": "Empty board for e4 intersection"
+    },
+    {
+      "id": "LES-007-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-006#10#B1",
+      "parent_prompt_trace": "KB-006#10#B1",
+      "text": "Because there are 8 files and 8 ranks, there are 64 unique combinations. No two squares have the same coordinate. If a coach tells you to \"place a Rook on h1,\" there is only one possible square in the entire universe they could be talking about."
+    },
+    {
+      "id": "LES-007-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-006#11#B1",
+      "parent_prompt_trace": "KB-006#11#B1",
+      "text": "**The Four Corners**\n\n*The absolute edges of the map: a1 (bottom-left), h1 (bottom-right), a8 (top-left), h8 (top-right).*",
+      "diagram_id": "DGM-006-02",
+      "diagram_url": "assets/DGM-006-02.svg",
+      "position_id": "POS-COORDINATES-CORNERS-001",
+      "position_version": 1,
+      "position_title": "Empty board corners",
+      "diagram_alt": "Empty board corners"
+    },
+    {
+      "id": "LES-007-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-006#12#B1",
+      "parent_prompt_trace": "KB-006#12#B1",
+      "text": "This is what the board looks like to a Grandmaster. They don't just see blank squares; they instantly see the name of every square. When Magnus Carlsen thinks about a move, his brain is literally saying, \"If I go to f6, he goes to g5.\"",
+      "diagram_id": "DGM-006-03",
+      "diagram_url": "assets/DGM-006-03.svg",
+      "position_id": "POS-COORDINATES-ALL-001",
+      "position_version": 1,
+      "position_title": "Empty board all",
+      "diagram_alt": "Empty board all"
+    },
+    {
+      "id": "LES-007-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-006#13#B1",
+      "parent_prompt_trace": "KB-006#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Number first** — Saying \"4e\" instead of \"e4\". Fix this every time it happens. \"Letters lead the way!\"\n- ❌ **Counting from the wrong side** — If playing Black, a child might look at the row closest to them and think it's Rank 1, calling a square \"e1\" when it is actually \"e8\". Remind them the printed numbers never change.\n\n### Teaching Mistakes\n- ❌ **Forcing memorization too early** — Don't force a child to memorize the board without using their fingers to trace. The finger-slide is a necessary physical crutch that they will naturally outgrow.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child keeps mixing up the letter and number order, write their initials on a piece of paper. Say, \"Just like your first name comes before your last name, the letter's name comes before the number's name.\""
+    },
+    {
+      "id": "LES-007-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-006#14#B1",
+      "parent_prompt_trace": "KB-006#14#B1",
+      "text": "- **Patience is key:** Reading coordinates takes time. A 6-year-old might take 10 seconds to figure out a single square. Let them take 10 seconds. Do not rush them or say the answer for them.\n- **Signs they understand:** They correctly read the letter from the bottom edge and the number from the side, combining them in the right order.\n\n> **🧑‍🏫 Coach Tip:**\n> A great way to practice is to make coordinates a part of daily play. Instead of saying \"Put your pieces away,\" say \"Can you put all the White pawns on the 2nd rank, starting at a2?\""
+    },
+    {
+      "id": "LES-007-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-006#15#B1",
+      "parent_prompt_trace": "KB-006#15#B1",
+      "text": "**Q: My board doesn't have letters and numbers on the edges. What do I do?**\nA: You really need them for this lesson. You can buy a cheap roll-up vinyl board with coordinates, or you can write them on masking tape and stick them to the edges of your wooden board.\n\n**Q: Do they need to instantly know where \"g6\" is without looking at the edges?**\nA: No! \"Blind\" board vision takes years of practice. For a beginner, taking a few seconds to slide their fingers from the edges is perfectly fine and completely normal.\n\n**Q: Should I teach them how to write down moves today?**\nA: No. Writing moves (Algebraic Notation, TOP-017) involves piece letters (like 'N' for Knight) combined with coordinates. That is too much for today. Today is just about naming the squares."
+    },
+    {
+      "id": "LES-007-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-006#16#B1",
+      "parent_prompt_trace": "KB-006#16#B1",
+      "text": "### 🏴‍☠️ Pirate Treasure Map\nTake a coin or a piece of candy and place it on a square. Tell your child, \"The pirate treasure is buried at...\" and wait. They have to read the coordinates of the square to claim the treasure!\n\n### 🎯 The Caller\nGive your child a Knight. You call out a coordinate: \"c3!\" They must take their Knight and place it on c3. Then, swap! They call out a coordinate, and you have to place the piece. (Make a mistake on purpose occasionally and see if they catch you)."
+    },
+    {
+      "id": "LES-007-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-006#17#B1",
+      "parent_prompt_trace": "KB-006#17#B1",
+      "text": "### 🏆 The Coordinate Bingo\n**Challenge your child:**\n> \"I am going to place 5 pawns on random squares. I'll time you to see how fast you can name all 5 squares!\"\n\n**Rules:**\n1. Place 5 pawns randomly on the board.\n2. Start a timer.\n3. The child points to each pawn and names the coordinate (e.g., \"d4... a7... f2...\").\n4. Stop the timer when they get all 5 right.\n5. Do it again and see if they can beat their record!"
+    },
+    {
+      "id": "LES-007-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-006#18#B1",
+      "parent_prompt_trace": "KB-006#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nWhen naming a square, which comes first: the letter or the number?\n*Answer: The letter! Letters lead the way (e.g., e4).*\n\n### 🟡 Application (Medium)\nLook at the highlighted square below. What is its secret name?\n\n*Answer: g7.*\n\n### 🔴 Challenge (Hard)\n\nIf you place a piece on **a1**, and move it straight up the board by 3 squares, what coordinate is it on now?\n*Answer: a4! (a1 -> a2 -> a3 -> a4).*",
+      "diagram_id": "DGM-006-05",
+      "diagram_url": "assets/DGM-006-05.svg",
+      "position_id": "POS-COORDINATES-PUZZLE-002",
+      "position_version": 1,
+      "position_title": "Piece on a1",
+      "diagram_alt": "Piece on a1"
+    },
+    {
+      "id": "LES-007-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-006#19#B1",
+      "parent_prompt_trace": "KB-006#19#B1",
+      "text": "### Interactive Practice\n- **Lichess Coordinate Trainer** — An excellent, gamified tool where squares light up and you have to click the right one before time runs out. Great for older kids (8+). *(RESRC-007)*\n  - https://lichess.org/training/coordinate\n- **Lichess Learn Board Exercises** — Perfect for younger kids (6-8) to practice moving to target squares. *(RESRC-008)*\n  - https://lichess.org/learn#/"
+    },
+    {
+      "id": "LES-007-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-006#20#B1",
+      "parent_prompt_trace": "KB-006#20#B1",
+      "text": "### Prerequisites\n- **Files** (TOP-003)\n- **Ranks** (TOP-004)\n- **Squares** (TOP-005)\n\n### Next Topics\n- **Algebraic Notation** (TOP-017) — Using coordinates to write down moves.\n\n### Related Concepts\n- None"
+    },
+    {
+      "id": "LES-007-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-006#21#B1",
+      "parent_prompt_trace": "KB-006#21#B1",
+      "text": "- [ ] Do I understand how to find a coordinate using the edges?\n- [ ] Do I know that the letter always comes first?\n- [ ] Did my child successfully use their fingers to trace to a square?\n- [ ] Can my child name a square that I point to?\n- [ ] Can my child place a piece on a square that I name?\n\n**✅ If most answers are \"Yes\":** Congratulations — your child can now read the chess map! Move on to **Chess Pieces (TOP-007)**.\n**🔄 If several answers are \"No\":** Play \"The Caller\" game in Section 16 to build their confidence."
+    }
+  ],
+  "task_references": [
+    "PZL-007-01",
+    "PZL-007-02",
+    "PZL-007-03",
+    "PZL-007-04"
+  ],
+  "diagram_references": [
+    "DGM-006-01",
+    "DGM-006-02",
+    "DGM-006-03",
+    "DGM-006-04",
+    "DGM-006-05"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-007",
+  "deferred_topics": [],
+  "teach_slides": [
+    {
+      "id": "LES-007-S01",
+      "type": "INTRO",
+      "title": "The Name Game",
+      "text": "Every single square has a secret name.",
+      "parent_prompt": "Explain that every square has a secret name.",
+      "diagram_id": "DGM-006-01",
+      "diagram_url": "assets/DGM-006-01.svg",
+      "visual": {
+        "diagram_id": "DGM-006-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-COORDINATES-INTERSECTION-001",
+      "position_version": 1,
+      "position_title": "Empty board for e4 intersection",
+      "diagram_alt": "Empty board for e4 intersection"
+    },
+    {
+      "id": "LES-007-S02",
+      "type": "DIAGRAM",
+      "title": "The Finger Slide",
+      "text": "Find e4 by sliding your fingers.",
+      "parent_prompt": "Demonstrate sliding up from e and across from 4.",
+      "diagram_id": "DGM-006-01",
+      "diagram_url": "assets/DGM-006-01.svg",
+      "visual": {
+        "diagram_id": "DGM-006-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-COORDINATES-INTERSECTION-001",
+      "position_version": 1,
+      "position_title": "Empty board for e4 intersection",
+      "diagram_alt": "Empty board for e4 intersection"
+    },
+    {
+      "id": "LES-007-S03",
+      "type": "EXPLAIN",
+      "title": "The Letter First Rule",
+      "text": "The letter always gets to speak first. e4",
+      "parent_prompt": "Emphasize the letter always comes first.",
+      "diagram_id": "DGM-006-01",
+      "diagram_url": "assets/DGM-006-01.svg",
+      "visual": {
+        "diagram_id": "DGM-006-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-COORDINATES-INTERSECTION-001",
+      "position_version": 1,
+      "position_title": "Empty board for e4 intersection",
+      "diagram_alt": "Empty board for e4 intersection"
+    },
+    {
+      "id": "LES-007-S04",
+      "type": "DIAGRAM",
+      "title": "The Four Corners",
+      "text": "a1",
+      "parent_prompt": "Point out the four corners of the board.",
+      "diagram_id": "DGM-006-02",
+      "diagram_url": "assets/DGM-006-02.svg",
+      "visual": {
+        "diagram_id": "DGM-006-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-COORDINATES-CORNERS-001",
+      "position_version": 1,
+      "position_title": "Empty board corners",
+      "diagram_alt": "Empty board corners"
+    },
+    {
+      "id": "LES-007-S05",
+      "type": "DIAGRAM",
+      "title": "All Coordinates",
+      "text": "This is what a Grandmaster sees.",
+      "parent_prompt": "Explain that every square has a unique name.",
+      "diagram_id": "DGM-006-03",
+      "diagram_url": "assets/DGM-006-03.svg",
+      "visual": {
+        "diagram_id": "DGM-006-03",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-COORDINATES-ALL-001",
+      "position_version": 1,
+      "position_title": "Empty board all",
+      "diagram_alt": "Empty board all"
+    },
+    {
+      "id": "LES-007-S06",
+      "type": "QUESTION",
+      "title": "Name this square",
+      "text": "What is its secret name?",
+      "parent_prompt": "Ask the child what the highlighted square is.",
+      "reveal": "g7",
+      "diagram_id": "DGM-006-04",
+      "diagram_url": "assets/DGM-006-04.svg",
+      "visual": {
+        "diagram_id": "DGM-006-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-COORDINATES-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Empty board puzzle",
+      "diagram_alt": "Empty board puzzle"
+    },
+    {
+      "id": "LES-007-S07",
+      "type": "QUESTION",
+      "title": "Move the piece",
+      "text": "If a piece on a1 moves 3 squares up, where is it?",
+      "parent_prompt": "Move piece 3 squares up from a1.",
+      "reveal": "a4",
+      "diagram_id": "DGM-006-05",
+      "diagram_url": "assets/DGM-006-05.svg",
+      "visual": {
+        "diagram_id": "DGM-006-05",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-COORDINATES-PUZZLE-002",
+      "position_version": 1,
+      "position_title": "Piece on a1",
+      "diagram_alt": "Piece on a1"
+    },
+    {
+      "id": "LES-007-S08",
+      "type": "ASSESSMENT",
+      "title": "Check your progress",
+      "text": "Can you name any square?",
+      "parent_prompt": "Use the Parent Confidence Check.",
+      "diagram_id": "DGM-006-05",
+      "diagram_url": "assets/DGM-006-05.svg",
+      "visual": {
+        "diagram_id": "DGM-006-05",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-COORDINATES-PUZZLE-002",
+      "position_version": 1,
+      "position_title": "Piece on a1",
+      "diagram_alt": "Piece on a1"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-007-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-006#1#B1",
+      "parent_prompt_trace": "KB-006#1#B1",
+      "text": "- **Topic**: Coordinates\n- **Difficulty**: Beginner\n- **Typical age**: 7+\n- **Estimated teaching time**: 15 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: Files (TOP-003), Ranks (TOP-004), Squares (TOP-005)\n\n**🎯 Today's Goal:**\nYour child can combine a file letter and a rank number to name any specific square on the board.\n\n**✅ Lesson Success Criteria:**\n- Child understands that the letter always comes first (e.g., \"e4\", not \"4e\").\n- Child can correctly locate a called-out square on the board.\n- Child can name the square a piece is currently standing on.\n\n*(Purpose: \"Can I teach this today?\" Yes, if they know files and ranks. This is how chess players communicate.)*"
+    },
+    {
+      "id": "LES-007-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-006#2#B1",
+      "parent_prompt_trace": "KB-006#2#B1",
+      "text": "Coordinates are the naming system used to identify every single square on the chess board. The coordinate of a square is a two-character name: the letter of its file followed immediately by the number of its rank (for example, **e4** or **h8**)."
+    },
+    {
+      "id": "LES-007-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-006#3#B1",
+      "parent_prompt_trace": "KB-006#3#B1",
+      "text": "Coordinates are the language of chess. If your child wants to read a chess book, watch a chess video, use a chess app, or write down their moves in a tournament, they must know coordinates. Without coordinates, you can only say \"move that horsey thing over there.\" With coordinates, you can say \"Knight to f3.\" It transforms chess from a confusing puzzle into a clear, communicable map."
+    },
+    {
+      "id": "LES-007-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-006#4#B1",
+      "parent_prompt_trace": "KB-006#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Files (TOP-003)\n- ✓ Ranks (TOP-004)\n- ✓ Squares (TOP-005)\n\n**What this unlocks:**\n- ✓ Algebraic Notation (TOP-017)"
+    },
+    {
+      "id": "LES-007-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-006#5#B1",
+      "parent_prompt_trace": "KB-006#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\nEvery square is an intersection of a file (vertical, a-h) and a rank (horizontal, 1-8). \nTo name the square, you simply smash the file and rank together. \n**The rule is absolute: The letter ALWAYS comes first.** It is never \"4e\"; it is always \"e4\".\n\nThink of it like playing the game Battleship. You find the letter on the bottom edge, follow it up, find the number on the side edge, follow it across, and where your fingers meet is the coordinate.\n\nThe bottom-left corner from White's perspective is always **a1**. The top-right corner is **h8**."
+    },
+    {
+      "id": "LES-007-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-006#6#B1",
+      "parent_prompt_trace": "KB-006#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — The Name Game (2 mins)\n> *\"Every single square on this board has a secret name. If you know the secret names, you can read chess books and talk like a grandmaster. Do you want to learn the secret code?\"*\n\n### Step 2 — The Finger Slide (3 mins)\nPlace a pawn on e4. \n> *\"To find a square's name, we use two fingers. Put one finger on the letter at the bottom. Put your other finger on the number at the side. Now slide them together until they crash!\"*\nDemonstrate sliding up from 'e' and across from '4' until your fingers meet at the pawn.\n\n### Step 3 — The Letter First Rule (2 mins)\n> *\"When they crash, they make a name! But there's a strict rule: The letter always gets to speak first. So we don't say 4e... we say **e4**! What square is this pawn on? e4!\"*\n\n### Step 4 — Guided Practice (3 mins)\nMove the pawn to a few different squares (d5, g2, b7) and have them do the finger slide to tell you the name. Always correct them gently if they put the number first."
+    },
+    {
+      "id": "LES-007-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-006#7#B1",
+      "parent_prompt_trace": "KB-006#7#B1",
+      "text": "> **🚢 The Battleship Analogy**\n> \n> If you have ever played the game Battleship, chess coordinates work exactly the same way! You are trying to find the exact spot on the map. You look at the letters on the bottom (the streets) and the numbers on the side (the house numbers).\n>\n> **Memory Trick:**\n> **\"Letters lead the way!\"** (To remind them that the letter always comes before the number)."
+    },
+    {
+      "id": "LES-007-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-006#8#B1",
+      "parent_prompt_trace": "KB-006#8#B1",
+      "text": "In the old days, chess players used a very complicated system called \"Descriptive Notation\" where they would write things like \"Pawn to King's Bishop 4.\" It was incredibly confusing! The coordinate system we use today (Algebraic Notation) was officially adopted by the World Chess Federation because it is so much easier for children (and adults!) to learn."
+    },
+    {
+      "id": "LES-007-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-006#9#B1",
+      "parent_prompt_trace": "KB-006#9#B1",
+      "text": "**Finding e4**\n\n*To find e4, track up from the 'e' file and across from the '4' rank. Where they meet is the e4 square.*",
+      "diagram_id": "DGM-006-01",
+      "diagram_url": "assets/DGM-006-01.svg",
+      "position_id": "POS-COORDINATES-INTERSECTION-001",
+      "position_version": 1,
+      "position_title": "Empty board for e4 intersection",
+      "diagram_alt": "Empty board for e4 intersection"
+    },
+    {
+      "id": "LES-007-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-006#10#B1",
+      "parent_prompt_trace": "KB-006#10#B1",
+      "text": "Because there are 8 files and 8 ranks, there are 64 unique combinations. No two squares have the same coordinate. If a coach tells you to \"place a Rook on h1,\" there is only one possible square in the entire universe they could be talking about."
+    },
+    {
+      "id": "LES-007-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-006#11#B1",
+      "parent_prompt_trace": "KB-006#11#B1",
+      "text": "**The Four Corners**\n\n*The absolute edges of the map: a1 (bottom-left), h1 (bottom-right), a8 (top-left), h8 (top-right).*",
+      "diagram_id": "DGM-006-02",
+      "diagram_url": "assets/DGM-006-02.svg",
+      "position_id": "POS-COORDINATES-CORNERS-001",
+      "position_version": 1,
+      "position_title": "Empty board corners",
+      "diagram_alt": "Empty board corners"
+    },
+    {
+      "id": "LES-007-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-006#12#B1",
+      "parent_prompt_trace": "KB-006#12#B1",
+      "text": "This is what the board looks like to a Grandmaster. They don't just see blank squares; they instantly see the name of every square. When Magnus Carlsen thinks about a move, his brain is literally saying, \"If I go to f6, he goes to g5.\"",
+      "diagram_id": "DGM-006-03",
+      "diagram_url": "assets/DGM-006-03.svg",
+      "position_id": "POS-COORDINATES-ALL-001",
+      "position_version": 1,
+      "position_title": "Empty board all",
+      "diagram_alt": "Empty board all"
+    },
+    {
+      "id": "LES-007-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-006#13#B1",
+      "parent_prompt_trace": "KB-006#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Number first** — Saying \"4e\" instead of \"e4\". Fix this every time it happens. \"Letters lead the way!\"\n- ❌ **Counting from the wrong side** — If playing Black, a child might look at the row closest to them and think it's Rank 1, calling a square \"e1\" when it is actually \"e8\". Remind them the printed numbers never change.\n\n### Teaching Mistakes\n- ❌ **Forcing memorization too early** — Don't force a child to memorize the board without using their fingers to trace. The finger-slide is a necessary physical crutch that they will naturally outgrow.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child keeps mixing up the letter and number order, write their initials on a piece of paper. Say, \"Just like your first name comes before your last name, the letter's name comes before the number's name.\""
+    },
+    {
+      "id": "LES-007-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-006#14#B1",
+      "parent_prompt_trace": "KB-006#14#B1",
+      "text": "- **Patience is key:** Reading coordinates takes time. A 6-year-old might take 10 seconds to figure out a single square. Let them take 10 seconds. Do not rush them or say the answer for them.\n- **Signs they understand:** They correctly read the letter from the bottom edge and the number from the side, combining them in the right order.\n\n> **🧑‍🏫 Coach Tip:**\n> A great way to practice is to make coordinates a part of daily play. Instead of saying \"Put your pieces away,\" say \"Can you put all the White pawns on the 2nd rank, starting at a2?\""
+    },
+    {
+      "id": "LES-007-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-006#15#B1",
+      "parent_prompt_trace": "KB-006#15#B1",
+      "text": "**Q: My board doesn't have letters and numbers on the edges. What do I do?**\nA: You really need them for this lesson. You can buy a cheap roll-up vinyl board with coordinates, or you can write them on masking tape and stick them to the edges of your wooden board.\n\n**Q: Do they need to instantly know where \"g6\" is without looking at the edges?**\nA: No! \"Blind\" board vision takes years of practice. For a beginner, taking a few seconds to slide their fingers from the edges is perfectly fine and completely normal.\n\n**Q: Should I teach them how to write down moves today?**\nA: No. Writing moves (Algebraic Notation, TOP-017) involves piece letters (like 'N' for Knight) combined with coordinates. That is too much for today. Today is just about naming the squares."
+    },
+    {
+      "id": "LES-007-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-006#16#B1",
+      "parent_prompt_trace": "KB-006#16#B1",
+      "text": "### 🏴‍☠️ Pirate Treasure Map\nTake a coin or a piece of candy and place it on a square. Tell your child, \"The pirate treasure is buried at...\" and wait. They have to read the coordinates of the square to claim the treasure!\n\n### 🎯 The Caller\nGive your child a Knight. You call out a coordinate: \"c3!\" They must take their Knight and place it on c3. Then, swap! They call out a coordinate, and you have to place the piece. (Make a mistake on purpose occasionally and see if they catch you)."
+    },
+    {
+      "id": "LES-007-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-006#17#B1",
+      "parent_prompt_trace": "KB-006#17#B1",
+      "text": "### 🏆 The Coordinate Bingo\n**Challenge your child:**\n> \"I am going to place 5 pawns on random squares. I'll time you to see how fast you can name all 5 squares!\"\n\n**Rules:**\n1. Place 5 pawns randomly on the board.\n2. Start a timer.\n3. The child points to each pawn and names the coordinate (e.g., \"d4... a7... f2...\").\n4. Stop the timer when they get all 5 right.\n5. Do it again and see if they can beat their record!"
+    },
+    {
+      "id": "LES-007-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-006#18#B1",
+      "parent_prompt_trace": "KB-006#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nWhen naming a square, which comes first: the letter or the number?\n*Answer: The letter! Letters lead the way (e.g., e4).*\n\n### 🟡 Application (Medium)\nLook at the highlighted square below. What is its secret name?\n\n*Answer: g7.*\n\n### 🔴 Challenge (Hard)\n\nIf you place a piece on **a1**, and move it straight up the board by 3 squares, what coordinate is it on now?\n*Answer: a4! (a1 -> a2 -> a3 -> a4).*",
+      "diagram_id": "DGM-006-05",
+      "diagram_url": "assets/DGM-006-05.svg",
+      "position_id": "POS-COORDINATES-PUZZLE-002",
+      "position_version": 1,
+      "position_title": "Piece on a1",
+      "diagram_alt": "Piece on a1"
+    },
+    {
+      "id": "LES-007-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-006#19#B1",
+      "parent_prompt_trace": "KB-006#19#B1",
+      "text": "### Interactive Practice\n- **Lichess Coordinate Trainer** — An excellent, gamified tool where squares light up and you have to click the right one before time runs out. Great for older kids (8+). *(RESRC-007)*\n  - https://lichess.org/training/coordinate\n- **Lichess Learn Board Exercises** — Perfect for younger kids (6-8) to practice moving to target squares. *(RESRC-008)*\n  - https://lichess.org/learn#/"
+    },
+    {
+      "id": "LES-007-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-006#20#B1",
+      "parent_prompt_trace": "KB-006#20#B1",
+      "text": "### Prerequisites\n- **Files** (TOP-003)\n- **Ranks** (TOP-004)\n- **Squares** (TOP-005)\n\n### Next Topics\n- **Algebraic Notation** (TOP-017) — Using coordinates to write down moves.\n\n### Related Concepts\n- None"
+    },
+    {
+      "id": "LES-007-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-006#21#B1",
+      "parent_prompt_trace": "KB-006#21#B1",
+      "text": "- [ ] Do I understand how to find a coordinate using the edges?\n- [ ] Do I know that the letter always comes first?\n- [ ] Did my child successfully use their fingers to trace to a square?\n- [ ] Can my child name a square that I point to?\n- [ ] Can my child place a piece on a square that I name?\n\n**✅ If most answers are \"Yes\":** Congratulations — your child can now read the chess map! Move on to **Chess Pieces (TOP-007)**.\n**🔄 If several answers are \"No\":** Play \"The Caller\" game in Section 16 to build their confidence."
+    }
+  ],
+  "title": "Coordinates",
+  "duration_minutes": 15,
+  "memory_phrase": "Letters lead the way!",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 15,
+    "slides": [
+      {
+        "id": "LES-007-S01",
+        "type": "INTRO",
+        "title": "The Name Game",
+        "text": "Every single square has a secret name.",
+        "parent_prompt": "Explain that every square has a secret name.",
+        "diagram_id": "DGM-006-01",
+        "diagram_url": "assets/DGM-006-01.svg",
+        "visual": {
+          "diagram_id": "DGM-006-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-COORDINATES-INTERSECTION-001",
+        "position_version": 1,
+        "position_title": "Empty board for e4 intersection",
+        "diagram_alt": "Empty board for e4 intersection"
+      },
+      {
+        "id": "LES-007-S02",
+        "type": "DIAGRAM",
+        "title": "The Finger Slide",
+        "text": "Find e4 by sliding your fingers.",
+        "parent_prompt": "Demonstrate sliding up from e and across from 4.",
+        "diagram_id": "DGM-006-01",
+        "diagram_url": "assets/DGM-006-01.svg",
+        "visual": {
+          "diagram_id": "DGM-006-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-COORDINATES-INTERSECTION-001",
+        "position_version": 1,
+        "position_title": "Empty board for e4 intersection",
+        "diagram_alt": "Empty board for e4 intersection"
+      },
+      {
+        "id": "LES-007-S03",
+        "type": "EXPLAIN",
+        "title": "The Letter First Rule",
+        "text": "The letter always gets to speak first. e4",
+        "parent_prompt": "Emphasize the letter always comes first.",
+        "diagram_id": "DGM-006-01",
+        "diagram_url": "assets/DGM-006-01.svg",
+        "visual": {
+          "diagram_id": "DGM-006-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-COORDINATES-INTERSECTION-001",
+        "position_version": 1,
+        "position_title": "Empty board for e4 intersection",
+        "diagram_alt": "Empty board for e4 intersection"
+      },
+      {
+        "id": "LES-007-S04",
+        "type": "DIAGRAM",
+        "title": "The Four Corners",
+        "text": "a1",
+        "parent_prompt": "Point out the four corners of the board.",
+        "diagram_id": "DGM-006-02",
+        "diagram_url": "assets/DGM-006-02.svg",
+        "visual": {
+          "diagram_id": "DGM-006-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-COORDINATES-CORNERS-001",
+        "position_version": 1,
+        "position_title": "Empty board corners",
+        "diagram_alt": "Empty board corners"
+      },
+      {
+        "id": "LES-007-S05",
+        "type": "DIAGRAM",
+        "title": "All Coordinates",
+        "text": "This is what a Grandmaster sees.",
+        "parent_prompt": "Explain that every square has a unique name.",
+        "diagram_id": "DGM-006-03",
+        "diagram_url": "assets/DGM-006-03.svg",
+        "visual": {
+          "diagram_id": "DGM-006-03",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-COORDINATES-ALL-001",
+        "position_version": 1,
+        "position_title": "Empty board all",
+        "diagram_alt": "Empty board all"
+      },
+      {
+        "id": "LES-007-S06",
+        "type": "QUESTION",
+        "title": "Name this square",
+        "text": "What is its secret name?",
+        "parent_prompt": "Ask the child what the highlighted square is.",
+        "reveal": "g7",
+        "diagram_id": "DGM-006-04",
+        "diagram_url": "assets/DGM-006-04.svg",
+        "visual": {
+          "diagram_id": "DGM-006-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-COORDINATES-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Empty board puzzle",
+        "diagram_alt": "Empty board puzzle"
+      },
+      {
+        "id": "LES-007-S07",
+        "type": "QUESTION",
+        "title": "Move the piece",
+        "text": "If a piece on a1 moves 3 squares up, where is it?",
+        "parent_prompt": "Move piece 3 squares up from a1.",
+        "reveal": "a4",
+        "diagram_id": "DGM-006-05",
+        "diagram_url": "assets/DGM-006-05.svg",
+        "visual": {
+          "diagram_id": "DGM-006-05",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-COORDINATES-PUZZLE-002",
+        "position_version": 1,
+        "position_title": "Piece on a1",
+        "diagram_alt": "Piece on a1"
+      },
+      {
+        "id": "LES-007-S08",
+        "type": "ASSESSMENT",
+        "title": "Check your progress",
+        "text": "Can you name any square?",
+        "parent_prompt": "Use the Parent Confidence Check.",
+        "diagram_id": "DGM-006-05",
+        "diagram_url": "assets/DGM-006-05.svg",
+        "visual": {
+          "diagram_id": "DGM-006-05",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-COORDINATES-PUZZLE-002",
+        "position_version": 1,
+        "position_title": "Piece on a1",
+        "diagram_alt": "Piece on a1"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-007-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-006#1#B1",
+        "parent_prompt_trace": "KB-006#1#B1",
+        "text": "- **Topic**: Coordinates\n- **Difficulty**: Beginner\n- **Typical age**: 7+\n- **Estimated teaching time**: 15 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: Files (TOP-003), Ranks (TOP-004), Squares (TOP-005)\n\n**🎯 Today's Goal:**\nYour child can combine a file letter and a rank number to name any specific square on the board.\n\n**✅ Lesson Success Criteria:**\n- Child understands that the letter always comes first (e.g., \"e4\", not \"4e\").\n- Child can correctly locate a called-out square on the board.\n- Child can name the square a piece is currently standing on.\n\n*(Purpose: \"Can I teach this today?\" Yes, if they know files and ranks. This is how chess players communicate.)*"
+      },
+      {
+        "id": "LES-007-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-006#2#B1",
+        "parent_prompt_trace": "KB-006#2#B1",
+        "text": "Coordinates are the naming system used to identify every single square on the chess board. The coordinate of a square is a two-character name: the letter of its file followed immediately by the number of its rank (for example, **e4** or **h8**)."
+      },
+      {
+        "id": "LES-007-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-006#3#B1",
+        "parent_prompt_trace": "KB-006#3#B1",
+        "text": "Coordinates are the language of chess. If your child wants to read a chess book, watch a chess video, use a chess app, or write down their moves in a tournament, they must know coordinates. Without coordinates, you can only say \"move that horsey thing over there.\" With coordinates, you can say \"Knight to f3.\" It transforms chess from a confusing puzzle into a clear, communicable map."
+      },
+      {
+        "id": "LES-007-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-006#4#B1",
+        "parent_prompt_trace": "KB-006#4#B1",
+        "text": "**Prerequisites:**\n- ✓ Files (TOP-003)\n- ✓ Ranks (TOP-004)\n- ✓ Squares (TOP-005)\n\n**What this unlocks:**\n- ✓ Algebraic Notation (TOP-017)"
+      },
+      {
+        "id": "LES-007-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-006#5#B1",
+        "parent_prompt_trace": "KB-006#5#B1",
+        "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\nEvery square is an intersection of a file (vertical, a-h) and a rank (horizontal, 1-8). \nTo name the square, you simply smash the file and rank together. \n**The rule is absolute: The letter ALWAYS comes first.** It is never \"4e\"; it is always \"e4\".\n\nThink of it like playing the game Battleship. You find the letter on the bottom edge, follow it up, find the number on the side edge, follow it across, and where your fingers meet is the coordinate.\n\nThe bottom-left corner from White's perspective is always **a1**. The top-right corner is **h8**."
+      },
+      {
+        "id": "LES-007-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-006#6#B1",
+        "parent_prompt_trace": "KB-006#6#B1",
+        "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — The Name Game (2 mins)\n> *\"Every single square on this board has a secret name. If you know the secret names, you can read chess books and talk like a grandmaster. Do you want to learn the secret code?\"*\n\n### Step 2 — The Finger Slide (3 mins)\nPlace a pawn on e4. \n> *\"To find a square's name, we use two fingers. Put one finger on the letter at the bottom. Put your other finger on the number at the side. Now slide them together until they crash!\"*\nDemonstrate sliding up from 'e' and across from '4' until your fingers meet at the pawn.\n\n### Step 3 — The Letter First Rule (2 mins)\n> *\"When they crash, they make a name! But there's a strict rule: The letter always gets to speak first. So we don't say 4e... we say **e4**! What square is this pawn on? e4!\"*\n\n### Step 4 — Guided Practice (3 mins)\nMove the pawn to a few different squares (d5, g2, b7) and have them do the finger slide to tell you the name. Always correct them gently if they put the number first."
+      },
+      {
+        "id": "LES-007-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-006#7#B1",
+        "parent_prompt_trace": "KB-006#7#B1",
+        "text": "> **🚢 The Battleship Analogy**\n> \n> If you have ever played the game Battleship, chess coordinates work exactly the same way! You are trying to find the exact spot on the map. You look at the letters on the bottom (the streets) and the numbers on the side (the house numbers).\n>\n> **Memory Trick:**\n> **\"Letters lead the way!\"** (To remind them that the letter always comes before the number)."
+      },
+      {
+        "id": "LES-007-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know? 🎓",
+        "source_trace": "KB-006#8#B1",
+        "parent_prompt_trace": "KB-006#8#B1",
+        "text": "In the old days, chess players used a very complicated system called \"Descriptive Notation\" where they would write things like \"Pawn to King's Bishop 4.\" It was incredibly confusing! The coordinate system we use today (Algebraic Notation) was officially adopted by the World Chess Federation because it is so much easier for children (and adults!) to learn."
+      },
+      {
+        "id": "LES-007-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-006#9#B1",
+        "parent_prompt_trace": "KB-006#9#B1",
+        "text": "**Finding e4**\n\n*To find e4, track up from the 'e' file and across from the '4' rank. Where they meet is the e4 square.*",
+        "diagram_id": "DGM-006-01",
+        "diagram_url": "assets/DGM-006-01.svg",
+        "position_id": "POS-COORDINATES-INTERSECTION-001",
+        "position_version": 1,
+        "position_title": "Empty board for e4 intersection",
+        "diagram_alt": "Empty board for e4 intersection"
+      },
+      {
+        "id": "LES-007-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-006#10#B1",
+        "parent_prompt_trace": "KB-006#10#B1",
+        "text": "Because there are 8 files and 8 ranks, there are 64 unique combinations. No two squares have the same coordinate. If a coach tells you to \"place a Rook on h1,\" there is only one possible square in the entire universe they could be talking about."
+      },
+      {
+        "id": "LES-007-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-006#11#B1",
+        "parent_prompt_trace": "KB-006#11#B1",
+        "text": "**The Four Corners**\n\n*The absolute edges of the map: a1 (bottom-left), h1 (bottom-right), a8 (top-left), h8 (top-right).*",
+        "diagram_id": "DGM-006-02",
+        "diagram_url": "assets/DGM-006-02.svg",
+        "position_id": "POS-COORDINATES-CORNERS-001",
+        "position_version": 1,
+        "position_title": "Empty board corners",
+        "diagram_alt": "Empty board corners"
+      },
+      {
+        "id": "LES-007-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-006#12#B1",
+        "parent_prompt_trace": "KB-006#12#B1",
+        "text": "This is what the board looks like to a Grandmaster. They don't just see blank squares; they instantly see the name of every square. When Magnus Carlsen thinks about a move, his brain is literally saying, \"If I go to f6, he goes to g5.\"",
+        "diagram_id": "DGM-006-03",
+        "diagram_url": "assets/DGM-006-03.svg",
+        "position_id": "POS-COORDINATES-ALL-001",
+        "position_version": 1,
+        "position_title": "Empty board all",
+        "diagram_alt": "Empty board all"
+      },
+      {
+        "id": "LES-007-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-006#13#B1",
+        "parent_prompt_trace": "KB-006#13#B1",
+        "text": "### Chess Mistakes\n- ❌ **Number first** — Saying \"4e\" instead of \"e4\". Fix this every time it happens. \"Letters lead the way!\"\n- ❌ **Counting from the wrong side** — If playing Black, a child might look at the row closest to them and think it's Rank 1, calling a square \"e1\" when it is actually \"e8\". Remind them the printed numbers never change.\n\n### Teaching Mistakes\n- ❌ **Forcing memorization too early** — Don't force a child to memorize the board without using their fingers to trace. The finger-slide is a necessary physical crutch that they will naturally outgrow.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child keeps mixing up the letter and number order, write their initials on a piece of paper. Say, \"Just like your first name comes before your last name, the letter's name comes before the number's name.\""
+      },
+      {
+        "id": "LES-007-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-006#14#B1",
+        "parent_prompt_trace": "KB-006#14#B1",
+        "text": "- **Patience is key:** Reading coordinates takes time. A 6-year-old might take 10 seconds to figure out a single square. Let them take 10 seconds. Do not rush them or say the answer for them.\n- **Signs they understand:** They correctly read the letter from the bottom edge and the number from the side, combining them in the right order.\n\n> **🧑‍🏫 Coach Tip:**\n> A great way to practice is to make coordinates a part of daily play. Instead of saying \"Put your pieces away,\" say \"Can you put all the White pawns on the 2nd rank, starting at a2?\""
+      },
+      {
+        "id": "LES-007-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-006#15#B1",
+        "parent_prompt_trace": "KB-006#15#B1",
+        "text": "**Q: My board doesn't have letters and numbers on the edges. What do I do?**\nA: You really need them for this lesson. You can buy a cheap roll-up vinyl board with coordinates, or you can write them on masking tape and stick them to the edges of your wooden board.\n\n**Q: Do they need to instantly know where \"g6\" is without looking at the edges?**\nA: No! \"Blind\" board vision takes years of practice. For a beginner, taking a few seconds to slide their fingers from the edges is perfectly fine and completely normal.\n\n**Q: Should I teach them how to write down moves today?**\nA: No. Writing moves (Algebraic Notation, TOP-017) involves piece letters (like 'N' for Knight) combined with coordinates. That is too much for today. Today is just about naming the squares."
+      },
+      {
+        "id": "LES-007-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-006#16#B1",
+        "parent_prompt_trace": "KB-006#16#B1",
+        "text": "### 🏴‍☠️ Pirate Treasure Map\nTake a coin or a piece of candy and place it on a square. Tell your child, \"The pirate treasure is buried at...\" and wait. They have to read the coordinates of the square to claim the treasure!\n\n### 🎯 The Caller\nGive your child a Knight. You call out a coordinate: \"c3!\" They must take their Knight and place it on c3. Then, swap! They call out a coordinate, and you have to place the piece. (Make a mistake on purpose occasionally and see if they catch you)."
+      },
+      {
+        "id": "LES-007-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge ⭐",
+        "source_trace": "KB-006#17#B1",
+        "parent_prompt_trace": "KB-006#17#B1",
+        "text": "### 🏆 The Coordinate Bingo\n**Challenge your child:**\n> \"I am going to place 5 pawns on random squares. I'll time you to see how fast you can name all 5 squares!\"\n\n**Rules:**\n1. Place 5 pawns randomly on the board.\n2. Start a timer.\n3. The child points to each pawn and names the coordinate (e.g., \"d4... a7... f2...\").\n4. Stop the timer when they get all 5 right.\n5. Do it again and see if they can beat their record!"
+      },
+      {
+        "id": "LES-007-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-006#18#B1",
+        "parent_prompt_trace": "KB-006#18#B1",
+        "text": "### 🟢 Recognition (Easy)\nWhen naming a square, which comes first: the letter or the number?\n*Answer: The letter! Letters lead the way (e.g., e4).*\n\n### 🟡 Application (Medium)\nLook at the highlighted square below. What is its secret name?\n\n*Answer: g7.*\n\n### 🔴 Challenge (Hard)\n\nIf you place a piece on **a1**, and move it straight up the board by 3 squares, what coordinate is it on now?\n*Answer: a4! (a1 -> a2 -> a3 -> a4).*",
+        "diagram_id": "DGM-006-05",
+        "diagram_url": "assets/DGM-006-05.svg",
+        "position_id": "POS-COORDINATES-PUZZLE-002",
+        "position_version": 1,
+        "position_title": "Piece on a1",
+        "diagram_alt": "Piece on a1"
+      },
+      {
+        "id": "LES-007-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-006#19#B1",
+        "parent_prompt_trace": "KB-006#19#B1",
+        "text": "### Interactive Practice\n- **Lichess Coordinate Trainer** — An excellent, gamified tool where squares light up and you have to click the right one before time runs out. Great for older kids (8+). *(RESRC-007)*\n  - https://lichess.org/training/coordinate\n- **Lichess Learn Board Exercises** — Perfect for younger kids (6-8) to practice moving to target squares. *(RESRC-008)*\n  - https://lichess.org/learn#/"
+      },
+      {
+        "id": "LES-007-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-006#20#B1",
+        "parent_prompt_trace": "KB-006#20#B1",
+        "text": "### Prerequisites\n- **Files** (TOP-003)\n- **Ranks** (TOP-004)\n- **Squares** (TOP-005)\n\n### Next Topics\n- **Algebraic Notation** (TOP-017) — Using coordinates to write down moves.\n\n### Related Concepts\n- None"
+      },
+      {
+        "id": "LES-007-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check ✅",
+        "source_trace": "KB-006#21#B1",
+        "parent_prompt_trace": "KB-006#21#B1",
+        "text": "- [ ] Do I understand how to find a coordinate using the edges?\n- [ ] Do I know that the letter always comes first?\n- [ ] Did my child successfully use their fingers to trace to a square?\n- [ ] Can my child name a square that I point to?\n- [ ] Can my child place a piece on a square that I name?\n\n**✅ If most answers are \"Yes\":** Congratulations — your child can now read the chess map! Move on to **Chess Pieces (TOP-007)**.\n**🔄 If several answers are \"No\":** Play \"The Caller\" game in Section 16 to build their confidence."
+      }
+    ]
+  }
+}

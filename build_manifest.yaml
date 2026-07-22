@@ -8,6 +8,7 @@ lesson_ids:
 - LES-004
 - LES-005
 - LES-006
+- LES-007
 - LES-028
 routes:
 - lessons/LES-001/index.html#teach-1
@@ -27,12 +28,15 @@ routes:
 - lessons/LES-005/index.html#guide-1
 - lessons/LES-005/index.html#practice-1
 - lessons/LES-006/index.html
+- lessons/LES-007/index.html#teach-1
+- lessons/LES-007/index.html#guide-1
+- lessons/LES-007/index.html#practice-1
 - lessons/LES-028/index.html#teach-1
 - lessons/LES-028/index.html#guide-1
 - lessons/LES-028/index.html#practice-1
 assets:
   assets/app.css: 8494001e0e3176369251781a34f04aec905ba89734f96ec778aabe09561dd9a5
-  index.html: 846c10c6b6bc1ad488ac17f90ed769cfff791a89ade9ba13816c45052097ead0
+  index.html: 7b36d02d1943a75a1bf5df6f36489d6a860ab1b619f86f0ede612d0c0f4dddd4
   lessons/LES-001/assessment.json: 7008063b1cda0538d2e0314caa49c4ba6e75412df8c63181f0793da9af4bf7c6
   lessons/LES-001/assets/DGM-001-01.render_manifest.yaml: e2e61c71c9cf16cd8ac0e263addae1125622050c2d1097df925fa63b0e21001b
   lessons/LES-001/assets/DGM-001-01.svg: e0a6c07f8a203e1e22c19ab929f9522630454835505b241ae429c71ea9d03ec1
@@ -56,7 +60,7 @@ assets:
   lessons/LES-001/assets/tasks.json: c9918e6ee920913affcbf8bebe4689f3f97324f827607ce3fd0fdda3e634e790
   lessons/LES-001/index.html: d60cb179d05177a85354739d85e17dcb2e990281b2386cb9d581d6dd68cf9a8f
   lessons/LES-001/lesson.json: 1d5351b9bfed7caf55184a9857a442682b45af29e2898d51ef0c6ee21f2bc58f
-  lessons/LES-001/lesson_manifest.yaml: a5e6f46bdb8020285c263705066c4dfc7eb6f48f760f01d0aedd9e0ab8cf3473
+  lessons/LES-001/lesson_manifest.yaml: efb7c1f54b0bbc23f5f7f6683c100037a923aeb667bc47d92835892cda389b52
   lessons/LES-002/assessment.json: 99620b62516e2c84d09f0017f65b2fa5e4a2e49cb13c46558333c57f5aae505f
   lessons/LES-002/assets/DGM-002-01.render_manifest.yaml: 949e80f394144870e6b119553985ed23b95e28b496215be54644085db83fd613
   lessons/LES-002/assets/DGM-002-01.svg: 32d0ce2e0265287d3a2ab53d4e6d0fc49fb01d099d40b1ddd9578c5df20f3960
@@ -72,7 +76,7 @@ assets:
   lessons/LES-002/assets/tasks.json: 4780da6ae2574d8423c4a734393c6c7e23c38c4bdbbf73f5a6e1bfb34190e2b9
   lessons/LES-002/index.html: cabbad6b9348451138288c6ed1f39b937b6e53e718b3090f69469165a29d9638
   lessons/LES-002/lesson.json: a61bf7e19aed2e3ddaa9ee1c51892361eb8062903d6ad951efa65c499fdecac9
-  lessons/LES-002/lesson_manifest.yaml: 095e42e94476b0232c9d4cae8a65785a2c06f9c34913753805de7dd45c958496
+  lessons/LES-002/lesson_manifest.yaml: 033d3adbbf4409e8221e7a7cddadfddb5bd90cddefb3423f1e1d5db78eafc4b4
   lessons/LES-003/assessment.json: eaebc67cf9cfe488a60cb3d1947740cf091f4784af180648f29ba74bf894462e
   lessons/LES-003/assets/DGM-003-01.render_manifest.yaml: 5d4553ad016ab440050d963d7dfb723a98755582ca5d83eb036b15fe45abbf67
   lessons/LES-003/assets/DGM-003-01.svg: 907edc37ff701646e31bb1e0f1ac12a3433b073dd22faa6e41d816a99f105df9
@@ -88,51 +92,69 @@ assets:
   lessons/LES-003/assets/tasks.json: dae741f82175997439825734f9c018936cb6688e1ddf2cea9638890f53cbd9a9
   lessons/LES-003/index.html: 10c1c00df2b928002fb8e5a1b5670fea62671dce9cb95ba9190f70c3e1af9c37
   lessons/LES-003/lesson.json: 4e41917e248d436ec7cb8302e2acb081d282ead5b5b173d097b202fe530fe56b
-  lessons/LES-003/lesson_manifest.yaml: 5e6cd21b9da4ab3e5f2f1fe5e97acc92c7c80f5d7e0ffb4eb24962a0a827eac1
+  lessons/LES-003/lesson_manifest.yaml: e3198778886c959a73fe83b73cdd596c149aeaff9356dc9c1176b4334b07eda7
   lessons/LES-004/assessment.json: 5ca6b42cd32494d5f5eef5ef786816e15cb42283f8050257608630068c0c1d17
-  lessons/LES-004/assets/DGM-004-01.render_manifest.yaml: 8de592de7cd832b01e7a78517a8a7b482df41733ef0ba0c23decadcf34960513
-  lessons/LES-004/assets/DGM-004-01.svg: 1a5025a1bb6d15d3e8e4b76fa302dfb09fe9eeca3ab3e03fa733db97176759da
+  lessons/LES-004/assets/DGM-004-01.render_manifest.yaml: 5b8572330ddc0d3d1248b1135059fdc62a05b4e603013353457870302a795518
+  lessons/LES-004/assets/DGM-004-01.svg: f5ab24d34e8f83ca0392ec65314df9498f0c90c406ca76fc7f6d3dfa000bfd69
   lessons/LES-004/assets/DGM-004-02.render_manifest.yaml: a15f48ef375caf4ba5a58e3ee4953d6ecd9aa445e3e0a391ee2cb40694aaf794
   lessons/LES-004/assets/DGM-004-02.svg: 2904efe62561d4649c30cceffc7fe4a12c59578e022828a23db8246d7befa4ff
-  lessons/LES-004/assets/DGM-004-03.render_manifest.yaml: 212037e7e96e6caa53202ef3a9ad477f8d64508ea86b9239c9faad1a17767667
-  lessons/LES-004/assets/DGM-004-03.svg: ed322f0c88fd166b2847a00cee2af83861932870a68ff5458d27a8da36a1bfb9
-  lessons/LES-004/assets/DGM-004-04.render_manifest.yaml: a9fe8a0b3621ed874ed03104ecfa7ef806c928ccdfb2fbc365bf47bc4a9bdea3
-  lessons/LES-004/assets/DGM-004-04.svg: a5d73c62b5888567d9e24301b2e3f413c99915adff3e903fc5a7b35ef54d7351
+  lessons/LES-004/assets/DGM-004-03.render_manifest.yaml: 6179c2fe65a598be42a889797136f7e36a359d387f961afc7d84593a6c3bd7f6
+  lessons/LES-004/assets/DGM-004-03.svg: 8df449cbe03cec9a6be38f4fe5fb3d68387842da5e50f842c2d0dd3ab34c1f46
+  lessons/LES-004/assets/DGM-004-04.render_manifest.yaml: aafe1332048fd9492956f16913d6ee3e661e29a9e45f56e85b97a57357e98260
+  lessons/LES-004/assets/DGM-004-04.svg: 92fcf82ae57ae5a808ffe29df9123829bd0512a60974687a12785a1b5e6c4b60
   lessons/LES-004/assets/classroom.css: a3d9ba74abbf054facd3e9a5afe06ea2065fd59ee4cc0928023fe40569404415
   lessons/LES-004/assets/classroom.js: beaee8d4ef6a6e25d169c127f102f8bbe7781ba688cd57f63248927f92585459
   lessons/LES-004/assets/detective.svg: 3b430b0568ac44111a65894a4676f33d8318079c448fa80cc101302ba74607a4
   lessons/LES-004/assets/tasks.json: 2e49f32a31a310545a0e6e5c49fc784167c9a86acfeb2cce2e2ee7d760ae0e3e
   lessons/LES-004/index.html: 5ff14296e7f1c353b8d88c05fd1ba7ffa11db2bff2a927f07d60006473609ff9
   lessons/LES-004/lesson.json: 3a9208b5a5399fdd4464798605369731fac5007d415f51f74df661a4b3b655c8
-  lessons/LES-004/lesson_manifest.yaml: 3017c8893e93e4d06f27cf22d6773ba5472358587766f22de93cf81cc428a59c
+  lessons/LES-004/lesson_manifest.yaml: 3910871f7f54cf65abab1f00814197c2e7ccfbf0041634315b1e10f58505befc
   lessons/LES-005/assessment.json: 7c76b67d287c048882bdcd021686841f549b964abd5a3831e67d180e76bf79c1
-  lessons/LES-005/assets/DGM-005-01.render_manifest.yaml: b9ddf47a29c1adb8e4295dac411040aba124557ac10e3029e50b3d57cbe652ec
-  lessons/LES-005/assets/DGM-005-01.svg: d4db83f12b4cc1228a651d111c386b2da68cb0d1e9486f3c66e3fd9d0c709221
+  lessons/LES-005/assets/DGM-005-01.render_manifest.yaml: 8a115f053f53d7af40e15fb272d382396c8ebc7c4746c1fc4b083c2f3954df54
+  lessons/LES-005/assets/DGM-005-01.svg: f85de60df1c8c021a6a2abbcc7ef5ce4df47bada2832cdac3e81e1c3a531c17c
   lessons/LES-005/assets/DGM-005-02.render_manifest.yaml: 09c7cde9a0bc9524dd4f2bd2519cd35462338e85f18ccd37410e78bba783f460
   lessons/LES-005/assets/DGM-005-02.svg: 56dcb3c6fb628585430eabeb610e029629ae971e630263b5e9a8d52c9a6e410c
-  lessons/LES-005/assets/DGM-005-03.render_manifest.yaml: 84796d667a17100e11e48ea837c33dace52c2c6b79663e78d31b0722b68da789
-  lessons/LES-005/assets/DGM-005-03.svg: 51215b59df5dd9b4e10ee4fea10d4dd390b25585ca9cfce9da27b4bd4c5937a5
-  lessons/LES-005/assets/DGM-005-04.render_manifest.yaml: 1abf4402bde58a2b7310dbfa22ce9ea6cf0ee2efac8f69624b2c68f618177d7a
-  lessons/LES-005/assets/DGM-005-04.svg: dba5d0e6a959900a9309ce6fe61692e5a54d438da78c5dd208cd3d7aa8f331cf
+  lessons/LES-005/assets/DGM-005-03.render_manifest.yaml: 8a4af6f05ad3fe22e74cb15f6529ec05a84ab236d232bd15d716c09cf0ec8663
+  lessons/LES-005/assets/DGM-005-03.svg: def4752b83ed072154200d23f2030c6930b3ed3d84a4ffc0ebd1e211ee998bf5
+  lessons/LES-005/assets/DGM-005-04.render_manifest.yaml: 8bec698974f129cc69ef9dc07f7d67864ab378c6405a7eb9d1c970ff9f4d6f2e
+  lessons/LES-005/assets/DGM-005-04.svg: d1b191e8db74d4a7a91f9c6e85b4c1c51b48e1cd5ea8b33c837a7c8165a6fd98
   lessons/LES-005/assets/classroom.css: a3d9ba74abbf054facd3e9a5afe06ea2065fd59ee4cc0928023fe40569404415
   lessons/LES-005/assets/classroom.js: beaee8d4ef6a6e25d169c127f102f8bbe7781ba688cd57f63248927f92585459
   lessons/LES-005/assets/detective.svg: 3b430b0568ac44111a65894a4676f33d8318079c448fa80cc101302ba74607a4
   lessons/LES-005/assets/tasks.json: 48871b3dbb31e51c110b071abcf4083e1950606c1af8f6faadd5ae7105f217ac
   lessons/LES-005/index.html: f24616a8369db861c1f2ce3ac841dd02e7f3a09f853997a3c143de4840092775
   lessons/LES-005/lesson.json: f6421795c0146b080c852694c3fbbbe7e5af2945aa9fccbc152acb26d63bc04d
-  lessons/LES-005/lesson_manifest.yaml: 8bb2ef0ef36680df71f3c1779f9288bbd3266c7d4f83915d07a93199c68bf4a2
+  lessons/LES-005/lesson_manifest.yaml: e26956caaffb0f2ea294ce43f55d8e2f1740c993c1e2e3cdc56704c061cf6daf
   lessons/LES-006/assets/puzzle_lab.css: 633cec901de2524d2057433120621284cfb7391f56954eaaa0042c9f763da0f1
   lessons/LES-006/assets/puzzle_lab.js: 237a5f6c5b16f9646e48dcb852edabdece39f6aab8b6290e3906a3ee8896e9f9
   lessons/LES-006/index.html: 67b08959f80d0caadebba6e0ba646f8c4551511418e50ccd1c342583b7a644f2
   lessons/LES-006/lab.json: ddc85816af8cb330f0e88cd2b5b17cb1c4878d706b063fb97c295f1f514f1a94
   lessons/LES-006/lab_manifest.yaml: 5f19d0cb3d474caa0ddcff827e1a4fb91c787f65d8f41792053a9c4320ccb598
+  lessons/LES-007/assessment.json: 7c12aebee3e8a10632bbd7896ae56ee778ab9dbf72507436d0c2b1f32b1268ce
+  lessons/LES-007/assets/DGM-006-01.render_manifest.yaml: a9c3a6002fbe83e826c3b7b3839ccda9d229a83d9e1ada52b62f95473fb94c7a
+  lessons/LES-007/assets/DGM-006-01.svg: a84d5a6d57565da219216e5f9097dcc06e6b12110a13bce502b78f6764a7f7d4
+  lessons/LES-007/assets/DGM-006-02.render_manifest.yaml: a0406a437e12467d89362a22c58bdff27f86de43790612447d287225e09d58bf
+  lessons/LES-007/assets/DGM-006-02.svg: 6c744ab9bd43b94bf82cc0ab23e1509748e6f4431778bd1e69b12093c9778e76
+  lessons/LES-007/assets/DGM-006-03.render_manifest.yaml: a99ff643c3355b11791d6d2269650d80d215390f76f8bd50414891cb8c589e08
+  lessons/LES-007/assets/DGM-006-03.svg: aede295726a4700a767d6f47f7e1be970291f766f463030790d748d855e473ab
+  lessons/LES-007/assets/DGM-006-04.render_manifest.yaml: 5892ab0cce4e9307efa92d5fde230b5ffe5f2ce4c32443d8a977926793f486cd
+  lessons/LES-007/assets/DGM-006-04.svg: d2fa0df25aa92614fb81eedd110c3c8f126eebd415008a17bcb92999b171039d
+  lessons/LES-007/assets/DGM-006-05.render_manifest.yaml: d961fe0dd551d35c84ec89e0dd0d81fdd231b273fa0649bd3372617d264c82e9
+  lessons/LES-007/assets/DGM-006-05.svg: 38662dadc0c13d6af15e1fb429519fff3e0771b9e2fde224392b812334e207c9
+  lessons/LES-007/assets/classroom.css: a3d9ba74abbf054facd3e9a5afe06ea2065fd59ee4cc0928023fe40569404415
+  lessons/LES-007/assets/classroom.js: beaee8d4ef6a6e25d169c127f102f8bbe7781ba688cd57f63248927f92585459
+  lessons/LES-007/assets/detective.svg: 3b430b0568ac44111a65894a4676f33d8318079c448fa80cc101302ba74607a4
+  lessons/LES-007/assets/tasks.json: a5d16bf53827dbcd845339361e977af08c887832b61c9a0dc9108954fe0d5dd8
+  lessons/LES-007/index.html: 69300e5fe9e84d00d2d368ec73e3e2033cfc078d8383ad753be5776a0fa235df
+  lessons/LES-007/lesson.json: a2da7b9d2150fc71fda2ce2ec9d65e34b82725f6917144bb298f6eb61615f47f
+  lessons/LES-007/lesson_manifest.yaml: ecca6e385934bcc188af384856518d06ec11c6cff515661b52df2018c5916f66
   lessons/LES-028/assessment.json: 02612333187728b2d8dda3431fed601548b1ff623f85f44b4c69a531937aca05
   lessons/LES-028/assets/DGM-028-01.render_manifest.yaml: d9b410cf6ad9ce82619248de35754d03ed3ddeae8db690ed27fd8d6d3a695f53
   lessons/LES-028/assets/DGM-028-01.svg: e24a3799ca691e72d68ed72113d6e4b5ce4382612f83f4dccc68c3214e50ab9d
   lessons/LES-028/assets/DGM-028-02.render_manifest.yaml: d1bb5850f0eac7b033fac4d36de58364a66c0d698cadbe2b3bf6c96cf94844c7
   lessons/LES-028/assets/DGM-028-02.svg: 1c277284f68744a07d4951d68375d6aae5e630f5ce7b33db255f40a1fdf15fd6
-  lessons/LES-028/assets/DGM-028-03.render_manifest.yaml: 30dc9b3f38a2e47c74b07eabaef7bc5c98ee2a95a5b4d56c56e2076c426548ab
-  lessons/LES-028/assets/DGM-028-03.svg: 9676d931a218b32ac07ff779d42110c741f3dc278884e22856660ea6294e9a8e
+  lessons/LES-028/assets/DGM-028-03.render_manifest.yaml: 1c0b299f985a90f91df44f9b7147e903b9229c399bed8d6d0c9470f695969b37
+  lessons/LES-028/assets/DGM-028-03.svg: c1e7646d6779b8282f92b7ba2f3dfa2eb83a123a56e7e2a24a024126106371d1
   lessons/LES-028/assets/DGM-028-04.render_manifest.yaml: ab1acf50bec2970a3a616605cfd161f3660938592f06de4abab243afda0eae41
   lessons/LES-028/assets/DGM-028-04.svg: 3f1ddc595ed62fe0cb4b55a63e559e26cbd0c9be4e5bf84241a4bb25a728f05b
   lessons/LES-028/assets/classroom.css: a3d9ba74abbf054facd3e9a5afe06ea2065fd59ee4cc0928023fe40569404415
@@ -141,4 +163,4 @@ assets:
   lessons/LES-028/assets/tasks.json: ae1f1cba367b71bf7921777edaa8858edd35db4bb8b45e98d26c5d4625a8d127
   lessons/LES-028/index.html: 3ceb18e227ec555df68dc659ee37c118f79df42c113be199f70fda855a488dcd
   lessons/LES-028/lesson.json: 0720926bb9118673af4a82040d75e06453e5f41ad5c0d40a38846e892a65600e
-  lessons/LES-028/lesson_manifest.yaml: 0bc782740912a650ae47f479a09f4695524c2647e685638fbdf43364e0f26812
+  lessons/LES-028/lesson_manifest.yaml: f8347285a305dc9f6c3a9a6cdcf9efbe94524b5309c168a2870a4f1a8f8ac5d1

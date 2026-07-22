@@ -1,0 +1,19 @@
+schema_version: 1
+diagram_id: DGM-006-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-COORDINATES-CORNERS-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces: []
+position_sha256: cfd35f5c20d093c1024b3ab74621722273168960fed2e028007867ae66963302
+presentation_sha256: 282e84bd7e69aaab1225ca72e148eca6f1df8e81b7cbdf8533775344f8a56ac8
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-006#11#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 6c744ab9bd43b94bf82cc0ab23e1509748e6f4431778bd1e69b12093c9778e76
+output_svg_sha256: 6c744ab9bd43b94bf82cc0ab23e1509748e6f4431778bd1e69b12093c9778e76

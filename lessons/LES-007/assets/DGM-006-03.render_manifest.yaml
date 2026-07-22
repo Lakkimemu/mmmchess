@@ -1,0 +1,19 @@
+schema_version: 1
+diagram_id: DGM-006-03
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-COORDINATES-ALL-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces: []
+position_sha256: 5bfc66b566f31c9bd3f44b6a0b4464a69a081956b9c3706e04a6ecc34c7c96e1
+presentation_sha256: 608c457d3e930e358e104ac4816f8982b842d271f7f76bd7d2ecb052775a0160
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-006#12#B1
+review_status: APPROVED
+reviewed_artifact_sha256: aede295726a4700a767d6f47f7e1be970291f766f463030790d748d855e473ab
+output_svg_sha256: aede295726a4700a767d6f47f7e1be970291f766f463030790d748d855e473ab

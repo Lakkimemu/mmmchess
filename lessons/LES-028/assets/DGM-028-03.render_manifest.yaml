@@ -1,6 +1,6 @@
 diagram_id: DGM-028-03
 source_package: KB-028
-renderer_version: 1.0.0
+renderer_version: 1.1.0
 theme_id: PCA_DEFAULT
 layout: LAYOUT_TACTIC
 assets_used:
@@ -18,4 +18,5 @@ pattern_requests:
   parameters:
     teaching_category: topic_application
     position_source: DGM-028-02
-generated_at: '2026-07-12T02:40:50.720606+00:00'
+generated_at: '2026-07-22T04:58:26.211802+00:00'
+output_svg: DGM-028-03.svg

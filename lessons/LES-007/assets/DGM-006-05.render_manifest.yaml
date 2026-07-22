@@ -1,0 +1,22 @@
+schema_version: 1
+diagram_id: DGM-006-05
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-COORDINATES-PUZZLE-002
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - square: a1
+    color: WHITE
+    piece_type: PAWN
+position_sha256: 3b277f4fa12b34db39b144e70851c241505431abedfa1d9ff67ef161d825351f
+presentation_sha256: 66084fabafff1614925792a9185893696ca20752a4c7d8d56ac93510cbbb136a
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+source_trace: KB-006#18#B3
+review_status: APPROVED
+reviewed_artifact_sha256: 38662dadc0c13d6af15e1fb429519fff3e0771b9e2fde224392b812334e207c9
+output_svg_sha256: 38662dadc0c13d6af15e1fb429519fff3e0771b9e2fde224392b812334e207c9
