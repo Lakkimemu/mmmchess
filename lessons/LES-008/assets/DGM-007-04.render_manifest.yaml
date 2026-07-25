@@ -1,0 +1,34 @@
+schema_version: 1
+diagram_id: DGM-007-04
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-CHESS-PIECES-004
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: a4
+  - color: WHITE
+    piece_type: QUEEN
+    square: b4
+  - color: WHITE
+    piece_type: ROOK
+    square: c4
+  - color: WHITE
+    piece_type: KNIGHT
+    square: e4
+  - color: WHITE
+    piece_type: PAWN
+    square: f4
+position_sha256: abc2a6b444c41f1f4b134c9ce534f30582eaeeb9eeb78f5d39b53eb2e22dc3db
+presentation_sha256: 8ff18e73490324c923d3a0225511c15127e8ef2c8a7868747ebb4f53ed75764d
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-007#18#B1
+review_status: APPROVED
+reviewed_artifact_sha256: e5b8e46ab4a496a7b504ff4681cc005e70ba8d1860141e75f273387679354115
+output_svg_sha256: e5b8e46ab4a496a7b504ff4681cc005e70ba8d1860141e75f273387679354115

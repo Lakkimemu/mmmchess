@@ -1,0 +1,18 @@
+schema_version: 1
+diagram_id: DGM-007-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-CHESS-PIECES-002
+position_version: 1
+position_type: LEGAL_FEN
+display_state: PRESENTED
+displayed_state: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+position_sha256: 46a22bffd85997e32a7032d0ef18166c3a8d5e117225effa0b94dbc32bc8d6f4
+presentation_sha256: db9ded875b89508b2cefa221e540ff2c3fc881cd1758e5b53a3b78f49fff880b
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-007#11#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 9b5687f2e02cf728f0f8a2e08a9cca84e24e0513f2f85e5f9db7c5ba0f93d99f
+output_svg_sha256: 9b5687f2e02cf728f0f8a2e08a9cca84e24e0513f2f85e5f9db7c5ba0f93d99f

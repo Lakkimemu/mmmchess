@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-008",
+  "assessment_id": "ASM-008",
+  "rubric": {
+    "criteria": "- [ ] Do I know the difference between a major piece and a minor piece?\n- [ ] Can my child name all 6 pieces?\n- [ ] Can my child tell the King and Queen apart?\n- [ ] Does my child know to call it a \"Rook\" instead of a \"Castle\"?\n- [ ] Does my child know to call it a \"Knight\" instead of a \"Horse\"?",
+    "source_trace": "KB-007#21#B1"
+  },
+  "task_references": [
+    "PZL-008-01",
+    "PZL-008-02",
+    "PZL-008-03",
+    "PZL-008-04"
+  ]
+}

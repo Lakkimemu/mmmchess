@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-008",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-008-01",
+      "kb_id": "KB-007",
+      "lesson_id": "LES-008",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Which piece wears a cross on top?",
+      "hint": "The King wears a Cross, the Queen wears a Crown.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The King!"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-008.yaml",
+        "source_sha256": "27763fb06484de7ce984927aff88b9c8b461d47e550d571de36edc15c4b290c8",
+        "field": "exercises",
+        "anchor": "EX-008-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-008-02",
+      "kb_id": "KB-007",
+      "lesson_id": "LES-008",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Which piece looks like a horse?",
+      "hint": "It has a secret chess name.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The Knight!"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-008.yaml",
+        "source_sha256": "27763fb06484de7ce984927aff88b9c8b461d47e550d571de36edc15c4b290c8",
+        "field": "exercises",
+        "anchor": "EX-008-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-008-03",
+      "kb_id": "KB-007",
+      "lesson_id": "LES-008",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Is the Rook a Major Piece or a Minor Piece?",
+      "hint": "It is very powerful.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Major Piece!"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-008.yaml",
+        "source_sha256": "27763fb06484de7ce984927aff88b9c8b461d47e550d571de36edc15c4b290c8",
+        "field": "exercises",
+        "anchor": "EX-008-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-008-04",
+      "kb_id": "KB-007",
+      "lesson_id": "LES-008",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "How many different types of pieces are there?",
+      "hint": "Count them: King, Queen, Rook, Bishop, Knight, Pawn.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Six!"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-008.yaml",
+        "source_sha256": "27763fb06484de7ce984927aff88b9c8b461d47e550d571de36edc15c4b290c8",
+        "field": "exercises",
+        "anchor": "EX-008-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}
