@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-014",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-014-01",
+      "kb_id": "KB-013",
+      "lesson_id": "LES-014",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What is the name of the smallest piece on the board?",
+      "hint": "Starts with P.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Pawn."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-014.yaml",
+        "source_sha256": "54ab8f4deb590cec0fcb41eb21a2c84ee89d7d01f1c1c1e61fdf5c65cd22b914",
+        "field": "exercises",
+        "anchor": "EX-014-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-014-02",
+      "kb_id": "KB-013",
+      "lesson_id": "LES-014",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Which rank do the White pawns start on?",
+      "hint": "Pawns on Rank...",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The 2nd Rank."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-014.yaml",
+        "source_sha256": "54ab8f4deb590cec0fcb41eb21a2c84ee89d7d01f1c1c1e61fdf5c65cd22b914",
+        "field": "exercises",
+        "anchor": "EX-014-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-014-03",
+      "kb_id": "KB-013",
+      "lesson_id": "LES-014",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "How many Pawns does each player start with?",
+      "hint": "A full wall.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Eight."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-014.yaml",
+        "source_sha256": "54ab8f4deb590cec0fcb41eb21a2c84ee89d7d01f1c1c1e61fdf5c65cd22b914",
+        "field": "exercises",
+        "anchor": "EX-014-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-014-04",
+      "kb_id": "KB-013",
+      "lesson_id": "LES-014",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Where do the White Pawns start?",
+      "hint": "Rank number 2.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "On the 2nd rank."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-014.yaml",
+        "source_sha256": "54ab8f4deb590cec0fcb41eb21a2c84ee89d7d01f1c1c1e61fdf5c65cd22b914",
+        "field": "exercises",
+        "anchor": "EX-014-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

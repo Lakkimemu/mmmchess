@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-011",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-011-01",
+      "kb_id": "KB-010",
+      "lesson_id": "LES-011",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What is the special chess name for the piece that looks like a castle?",
+      "hint": "Think of a chariot.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Rook."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-011.yaml",
+        "source_sha256": "c8d0903a8c412b313c364b1b46a154a15ec681d2141c278b82f199872030e39a",
+        "field": "exercises",
+        "anchor": "EX-011-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-011-02",
+      "kb_id": "KB-010",
+      "lesson_id": "LES-011",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Where do the Rooks start on the board?",
+      "hint": "Think about building walls.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "In the corners."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-011.yaml",
+        "source_sha256": "c8d0903a8c412b313c364b1b46a154a15ec681d2141c278b82f199872030e39a",
+        "field": "exercises",
+        "anchor": "EX-011-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-011-03",
+      "kb_id": "KB-010",
+      "lesson_id": "LES-011",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Are the White Rooks on the correct squares on b1 and g1?",
+      "hint": "They must be in the absolute corners.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No! They should be on a1 and h1."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-011.yaml",
+        "source_sha256": "c8d0903a8c412b313c364b1b46a154a15ec681d2141c278b82f199872030e39a",
+        "field": "exercises",
+        "anchor": "EX-011-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-011-04",
+      "kb_id": "KB-010",
+      "lesson_id": "LES-011",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "How many Rooks are on the board at the very beginning of the game?",
+      "hint": "Count the corners.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Four (Two White, Two Black)."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-011.yaml",
+        "source_sha256": "c8d0903a8c412b313c364b1b46a154a15ec681d2141c278b82f199872030e39a",
+        "field": "exercises",
+        "anchor": "EX-011-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

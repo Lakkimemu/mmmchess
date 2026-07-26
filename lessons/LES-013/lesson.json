@@ -1,0 +1,1186 @@
+{
+  "lesson_id": "LES-013",
+  "kb_id": "KB-012",
+  "topic_id": "TOP-012",
+  "unit_id": "UNT-001",
+  "sequence": 13,
+  "objective": "**🎯 Today's Goal:**\nYour child can identify the Knight, call it by its proper name (not a Horsey!), and place the two Knights correctly between the Rooks and the Bishops.",
+  "success_criteria": "**✅ Lesson Success Criteria:**\n- Child instantly recognizes the Knight.\n- Child calls the piece a \"Knight.\"\n- Child can place the Knights on their correct starting squares (`b1`/`g1` and `b8`/`g8`).",
+  "source_traces": {
+    "objective": "KB-012#1#B2",
+    "success_criteria": "KB-012#1#B3"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-012#1",
+      "content": "- **Topic**: Knight (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Knight, call it by its proper name (not a Horsey!), and place the two Knights correctly between the Rooks and the Bishops.\n\n**✅ Lesson Success Criteria:**\n- Child instantly recognizes the Knight.\n- Child calls the piece a \"Knight.\"\n- Child can place the Knights on their correct starting squares (`b1`/`g1` and `b8`/`g8`).\n\n*(Purpose: \"Can I teach this today?\" Yes. Kids love the Knight more than any other piece because it looks like an animal.)*\n\n---"
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-012#2",
+      "content": "The Knight is a minor piece that looks like a horse's head. Each player starts with two Knights. They are placed between the Rooks (in the corners) and the Bishops. The Knight is the only piece in chess that is shaped like an animal.\n\n---"
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-012#3",
+      "content": "Because it looks like a horse, every child naturally wants to call it a \"Horsey\" or a \"Pony.\" Teaching them the proper terminology (\"Knight\") early builds good habits for when they eventually read chess books or talk to other players. Knowing where the Knights start completes the entire back row setup!\n\n---"
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-012#4",
+      "content": "**Prerequisites:**\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Knight Movement (TOP-108)\n- ✓ Piece Values (TOP-014)\n\n---"
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-012#5",
+      "content": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** It's a horse head. Very simple.\n**Name:** Its real name is the KNIGHT. (The \"K\" is silent). \n**Starting Position:** The Knights fill in the final gaps on the back rank. They stand next to the Rooks. For White, they are on `b1` and `g1`. For Black, they are on `b8` and `g8`. \n\n**What NOT to teach today:** Do NOT teach the \"L-shape\" movement. Do NOT teach that the Knight can jump over other pieces. That is the hardest movement in chess to learn, and it requires its own dedicated lesson. Today is only about recognition.\n\n---"
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-012#6",
+      "content": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Knight (2 mins)\nHold up the Knight.\n> *\"Look at this piece! It looks just like a horse, doesn't it? But in the chess army, the person riding the horse is wearing shiny armor. Do you know what a soldier in armor is called? A KNIGHT!\"*\n\n### Step 2 — The Name Rule (2 mins)\n> *\"Because he is a brave soldier, we have to use his proper name to be respectful. If we call him a 'horsey', he might get sad. Can you say Knight?\"*\n\n### Step 3 — The Stables (3 mins)\nPlace the Rooks in the corners.\n> *\"The Knights love to sleep near the big castle towers. So they park their horses right next to the Rooks! Let's put the Knights next to the Rooks.\"*\n\n---"
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-012#7",
+      "content": "> **🐴 The Brave Horse Analogy**\n> \n> The Knight is a brave soldier riding a fast horse. He sleeps in the stables right next to the giant Castle Towers (the Rooks) so he is ready to ride out and defend the edges of the kingdom as soon as the battle begins!\n>\n> **Memory Trick for Starting Position:**\n> **\"Knights next to the Castles!\"**\n\n---"
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know? 🎓",
+      "source_trace": "KB-012#8",
+      "content": "Because the word \"Knight\" starts with a K, and \"King\" also starts with a K, chess players had a problem when writing down their moves! They couldn't use K for both. So, the King got to keep the letter \"K\", and the Knight uses the letter \"N\". So if you ever write down a Knight move, you write an N!\n\n---"
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1",
+      "source_trace": "KB-012#9",
+      "content": "**Recognizing the Knight**\n\n![DGM-001 Knight Shape](../../assets/diagrams/TOP-012/DGM-001_Knight_Shape.svg)\n*The Knight is the only piece carved to look like an animal (a horse's head and neck).*\n\n---"
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-012#10",
+      "content": "Setting up the Knights completes the back row. \n1. Rooks in the corners (`a` and `h`).\n2. Knights next to Rooks (`b` and `g`).\n3. Bishops next to Knights (`c` and `f`).\n4. Queen on her color (`d`), King on the leftover square (`e`).\n\n---"
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2",
+      "source_trace": "KB-012#11",
+      "content": "**Knights in the Stables**\n\n![DGM-002 Knight Start](../../assets/diagrams/TOP-012/DGM-002_Knight_Start.svg)\n*White Knights on b1 and g1. Black Knights on b8 and g8.*\n\n---"
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-012#12",
+      "content": "![DGM-003 Knights in Game](../../assets/diagrams/TOP-012/DGM-003_Knights_in_Game.svg)\nKnights love to jump into the middle of the board. They are very easy to spot because of their unique shape compared to all the tall, round pieces.\n\n---"
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-012#13",
+      "content": "### Chess Mistakes\n- ❌ **Calling it a Horse** — Kids will naturally do this. Just gently correct them every single time. \"It looks like a horse, but his name is the Knight.\"\n\n### Teaching Mistakes\n- ❌ **Teaching the L-Shape early** — Teaching the L-shape at the same time as board setup will completely derail the lesson. The L-shape takes immense focus. Save it for the Movement lesson!\n- ❌ **Talking about jumping** — If you tell them the Knight can jump today, they will immediately want to start smashing it over other pieces. Keep the focus on the setup.\n\n---"
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-012#14",
+      "content": "- **Turn them sideways:** Many players like to turn their Knights so they are facing sideways or slightly forward, rather than straight ahead. Let your child pose their Knights however they like!\n\n> **🧑‍🏫 Coach Tip:**\n> Make a game out of the name. If your child says \"Move the horse,\" you can jokingly say, \"Neigh! I don't see a horse! I only see a Knight!\"\n\n---"
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-012#15",
+      "content": "**Q: My child keeps putting the Knight where the Bishop goes. How do I fix this?**\nA: Use the setup sequence. Have them place the Rooks first. Then ask: \"Who sleeps next to the Castle?\" The Knights! Then the King and Queen in the middle, and the Bishops fill the last holes.\n\n**Q: Are Knights stronger than Bishops?**\nA: They are usually considered exactly equal! They are both \"Minor Pieces.\" \n\n---"
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-012#16",
+      "content": "### 🏗️ Build the Back Row\nClear the board. Give your child all 8 back-row pieces for White (2 Rooks, 2 Knights, 2 Bishops, 1 Queen, 1 King). Have them build the entire row from memory. Remind them of the story for each piece!\n\n### 🗣️ The Animal Game\nHold up different pieces. When you hold up the Knight, they have to yell \"Knight!\" If they yell \"Horse,\" tickle them. \n\n---"
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge ⭐",
+      "source_trace": "KB-012#17",
+      "content": "### 🏆 The Missing Piece\n**Challenge your child:**\n> \"Close your eyes! I'm going to take one piece away from the back row.\"\n\n**Rules:**\n1. Set up the entire White back row correctly.\n2. Have the child close their eyes. Remove one Knight (or Bishop, or Rook).\n3. Have them open their eyes and ask: \"Who is missing from the army?\"\n\n---"
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-012#18",
+      "content": "### 🟢 Recognition (Easy)\nWhat is the proper chess name for the piece that looks like a horse?\n*Answer: The Knight.*\n\n### 🟡 Application (Medium)\nWhich two pieces does the Knight stand between at the start of the game?\n*Answer: The Rook and the Bishop.*\n\n### 🔴 Challenge (Hard)\n![DGM-004 Puzzle](../../assets/diagrams/TOP-012/DGM-004_Puzzle.svg)\nLook at this back row setup. Is it completely correct?\n*Answer: No! The Knight and Bishop on the right side have been swapped! The Knight should be next to the Rook on g1.*\n\n---"
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-012#19",
+      "content": "*(No specific external resources required for this micro-concept.)*\n\n---"
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-012#20",
+      "content": "### Prerequisites\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Knight Movement** (TOP-108) — How the Knight actually moves.\n- **Pawn** (TOP-013) — Meeting the little soldiers.\n\n---"
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check ✅",
+      "source_trace": "KB-012#21",
+      "content": "- [ ] Do I call it a Knight instead of a Horse?\n- [ ] Did my child practice calling it a Knight?\n- [ ] Can my child set up the entire back row (Rooks, Knights, Bishops, Queen, King)?\n- [ ] Did I successfully avoid teaching the L-shape today?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to the final piece: the **Pawn (TOP-013)**.\n**🔄 If several answers are \"No\":** Practice the \"Build the Back Row\" exercise a few more times.\n\n---\n\n**🛑 CONCEPT BOUNDARY**\n**Explicitly NOT covered in this lesson:**\n- How the Knight moves (L-shape).\n- How the Knight captures.\n- The rule that Knights can jump over other pieces.\n*(These will be taught in later lessons to prevent cognitive overload).*\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  diagrams: 4\n  mini_puzzles: 3\n  external_resources: 0\n  coach_challenges: 1\n  practice_activities: 2\n  coach_tips: 1\n  parent_faq: 2\n  estimated_read_time: 10 min\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-013-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-012#1#B1",
+      "parent_prompt_trace": "KB-012#1#B1",
+      "text": "- **Topic**: Knight (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Knight, call it by its proper name (not a Horsey!), and place the two Knights correctly between the Rooks and the Bishops.\n\n**✅ Lesson Success Criteria:**\n- Child instantly recognizes the Knight.\n- Child calls the piece a \"Knight.\"\n- Child can place the Knights on their correct starting squares (`b1`/`g1` and `b8`/`g8`).\n\n*(Purpose: \"Can I teach this today?\" Yes. Kids love the Knight more than any other piece because it looks like an animal.)*"
+    },
+    {
+      "id": "LES-013-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-012#2#B1",
+      "parent_prompt_trace": "KB-012#2#B1",
+      "text": "The Knight is a minor piece that looks like a horse's head. Each player starts with two Knights. They are placed between the Rooks (in the corners) and the Bishops. The Knight is the only piece in chess that is shaped like an animal."
+    },
+    {
+      "id": "LES-013-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-012#3#B1",
+      "parent_prompt_trace": "KB-012#3#B1",
+      "text": "Because it looks like a horse, every child naturally wants to call it a \"Horsey\" or a \"Pony.\" Teaching them the proper terminology (\"Knight\") early builds good habits for when they eventually read chess books or talk to other players. Knowing where the Knights start completes the entire back row setup!"
+    },
+    {
+      "id": "LES-013-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-012#4#B1",
+      "parent_prompt_trace": "KB-012#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Knight Movement (TOP-108)\n- ✓ Piece Values (TOP-014)"
+    },
+    {
+      "id": "LES-013-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-012#5#B1",
+      "parent_prompt_trace": "KB-012#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** It's a horse head. Very simple.\n**Name:** Its real name is the KNIGHT. (The \"K\" is silent). \n**Starting Position:** The Knights fill in the final gaps on the back rank. They stand next to the Rooks. For White, they are on `b1` and `g1`. For Black, they are on `b8` and `g8`.\n\n**What NOT to teach today:** Do NOT teach the \"L-shape\" movement. Do NOT teach that the Knight can jump over other pieces. That is the hardest movement in chess to learn, and it requires its own dedicated lesson. Today is only about recognition."
+    },
+    {
+      "id": "LES-013-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-012#6#B1",
+      "parent_prompt_trace": "KB-012#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Knight (2 mins)\nHold up the Knight.\n> *\"Look at this piece! It looks just like a horse, doesn't it? But in the chess army, the person riding the horse is wearing shiny armor. Do you know what a soldier in armor is called? A KNIGHT!\"*\n\n### Step 2 — The Name Rule (2 mins)\n> *\"Because he is a brave soldier, we have to use his proper name to be respectful. If we call him a 'horsey', he might get sad. Can you say Knight?\"*\n\n### Step 3 — The Stables (3 mins)\nPlace the Rooks in the corners.\n> *\"The Knights love to sleep near the big castle towers. So they park their horses right next to the Rooks! Let's put the Knights next to the Rooks.\"*"
+    },
+    {
+      "id": "LES-013-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-012#7#B1",
+      "parent_prompt_trace": "KB-012#7#B1",
+      "text": "> **🐴 The Brave Horse Analogy**\n> \n> The Knight is a brave soldier riding a fast horse. He sleeps in the stables right next to the giant Castle Towers (the Rooks) so he is ready to ride out and defend the edges of the kingdom as soon as the battle begins!\n>\n> **Memory Trick for Starting Position:**\n> **\"Knights next to the Castles!\"**"
+    },
+    {
+      "id": "LES-013-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-012#8#B1",
+      "parent_prompt_trace": "KB-012#8#B1",
+      "text": "Because the word \"Knight\" starts with a K, and \"King\" also starts with a K, chess players had a problem when writing down their moves! They couldn't use K for both. So, the King got to keep the letter \"K\", and the Knight uses the letter \"N\". So if you ever write down a Knight move, you write an N!"
+    },
+    {
+      "id": "LES-013-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1",
+      "source_trace": "KB-012#9#B1",
+      "parent_prompt_trace": "KB-012#9#B1",
+      "text": "**Recognizing the Knight**\n\n*The Knight is the only piece carved to look like an animal (a horse's head and neck).*",
+      "diagram_id": "DGM-012-01",
+      "diagram_url": "assets/DGM-012-01.svg",
+      "position_id": "POS-KNIGHT-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Knight shape",
+      "diagram_alt": "The Knight shape"
+    },
+    {
+      "id": "LES-013-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-012#10#B1",
+      "parent_prompt_trace": "KB-012#10#B1",
+      "text": "Setting up the Knights completes the back row. \n1. Rooks in the corners (`a` and `h`).\n2. Knights next to Rooks (`b` and `g`).\n3. Bishops next to Knights (`c` and `f`).\n4. Queen on her color (`d`), King on the leftover square (`e`)."
+    },
+    {
+      "id": "LES-013-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2",
+      "source_trace": "KB-012#11#B1",
+      "parent_prompt_trace": "KB-012#11#B1",
+      "text": "**Knights in the Stables**\n\n*White Knights on b1 and g1. Black Knights on b8 and g8.*",
+      "diagram_id": "DGM-012-02",
+      "diagram_url": "assets/DGM-012-02.svg",
+      "position_id": "POS-KNIGHT-START-001",
+      "position_version": 1,
+      "position_title": "Starting squares for the Knights",
+      "diagram_alt": "Starting squares for the Knights"
+    },
+    {
+      "id": "LES-013-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-012#12#B1",
+      "parent_prompt_trace": "KB-012#12#B1",
+      "text": "Knights love to jump into the middle of the board. They are very easy to spot because of their unique shape compared to all the tall, round pieces.",
+      "diagram_id": "DGM-012-03",
+      "diagram_url": "assets/DGM-012-03.svg",
+      "position_id": "POS-KNIGHT-MIDGAME-001",
+      "position_version": 1,
+      "position_title": "Find the Knights in a midgame",
+      "diagram_alt": "Find the Knights in a midgame"
+    },
+    {
+      "id": "LES-013-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-012#13#B1",
+      "parent_prompt_trace": "KB-012#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Calling it a Horse** — Kids will naturally do this. Just gently correct them every single time. \"It looks like a horse, but his name is the Knight.\"\n\n### Teaching Mistakes\n- ❌ **Teaching the L-Shape early** — Teaching the L-shape at the same time as board setup will completely derail the lesson. The L-shape takes immense focus. Save it for the Movement lesson!\n- ❌ **Talking about jumping** — If you tell them the Knight can jump today, they will immediately want to start smashing it over other pieces. Keep the focus on the setup."
+    },
+    {
+      "id": "LES-013-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-012#14#B1",
+      "parent_prompt_trace": "KB-012#14#B1",
+      "text": "- **Turn them sideways:** Many players like to turn their Knights so they are facing sideways or slightly forward, rather than straight ahead. Let your child pose their Knights however they like!\n\n> **🧑‍🏫 Coach Tip:**\n> Make a game out of the name. If your child says \"Move the horse,\" you can jokingly say, \"Neigh! I don't see a horse! I only see a Knight!\""
+    },
+    {
+      "id": "LES-013-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-012#15#B1",
+      "parent_prompt_trace": "KB-012#15#B1",
+      "text": "**Q: My child keeps putting the Knight where the Bishop goes. How do I fix this?**\nA: Use the setup sequence. Have them place the Rooks first. Then ask: \"Who sleeps next to the Castle?\" The Knights! Then the King and Queen in the middle, and the Bishops fill the last holes.\n\n**Q: Are Knights stronger than Bishops?**\nA: They are usually considered exactly equal! They are both \"Minor Pieces.\""
+    },
+    {
+      "id": "LES-013-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-012#16#B1",
+      "parent_prompt_trace": "KB-012#16#B1",
+      "text": "### 🏗️ Build the Back Row\nClear the board. Give your child all 8 back-row pieces for White (2 Rooks, 2 Knights, 2 Bishops, 1 Queen, 1 King). Have them build the entire row from memory. Remind them of the story for each piece!\n\n### 🗣️ The Animal Game\nHold up different pieces. When you hold up the Knight, they have to yell \"Knight!\" If they yell \"Horse,\" tickle them."
+    },
+    {
+      "id": "LES-013-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-012#17#B1",
+      "parent_prompt_trace": "KB-012#17#B1",
+      "text": "### 🏆 The Missing Piece\n**Challenge your child:**\n> \"Close your eyes! I'm going to take one piece away from the back row.\"\n\n**Rules:**\n1. Set up the entire White back row correctly.\n2. Have the child close their eyes. Remove one Knight (or Bishop, or Rook).\n3. Have them open their eyes and ask: \"Who is missing from the army?\""
+    },
+    {
+      "id": "LES-013-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-012#18#B1",
+      "parent_prompt_trace": "KB-012#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nWhat is the proper chess name for the piece that looks like a horse?\n*Answer: The Knight.*\n\n### 🟡 Application (Medium)\nWhich two pieces does the Knight stand between at the start of the game?\n*Answer: The Rook and the Bishop.*\n\n### 🔴 Challenge (Hard)\n\nLook at this back row setup. Is it completely correct?\n*Answer: No! The Knight and Bishop on the right side have been swapped! The Knight should be next to the Rook on g1.*",
+      "diagram_id": "DGM-012-04",
+      "diagram_url": "assets/DGM-012-04.svg",
+      "position_id": "POS-KNIGHT-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Knights",
+      "diagram_alt": "Incorrect starting squares for Knights"
+    },
+    {
+      "id": "LES-013-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-012#19#B1",
+      "parent_prompt_trace": "KB-012#19#B1",
+      "text": "*(No specific external resources required for this micro-concept.)*"
+    },
+    {
+      "id": "LES-013-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-012#20#B1",
+      "parent_prompt_trace": "KB-012#20#B1",
+      "text": "### Prerequisites\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Knight Movement** (TOP-108) — How the Knight actually moves.\n- **Pawn** (TOP-013) — Meeting the little soldiers."
+    },
+    {
+      "id": "LES-013-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-012#21#B1",
+      "parent_prompt_trace": "KB-012#21#B1",
+      "text": "- [ ] Do I call it a Knight instead of a Horse?\n- [ ] Did my child practice calling it a Knight?\n- [ ] Can my child set up the entire back row (Rooks, Knights, Bishops, Queen, King)?\n- [ ] Did I successfully avoid teaching the L-shape today?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to the final piece: the **Pawn (TOP-013)**.\n**🔄 If several answers are \"No\":** Practice the \"Build the Back Row\" exercise a few more times.\n\n**🛑 CONCEPT BOUNDARY**\n**Explicitly NOT covered in this lesson:**\n- How the Knight moves (L-shape).\n- How the Knight captures.\n- The rule that Knights can jump over other pieces.\n*(These will be taught in later lessons to prevent cognitive overload).*"
+    }
+  ],
+  "task_references": [
+    "PZL-013-01",
+    "PZL-013-02",
+    "PZL-013-03",
+    "PZL-013-04"
+  ],
+  "diagram_references": [
+    "DGM-012-01",
+    "DGM-012-02",
+    "DGM-012-03",
+    "DGM-012-04"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-013",
+  "deferred_topics": [],
+  "teach_slides": [
+    {
+      "id": "LES-013-S01",
+      "type": "INTRO",
+      "title": "Meet the Knight",
+      "text": "This piece looks like a horse, but his name is the Knight!",
+      "parent_prompt": "Meet the Knight.",
+      "diagram_id": "DGM-012-01",
+      "diagram_url": "assets/DGM-012-01.svg",
+      "visual": {
+        "diagram_id": "DGM-012-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-KNIGHT-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Knight shape",
+      "diagram_alt": "The Knight shape"
+    },
+    {
+      "id": "LES-013-S02",
+      "type": "DIAGRAM",
+      "title": "The Brave Horse",
+      "text": "The Knight is the only piece carved to look like an animal.",
+      "parent_prompt": "Spot the horse.",
+      "diagram_id": "DGM-012-01",
+      "diagram_url": "assets/DGM-012-01.svg",
+      "visual": {
+        "diagram_id": "DGM-012-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-KNIGHT-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Knight shape",
+      "diagram_alt": "The Knight shape"
+    },
+    {
+      "id": "LES-013-S03",
+      "type": "DIAGRAM",
+      "title": "Knights in the Stables",
+      "text": "Knights park their horses next to the Castle Towers (the Rooks).",
+      "parent_prompt": "Explain the stables.",
+      "diagram_id": "DGM-012-02",
+      "diagram_url": "assets/DGM-012-02.svg",
+      "visual": {
+        "diagram_id": "DGM-012-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-KNIGHT-START-001",
+      "position_version": 1,
+      "position_title": "Starting squares for the Knights",
+      "diagram_alt": "Starting squares for the Knights"
+    },
+    {
+      "id": "LES-013-S04",
+      "type": "DIAGRAM",
+      "title": "Find the Knights",
+      "text": "Knights love to jump into the middle of the board! Can you spot them?",
+      "parent_prompt": "Find the Knights.",
+      "diagram_id": "DGM-012-03",
+      "diagram_url": "assets/DGM-012-03.svg",
+      "visual": {
+        "diagram_id": "DGM-012-03",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-KNIGHT-MIDGAME-001",
+      "position_version": 1,
+      "position_title": "Find the Knights in a midgame",
+      "diagram_alt": "Find the Knights in a midgame"
+    },
+    {
+      "id": "LES-013-S05",
+      "type": "DIAGRAM",
+      "title": "Fix the Board",
+      "text": "Oh no! The Knights are not sleeping next to the Castles!",
+      "parent_prompt": "Find the mistake.",
+      "diagram_id": "DGM-012-04",
+      "diagram_url": "assets/DGM-012-04.svg",
+      "visual": {
+        "diagram_id": "DGM-012-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-KNIGHT-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Knights",
+      "diagram_alt": "Incorrect starting squares for Knights"
+    },
+    {
+      "id": "LES-013-S06",
+      "type": "ASSESSMENT",
+      "title": "Check your progress",
+      "text": "Can you correctly call this piece a Knight?",
+      "parent_prompt": "Check your progress.",
+      "diagram_id": "DGM-012-04",
+      "diagram_url": "assets/DGM-012-04.svg",
+      "visual": {
+        "diagram_id": "DGM-012-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-KNIGHT-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Knights",
+      "diagram_alt": "Incorrect starting squares for Knights"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-013-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-012#1#B1",
+      "parent_prompt_trace": "KB-012#1#B1",
+      "text": "- **Topic**: Knight (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Knight, call it by its proper name (not a Horsey!), and place the two Knights correctly between the Rooks and the Bishops.\n\n**✅ Lesson Success Criteria:**\n- Child instantly recognizes the Knight.\n- Child calls the piece a \"Knight.\"\n- Child can place the Knights on their correct starting squares (`b1`/`g1` and `b8`/`g8`).\n\n*(Purpose: \"Can I teach this today?\" Yes. Kids love the Knight more than any other piece because it looks like an animal.)*"
+    },
+    {
+      "id": "LES-013-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-012#2#B1",
+      "parent_prompt_trace": "KB-012#2#B1",
+      "text": "The Knight is a minor piece that looks like a horse's head. Each player starts with two Knights. They are placed between the Rooks (in the corners) and the Bishops. The Knight is the only piece in chess that is shaped like an animal."
+    },
+    {
+      "id": "LES-013-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-012#3#B1",
+      "parent_prompt_trace": "KB-012#3#B1",
+      "text": "Because it looks like a horse, every child naturally wants to call it a \"Horsey\" or a \"Pony.\" Teaching them the proper terminology (\"Knight\") early builds good habits for when they eventually read chess books or talk to other players. Knowing where the Knights start completes the entire back row setup!"
+    },
+    {
+      "id": "LES-013-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-012#4#B1",
+      "parent_prompt_trace": "KB-012#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Knight Movement (TOP-108)\n- ✓ Piece Values (TOP-014)"
+    },
+    {
+      "id": "LES-013-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-012#5#B1",
+      "parent_prompt_trace": "KB-012#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** It's a horse head. Very simple.\n**Name:** Its real name is the KNIGHT. (The \"K\" is silent). \n**Starting Position:** The Knights fill in the final gaps on the back rank. They stand next to the Rooks. For White, they are on `b1` and `g1`. For Black, they are on `b8` and `g8`.\n\n**What NOT to teach today:** Do NOT teach the \"L-shape\" movement. Do NOT teach that the Knight can jump over other pieces. That is the hardest movement in chess to learn, and it requires its own dedicated lesson. Today is only about recognition."
+    },
+    {
+      "id": "LES-013-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-012#6#B1",
+      "parent_prompt_trace": "KB-012#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Knight (2 mins)\nHold up the Knight.\n> *\"Look at this piece! It looks just like a horse, doesn't it? But in the chess army, the person riding the horse is wearing shiny armor. Do you know what a soldier in armor is called? A KNIGHT!\"*\n\n### Step 2 — The Name Rule (2 mins)\n> *\"Because he is a brave soldier, we have to use his proper name to be respectful. If we call him a 'horsey', he might get sad. Can you say Knight?\"*\n\n### Step 3 — The Stables (3 mins)\nPlace the Rooks in the corners.\n> *\"The Knights love to sleep near the big castle towers. So they park their horses right next to the Rooks! Let's put the Knights next to the Rooks.\"*"
+    },
+    {
+      "id": "LES-013-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-012#7#B1",
+      "parent_prompt_trace": "KB-012#7#B1",
+      "text": "> **🐴 The Brave Horse Analogy**\n> \n> The Knight is a brave soldier riding a fast horse. He sleeps in the stables right next to the giant Castle Towers (the Rooks) so he is ready to ride out and defend the edges of the kingdom as soon as the battle begins!\n>\n> **Memory Trick for Starting Position:**\n> **\"Knights next to the Castles!\"**"
+    },
+    {
+      "id": "LES-013-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-012#8#B1",
+      "parent_prompt_trace": "KB-012#8#B1",
+      "text": "Because the word \"Knight\" starts with a K, and \"King\" also starts with a K, chess players had a problem when writing down their moves! They couldn't use K for both. So, the King got to keep the letter \"K\", and the Knight uses the letter \"N\". So if you ever write down a Knight move, you write an N!"
+    },
+    {
+      "id": "LES-013-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1",
+      "source_trace": "KB-012#9#B1",
+      "parent_prompt_trace": "KB-012#9#B1",
+      "text": "**Recognizing the Knight**\n\n*The Knight is the only piece carved to look like an animal (a horse's head and neck).*",
+      "diagram_id": "DGM-012-01",
+      "diagram_url": "assets/DGM-012-01.svg",
+      "position_id": "POS-KNIGHT-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Knight shape",
+      "diagram_alt": "The Knight shape"
+    },
+    {
+      "id": "LES-013-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-012#10#B1",
+      "parent_prompt_trace": "KB-012#10#B1",
+      "text": "Setting up the Knights completes the back row. \n1. Rooks in the corners (`a` and `h`).\n2. Knights next to Rooks (`b` and `g`).\n3. Bishops next to Knights (`c` and `f`).\n4. Queen on her color (`d`), King on the leftover square (`e`)."
+    },
+    {
+      "id": "LES-013-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2",
+      "source_trace": "KB-012#11#B1",
+      "parent_prompt_trace": "KB-012#11#B1",
+      "text": "**Knights in the Stables**\n\n*White Knights on b1 and g1. Black Knights on b8 and g8.*",
+      "diagram_id": "DGM-012-02",
+      "diagram_url": "assets/DGM-012-02.svg",
+      "position_id": "POS-KNIGHT-START-001",
+      "position_version": 1,
+      "position_title": "Starting squares for the Knights",
+      "diagram_alt": "Starting squares for the Knights"
+    },
+    {
+      "id": "LES-013-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-012#12#B1",
+      "parent_prompt_trace": "KB-012#12#B1",
+      "text": "Knights love to jump into the middle of the board. They are very easy to spot because of their unique shape compared to all the tall, round pieces.",
+      "diagram_id": "DGM-012-03",
+      "diagram_url": "assets/DGM-012-03.svg",
+      "position_id": "POS-KNIGHT-MIDGAME-001",
+      "position_version": 1,
+      "position_title": "Find the Knights in a midgame",
+      "diagram_alt": "Find the Knights in a midgame"
+    },
+    {
+      "id": "LES-013-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-012#13#B1",
+      "parent_prompt_trace": "KB-012#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Calling it a Horse** — Kids will naturally do this. Just gently correct them every single time. \"It looks like a horse, but his name is the Knight.\"\n\n### Teaching Mistakes\n- ❌ **Teaching the L-Shape early** — Teaching the L-shape at the same time as board setup will completely derail the lesson. The L-shape takes immense focus. Save it for the Movement lesson!\n- ❌ **Talking about jumping** — If you tell them the Knight can jump today, they will immediately want to start smashing it over other pieces. Keep the focus on the setup."
+    },
+    {
+      "id": "LES-013-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-012#14#B1",
+      "parent_prompt_trace": "KB-012#14#B1",
+      "text": "- **Turn them sideways:** Many players like to turn their Knights so they are facing sideways or slightly forward, rather than straight ahead. Let your child pose their Knights however they like!\n\n> **🧑‍🏫 Coach Tip:**\n> Make a game out of the name. If your child says \"Move the horse,\" you can jokingly say, \"Neigh! I don't see a horse! I only see a Knight!\""
+    },
+    {
+      "id": "LES-013-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-012#15#B1",
+      "parent_prompt_trace": "KB-012#15#B1",
+      "text": "**Q: My child keeps putting the Knight where the Bishop goes. How do I fix this?**\nA: Use the setup sequence. Have them place the Rooks first. Then ask: \"Who sleeps next to the Castle?\" The Knights! Then the King and Queen in the middle, and the Bishops fill the last holes.\n\n**Q: Are Knights stronger than Bishops?**\nA: They are usually considered exactly equal! They are both \"Minor Pieces.\""
+    },
+    {
+      "id": "LES-013-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-012#16#B1",
+      "parent_prompt_trace": "KB-012#16#B1",
+      "text": "### 🏗️ Build the Back Row\nClear the board. Give your child all 8 back-row pieces for White (2 Rooks, 2 Knights, 2 Bishops, 1 Queen, 1 King). Have them build the entire row from memory. Remind them of the story for each piece!\n\n### 🗣️ The Animal Game\nHold up different pieces. When you hold up the Knight, they have to yell \"Knight!\" If they yell \"Horse,\" tickle them."
+    },
+    {
+      "id": "LES-013-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-012#17#B1",
+      "parent_prompt_trace": "KB-012#17#B1",
+      "text": "### 🏆 The Missing Piece\n**Challenge your child:**\n> \"Close your eyes! I'm going to take one piece away from the back row.\"\n\n**Rules:**\n1. Set up the entire White back row correctly.\n2. Have the child close their eyes. Remove one Knight (or Bishop, or Rook).\n3. Have them open their eyes and ask: \"Who is missing from the army?\""
+    },
+    {
+      "id": "LES-013-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-012#18#B1",
+      "parent_prompt_trace": "KB-012#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nWhat is the proper chess name for the piece that looks like a horse?\n*Answer: The Knight.*\n\n### 🟡 Application (Medium)\nWhich two pieces does the Knight stand between at the start of the game?\n*Answer: The Rook and the Bishop.*\n\n### 🔴 Challenge (Hard)\n\nLook at this back row setup. Is it completely correct?\n*Answer: No! The Knight and Bishop on the right side have been swapped! The Knight should be next to the Rook on g1.*",
+      "diagram_id": "DGM-012-04",
+      "diagram_url": "assets/DGM-012-04.svg",
+      "position_id": "POS-KNIGHT-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Knights",
+      "diagram_alt": "Incorrect starting squares for Knights"
+    },
+    {
+      "id": "LES-013-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-012#19#B1",
+      "parent_prompt_trace": "KB-012#19#B1",
+      "text": "*(No specific external resources required for this micro-concept.)*"
+    },
+    {
+      "id": "LES-013-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-012#20#B1",
+      "parent_prompt_trace": "KB-012#20#B1",
+      "text": "### Prerequisites\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Knight Movement** (TOP-108) — How the Knight actually moves.\n- **Pawn** (TOP-013) — Meeting the little soldiers."
+    },
+    {
+      "id": "LES-013-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-012#21#B1",
+      "parent_prompt_trace": "KB-012#21#B1",
+      "text": "- [ ] Do I call it a Knight instead of a Horse?\n- [ ] Did my child practice calling it a Knight?\n- [ ] Can my child set up the entire back row (Rooks, Knights, Bishops, Queen, King)?\n- [ ] Did I successfully avoid teaching the L-shape today?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to the final piece: the **Pawn (TOP-013)**.\n**🔄 If several answers are \"No\":** Practice the \"Build the Back Row\" exercise a few more times.\n\n**🛑 CONCEPT BOUNDARY**\n**Explicitly NOT covered in this lesson:**\n- How the Knight moves (L-shape).\n- How the Knight captures.\n- The rule that Knights can jump over other pieces.\n*(These will be taught in later lessons to prevent cognitive overload).*"
+    }
+  ],
+  "title": "Knight",
+  "duration_minutes": 10,
+  "memory_phrase": "Knights next to the Castles!",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 10,
+    "slides": [
+      {
+        "id": "LES-013-S01",
+        "type": "INTRO",
+        "title": "Meet the Knight",
+        "text": "This piece looks like a horse, but his name is the Knight!",
+        "parent_prompt": "Meet the Knight.",
+        "diagram_id": "DGM-012-01",
+        "diagram_url": "assets/DGM-012-01.svg",
+        "visual": {
+          "diagram_id": "DGM-012-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-KNIGHT-SHAPE-001",
+        "position_version": 1,
+        "position_title": "The Knight shape",
+        "diagram_alt": "The Knight shape"
+      },
+      {
+        "id": "LES-013-S02",
+        "type": "DIAGRAM",
+        "title": "The Brave Horse",
+        "text": "The Knight is the only piece carved to look like an animal.",
+        "parent_prompt": "Spot the horse.",
+        "diagram_id": "DGM-012-01",
+        "diagram_url": "assets/DGM-012-01.svg",
+        "visual": {
+          "diagram_id": "DGM-012-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-KNIGHT-SHAPE-001",
+        "position_version": 1,
+        "position_title": "The Knight shape",
+        "diagram_alt": "The Knight shape"
+      },
+      {
+        "id": "LES-013-S03",
+        "type": "DIAGRAM",
+        "title": "Knights in the Stables",
+        "text": "Knights park their horses next to the Castle Towers (the Rooks).",
+        "parent_prompt": "Explain the stables.",
+        "diagram_id": "DGM-012-02",
+        "diagram_url": "assets/DGM-012-02.svg",
+        "visual": {
+          "diagram_id": "DGM-012-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-KNIGHT-START-001",
+        "position_version": 1,
+        "position_title": "Starting squares for the Knights",
+        "diagram_alt": "Starting squares for the Knights"
+      },
+      {
+        "id": "LES-013-S04",
+        "type": "DIAGRAM",
+        "title": "Find the Knights",
+        "text": "Knights love to jump into the middle of the board! Can you spot them?",
+        "parent_prompt": "Find the Knights.",
+        "diagram_id": "DGM-012-03",
+        "diagram_url": "assets/DGM-012-03.svg",
+        "visual": {
+          "diagram_id": "DGM-012-03",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-KNIGHT-MIDGAME-001",
+        "position_version": 1,
+        "position_title": "Find the Knights in a midgame",
+        "diagram_alt": "Find the Knights in a midgame"
+      },
+      {
+        "id": "LES-013-S05",
+        "type": "DIAGRAM",
+        "title": "Fix the Board",
+        "text": "Oh no! The Knights are not sleeping next to the Castles!",
+        "parent_prompt": "Find the mistake.",
+        "diagram_id": "DGM-012-04",
+        "diagram_url": "assets/DGM-012-04.svg",
+        "visual": {
+          "diagram_id": "DGM-012-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-KNIGHT-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Incorrect starting squares for Knights",
+        "diagram_alt": "Incorrect starting squares for Knights"
+      },
+      {
+        "id": "LES-013-S06",
+        "type": "ASSESSMENT",
+        "title": "Check your progress",
+        "text": "Can you correctly call this piece a Knight?",
+        "parent_prompt": "Check your progress.",
+        "diagram_id": "DGM-012-04",
+        "diagram_url": "assets/DGM-012-04.svg",
+        "visual": {
+          "diagram_id": "DGM-012-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-KNIGHT-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Incorrect starting squares for Knights",
+        "diagram_alt": "Incorrect starting squares for Knights"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-013-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-012#1#B1",
+        "parent_prompt_trace": "KB-012#1#B1",
+        "text": "- **Topic**: Knight (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Knight, call it by its proper name (not a Horsey!), and place the two Knights correctly between the Rooks and the Bishops.\n\n**✅ Lesson Success Criteria:**\n- Child instantly recognizes the Knight.\n- Child calls the piece a \"Knight.\"\n- Child can place the Knights on their correct starting squares (`b1`/`g1` and `b8`/`g8`).\n\n*(Purpose: \"Can I teach this today?\" Yes. Kids love the Knight more than any other piece because it looks like an animal.)*"
+      },
+      {
+        "id": "LES-013-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-012#2#B1",
+        "parent_prompt_trace": "KB-012#2#B1",
+        "text": "The Knight is a minor piece that looks like a horse's head. Each player starts with two Knights. They are placed between the Rooks (in the corners) and the Bishops. The Knight is the only piece in chess that is shaped like an animal."
+      },
+      {
+        "id": "LES-013-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-012#3#B1",
+        "parent_prompt_trace": "KB-012#3#B1",
+        "text": "Because it looks like a horse, every child naturally wants to call it a \"Horsey\" or a \"Pony.\" Teaching them the proper terminology (\"Knight\") early builds good habits for when they eventually read chess books or talk to other players. Knowing where the Knights start completes the entire back row setup!"
+      },
+      {
+        "id": "LES-013-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-012#4#B1",
+        "parent_prompt_trace": "KB-012#4#B1",
+        "text": "**Prerequisites:**\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Knight Movement (TOP-108)\n- ✓ Piece Values (TOP-014)"
+      },
+      {
+        "id": "LES-013-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-012#5#B1",
+        "parent_prompt_trace": "KB-012#5#B1",
+        "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** It's a horse head. Very simple.\n**Name:** Its real name is the KNIGHT. (The \"K\" is silent). \n**Starting Position:** The Knights fill in the final gaps on the back rank. They stand next to the Rooks. For White, they are on `b1` and `g1`. For Black, they are on `b8` and `g8`.\n\n**What NOT to teach today:** Do NOT teach the \"L-shape\" movement. Do NOT teach that the Knight can jump over other pieces. That is the hardest movement in chess to learn, and it requires its own dedicated lesson. Today is only about recognition."
+      },
+      {
+        "id": "LES-013-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-012#6#B1",
+        "parent_prompt_trace": "KB-012#6#B1",
+        "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Knight (2 mins)\nHold up the Knight.\n> *\"Look at this piece! It looks just like a horse, doesn't it? But in the chess army, the person riding the horse is wearing shiny armor. Do you know what a soldier in armor is called? A KNIGHT!\"*\n\n### Step 2 — The Name Rule (2 mins)\n> *\"Because he is a brave soldier, we have to use his proper name to be respectful. If we call him a 'horsey', he might get sad. Can you say Knight?\"*\n\n### Step 3 — The Stables (3 mins)\nPlace the Rooks in the corners.\n> *\"The Knights love to sleep near the big castle towers. So they park their horses right next to the Rooks! Let's put the Knights next to the Rooks.\"*"
+      },
+      {
+        "id": "LES-013-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-012#7#B1",
+        "parent_prompt_trace": "KB-012#7#B1",
+        "text": "> **🐴 The Brave Horse Analogy**\n> \n> The Knight is a brave soldier riding a fast horse. He sleeps in the stables right next to the giant Castle Towers (the Rooks) so he is ready to ride out and defend the edges of the kingdom as soon as the battle begins!\n>\n> **Memory Trick for Starting Position:**\n> **\"Knights next to the Castles!\"**"
+      },
+      {
+        "id": "LES-013-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know? 🎓",
+        "source_trace": "KB-012#8#B1",
+        "parent_prompt_trace": "KB-012#8#B1",
+        "text": "Because the word \"Knight\" starts with a K, and \"King\" also starts with a K, chess players had a problem when writing down their moves! They couldn't use K for both. So, the King got to keep the letter \"K\", and the Knight uses the letter \"N\". So if you ever write down a Knight move, you write an N!"
+      },
+      {
+        "id": "LES-013-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1",
+        "source_trace": "KB-012#9#B1",
+        "parent_prompt_trace": "KB-012#9#B1",
+        "text": "**Recognizing the Knight**\n\n*The Knight is the only piece carved to look like an animal (a horse's head and neck).*",
+        "diagram_id": "DGM-012-01",
+        "diagram_url": "assets/DGM-012-01.svg",
+        "position_id": "POS-KNIGHT-SHAPE-001",
+        "position_version": 1,
+        "position_title": "The Knight shape",
+        "diagram_alt": "The Knight shape"
+      },
+      {
+        "id": "LES-013-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-012#10#B1",
+        "parent_prompt_trace": "KB-012#10#B1",
+        "text": "Setting up the Knights completes the back row. \n1. Rooks in the corners (`a` and `h`).\n2. Knights next to Rooks (`b` and `g`).\n3. Bishops next to Knights (`c` and `f`).\n4. Queen on her color (`d`), King on the leftover square (`e`)."
+      },
+      {
+        "id": "LES-013-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2",
+        "source_trace": "KB-012#11#B1",
+        "parent_prompt_trace": "KB-012#11#B1",
+        "text": "**Knights in the Stables**\n\n*White Knights on b1 and g1. Black Knights on b8 and g8.*",
+        "diagram_id": "DGM-012-02",
+        "diagram_url": "assets/DGM-012-02.svg",
+        "position_id": "POS-KNIGHT-START-001",
+        "position_version": 1,
+        "position_title": "Starting squares for the Knights",
+        "diagram_alt": "Starting squares for the Knights"
+      },
+      {
+        "id": "LES-013-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-012#12#B1",
+        "parent_prompt_trace": "KB-012#12#B1",
+        "text": "Knights love to jump into the middle of the board. They are very easy to spot because of their unique shape compared to all the tall, round pieces.",
+        "diagram_id": "DGM-012-03",
+        "diagram_url": "assets/DGM-012-03.svg",
+        "position_id": "POS-KNIGHT-MIDGAME-001",
+        "position_version": 1,
+        "position_title": "Find the Knights in a midgame",
+        "diagram_alt": "Find the Knights in a midgame"
+      },
+      {
+        "id": "LES-013-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-012#13#B1",
+        "parent_prompt_trace": "KB-012#13#B1",
+        "text": "### Chess Mistakes\n- ❌ **Calling it a Horse** — Kids will naturally do this. Just gently correct them every single time. \"It looks like a horse, but his name is the Knight.\"\n\n### Teaching Mistakes\n- ❌ **Teaching the L-Shape early** — Teaching the L-shape at the same time as board setup will completely derail the lesson. The L-shape takes immense focus. Save it for the Movement lesson!\n- ❌ **Talking about jumping** — If you tell them the Knight can jump today, they will immediately want to start smashing it over other pieces. Keep the focus on the setup."
+      },
+      {
+        "id": "LES-013-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-012#14#B1",
+        "parent_prompt_trace": "KB-012#14#B1",
+        "text": "- **Turn them sideways:** Many players like to turn their Knights so they are facing sideways or slightly forward, rather than straight ahead. Let your child pose their Knights however they like!\n\n> **🧑‍🏫 Coach Tip:**\n> Make a game out of the name. If your child says \"Move the horse,\" you can jokingly say, \"Neigh! I don't see a horse! I only see a Knight!\""
+      },
+      {
+        "id": "LES-013-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-012#15#B1",
+        "parent_prompt_trace": "KB-012#15#B1",
+        "text": "**Q: My child keeps putting the Knight where the Bishop goes. How do I fix this?**\nA: Use the setup sequence. Have them place the Rooks first. Then ask: \"Who sleeps next to the Castle?\" The Knights! Then the King and Queen in the middle, and the Bishops fill the last holes.\n\n**Q: Are Knights stronger than Bishops?**\nA: They are usually considered exactly equal! They are both \"Minor Pieces.\""
+      },
+      {
+        "id": "LES-013-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-012#16#B1",
+        "parent_prompt_trace": "KB-012#16#B1",
+        "text": "### 🏗️ Build the Back Row\nClear the board. Give your child all 8 back-row pieces for White (2 Rooks, 2 Knights, 2 Bishops, 1 Queen, 1 King). Have them build the entire row from memory. Remind them of the story for each piece!\n\n### 🗣️ The Animal Game\nHold up different pieces. When you hold up the Knight, they have to yell \"Knight!\" If they yell \"Horse,\" tickle them."
+      },
+      {
+        "id": "LES-013-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge ⭐",
+        "source_trace": "KB-012#17#B1",
+        "parent_prompt_trace": "KB-012#17#B1",
+        "text": "### 🏆 The Missing Piece\n**Challenge your child:**\n> \"Close your eyes! I'm going to take one piece away from the back row.\"\n\n**Rules:**\n1. Set up the entire White back row correctly.\n2. Have the child close their eyes. Remove one Knight (or Bishop, or Rook).\n3. Have them open their eyes and ask: \"Who is missing from the army?\""
+      },
+      {
+        "id": "LES-013-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-012#18#B1",
+        "parent_prompt_trace": "KB-012#18#B1",
+        "text": "### 🟢 Recognition (Easy)\nWhat is the proper chess name for the piece that looks like a horse?\n*Answer: The Knight.*\n\n### 🟡 Application (Medium)\nWhich two pieces does the Knight stand between at the start of the game?\n*Answer: The Rook and the Bishop.*\n\n### 🔴 Challenge (Hard)\n\nLook at this back row setup. Is it completely correct?\n*Answer: No! The Knight and Bishop on the right side have been swapped! The Knight should be next to the Rook on g1.*",
+        "diagram_id": "DGM-012-04",
+        "diagram_url": "assets/DGM-012-04.svg",
+        "position_id": "POS-KNIGHT-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Incorrect starting squares for Knights",
+        "diagram_alt": "Incorrect starting squares for Knights"
+      },
+      {
+        "id": "LES-013-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-012#19#B1",
+        "parent_prompt_trace": "KB-012#19#B1",
+        "text": "*(No specific external resources required for this micro-concept.)*"
+      },
+      {
+        "id": "LES-013-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-012#20#B1",
+        "parent_prompt_trace": "KB-012#20#B1",
+        "text": "### Prerequisites\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Knight Movement** (TOP-108) — How the Knight actually moves.\n- **Pawn** (TOP-013) — Meeting the little soldiers."
+      },
+      {
+        "id": "LES-013-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check ✅",
+        "source_trace": "KB-012#21#B1",
+        "parent_prompt_trace": "KB-012#21#B1",
+        "text": "- [ ] Do I call it a Knight instead of a Horse?\n- [ ] Did my child practice calling it a Knight?\n- [ ] Can my child set up the entire back row (Rooks, Knights, Bishops, Queen, King)?\n- [ ] Did I successfully avoid teaching the L-shape today?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to the final piece: the **Pawn (TOP-013)**.\n**🔄 If several answers are \"No\":** Practice the \"Build the Back Row\" exercise a few more times.\n\n**🛑 CONCEPT BOUNDARY**\n**Explicitly NOT covered in this lesson:**\n- How the Knight moves (L-shape).\n- How the Knight captures.\n- The rule that Knights can jump over other pieces.\n*(These will be taught in later lessons to prevent cognitive overload).*"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+schema_version: 1
+diagram_id: DGM-012-04
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-KNIGHT-PUZZLE-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: BLACK
+    piece_type: KING
+    square: e8
+  - color: BLACK
+    piece_type: QUEEN
+    square: d8
+  - color: BLACK
+    piece_type: ROOK
+    square: a8
+  - color: BLACK
+    piece_type: ROOK
+    square: h8
+  - color: BLACK
+    piece_type: KNIGHT
+    square: c8
+  - color: BLACK
+    piece_type: KNIGHT
+    square: f8
+  - color: BLACK
+    piece_type: BISHOP
+    square: b8
+  - color: BLACK
+    piece_type: BISHOP
+    square: g8
+position_sha256: a68d27a296c02283746a9bc9d266826bef015c0b73830d95fb603bb36bb6f25c
+presentation_sha256: 36ddf60e9883a36b0d22b30ff4f91de120f8e10f6007f479ad666b60fbcf14f6
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-012#18#B3
+review_status: APPROVED
+reviewed_artifact_sha256: cca5c0ef723e4612f75f2f8456f1fc342f66c54cbaa11b37b5f33aca64dcd50e
+output_svg_sha256: cca5c0ef723e4612f75f2f8456f1fc342f66c54cbaa11b37b5f33aca64dcd50e

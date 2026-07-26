@@ -1,0 +1,20 @@
+schema_version: 1
+lab_id: LAB-FOUNDATIONS-002
+lesson_id: LES-015
+compiler_version: puzzle-lab-1
+inputs:
+  classroom/scripts/puzzle_lab.js: 817576a57bfe317011fef3746067406e82750983241d7b72a024811f70c8f03d
+  classroom/styles/puzzle_lab.css: 633cec901de2524d2057433120621284cfb7391f56954eaaa0042c9f763da0f1
+  classroom/templates/puzzle_lab.html: 9c77a6dab6aa828d3d58f87fd0a30fc66bcab051c95eb58578798c14f1213af3
+  curriculum/CURRICULUM_INDEX.yaml: 6f15620b7518d97ca1dec680a34ebdda11a4989df8b823df9cb43c7e6ed5e40b
+  pipeline/puzzle_lab.py: 87011515c241fdbe1a74b18c8ae21306b148dbc925b1b1a311e90cbf88761649
+  puzzles/policies/labs/LAB-FOUNDATIONS-002.yaml: fa8a96adce9d14ce5edf5c2f43195bddf784a32c9cc0fa7008528283f886fa9c
+  puzzles/reviews/LAB-FOUNDATIONS-002.yaml: 5f7d4b68de212f4fd2718cae18c7b2d014e9cb2afabb116973d448ebb79c19a9
+  puzzles/snapshots/LAB-FOUNDATIONS-002.selected.json: 5314ed4729579c160040458e23e7a7133258d3bc61a104e94f907a2ddace8af7
+outputs:
+  assets/puzzle_lab.css: 633cec901de2524d2057433120621284cfb7391f56954eaaa0042c9f763da0f1
+  assets/puzzle_lab.js: 817576a57bfe317011fef3746067406e82750983241d7b72a024811f70c8f03d
+  index.html: dd074ab2651e255564332357198e78509346b71ba419498a5abf113d7160fb72
+  lab.json: 7931c9c838bb305900300637cdc7dc3798f724f5b50f0269dae8dc4830cbff6d
+build_id: 606862b6296c0256e15de611a0cc1cf66fb238b8f44f089294e30c7afd958427
+validation_decision: VALID

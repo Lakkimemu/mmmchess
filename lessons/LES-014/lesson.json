@@ -1,0 +1,1186 @@
+{
+  "lesson_id": "LES-014",
+  "kb_id": "KB-013",
+  "topic_id": "TOP-013",
+  "unit_id": "UNT-001",
+  "sequence": 14,
+  "objective": "**🎯 Today's Goal:**\nYour child can identify the Pawns, understand they are the foot soldiers of the army, and place all 8 of them on their correct starting rank.",
+  "success_criteria": "**✅ Lesson Success Criteria:**\n- Child can identify a Pawn as the smallest piece.\n- Child can correctly name the piece (\"Pawn\").\n- Child can set up a wall of 8 Pawns on the 2nd (or 7th) rank.",
+  "source_traces": {
+    "objective": "KB-013#1#B2",
+    "success_criteria": "KB-013#1#B3"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-013#1",
+      "content": "- **Topic**: Pawn (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Ranks (TOP-004), Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Pawns, understand they are the foot soldiers of the army, and place all 8 of them on their correct starting rank.\n\n**✅ Lesson Success Criteria:**\n- Child can identify a Pawn as the smallest piece.\n- Child can correctly name the piece (\"Pawn\").\n- Child can set up a wall of 8 Pawns on the 2nd (or 7th) rank.\n\n*(Purpose: \"Can I teach this today?\" Yes. This is the grand finale of board setup!)*\n\n---"
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-013#2",
+      "content": "The Pawn is the smallest and most numerous piece in chess. Each player starts with 8 Pawns. They are placed in a straight line across the board, directly in front of the major and minor pieces. They represent the foot soldiers of the chess army.\n\n---"
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-013#3",
+      "content": "Pawns make up exactly half of the pieces on the board. While they are the weakest pieces individually, their placement dictates the entire strategy of the game. Learning how to quickly line them up completes the final step of setting up a chess board.\n\n---"
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-013#4",
+      "content": "**Prerequisites:**\n- ✓ Ranks (TOP-004)\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Pawn Movement (TOP-109)\n- ✓ Piece Values (TOP-014)\n\n---"
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-013#5",
+      "content": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** The Pawn is the shortest piece. It has a simple round head. \n**Role:** Pawns are the brave little foot soldiers. They stand in front to protect the important pieces behind them.\n**Starting Position:** White places all 8 Pawns in a straight line on the **2nd Rank**. Black places all 8 Pawns on the **7th Rank**. \n\n**What NOT to teach today:** Do NOT teach how the Pawn moves. Do NOT teach how it captures diagonally. Do NOT teach promotion. The Pawn actually has the most complicated movement rules of any piece in chess! Today is only about building the wall.\n\n---"
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-013#6",
+      "content": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Soldier (2 mins)\nHold up a Pawn.\n> *\"This is the Pawn! He is the smallest piece, but he is incredibly brave. He is the foot soldier of the army. And guess what? You don't just get one Pawn... you get EIGHT of them!\"*\n\n### Step 2 — The Shield Wall (3 mins)\nPlace the King and Queen on the board.\n> *\"The important pieces like the King and Queen need a shield wall to protect them from the bad guys. So the Pawns stand in a long line right in front of them!\"*\n\n### Step 3 — Building the Line (3 mins)\nPoint to the 2nd Rank.\n> *\"All the White Pawns stand holding hands on row number 2. Can you line up all 8 Pawns to build the shield wall?\"*\n\n---"
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-013#7",
+      "content": "> **🛡️ The Little Soldiers Analogy**\n> \n> The Pawns are the brave little soldiers. Because they are small, they have to work together. Before the battle starts, they all march out and form a giant shield wall stretching all the way across the kingdom, right in front of the castles and the King!\n>\n> **Memory Trick for Starting Position:**\n> **\"Pawns on Rank Two, ready to march through!\"**\n\n---"
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know? 🎓",
+      "source_trace": "KB-013#8",
+      "content": "Because Pawns are so small, some people think they aren't important. But a famous chess player named François-André Danican Philidor once said, \"Pawns are the soul of chess!\" The way you move your Pawns actually decides who wins the game!\n\n---"
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1",
+      "source_trace": "KB-013#9",
+      "content": "**Recognizing the Pawn**\n\n![DGM-001 Pawn Shape](../../assets/diagrams/TOP-013/DGM-001_Pawn_Shape.svg)\n*The Pawn is the shortest piece on the board, featuring a simple round head.*\n\n---"
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-013#10",
+      "content": "Setting up the Pawns is incredibly satisfying for children. Once the back row is complete, they simply place one Pawn on every single square of the rank directly in front of the back row.\n\n---"
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2",
+      "source_trace": "KB-013#11",
+      "content": "**The Shield Wall**\n\n![DGM-002 Pawn Start](../../assets/diagrams/TOP-013/DGM-002_Pawn_Start.svg)\n*White Pawns fill the 2nd Rank. Black Pawns fill the 7th Rank.*\n\n---"
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-013#12",
+      "content": "![DGM-003 Pawns in Game](../../assets/diagrams/TOP-013/DGM-003_Pawns_in_Game.svg)\nDuring a game, Pawns will march forward and bump into each other. But notice how they still form chains and walls to protect the pieces behind them!\n\n---"
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-013#13",
+      "content": "### Chess Mistakes\n- ❌ **Putting Pawns on the 1st Rank** — Sometimes kids will mix up the pieces and put Pawns in the back and Rooks in the front. Remind them: \"Soldiers in front, castles in back!\"\n\n### Teaching Mistakes\n- ❌ **Explaining Pawn Captures** — Pawns move straight but capture diagonally. This is deeply confusing for a 6-year-old. Do NOT teach it today. Just teach the setup.\n- ❌ **Explaining Promotion** — If you tell them a Pawn can turn into a Queen today, they will ignore everything else and just try to sprint their Pawns across the board. Save the magic for later!\n\n---"
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-013#14",
+      "content": "- **Let them do it:** Give them a handful of Pawns and let them build the wall themselves. It builds fine motor skills!\n\n> **🧑‍🏫 Coach Tip:**\n> Once your child can set up all 8 Pawns and the entire back row, **celebrate!** They have officially mastered the chess setup. This is a huge milestone. \n\n---"
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-013#15",
+      "content": "**Q: My child calls them 'pons' or 'pawns' interchangeably. Does it matter?**\nA: It's pronounced exactly like \"Pawn\" (rhymes with yawn). As long as they don't call them \"little guys,\" they are doing great!\n\n**Q: Are all 8 Pawns exactly the same?**\nA: Yes! Unlike the Bishop and Knight which have specific files, all 8 Pawns are identical and can be placed on any square on the 2nd rank.\n\n---"
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-013#16",
+      "content": "### 🏁 The Setup Race!\nNow that they know ALL the pieces, dump all 16 White pieces in a pile. Say, \"Ready, Set, Go!\" and time how long it takes them to set up the entire army (Rooks, Knights, Bishops, Queen, King, and the 8 Pawns). \n\n### 🧱 The Wall\nSet up the Black Pawns on the 7th rank. Set up the White Pawns on the 2nd rank. Let your child just look at how cool the two walls look facing each other.\n\n---"
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge ⭐",
+      "source_trace": "KB-013#17",
+      "content": "### 🏆 The Missing Soldier\n**Challenge your child:**\n> \"One of the soldiers fell asleep! Can you find the hole in the wall?\"\n\n**Rules:**\n1. Set up the 8 White Pawns on the 2nd rank.\n2. Have your child close their eyes. Remove the pawn on `e2`.\n3. Have them open their eyes and ask: \"Which square is missing a soldier?\" (They must name the square, combining Coordinate practice with Pawn setup!)\n\n---"
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-013#18",
+      "content": "### 🟢 Recognition (Easy)\nHow many Pawns does each player get at the start of the game?\n*Answer: 8 Pawns.*\n\n### 🟡 Application (Medium)\nWhich Rank do the White Pawns start on?\n*Answer: The 2nd Rank.*\n\n### 🔴 Challenge (Hard)\n![DGM-004 Puzzle](../../assets/diagrams/TOP-013/DGM-004_Puzzle.svg)\nLook at this complete board setup. Is everything correct?\n*Answer: No! One of the White Pawns is missing from the 2nd rank, and the White King and Queen are on the wrong colors (King is on light, Queen is on dark). The Pawns are supposed to be a solid wall of 8!*\n\n---"
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-013#19",
+      "content": "*(No specific external resources required for this micro-concept.)*\n\n---"
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-013#20",
+      "content": "### Prerequisites\n- **Ranks** (TOP-004)\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Pawn Movement** (TOP-109) — How the Pawn actually moves.\n- **Initial Position** (TOP-015) — Reviewing the entire setup.\n\n---"
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check ✅",
+      "source_trace": "KB-013#21",
+      "content": "- [ ] Do I know that Pawns start on the 2nd and 7th ranks?\n- [ ] Did my child successfully line up all 8 Pawns?\n- [ ] Can my child set up the entire board now?\n- [ ] Did I successfully avoid teaching movement, capturing, or promotion today?\n\n**✅ If most answers are \"Yes\":** MASSIVE CONGRATULATIONS! You have completed the \"Meet the Characters\" phase. Your child knows the entire board and every piece. You are ready to move to **Stage 2: Make Them Move!**\n**🔄 If several answers are \"No\":** Keep practicing \"The Setup Race\" until it becomes muscle memory.\n\n---\n\n**🛑 CONCEPT BOUNDARY**\n**Explicitly NOT covered in this lesson:**\n- How the Pawn moves (1 or 2 squares forward).\n- How the Pawn captures (diagonally).\n- Promotion.\n- En Passant.\n*(These will be taught in later lessons to prevent cognitive overload).*\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  diagrams: 4\n  mini_puzzles: 3\n  external_resources: 0\n  coach_challenges: 1\n  practice_activities: 2\n  coach_tips: 1\n  parent_faq: 2\n  estimated_read_time: 10 min\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-014-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-013#1#B1",
+      "parent_prompt_trace": "KB-013#1#B1",
+      "text": "- **Topic**: Pawn (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Ranks (TOP-004), Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Pawns, understand they are the foot soldiers of the army, and place all 8 of them on their correct starting rank.\n\n**✅ Lesson Success Criteria:**\n- Child can identify a Pawn as the smallest piece.\n- Child can correctly name the piece (\"Pawn\").\n- Child can set up a wall of 8 Pawns on the 2nd (or 7th) rank.\n\n*(Purpose: \"Can I teach this today?\" Yes. This is the grand finale of board setup!)*"
+    },
+    {
+      "id": "LES-014-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-013#2#B1",
+      "parent_prompt_trace": "KB-013#2#B1",
+      "text": "The Pawn is the smallest and most numerous piece in chess. Each player starts with 8 Pawns. They are placed in a straight line across the board, directly in front of the major and minor pieces. They represent the foot soldiers of the chess army."
+    },
+    {
+      "id": "LES-014-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-013#3#B1",
+      "parent_prompt_trace": "KB-013#3#B1",
+      "text": "Pawns make up exactly half of the pieces on the board. While they are the weakest pieces individually, their placement dictates the entire strategy of the game. Learning how to quickly line them up completes the final step of setting up a chess board."
+    },
+    {
+      "id": "LES-014-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-013#4#B1",
+      "parent_prompt_trace": "KB-013#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Ranks (TOP-004)\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Pawn Movement (TOP-109)\n- ✓ Piece Values (TOP-014)"
+    },
+    {
+      "id": "LES-014-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-013#5#B1",
+      "parent_prompt_trace": "KB-013#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** The Pawn is the shortest piece. It has a simple round head. \n**Role:** Pawns are the brave little foot soldiers. They stand in front to protect the important pieces behind them.\n**Starting Position:** White places all 8 Pawns in a straight line on the **2nd Rank**. Black places all 8 Pawns on the **7th Rank**.\n\n**What NOT to teach today:** Do NOT teach how the Pawn moves. Do NOT teach how it captures diagonally. Do NOT teach promotion. The Pawn actually has the most complicated movement rules of any piece in chess! Today is only about building the wall."
+    },
+    {
+      "id": "LES-014-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-013#6#B1",
+      "parent_prompt_trace": "KB-013#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Soldier (2 mins)\nHold up a Pawn.\n> *\"This is the Pawn! He is the smallest piece, but he is incredibly brave. He is the foot soldier of the army. And guess what? You don't just get one Pawn... you get EIGHT of them!\"*\n\n### Step 2 — The Shield Wall (3 mins)\nPlace the King and Queen on the board.\n> *\"The important pieces like the King and Queen need a shield wall to protect them from the bad guys. So the Pawns stand in a long line right in front of them!\"*\n\n### Step 3 — Building the Line (3 mins)\nPoint to the 2nd Rank.\n> *\"All the White Pawns stand holding hands on row number 2. Can you line up all 8 Pawns to build the shield wall?\"*"
+    },
+    {
+      "id": "LES-014-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-013#7#B1",
+      "parent_prompt_trace": "KB-013#7#B1",
+      "text": "> **🛡️ The Little Soldiers Analogy**\n> \n> The Pawns are the brave little soldiers. Because they are small, they have to work together. Before the battle starts, they all march out and form a giant shield wall stretching all the way across the kingdom, right in front of the castles and the King!\n>\n> **Memory Trick for Starting Position:**\n> **\"Pawns on Rank Two, ready to march through!\"**"
+    },
+    {
+      "id": "LES-014-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-013#8#B1",
+      "parent_prompt_trace": "KB-013#8#B1",
+      "text": "Because Pawns are so small, some people think they aren't important. But a famous chess player named François-André Danican Philidor once said, \"Pawns are the soul of chess!\" The way you move your Pawns actually decides who wins the game!"
+    },
+    {
+      "id": "LES-014-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1",
+      "source_trace": "KB-013#9#B1",
+      "parent_prompt_trace": "KB-013#9#B1",
+      "text": "**Recognizing the Pawn**\n\n*The Pawn is the shortest piece on the board, featuring a simple round head.*",
+      "diagram_id": "DGM-013-01",
+      "diagram_url": "assets/DGM-013-01.svg",
+      "position_id": "POS-PAWN-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Pawn shape",
+      "diagram_alt": "The Pawn shape"
+    },
+    {
+      "id": "LES-014-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-013#10#B1",
+      "parent_prompt_trace": "KB-013#10#B1",
+      "text": "Setting up the Pawns is incredibly satisfying for children. Once the back row is complete, they simply place one Pawn on every single square of the rank directly in front of the back row."
+    },
+    {
+      "id": "LES-014-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2",
+      "source_trace": "KB-013#11#B1",
+      "parent_prompt_trace": "KB-013#11#B1",
+      "text": "**The Shield Wall**\n\n*White Pawns fill the 2nd Rank. Black Pawns fill the 7th Rank.*",
+      "diagram_id": "DGM-013-02",
+      "diagram_url": "assets/DGM-013-02.svg",
+      "position_id": "POS-PAWN-START-001",
+      "position_version": 1,
+      "position_title": "Starting squares for the Pawns",
+      "diagram_alt": "Starting squares for the Pawns"
+    },
+    {
+      "id": "LES-014-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-013#12#B1",
+      "parent_prompt_trace": "KB-013#12#B1",
+      "text": "During a game, Pawns will march forward and bump into each other. But notice how they still form chains and walls to protect the pieces behind them!",
+      "diagram_id": "DGM-013-03",
+      "diagram_url": "assets/DGM-013-03.svg",
+      "position_id": "POS-PAWN-MIDGAME-001",
+      "position_version": 1,
+      "position_title": "Find the Pawns in a midgame",
+      "diagram_alt": "Find the Pawns in a midgame"
+    },
+    {
+      "id": "LES-014-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-013#13#B1",
+      "parent_prompt_trace": "KB-013#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Putting Pawns on the 1st Rank** — Sometimes kids will mix up the pieces and put Pawns in the back and Rooks in the front. Remind them: \"Soldiers in front, castles in back!\"\n\n### Teaching Mistakes\n- ❌ **Explaining Pawn Captures** — Pawns move straight but capture diagonally. This is deeply confusing for a 6-year-old. Do NOT teach it today. Just teach the setup.\n- ❌ **Explaining Promotion** — If you tell them a Pawn can turn into a Queen today, they will ignore everything else and just try to sprint their Pawns across the board. Save the magic for later!"
+    },
+    {
+      "id": "LES-014-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-013#14#B1",
+      "parent_prompt_trace": "KB-013#14#B1",
+      "text": "- **Let them do it:** Give them a handful of Pawns and let them build the wall themselves. It builds fine motor skills!\n\n> **🧑‍🏫 Coach Tip:**\n> Once your child can set up all 8 Pawns and the entire back row, **celebrate!** They have officially mastered the chess setup. This is a huge milestone."
+    },
+    {
+      "id": "LES-014-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-013#15#B1",
+      "parent_prompt_trace": "KB-013#15#B1",
+      "text": "**Q: My child calls them 'pons' or 'pawns' interchangeably. Does it matter?**\nA: It's pronounced exactly like \"Pawn\" (rhymes with yawn). As long as they don't call them \"little guys,\" they are doing great!\n\n**Q: Are all 8 Pawns exactly the same?**\nA: Yes! Unlike the Bishop and Knight which have specific files, all 8 Pawns are identical and can be placed on any square on the 2nd rank."
+    },
+    {
+      "id": "LES-014-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-013#16#B1",
+      "parent_prompt_trace": "KB-013#16#B1",
+      "text": "### 🏁 The Setup Race!\nNow that they know ALL the pieces, dump all 16 White pieces in a pile. Say, \"Ready, Set, Go!\" and time how long it takes them to set up the entire army (Rooks, Knights, Bishops, Queen, King, and the 8 Pawns).\n\n### 🧱 The Wall\nSet up the Black Pawns on the 7th rank. Set up the White Pawns on the 2nd rank. Let your child just look at how cool the two walls look facing each other."
+    },
+    {
+      "id": "LES-014-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-013#17#B1",
+      "parent_prompt_trace": "KB-013#17#B1",
+      "text": "### 🏆 The Missing Soldier\n**Challenge your child:**\n> \"One of the soldiers fell asleep! Can you find the hole in the wall?\"\n\n**Rules:**\n1. Set up the 8 White Pawns on the 2nd rank.\n2. Have your child close their eyes. Remove the pawn on `e2`.\n3. Have them open their eyes and ask: \"Which square is missing a soldier?\" (They must name the square, combining Coordinate practice with Pawn setup!)"
+    },
+    {
+      "id": "LES-014-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-013#18#B1",
+      "parent_prompt_trace": "KB-013#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nHow many Pawns does each player get at the start of the game?\n*Answer: 8 Pawns.*\n\n### 🟡 Application (Medium)\nWhich Rank do the White Pawns start on?\n*Answer: The 2nd Rank.*\n\n### 🔴 Challenge (Hard)\n\nLook at this complete board setup. Is everything correct?\n*Answer: No! One of the White Pawns is missing from the 2nd rank, and the White King and Queen are on the wrong colors (King is on light, Queen is on dark). The Pawns are supposed to be a solid wall of 8!*",
+      "diagram_id": "DGM-013-04",
+      "diagram_url": "assets/DGM-013-04.svg",
+      "position_id": "POS-PAWN-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Pawns",
+      "diagram_alt": "Incorrect starting squares for Pawns"
+    },
+    {
+      "id": "LES-014-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-013#19#B1",
+      "parent_prompt_trace": "KB-013#19#B1",
+      "text": "*(No specific external resources required for this micro-concept.)*"
+    },
+    {
+      "id": "LES-014-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-013#20#B1",
+      "parent_prompt_trace": "KB-013#20#B1",
+      "text": "### Prerequisites\n- **Ranks** (TOP-004)\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Pawn Movement** (TOP-109) — How the Pawn actually moves.\n- **Initial Position** (TOP-015) — Reviewing the entire setup."
+    },
+    {
+      "id": "LES-014-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-013#21#B1",
+      "parent_prompt_trace": "KB-013#21#B1",
+      "text": "- [ ] Do I know that Pawns start on the 2nd and 7th ranks?\n- [ ] Did my child successfully line up all 8 Pawns?\n- [ ] Can my child set up the entire board now?\n- [ ] Did I successfully avoid teaching movement, capturing, or promotion today?\n\n**✅ If most answers are \"Yes\":** MASSIVE CONGRATULATIONS! You have completed the \"Meet the Characters\" phase. Your child knows the entire board and every piece. You are ready to move to **Stage 2: Make Them Move!**\n**🔄 If several answers are \"No\":** Keep practicing \"The Setup Race\" until it becomes muscle memory.\n\n**🛑 CONCEPT BOUNDARY**\n**Explicitly NOT covered in this lesson:**\n- How the Pawn moves (1 or 2 squares forward).\n- How the Pawn captures (diagonally).\n- Promotion.\n- En Passant.\n*(These will be taught in later lessons to prevent cognitive overload).*"
+    }
+  ],
+  "task_references": [
+    "PZL-014-01",
+    "PZL-014-02",
+    "PZL-014-03",
+    "PZL-014-04"
+  ],
+  "diagram_references": [
+    "DGM-013-01",
+    "DGM-013-02",
+    "DGM-013-03",
+    "DGM-013-04"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-014",
+  "deferred_topics": [],
+  "teach_slides": [
+    {
+      "id": "LES-014-S01",
+      "type": "INTRO",
+      "title": "Meet the Pawn",
+      "text": "This is the Pawn! He is the foot soldier of the army.",
+      "parent_prompt": "Meet the Pawn.",
+      "diagram_id": "DGM-013-01",
+      "diagram_url": "assets/DGM-013-01.svg",
+      "visual": {
+        "diagram_id": "DGM-013-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-PAWN-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Pawn shape",
+      "diagram_alt": "The Pawn shape"
+    },
+    {
+      "id": "LES-014-S02",
+      "type": "DIAGRAM",
+      "title": "The Smallest Piece",
+      "text": "The Pawn is the shortest piece and has a simple round head.",
+      "parent_prompt": "Spot the round head.",
+      "diagram_id": "DGM-013-01",
+      "diagram_url": "assets/DGM-013-01.svg",
+      "visual": {
+        "diagram_id": "DGM-013-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-PAWN-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Pawn shape",
+      "diagram_alt": "The Pawn shape"
+    },
+    {
+      "id": "LES-014-S03",
+      "type": "DIAGRAM",
+      "title": "The Shield Wall",
+      "text": "All 8 Pawns stand holding hands on row number 2 to make a shield wall!",
+      "parent_prompt": "Explain the shield wall.",
+      "diagram_id": "DGM-013-02",
+      "diagram_url": "assets/DGM-013-02.svg",
+      "visual": {
+        "diagram_id": "DGM-013-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-PAWN-START-001",
+      "position_version": 1,
+      "position_title": "Starting squares for the Pawns",
+      "diagram_alt": "Starting squares for the Pawns"
+    },
+    {
+      "id": "LES-014-S04",
+      "type": "DIAGRAM",
+      "title": "Pawns in Game",
+      "text": "In a real game, Pawns will march forward and bump into each other.",
+      "parent_prompt": "Find the Pawns.",
+      "diagram_id": "DGM-013-03",
+      "diagram_url": "assets/DGM-013-03.svg",
+      "visual": {
+        "diagram_id": "DGM-013-03",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-PAWN-MIDGAME-001",
+      "position_version": 1,
+      "position_title": "Find the Pawns in a midgame",
+      "diagram_alt": "Find the Pawns in a midgame"
+    },
+    {
+      "id": "LES-014-S05",
+      "type": "DIAGRAM",
+      "title": "Fix the Board",
+      "text": "Oh no! The soldiers are standing where the castles should be!",
+      "parent_prompt": "Find the mistake.",
+      "diagram_id": "DGM-013-04",
+      "diagram_url": "assets/DGM-013-04.svg",
+      "visual": {
+        "diagram_id": "DGM-013-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-PAWN-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Pawns",
+      "diagram_alt": "Incorrect starting squares for Pawns"
+    },
+    {
+      "id": "LES-014-S06",
+      "type": "ASSESSMENT",
+      "title": "Check your progress",
+      "text": "Can you build the Pawn shield wall on the 2nd rank?",
+      "parent_prompt": "Check your progress.",
+      "diagram_id": "DGM-013-04",
+      "diagram_url": "assets/DGM-013-04.svg",
+      "visual": {
+        "diagram_id": "DGM-013-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-PAWN-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Pawns",
+      "diagram_alt": "Incorrect starting squares for Pawns"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-014-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-013#1#B1",
+      "parent_prompt_trace": "KB-013#1#B1",
+      "text": "- **Topic**: Pawn (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Ranks (TOP-004), Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Pawns, understand they are the foot soldiers of the army, and place all 8 of them on their correct starting rank.\n\n**✅ Lesson Success Criteria:**\n- Child can identify a Pawn as the smallest piece.\n- Child can correctly name the piece (\"Pawn\").\n- Child can set up a wall of 8 Pawns on the 2nd (or 7th) rank.\n\n*(Purpose: \"Can I teach this today?\" Yes. This is the grand finale of board setup!)*"
+    },
+    {
+      "id": "LES-014-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-013#2#B1",
+      "parent_prompt_trace": "KB-013#2#B1",
+      "text": "The Pawn is the smallest and most numerous piece in chess. Each player starts with 8 Pawns. They are placed in a straight line across the board, directly in front of the major and minor pieces. They represent the foot soldiers of the chess army."
+    },
+    {
+      "id": "LES-014-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-013#3#B1",
+      "parent_prompt_trace": "KB-013#3#B1",
+      "text": "Pawns make up exactly half of the pieces on the board. While they are the weakest pieces individually, their placement dictates the entire strategy of the game. Learning how to quickly line them up completes the final step of setting up a chess board."
+    },
+    {
+      "id": "LES-014-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-013#4#B1",
+      "parent_prompt_trace": "KB-013#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Ranks (TOP-004)\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Pawn Movement (TOP-109)\n- ✓ Piece Values (TOP-014)"
+    },
+    {
+      "id": "LES-014-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-013#5#B1",
+      "parent_prompt_trace": "KB-013#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** The Pawn is the shortest piece. It has a simple round head. \n**Role:** Pawns are the brave little foot soldiers. They stand in front to protect the important pieces behind them.\n**Starting Position:** White places all 8 Pawns in a straight line on the **2nd Rank**. Black places all 8 Pawns on the **7th Rank**.\n\n**What NOT to teach today:** Do NOT teach how the Pawn moves. Do NOT teach how it captures diagonally. Do NOT teach promotion. The Pawn actually has the most complicated movement rules of any piece in chess! Today is only about building the wall."
+    },
+    {
+      "id": "LES-014-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-013#6#B1",
+      "parent_prompt_trace": "KB-013#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Soldier (2 mins)\nHold up a Pawn.\n> *\"This is the Pawn! He is the smallest piece, but he is incredibly brave. He is the foot soldier of the army. And guess what? You don't just get one Pawn... you get EIGHT of them!\"*\n\n### Step 2 — The Shield Wall (3 mins)\nPlace the King and Queen on the board.\n> *\"The important pieces like the King and Queen need a shield wall to protect them from the bad guys. So the Pawns stand in a long line right in front of them!\"*\n\n### Step 3 — Building the Line (3 mins)\nPoint to the 2nd Rank.\n> *\"All the White Pawns stand holding hands on row number 2. Can you line up all 8 Pawns to build the shield wall?\"*"
+    },
+    {
+      "id": "LES-014-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-013#7#B1",
+      "parent_prompt_trace": "KB-013#7#B1",
+      "text": "> **🛡️ The Little Soldiers Analogy**\n> \n> The Pawns are the brave little soldiers. Because they are small, they have to work together. Before the battle starts, they all march out and form a giant shield wall stretching all the way across the kingdom, right in front of the castles and the King!\n>\n> **Memory Trick for Starting Position:**\n> **\"Pawns on Rank Two, ready to march through!\"**"
+    },
+    {
+      "id": "LES-014-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-013#8#B1",
+      "parent_prompt_trace": "KB-013#8#B1",
+      "text": "Because Pawns are so small, some people think they aren't important. But a famous chess player named François-André Danican Philidor once said, \"Pawns are the soul of chess!\" The way you move your Pawns actually decides who wins the game!"
+    },
+    {
+      "id": "LES-014-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1",
+      "source_trace": "KB-013#9#B1",
+      "parent_prompt_trace": "KB-013#9#B1",
+      "text": "**Recognizing the Pawn**\n\n*The Pawn is the shortest piece on the board, featuring a simple round head.*",
+      "diagram_id": "DGM-013-01",
+      "diagram_url": "assets/DGM-013-01.svg",
+      "position_id": "POS-PAWN-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Pawn shape",
+      "diagram_alt": "The Pawn shape"
+    },
+    {
+      "id": "LES-014-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-013#10#B1",
+      "parent_prompt_trace": "KB-013#10#B1",
+      "text": "Setting up the Pawns is incredibly satisfying for children. Once the back row is complete, they simply place one Pawn on every single square of the rank directly in front of the back row."
+    },
+    {
+      "id": "LES-014-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2",
+      "source_trace": "KB-013#11#B1",
+      "parent_prompt_trace": "KB-013#11#B1",
+      "text": "**The Shield Wall**\n\n*White Pawns fill the 2nd Rank. Black Pawns fill the 7th Rank.*",
+      "diagram_id": "DGM-013-02",
+      "diagram_url": "assets/DGM-013-02.svg",
+      "position_id": "POS-PAWN-START-001",
+      "position_version": 1,
+      "position_title": "Starting squares for the Pawns",
+      "diagram_alt": "Starting squares for the Pawns"
+    },
+    {
+      "id": "LES-014-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-013#12#B1",
+      "parent_prompt_trace": "KB-013#12#B1",
+      "text": "During a game, Pawns will march forward and bump into each other. But notice how they still form chains and walls to protect the pieces behind them!",
+      "diagram_id": "DGM-013-03",
+      "diagram_url": "assets/DGM-013-03.svg",
+      "position_id": "POS-PAWN-MIDGAME-001",
+      "position_version": 1,
+      "position_title": "Find the Pawns in a midgame",
+      "diagram_alt": "Find the Pawns in a midgame"
+    },
+    {
+      "id": "LES-014-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-013#13#B1",
+      "parent_prompt_trace": "KB-013#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Putting Pawns on the 1st Rank** — Sometimes kids will mix up the pieces and put Pawns in the back and Rooks in the front. Remind them: \"Soldiers in front, castles in back!\"\n\n### Teaching Mistakes\n- ❌ **Explaining Pawn Captures** — Pawns move straight but capture diagonally. This is deeply confusing for a 6-year-old. Do NOT teach it today. Just teach the setup.\n- ❌ **Explaining Promotion** — If you tell them a Pawn can turn into a Queen today, they will ignore everything else and just try to sprint their Pawns across the board. Save the magic for later!"
+    },
+    {
+      "id": "LES-014-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-013#14#B1",
+      "parent_prompt_trace": "KB-013#14#B1",
+      "text": "- **Let them do it:** Give them a handful of Pawns and let them build the wall themselves. It builds fine motor skills!\n\n> **🧑‍🏫 Coach Tip:**\n> Once your child can set up all 8 Pawns and the entire back row, **celebrate!** They have officially mastered the chess setup. This is a huge milestone."
+    },
+    {
+      "id": "LES-014-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-013#15#B1",
+      "parent_prompt_trace": "KB-013#15#B1",
+      "text": "**Q: My child calls them 'pons' or 'pawns' interchangeably. Does it matter?**\nA: It's pronounced exactly like \"Pawn\" (rhymes with yawn). As long as they don't call them \"little guys,\" they are doing great!\n\n**Q: Are all 8 Pawns exactly the same?**\nA: Yes! Unlike the Bishop and Knight which have specific files, all 8 Pawns are identical and can be placed on any square on the 2nd rank."
+    },
+    {
+      "id": "LES-014-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-013#16#B1",
+      "parent_prompt_trace": "KB-013#16#B1",
+      "text": "### 🏁 The Setup Race!\nNow that they know ALL the pieces, dump all 16 White pieces in a pile. Say, \"Ready, Set, Go!\" and time how long it takes them to set up the entire army (Rooks, Knights, Bishops, Queen, King, and the 8 Pawns).\n\n### 🧱 The Wall\nSet up the Black Pawns on the 7th rank. Set up the White Pawns on the 2nd rank. Let your child just look at how cool the two walls look facing each other."
+    },
+    {
+      "id": "LES-014-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-013#17#B1",
+      "parent_prompt_trace": "KB-013#17#B1",
+      "text": "### 🏆 The Missing Soldier\n**Challenge your child:**\n> \"One of the soldiers fell asleep! Can you find the hole in the wall?\"\n\n**Rules:**\n1. Set up the 8 White Pawns on the 2nd rank.\n2. Have your child close their eyes. Remove the pawn on `e2`.\n3. Have them open their eyes and ask: \"Which square is missing a soldier?\" (They must name the square, combining Coordinate practice with Pawn setup!)"
+    },
+    {
+      "id": "LES-014-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-013#18#B1",
+      "parent_prompt_trace": "KB-013#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nHow many Pawns does each player get at the start of the game?\n*Answer: 8 Pawns.*\n\n### 🟡 Application (Medium)\nWhich Rank do the White Pawns start on?\n*Answer: The 2nd Rank.*\n\n### 🔴 Challenge (Hard)\n\nLook at this complete board setup. Is everything correct?\n*Answer: No! One of the White Pawns is missing from the 2nd rank, and the White King and Queen are on the wrong colors (King is on light, Queen is on dark). The Pawns are supposed to be a solid wall of 8!*",
+      "diagram_id": "DGM-013-04",
+      "diagram_url": "assets/DGM-013-04.svg",
+      "position_id": "POS-PAWN-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Pawns",
+      "diagram_alt": "Incorrect starting squares for Pawns"
+    },
+    {
+      "id": "LES-014-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-013#19#B1",
+      "parent_prompt_trace": "KB-013#19#B1",
+      "text": "*(No specific external resources required for this micro-concept.)*"
+    },
+    {
+      "id": "LES-014-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-013#20#B1",
+      "parent_prompt_trace": "KB-013#20#B1",
+      "text": "### Prerequisites\n- **Ranks** (TOP-004)\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Pawn Movement** (TOP-109) — How the Pawn actually moves.\n- **Initial Position** (TOP-015) — Reviewing the entire setup."
+    },
+    {
+      "id": "LES-014-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-013#21#B1",
+      "parent_prompt_trace": "KB-013#21#B1",
+      "text": "- [ ] Do I know that Pawns start on the 2nd and 7th ranks?\n- [ ] Did my child successfully line up all 8 Pawns?\n- [ ] Can my child set up the entire board now?\n- [ ] Did I successfully avoid teaching movement, capturing, or promotion today?\n\n**✅ If most answers are \"Yes\":** MASSIVE CONGRATULATIONS! You have completed the \"Meet the Characters\" phase. Your child knows the entire board and every piece. You are ready to move to **Stage 2: Make Them Move!**\n**🔄 If several answers are \"No\":** Keep practicing \"The Setup Race\" until it becomes muscle memory.\n\n**🛑 CONCEPT BOUNDARY**\n**Explicitly NOT covered in this lesson:**\n- How the Pawn moves (1 or 2 squares forward).\n- How the Pawn captures (diagonally).\n- Promotion.\n- En Passant.\n*(These will be taught in later lessons to prevent cognitive overload).*"
+    }
+  ],
+  "title": "Pawn",
+  "duration_minutes": 10,
+  "memory_phrase": "Pawns on Rank Two, ready to march through!",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 10,
+    "slides": [
+      {
+        "id": "LES-014-S01",
+        "type": "INTRO",
+        "title": "Meet the Pawn",
+        "text": "This is the Pawn! He is the foot soldier of the army.",
+        "parent_prompt": "Meet the Pawn.",
+        "diagram_id": "DGM-013-01",
+        "diagram_url": "assets/DGM-013-01.svg",
+        "visual": {
+          "diagram_id": "DGM-013-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-PAWN-SHAPE-001",
+        "position_version": 1,
+        "position_title": "The Pawn shape",
+        "diagram_alt": "The Pawn shape"
+      },
+      {
+        "id": "LES-014-S02",
+        "type": "DIAGRAM",
+        "title": "The Smallest Piece",
+        "text": "The Pawn is the shortest piece and has a simple round head.",
+        "parent_prompt": "Spot the round head.",
+        "diagram_id": "DGM-013-01",
+        "diagram_url": "assets/DGM-013-01.svg",
+        "visual": {
+          "diagram_id": "DGM-013-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-PAWN-SHAPE-001",
+        "position_version": 1,
+        "position_title": "The Pawn shape",
+        "diagram_alt": "The Pawn shape"
+      },
+      {
+        "id": "LES-014-S03",
+        "type": "DIAGRAM",
+        "title": "The Shield Wall",
+        "text": "All 8 Pawns stand holding hands on row number 2 to make a shield wall!",
+        "parent_prompt": "Explain the shield wall.",
+        "diagram_id": "DGM-013-02",
+        "diagram_url": "assets/DGM-013-02.svg",
+        "visual": {
+          "diagram_id": "DGM-013-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-PAWN-START-001",
+        "position_version": 1,
+        "position_title": "Starting squares for the Pawns",
+        "diagram_alt": "Starting squares for the Pawns"
+      },
+      {
+        "id": "LES-014-S04",
+        "type": "DIAGRAM",
+        "title": "Pawns in Game",
+        "text": "In a real game, Pawns will march forward and bump into each other.",
+        "parent_prompt": "Find the Pawns.",
+        "diagram_id": "DGM-013-03",
+        "diagram_url": "assets/DGM-013-03.svg",
+        "visual": {
+          "diagram_id": "DGM-013-03",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-PAWN-MIDGAME-001",
+        "position_version": 1,
+        "position_title": "Find the Pawns in a midgame",
+        "diagram_alt": "Find the Pawns in a midgame"
+      },
+      {
+        "id": "LES-014-S05",
+        "type": "DIAGRAM",
+        "title": "Fix the Board",
+        "text": "Oh no! The soldiers are standing where the castles should be!",
+        "parent_prompt": "Find the mistake.",
+        "diagram_id": "DGM-013-04",
+        "diagram_url": "assets/DGM-013-04.svg",
+        "visual": {
+          "diagram_id": "DGM-013-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-PAWN-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Incorrect starting squares for Pawns",
+        "diagram_alt": "Incorrect starting squares for Pawns"
+      },
+      {
+        "id": "LES-014-S06",
+        "type": "ASSESSMENT",
+        "title": "Check your progress",
+        "text": "Can you build the Pawn shield wall on the 2nd rank?",
+        "parent_prompt": "Check your progress.",
+        "diagram_id": "DGM-013-04",
+        "diagram_url": "assets/DGM-013-04.svg",
+        "visual": {
+          "diagram_id": "DGM-013-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-PAWN-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Incorrect starting squares for Pawns",
+        "diagram_alt": "Incorrect starting squares for Pawns"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-014-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-013#1#B1",
+        "parent_prompt_trace": "KB-013#1#B1",
+        "text": "- **Topic**: Pawn (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Ranks (TOP-004), Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Pawns, understand they are the foot soldiers of the army, and place all 8 of them on their correct starting rank.\n\n**✅ Lesson Success Criteria:**\n- Child can identify a Pawn as the smallest piece.\n- Child can correctly name the piece (\"Pawn\").\n- Child can set up a wall of 8 Pawns on the 2nd (or 7th) rank.\n\n*(Purpose: \"Can I teach this today?\" Yes. This is the grand finale of board setup!)*"
+      },
+      {
+        "id": "LES-014-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-013#2#B1",
+        "parent_prompt_trace": "KB-013#2#B1",
+        "text": "The Pawn is the smallest and most numerous piece in chess. Each player starts with 8 Pawns. They are placed in a straight line across the board, directly in front of the major and minor pieces. They represent the foot soldiers of the chess army."
+      },
+      {
+        "id": "LES-014-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-013#3#B1",
+        "parent_prompt_trace": "KB-013#3#B1",
+        "text": "Pawns make up exactly half of the pieces on the board. While they are the weakest pieces individually, their placement dictates the entire strategy of the game. Learning how to quickly line them up completes the final step of setting up a chess board."
+      },
+      {
+        "id": "LES-014-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-013#4#B1",
+        "parent_prompt_trace": "KB-013#4#B1",
+        "text": "**Prerequisites:**\n- ✓ Ranks (TOP-004)\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Pawn Movement (TOP-109)\n- ✓ Piece Values (TOP-014)"
+      },
+      {
+        "id": "LES-014-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-013#5#B1",
+        "parent_prompt_trace": "KB-013#5#B1",
+        "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** The Pawn is the shortest piece. It has a simple round head. \n**Role:** Pawns are the brave little foot soldiers. They stand in front to protect the important pieces behind them.\n**Starting Position:** White places all 8 Pawns in a straight line on the **2nd Rank**. Black places all 8 Pawns on the **7th Rank**.\n\n**What NOT to teach today:** Do NOT teach how the Pawn moves. Do NOT teach how it captures diagonally. Do NOT teach promotion. The Pawn actually has the most complicated movement rules of any piece in chess! Today is only about building the wall."
+      },
+      {
+        "id": "LES-014-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-013#6#B1",
+        "parent_prompt_trace": "KB-013#6#B1",
+        "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Soldier (2 mins)\nHold up a Pawn.\n> *\"This is the Pawn! He is the smallest piece, but he is incredibly brave. He is the foot soldier of the army. And guess what? You don't just get one Pawn... you get EIGHT of them!\"*\n\n### Step 2 — The Shield Wall (3 mins)\nPlace the King and Queen on the board.\n> *\"The important pieces like the King and Queen need a shield wall to protect them from the bad guys. So the Pawns stand in a long line right in front of them!\"*\n\n### Step 3 — Building the Line (3 mins)\nPoint to the 2nd Rank.\n> *\"All the White Pawns stand holding hands on row number 2. Can you line up all 8 Pawns to build the shield wall?\"*"
+      },
+      {
+        "id": "LES-014-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-013#7#B1",
+        "parent_prompt_trace": "KB-013#7#B1",
+        "text": "> **🛡️ The Little Soldiers Analogy**\n> \n> The Pawns are the brave little soldiers. Because they are small, they have to work together. Before the battle starts, they all march out and form a giant shield wall stretching all the way across the kingdom, right in front of the castles and the King!\n>\n> **Memory Trick for Starting Position:**\n> **\"Pawns on Rank Two, ready to march through!\"**"
+      },
+      {
+        "id": "LES-014-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know? 🎓",
+        "source_trace": "KB-013#8#B1",
+        "parent_prompt_trace": "KB-013#8#B1",
+        "text": "Because Pawns are so small, some people think they aren't important. But a famous chess player named François-André Danican Philidor once said, \"Pawns are the soul of chess!\" The way you move your Pawns actually decides who wins the game!"
+      },
+      {
+        "id": "LES-014-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1",
+        "source_trace": "KB-013#9#B1",
+        "parent_prompt_trace": "KB-013#9#B1",
+        "text": "**Recognizing the Pawn**\n\n*The Pawn is the shortest piece on the board, featuring a simple round head.*",
+        "diagram_id": "DGM-013-01",
+        "diagram_url": "assets/DGM-013-01.svg",
+        "position_id": "POS-PAWN-SHAPE-001",
+        "position_version": 1,
+        "position_title": "The Pawn shape",
+        "diagram_alt": "The Pawn shape"
+      },
+      {
+        "id": "LES-014-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-013#10#B1",
+        "parent_prompt_trace": "KB-013#10#B1",
+        "text": "Setting up the Pawns is incredibly satisfying for children. Once the back row is complete, they simply place one Pawn on every single square of the rank directly in front of the back row."
+      },
+      {
+        "id": "LES-014-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2",
+        "source_trace": "KB-013#11#B1",
+        "parent_prompt_trace": "KB-013#11#B1",
+        "text": "**The Shield Wall**\n\n*White Pawns fill the 2nd Rank. Black Pawns fill the 7th Rank.*",
+        "diagram_id": "DGM-013-02",
+        "diagram_url": "assets/DGM-013-02.svg",
+        "position_id": "POS-PAWN-START-001",
+        "position_version": 1,
+        "position_title": "Starting squares for the Pawns",
+        "diagram_alt": "Starting squares for the Pawns"
+      },
+      {
+        "id": "LES-014-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-013#12#B1",
+        "parent_prompt_trace": "KB-013#12#B1",
+        "text": "During a game, Pawns will march forward and bump into each other. But notice how they still form chains and walls to protect the pieces behind them!",
+        "diagram_id": "DGM-013-03",
+        "diagram_url": "assets/DGM-013-03.svg",
+        "position_id": "POS-PAWN-MIDGAME-001",
+        "position_version": 1,
+        "position_title": "Find the Pawns in a midgame",
+        "diagram_alt": "Find the Pawns in a midgame"
+      },
+      {
+        "id": "LES-014-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-013#13#B1",
+        "parent_prompt_trace": "KB-013#13#B1",
+        "text": "### Chess Mistakes\n- ❌ **Putting Pawns on the 1st Rank** — Sometimes kids will mix up the pieces and put Pawns in the back and Rooks in the front. Remind them: \"Soldiers in front, castles in back!\"\n\n### Teaching Mistakes\n- ❌ **Explaining Pawn Captures** — Pawns move straight but capture diagonally. This is deeply confusing for a 6-year-old. Do NOT teach it today. Just teach the setup.\n- ❌ **Explaining Promotion** — If you tell them a Pawn can turn into a Queen today, they will ignore everything else and just try to sprint their Pawns across the board. Save the magic for later!"
+      },
+      {
+        "id": "LES-014-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-013#14#B1",
+        "parent_prompt_trace": "KB-013#14#B1",
+        "text": "- **Let them do it:** Give them a handful of Pawns and let them build the wall themselves. It builds fine motor skills!\n\n> **🧑‍🏫 Coach Tip:**\n> Once your child can set up all 8 Pawns and the entire back row, **celebrate!** They have officially mastered the chess setup. This is a huge milestone."
+      },
+      {
+        "id": "LES-014-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-013#15#B1",
+        "parent_prompt_trace": "KB-013#15#B1",
+        "text": "**Q: My child calls them 'pons' or 'pawns' interchangeably. Does it matter?**\nA: It's pronounced exactly like \"Pawn\" (rhymes with yawn). As long as they don't call them \"little guys,\" they are doing great!\n\n**Q: Are all 8 Pawns exactly the same?**\nA: Yes! Unlike the Bishop and Knight which have specific files, all 8 Pawns are identical and can be placed on any square on the 2nd rank."
+      },
+      {
+        "id": "LES-014-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-013#16#B1",
+        "parent_prompt_trace": "KB-013#16#B1",
+        "text": "### 🏁 The Setup Race!\nNow that they know ALL the pieces, dump all 16 White pieces in a pile. Say, \"Ready, Set, Go!\" and time how long it takes them to set up the entire army (Rooks, Knights, Bishops, Queen, King, and the 8 Pawns).\n\n### 🧱 The Wall\nSet up the Black Pawns on the 7th rank. Set up the White Pawns on the 2nd rank. Let your child just look at how cool the two walls look facing each other."
+      },
+      {
+        "id": "LES-014-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge ⭐",
+        "source_trace": "KB-013#17#B1",
+        "parent_prompt_trace": "KB-013#17#B1",
+        "text": "### 🏆 The Missing Soldier\n**Challenge your child:**\n> \"One of the soldiers fell asleep! Can you find the hole in the wall?\"\n\n**Rules:**\n1. Set up the 8 White Pawns on the 2nd rank.\n2. Have your child close their eyes. Remove the pawn on `e2`.\n3. Have them open their eyes and ask: \"Which square is missing a soldier?\" (They must name the square, combining Coordinate practice with Pawn setup!)"
+      },
+      {
+        "id": "LES-014-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-013#18#B1",
+        "parent_prompt_trace": "KB-013#18#B1",
+        "text": "### 🟢 Recognition (Easy)\nHow many Pawns does each player get at the start of the game?\n*Answer: 8 Pawns.*\n\n### 🟡 Application (Medium)\nWhich Rank do the White Pawns start on?\n*Answer: The 2nd Rank.*\n\n### 🔴 Challenge (Hard)\n\nLook at this complete board setup. Is everything correct?\n*Answer: No! One of the White Pawns is missing from the 2nd rank, and the White King and Queen are on the wrong colors (King is on light, Queen is on dark). The Pawns are supposed to be a solid wall of 8!*",
+        "diagram_id": "DGM-013-04",
+        "diagram_url": "assets/DGM-013-04.svg",
+        "position_id": "POS-PAWN-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Incorrect starting squares for Pawns",
+        "diagram_alt": "Incorrect starting squares for Pawns"
+      },
+      {
+        "id": "LES-014-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-013#19#B1",
+        "parent_prompt_trace": "KB-013#19#B1",
+        "text": "*(No specific external resources required for this micro-concept.)*"
+      },
+      {
+        "id": "LES-014-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-013#20#B1",
+        "parent_prompt_trace": "KB-013#20#B1",
+        "text": "### Prerequisites\n- **Ranks** (TOP-004)\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Pawn Movement** (TOP-109) — How the Pawn actually moves.\n- **Initial Position** (TOP-015) — Reviewing the entire setup."
+      },
+      {
+        "id": "LES-014-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check ✅",
+        "source_trace": "KB-013#21#B1",
+        "parent_prompt_trace": "KB-013#21#B1",
+        "text": "- [ ] Do I know that Pawns start on the 2nd and 7th ranks?\n- [ ] Did my child successfully line up all 8 Pawns?\n- [ ] Can my child set up the entire board now?\n- [ ] Did I successfully avoid teaching movement, capturing, or promotion today?\n\n**✅ If most answers are \"Yes\":** MASSIVE CONGRATULATIONS! You have completed the \"Meet the Characters\" phase. Your child knows the entire board and every piece. You are ready to move to **Stage 2: Make Them Move!**\n**🔄 If several answers are \"No\":** Keep practicing \"The Setup Race\" until it becomes muscle memory.\n\n**🛑 CONCEPT BOUNDARY**\n**Explicitly NOT covered in this lesson:**\n- How the Pawn moves (1 or 2 squares forward).\n- How the Pawn captures (diagonally).\n- Promotion.\n- En Passant.\n*(These will be taught in later lessons to prevent cognitive overload).*"
+      }
+    ]
+  }
+}

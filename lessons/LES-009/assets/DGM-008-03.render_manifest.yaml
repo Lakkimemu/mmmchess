@@ -1,0 +1,19 @@
+schema_version: 1
+diagram_id: DGM-008-03
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-KING-MIDGAME-001
+position_version: 1
+position_type: LEGAL_FEN
+display_state: PRESENTED
+displayed_state: r1bq1rk1/ppp1nppp/3p1n2/3Pp3/1bP5/2N1PN2/PP1B1PPP/R2QKB1R w KQ -
+  1 8
+position_sha256: 71fea9af14ece0b81d3331296ece45040627fa08bbd0a0151370653fa5238de2
+presentation_sha256: 4c9125a7522d6fef46586e2912433b4dc8a09f311ac73b9d316c7dece4e6cfa1
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-008#12#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 3682ffecbf0e9eafe4aa9514be51d058ea99cdcbf843dac765abd3c4f402a352
+output_svg_sha256: 3682ffecbf0e9eafe4aa9514be51d058ea99cdcbf843dac765abd3c4f402a352

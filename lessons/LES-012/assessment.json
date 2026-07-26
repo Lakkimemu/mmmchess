@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-012",
+  "assessment_id": "ASM-012",
+  "rubric": {
+    "criteria": "- [ ] Do I understand how to identify the Bishop?\n- [ ] Do I know that they start next to the King and Queen?\n- [ ] Did my child successfully feel the slit in the hat?\n- [ ] Did my child successfully build the \"Royal Sandwich\"?\n- [ ] Did I successfully avoid teaching diagonal movement today?",
+    "source_trace": "KB-011#21#B1"
+  },
+  "task_references": [
+    "PZL-012-01",
+    "PZL-012-02",
+    "PZL-012-03",
+    "PZL-012-04"
+  ]
+}

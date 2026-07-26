@@ -1,0 +1,67 @@
+schema_version: 1
+diagram_id: DGM-013-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-PAWN-START-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: PAWN
+    square: a2
+  - color: WHITE
+    piece_type: PAWN
+    square: b2
+  - color: WHITE
+    piece_type: PAWN
+    square: c2
+  - color: WHITE
+    piece_type: PAWN
+    square: d2
+  - color: WHITE
+    piece_type: PAWN
+    square: e2
+  - color: WHITE
+    piece_type: PAWN
+    square: f2
+  - color: WHITE
+    piece_type: PAWN
+    square: g2
+  - color: WHITE
+    piece_type: PAWN
+    square: h2
+  - color: BLACK
+    piece_type: PAWN
+    square: a7
+  - color: BLACK
+    piece_type: PAWN
+    square: b7
+  - color: BLACK
+    piece_type: PAWN
+    square: c7
+  - color: BLACK
+    piece_type: PAWN
+    square: d7
+  - color: BLACK
+    piece_type: PAWN
+    square: e7
+  - color: BLACK
+    piece_type: PAWN
+    square: f7
+  - color: BLACK
+    piece_type: PAWN
+    square: g7
+  - color: BLACK
+    piece_type: PAWN
+    square: h7
+position_sha256: 8128bfd57f88c68afb689b164d703539cba77a8e129b70ef543d7b15eacd36bf
+presentation_sha256: b017b5b4832623e2a8a5277bcf6535c0a4705472f485c2f419b06a8c29900897
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-013#11#B2
+review_status: APPROVED
+reviewed_artifact_sha256: 22a08cd8ff1bc9a0b162175fbf54dd153415ccfaa22b7a4b5c1827e224ec79e2
+output_svg_sha256: 22a08cd8ff1bc9a0b162175fbf54dd153415ccfaa22b7a4b5c1827e224ec79e2

@@ -1,0 +1,1186 @@
+{
+  "lesson_id": "LES-012",
+  "kb_id": "KB-011",
+  "topic_id": "TOP-011",
+  "unit_id": "UNT-001",
+  "sequence": 12,
+  "objective": "**🎯 Today's Goal:**\nYour child can identify the Bishop, recognize the slit in its hat, and place the two Bishops correctly next to the royal family.",
+  "success_criteria": "**✅ Lesson Success Criteria:**\n- Child can pick the Bishop out of a pile of pieces.\n- Child can point to the \"mouth\" or \"slit\" in the Bishop's hat.\n- Child can place the Bishops on their correct starting squares (flanking the King and Queen).",
+  "source_traces": {
+    "objective": "KB-011#1#B2",
+    "success_criteria": "KB-011#1#B3"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-011#1",
+      "content": "- **Topic**: Bishop (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Bishop, recognize the slit in its hat, and place the two Bishops correctly next to the royal family.\n\n**✅ Lesson Success Criteria:**\n- Child can pick the Bishop out of a pile of pieces.\n- Child can point to the \"mouth\" or \"slit\" in the Bishop's hat.\n- Child can place the Bishops on their correct starting squares (flanking the King and Queen).\n\n*(Purpose: \"Can I teach this today?\" Yes. The Bishop's funny shape makes it very easy for children to remember.)*\n\n---"
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-011#2",
+      "content": "The Bishop is a minor piece that starts the game directly beside the King and Queen. Each player has two Bishops: one that starts on a light square, and one that starts on a dark square. They are recognizable by the distinct diagonal slit cut into their tall, rounded hats.\n\n---"
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-011#3",
+      "content": "Because each player has *two* Bishops, and they look slightly similar to Pawns from a distance, children must learn to recognize the Bishop's unique hat. Knowing where they start (protecting the King and Queen) completes the inner circle of the chess board.\n\n---"
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-011#4",
+      "content": "**Prerequisites:**\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Bishop Movement (TOP-107)\n- ✓ Piece Values (TOP-014)\n\n---"
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-011#5",
+      "content": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** The Bishop is taller than a Knight but shorter than the King and Queen. The defining feature is the deep diagonal cut (slit) in the top of its round hat. \n**Role:** The Bishops are the royal messengers or wizards. \n**Starting Position:** The Bishops stand directly next to the King and Queen. For White, they are on `c1` and `f1`. For Black, they are on `c8` and `f8`. \n\n**What NOT to teach today:** Do NOT teach how the Bishop moves (diagonals). We are only focusing on its name, shape, and starting position.\n\n---"
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-011#6",
+      "content": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Wizard (2 mins)\nHold up the Bishop.\n> *\"Look at this piece! This is the Bishop. He is the Wise Wizard of the chess army. He helps the King and Queen make good decisions.\"*\n\n### Step 2 — The Magic Hat (2 mins)\n> *\"Can you point to his hat? Do you see the little cut in it? That's his mouth! Because he is so wise, he is always whispering secrets to the King and Queen.\"*\n\n### Step 3 — The Royal Guards (3 mins)\nPlace the King and Queen on the board.\n> *\"Because the Bishop is the King and Queen's best friend, where do you think he stands? Right next to them! Put one Bishop next to the King, and the other next to the Queen.\"*\n\n---"
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-011#7",
+      "content": "> **🧙‍♂️ The Wise Wizard Analogy**\n> \n> The Bishop is a Wise Wizard. He wears a tall, funny hat with a slit in it. He is so important to the kingdom that he gets to stand right next to the King and Queen before the battle begins, whispering magic spells and advice into their ears. \n>\n> **Memory Trick for Starting Position:**\n> **\"Bishops beside the Bosses!\" (Next to the King and Queen).**\n\n---"
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know? 🎓",
+      "source_trace": "KB-011#8",
+      "content": "The cut in the Bishop's hat is actually supposed to look like a real-life bishop's \"mitre\" (the tall hat worn by church leaders). But hundreds of years ago, the piece was an Elephant! The two points on top of the piece used to represent elephant tusks.\n\n---"
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1",
+      "source_trace": "KB-011#9",
+      "content": "**Recognizing the Bishop**\n\n![DGM-001 Bishop Shape](../../assets/diagrams/TOP-011/DGM-001_Bishop_Shape.svg)\n*The Bishop is characterized by the diagonal slit in its rounded headpiece.*\n\n---"
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-011#10",
+      "content": "Setting up the Bishops is easy if you already know where the King and Queen go. Just place the King and Queen first, and then place the Bishops directly next to them on the `c` and `f` files.\n\n---"
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2",
+      "source_trace": "KB-011#11",
+      "content": "**Bishops Beside the Bosses**\n\n![DGM-002 Bishop Start](../../assets/diagrams/TOP-011/DGM-002_Bishop_Start.svg)\n*White Bishops on c1 and f1. Black Bishops on c8 and f8.*\n\n---"
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-011#12",
+      "content": "![DGM-003 Bishops in Game](../../assets/diagrams/TOP-011/DGM-003_Bishops_in_Game.svg)\nDuring a game, your eyes should easily spot the Bishops because of their distinct hats. Notice that you have one on a light square and one on a dark square.\n\n---"
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-011#13",
+      "content": "### Chess Mistakes\n- ❌ **Confusing Bishops with Pawns** — In some cheaper chess sets, the Bishop and Pawn are roughly the same size. Train your child to always \"look for the mouth\" (the slit).\n\n### Teaching Mistakes\n- ❌ **Teaching diagonal movement** — Diagonal movement is the hardest movement for a 6-year-old brain to process. Do not overwhelm them with it today. Just stick to the shape.\n\n---"
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-011#14",
+      "content": "- **Use physical touch:** Have them run their finger through the slit on the Bishop's hat.\n- **Set up order:** Remind them of the setup sequence: Rooks in the corners, then King/Queen, then Bishops.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child struggles to remember the name \"Bishop\", you can let them call it the \"Wizard\" for a few days, but always follow up by saying: \"That's right, the Wizard's real name is the Bishop.\"\n\n---"
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-011#15",
+      "content": "**Q: Why does one player have a light-square Bishop and a dark-square Bishop?**\nA: Because of where they start! One stands next to the King (who is on a dark square) and one stands next to the Queen (who is on a light square). \n\n**Q: Is the Bishop stronger than a Rook?**\nA: No. The Bishop is a \"Minor Piece.\" The Rook and Queen are \"Major Pieces.\" We will learn piece points later!\n\n---"
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-011#16",
+      "content": "### 🔍 Find the Wizards\nMix all 32 pieces in a pile. Ask your child to dig through the pile and rescue all 4 Bishops (2 White, 2 Black). \n\n### 🛑 Fix the Setup\nSet up the back row, but accidentally put a Bishop in the corner where the Rook should be. Ask: \"Wait a minute, did the Wizard get lost? Where is he supposed to stand?\"\n\n---"
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge ⭐",
+      "source_trace": "KB-011#17",
+      "content": "### 🏆 The Royal Sandwich\n**Challenge your child:**\n> \"Can you make a Royal Sandwich on the board?\"\n\n**Rules:**\n1. Give the child the White King, Queen, and both Bishops.\n2. Ask them to place them on the first rank.\n3. They must correctly place the Queen (on her color), the King (opposite), and then \"sandwich\" them with the two Bishops!\n\n---"
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-011#18",
+      "content": "### 🟢 Recognition (Easy)\nHow do you tell the difference between a Bishop and a Pawn just by looking at their heads?\n*Answer: The Bishop has a cut (or mouth/slit) in his hat.*\n\n### 🟡 Application (Medium)\nIf the King and Queen are in the middle of the board, which pieces stand right next to them to start the game?\n*Answer: The Bishops.*\n\n### 🔴 Challenge (Hard)\n![DGM-004 Puzzle](../../assets/diagrams/TOP-011/DGM-004_Puzzle.svg)\nLook at this setup. Are the Bishops on the correct starting squares?\n*Answer: No! The Bishops are on the `b` and `g` files. They need to be moved in one square closer to the King and Queen (to the `c` and `f` files).*\n\n---"
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-011#19",
+      "content": "*(No specific external resources required for this micro-concept.)*\n\n---"
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-011#20",
+      "content": "### Prerequisites\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Bishop Movement** (TOP-107) — How the Bishop actually moves.\n- **Knight** (TOP-012) — Meeting the Brave Horse.\n\n---"
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check ✅",
+      "source_trace": "KB-011#21",
+      "content": "- [ ] Do I understand how to identify the Bishop?\n- [ ] Do I know that they start next to the King and Queen?\n- [ ] Did my child successfully feel the slit in the hat?\n- [ ] Did my child successfully build the \"Royal Sandwich\"?\n- [ ] Did I successfully avoid teaching diagonal movement today?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to the **Knight (TOP-012)**.\n**🔄 If several answers are \"No\":** Play the \"Find the Wizards\" game again.\n\n---\n\n**🛑 CONCEPT BOUNDARY**\n**Explicitly NOT covered in this lesson:**\n- How the Bishop moves (diagonals).\n- How the Bishop captures.\n- Minor vs Major piece values.\n*(These will be taught in later lessons to prevent cognitive overload).*\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  diagrams: 4\n  mini_puzzles: 3\n  external_resources: 0\n  coach_challenges: 1\n  practice_activities: 2\n  coach_tips: 1\n  parent_faq: 2\n  estimated_read_time: 10 min\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-012-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-011#1#B1",
+      "parent_prompt_trace": "KB-011#1#B1",
+      "text": "- **Topic**: Bishop (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Bishop, recognize the slit in its hat, and place the two Bishops correctly next to the royal family.\n\n**✅ Lesson Success Criteria:**\n- Child can pick the Bishop out of a pile of pieces.\n- Child can point to the \"mouth\" or \"slit\" in the Bishop's hat.\n- Child can place the Bishops on their correct starting squares (flanking the King and Queen).\n\n*(Purpose: \"Can I teach this today?\" Yes. The Bishop's funny shape makes it very easy for children to remember.)*"
+    },
+    {
+      "id": "LES-012-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-011#2#B1",
+      "parent_prompt_trace": "KB-011#2#B1",
+      "text": "The Bishop is a minor piece that starts the game directly beside the King and Queen. Each player has two Bishops: one that starts on a light square, and one that starts on a dark square. They are recognizable by the distinct diagonal slit cut into their tall, rounded hats."
+    },
+    {
+      "id": "LES-012-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-011#3#B1",
+      "parent_prompt_trace": "KB-011#3#B1",
+      "text": "Because each player has *two* Bishops, and they look slightly similar to Pawns from a distance, children must learn to recognize the Bishop's unique hat. Knowing where they start (protecting the King and Queen) completes the inner circle of the chess board."
+    },
+    {
+      "id": "LES-012-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-011#4#B1",
+      "parent_prompt_trace": "KB-011#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Bishop Movement (TOP-107)\n- ✓ Piece Values (TOP-014)"
+    },
+    {
+      "id": "LES-012-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-011#5#B1",
+      "parent_prompt_trace": "KB-011#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** The Bishop is taller than a Knight but shorter than the King and Queen. The defining feature is the deep diagonal cut (slit) in the top of its round hat. \n**Role:** The Bishops are the royal messengers or wizards. \n**Starting Position:** The Bishops stand directly next to the King and Queen. For White, they are on `c1` and `f1`. For Black, they are on `c8` and `f8`.\n\n**What NOT to teach today:** Do NOT teach how the Bishop moves (diagonals). We are only focusing on its name, shape, and starting position."
+    },
+    {
+      "id": "LES-012-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-011#6#B1",
+      "parent_prompt_trace": "KB-011#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Wizard (2 mins)\nHold up the Bishop.\n> *\"Look at this piece! This is the Bishop. He is the Wise Wizard of the chess army. He helps the King and Queen make good decisions.\"*\n\n### Step 2 — The Magic Hat (2 mins)\n> *\"Can you point to his hat? Do you see the little cut in it? That's his mouth! Because he is so wise, he is always whispering secrets to the King and Queen.\"*\n\n### Step 3 — The Royal Guards (3 mins)\nPlace the King and Queen on the board.\n> *\"Because the Bishop is the King and Queen's best friend, where do you think he stands? Right next to them! Put one Bishop next to the King, and the other next to the Queen.\"*"
+    },
+    {
+      "id": "LES-012-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-011#7#B1",
+      "parent_prompt_trace": "KB-011#7#B1",
+      "text": "> **🧙‍♂️ The Wise Wizard Analogy**\n> \n> The Bishop is a Wise Wizard. He wears a tall, funny hat with a slit in it. He is so important to the kingdom that he gets to stand right next to the King and Queen before the battle begins, whispering magic spells and advice into their ears. \n>\n> **Memory Trick for Starting Position:**\n> **\"Bishops beside the Bosses!\" (Next to the King and Queen).**"
+    },
+    {
+      "id": "LES-012-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-011#8#B1",
+      "parent_prompt_trace": "KB-011#8#B1",
+      "text": "The cut in the Bishop's hat is actually supposed to look like a real-life bishop's \"mitre\" (the tall hat worn by church leaders). But hundreds of years ago, the piece was an Elephant! The two points on top of the piece used to represent elephant tusks."
+    },
+    {
+      "id": "LES-012-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1",
+      "source_trace": "KB-011#9#B1",
+      "parent_prompt_trace": "KB-011#9#B1",
+      "text": "**Recognizing the Bishop**\n\n*The Bishop is characterized by the diagonal slit in its rounded headpiece.*",
+      "diagram_id": "DGM-011-01",
+      "diagram_url": "assets/DGM-011-01.svg",
+      "position_id": "POS-BISHOP-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Bishop shape and slit",
+      "diagram_alt": "The Bishop shape and slit"
+    },
+    {
+      "id": "LES-012-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-011#10#B1",
+      "parent_prompt_trace": "KB-011#10#B1",
+      "text": "Setting up the Bishops is easy if you already know where the King and Queen go. Just place the King and Queen first, and then place the Bishops directly next to them on the `c` and `f` files."
+    },
+    {
+      "id": "LES-012-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2",
+      "source_trace": "KB-011#11#B1",
+      "parent_prompt_trace": "KB-011#11#B1",
+      "text": "**Bishops Beside the Bosses**\n\n*White Bishops on c1 and f1. Black Bishops on c8 and f8.*",
+      "diagram_id": "DGM-011-02",
+      "diagram_url": "assets/DGM-011-02.svg",
+      "position_id": "POS-BISHOP-START-001",
+      "position_version": 1,
+      "position_title": "Starting squares for the Bishops",
+      "diagram_alt": "Starting squares for the Bishops"
+    },
+    {
+      "id": "LES-012-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-011#12#B1",
+      "parent_prompt_trace": "KB-011#12#B1",
+      "text": "During a game, your eyes should easily spot the Bishops because of their distinct hats. Notice that you have one on a light square and one on a dark square.",
+      "diagram_id": "DGM-011-03",
+      "diagram_url": "assets/DGM-011-03.svg",
+      "position_id": "POS-BISHOP-MIDGAME-001",
+      "position_version": 1,
+      "position_title": "Find the Bishops in a midgame",
+      "diagram_alt": "Find the Bishops in a midgame"
+    },
+    {
+      "id": "LES-012-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-011#13#B1",
+      "parent_prompt_trace": "KB-011#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Confusing Bishops with Pawns** — In some cheaper chess sets, the Bishop and Pawn are roughly the same size. Train your child to always \"look for the mouth\" (the slit).\n\n### Teaching Mistakes\n- ❌ **Teaching diagonal movement** — Diagonal movement is the hardest movement for a 6-year-old brain to process. Do not overwhelm them with it today. Just stick to the shape."
+    },
+    {
+      "id": "LES-012-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-011#14#B1",
+      "parent_prompt_trace": "KB-011#14#B1",
+      "text": "- **Use physical touch:** Have them run their finger through the slit on the Bishop's hat.\n- **Set up order:** Remind them of the setup sequence: Rooks in the corners, then King/Queen, then Bishops.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child struggles to remember the name \"Bishop\", you can let them call it the \"Wizard\" for a few days, but always follow up by saying: \"That's right, the Wizard's real name is the Bishop.\""
+    },
+    {
+      "id": "LES-012-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-011#15#B1",
+      "parent_prompt_trace": "KB-011#15#B1",
+      "text": "**Q: Why does one player have a light-square Bishop and a dark-square Bishop?**\nA: Because of where they start! One stands next to the King (who is on a dark square) and one stands next to the Queen (who is on a light square).\n\n**Q: Is the Bishop stronger than a Rook?**\nA: No. The Bishop is a \"Minor Piece.\" The Rook and Queen are \"Major Pieces.\" We will learn piece points later!"
+    },
+    {
+      "id": "LES-012-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-011#16#B1",
+      "parent_prompt_trace": "KB-011#16#B1",
+      "text": "### 🔍 Find the Wizards\nMix all 32 pieces in a pile. Ask your child to dig through the pile and rescue all 4 Bishops (2 White, 2 Black).\n\n### 🛑 Fix the Setup\nSet up the back row, but accidentally put a Bishop in the corner where the Rook should be. Ask: \"Wait a minute, did the Wizard get lost? Where is he supposed to stand?\""
+    },
+    {
+      "id": "LES-012-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-011#17#B1",
+      "parent_prompt_trace": "KB-011#17#B1",
+      "text": "### 🏆 The Royal Sandwich\n**Challenge your child:**\n> \"Can you make a Royal Sandwich on the board?\"\n\n**Rules:**\n1. Give the child the White King, Queen, and both Bishops.\n2. Ask them to place them on the first rank.\n3. They must correctly place the Queen (on her color), the King (opposite), and then \"sandwich\" them with the two Bishops!"
+    },
+    {
+      "id": "LES-012-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-011#18#B1",
+      "parent_prompt_trace": "KB-011#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nHow do you tell the difference between a Bishop and a Pawn just by looking at their heads?\n*Answer: The Bishop has a cut (or mouth/slit) in his hat.*\n\n### 🟡 Application (Medium)\nIf the King and Queen are in the middle of the board, which pieces stand right next to them to start the game?\n*Answer: The Bishops.*\n\n### 🔴 Challenge (Hard)\n\nLook at this setup. Are the Bishops on the correct starting squares?\n*Answer: No! The Bishops are on the `b` and `g` files. They need to be moved in one square closer to the King and Queen (to the `c` and `f` files).*",
+      "diagram_id": "DGM-011-04",
+      "diagram_url": "assets/DGM-011-04.svg",
+      "position_id": "POS-BISHOP-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Bishops",
+      "diagram_alt": "Incorrect starting squares for Bishops"
+    },
+    {
+      "id": "LES-012-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-011#19#B1",
+      "parent_prompt_trace": "KB-011#19#B1",
+      "text": "*(No specific external resources required for this micro-concept.)*"
+    },
+    {
+      "id": "LES-012-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-011#20#B1",
+      "parent_prompt_trace": "KB-011#20#B1",
+      "text": "### Prerequisites\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Bishop Movement** (TOP-107) — How the Bishop actually moves.\n- **Knight** (TOP-012) — Meeting the Brave Horse."
+    },
+    {
+      "id": "LES-012-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-011#21#B1",
+      "parent_prompt_trace": "KB-011#21#B1",
+      "text": "- [ ] Do I understand how to identify the Bishop?\n- [ ] Do I know that they start next to the King and Queen?\n- [ ] Did my child successfully feel the slit in the hat?\n- [ ] Did my child successfully build the \"Royal Sandwich\"?\n- [ ] Did I successfully avoid teaching diagonal movement today?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to the **Knight (TOP-012)**.\n**🔄 If several answers are \"No\":** Play the \"Find the Wizards\" game again.\n\n**🛑 CONCEPT BOUNDARY**\n**Explicitly NOT covered in this lesson:**\n- How the Bishop moves (diagonals).\n- How the Bishop captures.\n- Minor vs Major piece values.\n*(These will be taught in later lessons to prevent cognitive overload).*"
+    }
+  ],
+  "task_references": [
+    "PZL-012-01",
+    "PZL-012-02",
+    "PZL-012-03",
+    "PZL-012-04"
+  ],
+  "diagram_references": [
+    "DGM-011-01",
+    "DGM-011-02",
+    "DGM-011-03",
+    "DGM-011-04"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-012",
+  "deferred_topics": [],
+  "teach_slides": [
+    {
+      "id": "LES-012-S01",
+      "type": "INTRO",
+      "title": "Meet the Bishop",
+      "text": "This is the Bishop! He is the Wise Wizard of the chess army.",
+      "parent_prompt": "Meet the Wizard.",
+      "diagram_id": "DGM-011-01",
+      "diagram_url": "assets/DGM-011-01.svg",
+      "visual": {
+        "diagram_id": "DGM-011-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-BISHOP-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Bishop shape and slit",
+      "diagram_alt": "The Bishop shape and slit"
+    },
+    {
+      "id": "LES-012-S02",
+      "type": "DIAGRAM",
+      "title": "The Magic Hat",
+      "text": "Look at the little cut in his hat! That's his mouth.",
+      "parent_prompt": "Spot the slit.",
+      "diagram_id": "DGM-011-01",
+      "diagram_url": "assets/DGM-011-01.svg",
+      "visual": {
+        "diagram_id": "DGM-011-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-BISHOP-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Bishop shape and slit",
+      "diagram_alt": "The Bishop shape and slit"
+    },
+    {
+      "id": "LES-012-S03",
+      "type": "DIAGRAM",
+      "title": "Bishops beside the Bosses",
+      "text": "Bishops are best friends with the King and Queen, so they stand right next to them!",
+      "parent_prompt": "Explain where they stand.",
+      "diagram_id": "DGM-011-02",
+      "diagram_url": "assets/DGM-011-02.svg",
+      "visual": {
+        "diagram_id": "DGM-011-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-BISHOP-START-001",
+      "position_version": 1,
+      "position_title": "Starting squares for the Bishops",
+      "diagram_alt": "Starting squares for the Bishops"
+    },
+    {
+      "id": "LES-012-S04",
+      "type": "DIAGRAM",
+      "title": "Find the Wizards",
+      "text": "In a messy game, look for the tall hat with the slit to find the Bishops.",
+      "parent_prompt": "Spot the Bishops.",
+      "diagram_id": "DGM-011-03",
+      "diagram_url": "assets/DGM-011-03.svg",
+      "visual": {
+        "diagram_id": "DGM-011-03",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-BISHOP-MIDGAME-001",
+      "position_version": 1,
+      "position_title": "Find the Bishops in a midgame",
+      "diagram_alt": "Find the Bishops in a midgame"
+    },
+    {
+      "id": "LES-012-S05",
+      "type": "DIAGRAM",
+      "title": "Fix the Board",
+      "text": "Oh no! The Wizards are too far away from the King and Queen!",
+      "parent_prompt": "Find the mistake.",
+      "diagram_id": "DGM-011-04",
+      "diagram_url": "assets/DGM-011-04.svg",
+      "visual": {
+        "diagram_id": "DGM-011-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-BISHOP-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Bishops",
+      "diagram_alt": "Incorrect starting squares for Bishops"
+    },
+    {
+      "id": "LES-012-S06",
+      "type": "ASSESSMENT",
+      "title": "Check your progress",
+      "text": "Can you place the Bishops correctly beside the King and Queen?",
+      "parent_prompt": "Check your progress.",
+      "diagram_id": "DGM-011-04",
+      "diagram_url": "assets/DGM-011-04.svg",
+      "visual": {
+        "diagram_id": "DGM-011-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-BISHOP-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Bishops",
+      "diagram_alt": "Incorrect starting squares for Bishops"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-012-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-011#1#B1",
+      "parent_prompt_trace": "KB-011#1#B1",
+      "text": "- **Topic**: Bishop (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Bishop, recognize the slit in its hat, and place the two Bishops correctly next to the royal family.\n\n**✅ Lesson Success Criteria:**\n- Child can pick the Bishop out of a pile of pieces.\n- Child can point to the \"mouth\" or \"slit\" in the Bishop's hat.\n- Child can place the Bishops on their correct starting squares (flanking the King and Queen).\n\n*(Purpose: \"Can I teach this today?\" Yes. The Bishop's funny shape makes it very easy for children to remember.)*"
+    },
+    {
+      "id": "LES-012-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-011#2#B1",
+      "parent_prompt_trace": "KB-011#2#B1",
+      "text": "The Bishop is a minor piece that starts the game directly beside the King and Queen. Each player has two Bishops: one that starts on a light square, and one that starts on a dark square. They are recognizable by the distinct diagonal slit cut into their tall, rounded hats."
+    },
+    {
+      "id": "LES-012-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-011#3#B1",
+      "parent_prompt_trace": "KB-011#3#B1",
+      "text": "Because each player has *two* Bishops, and they look slightly similar to Pawns from a distance, children must learn to recognize the Bishop's unique hat. Knowing where they start (protecting the King and Queen) completes the inner circle of the chess board."
+    },
+    {
+      "id": "LES-012-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-011#4#B1",
+      "parent_prompt_trace": "KB-011#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Bishop Movement (TOP-107)\n- ✓ Piece Values (TOP-014)"
+    },
+    {
+      "id": "LES-012-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-011#5#B1",
+      "parent_prompt_trace": "KB-011#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** The Bishop is taller than a Knight but shorter than the King and Queen. The defining feature is the deep diagonal cut (slit) in the top of its round hat. \n**Role:** The Bishops are the royal messengers or wizards. \n**Starting Position:** The Bishops stand directly next to the King and Queen. For White, they are on `c1` and `f1`. For Black, they are on `c8` and `f8`.\n\n**What NOT to teach today:** Do NOT teach how the Bishop moves (diagonals). We are only focusing on its name, shape, and starting position."
+    },
+    {
+      "id": "LES-012-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-011#6#B1",
+      "parent_prompt_trace": "KB-011#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Wizard (2 mins)\nHold up the Bishop.\n> *\"Look at this piece! This is the Bishop. He is the Wise Wizard of the chess army. He helps the King and Queen make good decisions.\"*\n\n### Step 2 — The Magic Hat (2 mins)\n> *\"Can you point to his hat? Do you see the little cut in it? That's his mouth! Because he is so wise, he is always whispering secrets to the King and Queen.\"*\n\n### Step 3 — The Royal Guards (3 mins)\nPlace the King and Queen on the board.\n> *\"Because the Bishop is the King and Queen's best friend, where do you think he stands? Right next to them! Put one Bishop next to the King, and the other next to the Queen.\"*"
+    },
+    {
+      "id": "LES-012-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-011#7#B1",
+      "parent_prompt_trace": "KB-011#7#B1",
+      "text": "> **🧙‍♂️ The Wise Wizard Analogy**\n> \n> The Bishop is a Wise Wizard. He wears a tall, funny hat with a slit in it. He is so important to the kingdom that he gets to stand right next to the King and Queen before the battle begins, whispering magic spells and advice into their ears. \n>\n> **Memory Trick for Starting Position:**\n> **\"Bishops beside the Bosses!\" (Next to the King and Queen).**"
+    },
+    {
+      "id": "LES-012-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-011#8#B1",
+      "parent_prompt_trace": "KB-011#8#B1",
+      "text": "The cut in the Bishop's hat is actually supposed to look like a real-life bishop's \"mitre\" (the tall hat worn by church leaders). But hundreds of years ago, the piece was an Elephant! The two points on top of the piece used to represent elephant tusks."
+    },
+    {
+      "id": "LES-012-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1",
+      "source_trace": "KB-011#9#B1",
+      "parent_prompt_trace": "KB-011#9#B1",
+      "text": "**Recognizing the Bishop**\n\n*The Bishop is characterized by the diagonal slit in its rounded headpiece.*",
+      "diagram_id": "DGM-011-01",
+      "diagram_url": "assets/DGM-011-01.svg",
+      "position_id": "POS-BISHOP-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Bishop shape and slit",
+      "diagram_alt": "The Bishop shape and slit"
+    },
+    {
+      "id": "LES-012-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-011#10#B1",
+      "parent_prompt_trace": "KB-011#10#B1",
+      "text": "Setting up the Bishops is easy if you already know where the King and Queen go. Just place the King and Queen first, and then place the Bishops directly next to them on the `c` and `f` files."
+    },
+    {
+      "id": "LES-012-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2",
+      "source_trace": "KB-011#11#B1",
+      "parent_prompt_trace": "KB-011#11#B1",
+      "text": "**Bishops Beside the Bosses**\n\n*White Bishops on c1 and f1. Black Bishops on c8 and f8.*",
+      "diagram_id": "DGM-011-02",
+      "diagram_url": "assets/DGM-011-02.svg",
+      "position_id": "POS-BISHOP-START-001",
+      "position_version": 1,
+      "position_title": "Starting squares for the Bishops",
+      "diagram_alt": "Starting squares for the Bishops"
+    },
+    {
+      "id": "LES-012-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-011#12#B1",
+      "parent_prompt_trace": "KB-011#12#B1",
+      "text": "During a game, your eyes should easily spot the Bishops because of their distinct hats. Notice that you have one on a light square and one on a dark square.",
+      "diagram_id": "DGM-011-03",
+      "diagram_url": "assets/DGM-011-03.svg",
+      "position_id": "POS-BISHOP-MIDGAME-001",
+      "position_version": 1,
+      "position_title": "Find the Bishops in a midgame",
+      "diagram_alt": "Find the Bishops in a midgame"
+    },
+    {
+      "id": "LES-012-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-011#13#B1",
+      "parent_prompt_trace": "KB-011#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Confusing Bishops with Pawns** — In some cheaper chess sets, the Bishop and Pawn are roughly the same size. Train your child to always \"look for the mouth\" (the slit).\n\n### Teaching Mistakes\n- ❌ **Teaching diagonal movement** — Diagonal movement is the hardest movement for a 6-year-old brain to process. Do not overwhelm them with it today. Just stick to the shape."
+    },
+    {
+      "id": "LES-012-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-011#14#B1",
+      "parent_prompt_trace": "KB-011#14#B1",
+      "text": "- **Use physical touch:** Have them run their finger through the slit on the Bishop's hat.\n- **Set up order:** Remind them of the setup sequence: Rooks in the corners, then King/Queen, then Bishops.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child struggles to remember the name \"Bishop\", you can let them call it the \"Wizard\" for a few days, but always follow up by saying: \"That's right, the Wizard's real name is the Bishop.\""
+    },
+    {
+      "id": "LES-012-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-011#15#B1",
+      "parent_prompt_trace": "KB-011#15#B1",
+      "text": "**Q: Why does one player have a light-square Bishop and a dark-square Bishop?**\nA: Because of where they start! One stands next to the King (who is on a dark square) and one stands next to the Queen (who is on a light square).\n\n**Q: Is the Bishop stronger than a Rook?**\nA: No. The Bishop is a \"Minor Piece.\" The Rook and Queen are \"Major Pieces.\" We will learn piece points later!"
+    },
+    {
+      "id": "LES-012-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-011#16#B1",
+      "parent_prompt_trace": "KB-011#16#B1",
+      "text": "### 🔍 Find the Wizards\nMix all 32 pieces in a pile. Ask your child to dig through the pile and rescue all 4 Bishops (2 White, 2 Black).\n\n### 🛑 Fix the Setup\nSet up the back row, but accidentally put a Bishop in the corner where the Rook should be. Ask: \"Wait a minute, did the Wizard get lost? Where is he supposed to stand?\""
+    },
+    {
+      "id": "LES-012-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-011#17#B1",
+      "parent_prompt_trace": "KB-011#17#B1",
+      "text": "### 🏆 The Royal Sandwich\n**Challenge your child:**\n> \"Can you make a Royal Sandwich on the board?\"\n\n**Rules:**\n1. Give the child the White King, Queen, and both Bishops.\n2. Ask them to place them on the first rank.\n3. They must correctly place the Queen (on her color), the King (opposite), and then \"sandwich\" them with the two Bishops!"
+    },
+    {
+      "id": "LES-012-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-011#18#B1",
+      "parent_prompt_trace": "KB-011#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nHow do you tell the difference between a Bishop and a Pawn just by looking at their heads?\n*Answer: The Bishop has a cut (or mouth/slit) in his hat.*\n\n### 🟡 Application (Medium)\nIf the King and Queen are in the middle of the board, which pieces stand right next to them to start the game?\n*Answer: The Bishops.*\n\n### 🔴 Challenge (Hard)\n\nLook at this setup. Are the Bishops on the correct starting squares?\n*Answer: No! The Bishops are on the `b` and `g` files. They need to be moved in one square closer to the King and Queen (to the `c` and `f` files).*",
+      "diagram_id": "DGM-011-04",
+      "diagram_url": "assets/DGM-011-04.svg",
+      "position_id": "POS-BISHOP-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Bishops",
+      "diagram_alt": "Incorrect starting squares for Bishops"
+    },
+    {
+      "id": "LES-012-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-011#19#B1",
+      "parent_prompt_trace": "KB-011#19#B1",
+      "text": "*(No specific external resources required for this micro-concept.)*"
+    },
+    {
+      "id": "LES-012-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-011#20#B1",
+      "parent_prompt_trace": "KB-011#20#B1",
+      "text": "### Prerequisites\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Bishop Movement** (TOP-107) — How the Bishop actually moves.\n- **Knight** (TOP-012) — Meeting the Brave Horse."
+    },
+    {
+      "id": "LES-012-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-011#21#B1",
+      "parent_prompt_trace": "KB-011#21#B1",
+      "text": "- [ ] Do I understand how to identify the Bishop?\n- [ ] Do I know that they start next to the King and Queen?\n- [ ] Did my child successfully feel the slit in the hat?\n- [ ] Did my child successfully build the \"Royal Sandwich\"?\n- [ ] Did I successfully avoid teaching diagonal movement today?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to the **Knight (TOP-012)**.\n**🔄 If several answers are \"No\":** Play the \"Find the Wizards\" game again.\n\n**🛑 CONCEPT BOUNDARY**\n**Explicitly NOT covered in this lesson:**\n- How the Bishop moves (diagonals).\n- How the Bishop captures.\n- Minor vs Major piece values.\n*(These will be taught in later lessons to prevent cognitive overload).*"
+    }
+  ],
+  "title": "Bishop",
+  "duration_minutes": 10,
+  "memory_phrase": "Bishops beside the Bosses!",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 10,
+    "slides": [
+      {
+        "id": "LES-012-S01",
+        "type": "INTRO",
+        "title": "Meet the Bishop",
+        "text": "This is the Bishop! He is the Wise Wizard of the chess army.",
+        "parent_prompt": "Meet the Wizard.",
+        "diagram_id": "DGM-011-01",
+        "diagram_url": "assets/DGM-011-01.svg",
+        "visual": {
+          "diagram_id": "DGM-011-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-BISHOP-SHAPE-001",
+        "position_version": 1,
+        "position_title": "The Bishop shape and slit",
+        "diagram_alt": "The Bishop shape and slit"
+      },
+      {
+        "id": "LES-012-S02",
+        "type": "DIAGRAM",
+        "title": "The Magic Hat",
+        "text": "Look at the little cut in his hat! That's his mouth.",
+        "parent_prompt": "Spot the slit.",
+        "diagram_id": "DGM-011-01",
+        "diagram_url": "assets/DGM-011-01.svg",
+        "visual": {
+          "diagram_id": "DGM-011-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-BISHOP-SHAPE-001",
+        "position_version": 1,
+        "position_title": "The Bishop shape and slit",
+        "diagram_alt": "The Bishop shape and slit"
+      },
+      {
+        "id": "LES-012-S03",
+        "type": "DIAGRAM",
+        "title": "Bishops beside the Bosses",
+        "text": "Bishops are best friends with the King and Queen, so they stand right next to them!",
+        "parent_prompt": "Explain where they stand.",
+        "diagram_id": "DGM-011-02",
+        "diagram_url": "assets/DGM-011-02.svg",
+        "visual": {
+          "diagram_id": "DGM-011-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-BISHOP-START-001",
+        "position_version": 1,
+        "position_title": "Starting squares for the Bishops",
+        "diagram_alt": "Starting squares for the Bishops"
+      },
+      {
+        "id": "LES-012-S04",
+        "type": "DIAGRAM",
+        "title": "Find the Wizards",
+        "text": "In a messy game, look for the tall hat with the slit to find the Bishops.",
+        "parent_prompt": "Spot the Bishops.",
+        "diagram_id": "DGM-011-03",
+        "diagram_url": "assets/DGM-011-03.svg",
+        "visual": {
+          "diagram_id": "DGM-011-03",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-BISHOP-MIDGAME-001",
+        "position_version": 1,
+        "position_title": "Find the Bishops in a midgame",
+        "diagram_alt": "Find the Bishops in a midgame"
+      },
+      {
+        "id": "LES-012-S05",
+        "type": "DIAGRAM",
+        "title": "Fix the Board",
+        "text": "Oh no! The Wizards are too far away from the King and Queen!",
+        "parent_prompt": "Find the mistake.",
+        "diagram_id": "DGM-011-04",
+        "diagram_url": "assets/DGM-011-04.svg",
+        "visual": {
+          "diagram_id": "DGM-011-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-BISHOP-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Incorrect starting squares for Bishops",
+        "diagram_alt": "Incorrect starting squares for Bishops"
+      },
+      {
+        "id": "LES-012-S06",
+        "type": "ASSESSMENT",
+        "title": "Check your progress",
+        "text": "Can you place the Bishops correctly beside the King and Queen?",
+        "parent_prompt": "Check your progress.",
+        "diagram_id": "DGM-011-04",
+        "diagram_url": "assets/DGM-011-04.svg",
+        "visual": {
+          "diagram_id": "DGM-011-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-BISHOP-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Incorrect starting squares for Bishops",
+        "diagram_alt": "Incorrect starting squares for Bishops"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-012-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-011#1#B1",
+        "parent_prompt_trace": "KB-011#1#B1",
+        "text": "- **Topic**: Bishop (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Bishop, recognize the slit in its hat, and place the two Bishops correctly next to the royal family.\n\n**✅ Lesson Success Criteria:**\n- Child can pick the Bishop out of a pile of pieces.\n- Child can point to the \"mouth\" or \"slit\" in the Bishop's hat.\n- Child can place the Bishops on their correct starting squares (flanking the King and Queen).\n\n*(Purpose: \"Can I teach this today?\" Yes. The Bishop's funny shape makes it very easy for children to remember.)*"
+      },
+      {
+        "id": "LES-012-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-011#2#B1",
+        "parent_prompt_trace": "KB-011#2#B1",
+        "text": "The Bishop is a minor piece that starts the game directly beside the King and Queen. Each player has two Bishops: one that starts on a light square, and one that starts on a dark square. They are recognizable by the distinct diagonal slit cut into their tall, rounded hats."
+      },
+      {
+        "id": "LES-012-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-011#3#B1",
+        "parent_prompt_trace": "KB-011#3#B1",
+        "text": "Because each player has *two* Bishops, and they look slightly similar to Pawns from a distance, children must learn to recognize the Bishop's unique hat. Knowing where they start (protecting the King and Queen) completes the inner circle of the chess board."
+      },
+      {
+        "id": "LES-012-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-011#4#B1",
+        "parent_prompt_trace": "KB-011#4#B1",
+        "text": "**Prerequisites:**\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Bishop Movement (TOP-107)\n- ✓ Piece Values (TOP-014)"
+      },
+      {
+        "id": "LES-012-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-011#5#B1",
+        "parent_prompt_trace": "KB-011#5#B1",
+        "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** The Bishop is taller than a Knight but shorter than the King and Queen. The defining feature is the deep diagonal cut (slit) in the top of its round hat. \n**Role:** The Bishops are the royal messengers or wizards. \n**Starting Position:** The Bishops stand directly next to the King and Queen. For White, they are on `c1` and `f1`. For Black, they are on `c8` and `f8`.\n\n**What NOT to teach today:** Do NOT teach how the Bishop moves (diagonals). We are only focusing on its name, shape, and starting position."
+      },
+      {
+        "id": "LES-012-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-011#6#B1",
+        "parent_prompt_trace": "KB-011#6#B1",
+        "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Wizard (2 mins)\nHold up the Bishop.\n> *\"Look at this piece! This is the Bishop. He is the Wise Wizard of the chess army. He helps the King and Queen make good decisions.\"*\n\n### Step 2 — The Magic Hat (2 mins)\n> *\"Can you point to his hat? Do you see the little cut in it? That's his mouth! Because he is so wise, he is always whispering secrets to the King and Queen.\"*\n\n### Step 3 — The Royal Guards (3 mins)\nPlace the King and Queen on the board.\n> *\"Because the Bishop is the King and Queen's best friend, where do you think he stands? Right next to them! Put one Bishop next to the King, and the other next to the Queen.\"*"
+      },
+      {
+        "id": "LES-012-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-011#7#B1",
+        "parent_prompt_trace": "KB-011#7#B1",
+        "text": "> **🧙‍♂️ The Wise Wizard Analogy**\n> \n> The Bishop is a Wise Wizard. He wears a tall, funny hat with a slit in it. He is so important to the kingdom that he gets to stand right next to the King and Queen before the battle begins, whispering magic spells and advice into their ears. \n>\n> **Memory Trick for Starting Position:**\n> **\"Bishops beside the Bosses!\" (Next to the King and Queen).**"
+      },
+      {
+        "id": "LES-012-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know? 🎓",
+        "source_trace": "KB-011#8#B1",
+        "parent_prompt_trace": "KB-011#8#B1",
+        "text": "The cut in the Bishop's hat is actually supposed to look like a real-life bishop's \"mitre\" (the tall hat worn by church leaders). But hundreds of years ago, the piece was an Elephant! The two points on top of the piece used to represent elephant tusks."
+      },
+      {
+        "id": "LES-012-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1",
+        "source_trace": "KB-011#9#B1",
+        "parent_prompt_trace": "KB-011#9#B1",
+        "text": "**Recognizing the Bishop**\n\n*The Bishop is characterized by the diagonal slit in its rounded headpiece.*",
+        "diagram_id": "DGM-011-01",
+        "diagram_url": "assets/DGM-011-01.svg",
+        "position_id": "POS-BISHOP-SHAPE-001",
+        "position_version": 1,
+        "position_title": "The Bishop shape and slit",
+        "diagram_alt": "The Bishop shape and slit"
+      },
+      {
+        "id": "LES-012-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-011#10#B1",
+        "parent_prompt_trace": "KB-011#10#B1",
+        "text": "Setting up the Bishops is easy if you already know where the King and Queen go. Just place the King and Queen first, and then place the Bishops directly next to them on the `c` and `f` files."
+      },
+      {
+        "id": "LES-012-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2",
+        "source_trace": "KB-011#11#B1",
+        "parent_prompt_trace": "KB-011#11#B1",
+        "text": "**Bishops Beside the Bosses**\n\n*White Bishops on c1 and f1. Black Bishops on c8 and f8.*",
+        "diagram_id": "DGM-011-02",
+        "diagram_url": "assets/DGM-011-02.svg",
+        "position_id": "POS-BISHOP-START-001",
+        "position_version": 1,
+        "position_title": "Starting squares for the Bishops",
+        "diagram_alt": "Starting squares for the Bishops"
+      },
+      {
+        "id": "LES-012-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-011#12#B1",
+        "parent_prompt_trace": "KB-011#12#B1",
+        "text": "During a game, your eyes should easily spot the Bishops because of their distinct hats. Notice that you have one on a light square and one on a dark square.",
+        "diagram_id": "DGM-011-03",
+        "diagram_url": "assets/DGM-011-03.svg",
+        "position_id": "POS-BISHOP-MIDGAME-001",
+        "position_version": 1,
+        "position_title": "Find the Bishops in a midgame",
+        "diagram_alt": "Find the Bishops in a midgame"
+      },
+      {
+        "id": "LES-012-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-011#13#B1",
+        "parent_prompt_trace": "KB-011#13#B1",
+        "text": "### Chess Mistakes\n- ❌ **Confusing Bishops with Pawns** — In some cheaper chess sets, the Bishop and Pawn are roughly the same size. Train your child to always \"look for the mouth\" (the slit).\n\n### Teaching Mistakes\n- ❌ **Teaching diagonal movement** — Diagonal movement is the hardest movement for a 6-year-old brain to process. Do not overwhelm them with it today. Just stick to the shape."
+      },
+      {
+        "id": "LES-012-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-011#14#B1",
+        "parent_prompt_trace": "KB-011#14#B1",
+        "text": "- **Use physical touch:** Have them run their finger through the slit on the Bishop's hat.\n- **Set up order:** Remind them of the setup sequence: Rooks in the corners, then King/Queen, then Bishops.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child struggles to remember the name \"Bishop\", you can let them call it the \"Wizard\" for a few days, but always follow up by saying: \"That's right, the Wizard's real name is the Bishop.\""
+      },
+      {
+        "id": "LES-012-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-011#15#B1",
+        "parent_prompt_trace": "KB-011#15#B1",
+        "text": "**Q: Why does one player have a light-square Bishop and a dark-square Bishop?**\nA: Because of where they start! One stands next to the King (who is on a dark square) and one stands next to the Queen (who is on a light square).\n\n**Q: Is the Bishop stronger than a Rook?**\nA: No. The Bishop is a \"Minor Piece.\" The Rook and Queen are \"Major Pieces.\" We will learn piece points later!"
+      },
+      {
+        "id": "LES-012-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-011#16#B1",
+        "parent_prompt_trace": "KB-011#16#B1",
+        "text": "### 🔍 Find the Wizards\nMix all 32 pieces in a pile. Ask your child to dig through the pile and rescue all 4 Bishops (2 White, 2 Black).\n\n### 🛑 Fix the Setup\nSet up the back row, but accidentally put a Bishop in the corner where the Rook should be. Ask: \"Wait a minute, did the Wizard get lost? Where is he supposed to stand?\""
+      },
+      {
+        "id": "LES-012-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge ⭐",
+        "source_trace": "KB-011#17#B1",
+        "parent_prompt_trace": "KB-011#17#B1",
+        "text": "### 🏆 The Royal Sandwich\n**Challenge your child:**\n> \"Can you make a Royal Sandwich on the board?\"\n\n**Rules:**\n1. Give the child the White King, Queen, and both Bishops.\n2. Ask them to place them on the first rank.\n3. They must correctly place the Queen (on her color), the King (opposite), and then \"sandwich\" them with the two Bishops!"
+      },
+      {
+        "id": "LES-012-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-011#18#B1",
+        "parent_prompt_trace": "KB-011#18#B1",
+        "text": "### 🟢 Recognition (Easy)\nHow do you tell the difference between a Bishop and a Pawn just by looking at their heads?\n*Answer: The Bishop has a cut (or mouth/slit) in his hat.*\n\n### 🟡 Application (Medium)\nIf the King and Queen are in the middle of the board, which pieces stand right next to them to start the game?\n*Answer: The Bishops.*\n\n### 🔴 Challenge (Hard)\n\nLook at this setup. Are the Bishops on the correct starting squares?\n*Answer: No! The Bishops are on the `b` and `g` files. They need to be moved in one square closer to the King and Queen (to the `c` and `f` files).*",
+        "diagram_id": "DGM-011-04",
+        "diagram_url": "assets/DGM-011-04.svg",
+        "position_id": "POS-BISHOP-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Incorrect starting squares for Bishops",
+        "diagram_alt": "Incorrect starting squares for Bishops"
+      },
+      {
+        "id": "LES-012-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-011#19#B1",
+        "parent_prompt_trace": "KB-011#19#B1",
+        "text": "*(No specific external resources required for this micro-concept.)*"
+      },
+      {
+        "id": "LES-012-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-011#20#B1",
+        "parent_prompt_trace": "KB-011#20#B1",
+        "text": "### Prerequisites\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Bishop Movement** (TOP-107) — How the Bishop actually moves.\n- **Knight** (TOP-012) — Meeting the Brave Horse."
+      },
+      {
+        "id": "LES-012-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check ✅",
+        "source_trace": "KB-011#21#B1",
+        "parent_prompt_trace": "KB-011#21#B1",
+        "text": "- [ ] Do I understand how to identify the Bishop?\n- [ ] Do I know that they start next to the King and Queen?\n- [ ] Did my child successfully feel the slit in the hat?\n- [ ] Did my child successfully build the \"Royal Sandwich\"?\n- [ ] Did I successfully avoid teaching diagonal movement today?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to the **Knight (TOP-012)**.\n**🔄 If several answers are \"No\":** Play the \"Find the Wizards\" game again.\n\n**🛑 CONCEPT BOUNDARY**\n**Explicitly NOT covered in this lesson:**\n- How the Bishop moves (diagonals).\n- How the Bishop captures.\n- Minor vs Major piece values.\n*(These will be taught in later lessons to prevent cognitive overload).*"
+      }
+    ]
+  }
+}

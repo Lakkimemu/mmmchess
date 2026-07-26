@@ -1,0 +1,31 @@
+schema_version: 1
+diagram_id: DGM-012-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-KNIGHT-START-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KNIGHT
+    square: b1
+  - color: WHITE
+    piece_type: KNIGHT
+    square: g1
+  - color: BLACK
+    piece_type: KNIGHT
+    square: b8
+  - color: BLACK
+    piece_type: KNIGHT
+    square: g8
+position_sha256: 79fd3db3f8b67366507f79dcb879f8b68fdf2a4f8d6a81739044f88ede510b60
+presentation_sha256: c35f188382cdd51c24493e7d9884ab2d25216b2a07929a51f480c17458e8ee00
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-012#11#B2
+review_status: APPROVED
+reviewed_artifact_sha256: 184d7f0cbfa516fb25316de96e1d5c481f5c4ccc9d10548815d5bb18aa545124
+output_svg_sha256: 184d7f0cbfa516fb25316de96e1d5c481f5c4ccc9d10548815d5bb18aa545124

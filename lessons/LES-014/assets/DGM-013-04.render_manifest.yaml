@@ -1,0 +1,49 @@
+schema_version: 1
+diagram_id: DGM-013-04
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-PAWN-PUZZLE-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: e1
+  - color: WHITE
+    piece_type: QUEEN
+    square: d1
+  - color: WHITE
+    piece_type: PAWN
+    square: a1
+  - color: WHITE
+    piece_type: PAWN
+    square: b1
+  - color: WHITE
+    piece_type: PAWN
+    square: c1
+  - color: WHITE
+    piece_type: PAWN
+    square: d2
+  - color: WHITE
+    piece_type: PAWN
+    square: e2
+  - color: WHITE
+    piece_type: PAWN
+    square: f1
+  - color: WHITE
+    piece_type: PAWN
+    square: g1
+  - color: WHITE
+    piece_type: PAWN
+    square: h1
+position_sha256: 1e85ad1f5dc093c3da570f558ae7957b5075670bc67faac13a5e4015e67a161b
+presentation_sha256: 5c8b4dbc87a85bb059fee3615680ba19b8be0a1ff9419152e1a8ec373a913816
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-013#18#B3
+review_status: APPROVED
+reviewed_artifact_sha256: d1986dfe4ebb61b59ab50bf050ddc4a9c97735413cdcce3e641860804f8406b6
+output_svg_sha256: d1986dfe4ebb61b59ab50bf050ddc4a9c97735413cdcce3e641860804f8406b6

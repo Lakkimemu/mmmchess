@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-009",
+  "assessment_id": "ASM-009",
+  "rubric": {
+    "criteria": "- [ ] Do I understand how to identify the King?\n- [ ] Do I know his starting square?\n- [ ] Did my child successfully feel the cross on his head?\n- [ ] Can my child place the King on the correct starting square?\n- [ ] Did I successfully avoid teaching movement?",
+    "source_trace": "KB-008#21#B1"
+  },
+  "task_references": [
+    "PZL-009-01",
+    "PZL-009-02",
+    "PZL-009-03",
+    "PZL-009-04"
+  ]
+}

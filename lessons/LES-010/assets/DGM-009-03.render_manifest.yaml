@@ -1,0 +1,109 @@
+schema_version: 1
+diagram_id: DGM-009-03
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-QUEEN-MIDGAME-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: BLACK
+    piece_type: ROOK
+    square: a8
+  - color: BLACK
+    piece_type: BISHOP
+    square: c8
+  - color: BLACK
+    piece_type: KING
+    square: e8
+  - color: BLACK
+    piece_type: ROOK
+    square: h8
+  - color: BLACK
+    piece_type: PAWN
+    square: a7
+  - color: BLACK
+    piece_type: PAWN
+    square: b7
+  - color: BLACK
+    piece_type: PAWN
+    square: c7
+  - color: BLACK
+    piece_type: PAWN
+    square: d7
+  - color: BLACK
+    piece_type: PAWN
+    square: f7
+  - color: BLACK
+    piece_type: PAWN
+    square: g7
+  - color: BLACK
+    piece_type: PAWN
+    square: h7
+  - color: BLACK
+    piece_type: KNIGHT
+    square: c6
+  - color: BLACK
+    piece_type: KNIGHT
+    square: f6
+  - color: BLACK
+    piece_type: PAWN
+    square: e5
+  - color: WHITE
+    piece_type: PAWN
+    square: e4
+  - color: BLACK
+    piece_type: QUEEN
+    square: g4
+  - color: WHITE
+    piece_type: KNIGHT
+    square: c3
+  - color: WHITE
+    piece_type: KNIGHT
+    square: f3
+  - color: WHITE
+    piece_type: PAWN
+    square: a2
+  - color: WHITE
+    piece_type: PAWN
+    square: b2
+  - color: WHITE
+    piece_type: PAWN
+    square: c2
+  - color: WHITE
+    piece_type: PAWN
+    square: d2
+  - color: WHITE
+    piece_type: QUEEN
+    square: e2
+  - color: WHITE
+    piece_type: PAWN
+    square: f2
+  - color: WHITE
+    piece_type: PAWN
+    square: g2
+  - color: WHITE
+    piece_type: PAWN
+    square: h2
+  - color: WHITE
+    piece_type: ROOK
+    square: a1
+  - color: WHITE
+    piece_type: BISHOP
+    square: c1
+  - color: WHITE
+    piece_type: KING
+    square: e1
+  - color: WHITE
+    piece_type: ROOK
+    square: h1
+position_sha256: 06013577cb4d5c3f069368f14defe71ff604f8ff7b6a6932a013ffa1b0570776
+presentation_sha256: 1d5734eeadc13039dcf4a1540c24d7348d12c20c85cc249271142d6c48d97ff6
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-009#12#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 2d3e9ff151d73bdabcda5af3301598773ab38ec74060065e7c1b7caf602a7429
+output_svg_sha256: 2d3e9ff151d73bdabcda5af3301598773ab38ec74060065e7c1b7caf602a7429

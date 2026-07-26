@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-014",
+  "assessment_id": "ASM-014",
+  "rubric": {
+    "criteria": "- [ ] Do I know that Pawns start on the 2nd and 7th ranks?\n- [ ] Did my child successfully line up all 8 Pawns?\n- [ ] Can my child set up the entire board now?\n- [ ] Did I successfully avoid teaching movement, capturing, or promotion today?",
+    "source_trace": "KB-013#21#B1"
+  },
+  "task_references": [
+    "PZL-014-01",
+    "PZL-014-02",
+    "PZL-014-03",
+    "PZL-014-04"
+  ]
+}

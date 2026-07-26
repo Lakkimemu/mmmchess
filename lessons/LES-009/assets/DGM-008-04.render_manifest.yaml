@@ -1,0 +1,18 @@
+schema_version: 1
+diagram_id: DGM-008-04
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-KING-PUZZLE-001
+position_version: 1
+position_type: LEGAL_FEN
+display_state: PRESENTED
+displayed_state: rnbkqbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBKQBNR w - - 0 1
+position_sha256: b0f787d89719469fce2d9fd911c1e17124188cd4d16e2e53236eb3ec65c2dbce
+presentation_sha256: e48801a48c032f449e8f278a25930531c8543d591bf8fd2d228f612cf716afee
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-008#18#B3
+review_status: APPROVED
+reviewed_artifact_sha256: b1f8fd4ec79874162660e82388b0a3ef9a1750577927ee3dee950f006af5903d
+output_svg_sha256: b1f8fd4ec79874162660e82388b0a3ef9a1750577927ee3dee950f006af5903d

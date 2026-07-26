@@ -1,0 +1,22 @@
+schema_version: 1
+diagram_id: DGM-011-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-BISHOP-SHAPE-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: BISHOP
+    square: d4
+position_sha256: 2bb68d8e5730fdff054fca59f8e95c0b8052e62bd88b8da1fe79f39cc7eabb72
+presentation_sha256: 8dfc178fd7b19076d03e476767bc7f8f1e1eb537cfbb7566b20329e672773318
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-011#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: a0f6ad48176c218dbac963ad16c973f7acb0535c9042b67b01c7a199d07831f2
+output_svg_sha256: a0f6ad48176c218dbac963ad16c973f7acb0535c9042b67b01c7a199d07831f2

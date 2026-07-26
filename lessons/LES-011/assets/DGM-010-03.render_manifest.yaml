@@ -1,0 +1,94 @@
+schema_version: 1
+diagram_id: DGM-010-03
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-ROOK-MIDGAME-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: BLACK
+    piece_type: ROOK
+    square: e8
+  - color: BLACK
+    piece_type: BISHOP
+    square: c8
+  - color: BLACK
+    piece_type: KING
+    square: g8
+  - color: BLACK
+    piece_type: PAWN
+    square: a7
+  - color: BLACK
+    piece_type: PAWN
+    square: b7
+  - color: BLACK
+    piece_type: PAWN
+    square: f7
+  - color: BLACK
+    piece_type: PAWN
+    square: g7
+  - color: BLACK
+    piece_type: PAWN
+    square: h7
+  - color: BLACK
+    piece_type: KNIGHT
+    square: c6
+  - color: BLACK
+    piece_type: KNIGHT
+    square: f6
+  - color: BLACK
+    piece_type: PAWN
+    square: d5
+  - color: WHITE
+    piece_type: PAWN
+    square: d4
+  - color: BLACK
+    piece_type: ROOK
+    square: a4
+  - color: WHITE
+    piece_type: KNIGHT
+    square: c3
+  - color: WHITE
+    piece_type: KNIGHT
+    square: f3
+  - color: WHITE
+    piece_type: PAWN
+    square: a2
+  - color: WHITE
+    piece_type: PAWN
+    square: b2
+  - color: WHITE
+    piece_type: PAWN
+    square: c2
+  - color: WHITE
+    piece_type: PAWN
+    square: f2
+  - color: WHITE
+    piece_type: PAWN
+    square: g2
+  - color: WHITE
+    piece_type: PAWN
+    square: h2
+  - color: WHITE
+    piece_type: ROOK
+    square: e1
+  - color: WHITE
+    piece_type: BISHOP
+    square: e3
+  - color: WHITE
+    piece_type: KING
+    square: g1
+  - color: WHITE
+    piece_type: ROOK
+    square: a1
+position_sha256: fbbd6bc593778f7d5ec7d1324b0dc2d099493ef3a746c7c7c969201a5b90ca49
+presentation_sha256: 83f75155df020ee29ceabe8416cad0244cd9ad9d87d3335631b43da9fdf05497
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-010#12#B1
+review_status: APPROVED
+reviewed_artifact_sha256: ce2cd6ffe2b02a6c2bb774a34c3761d664c84fd70da73e4f1d92f46891a68e2d
+output_svg_sha256: ce2cd6ffe2b02a6c2bb774a34c3761d664c84fd70da73e4f1d92f46891a68e2d

@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-012",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-012-01",
+      "kb_id": "KB-011",
+      "lesson_id": "LES-012",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What is the name of the piece with a cut in its hat?",
+      "hint": "Think of a Wizard.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Bishop."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-012.yaml",
+        "source_sha256": "4648e18192b208e80d0a031d423fa52f09453f1903aaaa0a80677b9d195e0e54",
+        "field": "exercises",
+        "anchor": "EX-012-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-012-02",
+      "kb_id": "KB-011",
+      "lesson_id": "LES-012",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Where do the Bishops start on the board?",
+      "hint": "Who are they whispering secrets to?",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Next to the King and Queen."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-012.yaml",
+        "source_sha256": "4648e18192b208e80d0a031d423fa52f09453f1903aaaa0a80677b9d195e0e54",
+        "field": "exercises",
+        "anchor": "EX-012-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-012-03",
+      "kb_id": "KB-011",
+      "lesson_id": "LES-012",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What does the Bishop piece look like?",
+      "hint": "Think of its special hat.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "It has a tall, rounded hat with a slit in it."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-012.yaml",
+        "source_sha256": "4648e18192b208e80d0a031d423fa52f09453f1903aaaa0a80677b9d195e0e54",
+        "field": "exercises",
+        "anchor": "EX-012-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-012-04",
+      "kb_id": "KB-011",
+      "lesson_id": "LES-012",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "How many Bishops does each player have?",
+      "hint": "One for the King, one for the Queen.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Two."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-012.yaml",
+        "source_sha256": "4648e18192b208e80d0a031d423fa52f09453f1903aaaa0a80677b9d195e0e54",
+        "field": "exercises",
+        "anchor": "EX-012-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

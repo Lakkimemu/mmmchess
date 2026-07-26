@@ -1,0 +1,31 @@
+schema_version: 1
+diagram_id: DGM-010-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-ROOK-START-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: ROOK
+    square: a1
+  - color: WHITE
+    piece_type: ROOK
+    square: h1
+  - color: BLACK
+    piece_type: ROOK
+    square: a8
+  - color: BLACK
+    piece_type: ROOK
+    square: h8
+position_sha256: da619e0f229a77181743c1a8a93f3e336da212c74b65b51570bd76700cd00990
+presentation_sha256: 62ed853d40199fcbcfecb0091c778e387cac1feb9350bdb720ea542dcd1fe7f7
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-010#11#B2
+review_status: APPROVED
+reviewed_artifact_sha256: f299a1cf94d17cfd984b90434abe13d6b120b38f28d9d7637b49c29e7f33001a
+output_svg_sha256: f299a1cf94d17cfd984b90434abe13d6b120b38f28d9d7637b49c29e7f33001a

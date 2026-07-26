@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-011",
+  "assessment_id": "ASM-011",
+  "rubric": {
+    "criteria": "- [ ] Do I call it a Rook instead of a Castle?\n- [ ] Did my child practice calling it a Rook?\n- [ ] Did my child successfully place all 4 Rooks in the corners?\n- [ ] Did I successfully avoid teaching Castling or movement?",
+    "source_trace": "KB-010#21#B1"
+  },
+  "task_references": [
+    "PZL-011-01",
+    "PZL-011-02",
+    "PZL-011-03",
+    "PZL-011-04"
+  ]
+}

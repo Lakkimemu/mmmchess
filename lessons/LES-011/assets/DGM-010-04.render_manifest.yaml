@@ -1,0 +1,25 @@
+schema_version: 1
+diagram_id: DGM-010-04
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-ROOK-PUZZLE-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: ROOK
+    square: b1
+  - color: WHITE
+    piece_type: ROOK
+    square: g1
+position_sha256: e64f940e22e54fc6a229b8ccaf2e4357e7eb7e31bd420e722a01c4830d799dc8
+presentation_sha256: 5885c84f5c2c74aef13f6c49105f8758c84fbfaa517ebfa18b0fdc351148fc75
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-010#18#B3
+review_status: APPROVED
+reviewed_artifact_sha256: 3b1db1262efbc11ecfe9d84b0dd8c69d3c1403860ed8fffd16739cf6a5beb904
+output_svg_sha256: 3b1db1262efbc11ecfe9d84b0dd8c69d3c1403860ed8fffd16739cf6a5beb904

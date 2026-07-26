@@ -1,0 +1,43 @@
+schema_version: 1
+diagram_id: DGM-011-04
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-BISHOP-PUZZLE-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: e1
+  - color: WHITE
+    piece_type: QUEEN
+    square: d1
+  - color: WHITE
+    piece_type: ROOK
+    square: a1
+  - color: WHITE
+    piece_type: ROOK
+    square: h1
+  - color: WHITE
+    piece_type: KNIGHT
+    square: c1
+  - color: WHITE
+    piece_type: KNIGHT
+    square: f1
+  - color: WHITE
+    piece_type: BISHOP
+    square: b1
+  - color: WHITE
+    piece_type: BISHOP
+    square: g1
+position_sha256: 331b76e8bbc201d6e425438031b41a655a4a8bdae5c011d7e14c36ce3711367a
+presentation_sha256: 3a3fb45ac3f783395806060fa7cf75f097a7ee87b85326fb06c420651fd3f881
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-011#18#B3
+review_status: APPROVED
+reviewed_artifact_sha256: 9f5337fc579af688764d1f78fa10f4d079bd8a834df99af5d0b2f2b89d08b617
+output_svg_sha256: 9f5337fc579af688764d1f78fa10f4d079bd8a834df99af5d0b2f2b89d08b617

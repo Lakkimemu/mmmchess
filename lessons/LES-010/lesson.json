@@ -1,0 +1,1186 @@
+{
+  "lesson_id": "LES-010",
+  "kb_id": "KB-009",
+  "topic_id": "TOP-009",
+  "unit_id": "UNT-001",
+  "sequence": 10,
+  "objective": "**🎯 Today's Goal:**\nYour child can identify the Queen, recognize her crown, and place her on the correct starting square based on her color.",
+  "success_criteria": "**✅ Lesson Success Criteria:**\n- Child can pick the Queen out of a pile of pieces.\n- Child knows the Queen wears a spiky crown.\n- Child can place the White Queen on d1 and the Black Queen on d8 using the \"color matching\" rule.",
+  "source_traces": {
+    "objective": "KB-009#1#B2",
+    "success_criteria": "KB-009#1#B3"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-009#1",
+      "content": "- **Topic**: Queen (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Queen, recognize her crown, and place her on the correct starting square based on her color.\n\n**✅ Lesson Success Criteria:**\n- Child can pick the Queen out of a pile of pieces.\n- Child knows the Queen wears a spiky crown.\n- Child can place the White Queen on d1 and the Black Queen on d8 using the \"color matching\" rule.\n\n*(Purpose: \"Can I teach this today?\" Yes. We are just meeting the powerful Queen today!)*\n\n---"
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-009#2",
+      "content": "The Queen is the most powerful piece in chess. She is usually the second tallest piece on the board and wears a spiky crown. Each player starts with exactly one Queen, placed next to the King.\n\n---"
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-009#3",
+      "content": "Because the Queen is the strongest piece, players will spend a lot of time looking for her during a game. Knowing how to quickly identify her and set her up correctly (on her own color) is one of the most famous and fundamental rules of chess setup.\n\n---"
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-009#4",
+      "content": "**Prerequisites:**\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Queen Movement (TOP-105)\n- ✓ Piece Values (TOP-014)\n\n---"
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-009#5",
+      "content": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** The Queen is slightly shorter than the King. While the King has a cross (+), the Queen wears a coronet or a spiky crown (often resembling a small flower or points).\n**Role:** She is the army's most powerful superhero.\n**Starting Position:** The Queen stands right next to the King, on the d-file. \n**The Golden Rule:** **\"The Queen goes on her own color.\"** The White Queen starts on a light square (d1). The Black Queen starts on a dark square (d8). \n\n**What NOT to teach today:** Do NOT teach how she moves (diagonals and straight lines). That comes later. Today is only about recognition and setup.\n\n---"
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-009#6",
+      "content": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Queen (2 mins)\nHold up the White Queen.\n> *\"This is the Queen! She is the most powerful hero in the whole army. She is the King's best protector.\"*\n\n### Step 2 — Spot the Crown (2 mins)\n> *\"Look at her head. Does she have a cross? No! She has a beautiful, spiky crown. That's how we know she is the Queen.\"*\n\n### Step 3 — The Fashion Rule (3 mins)\nPlace the Queen on d1. \n> *\"The Queen loves fashion. She always wants her shoes to perfectly match her dress! The White Queen ALWAYS stands on a white square. The Black Queen ALWAYS stands on a black square. Can you put the White Queen on her matching square?\"*\n\n---"
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-009#7",
+      "content": "> **👗 The Fashionable Queen Analogy**\n> \n> The Queen is very powerful, but she also loves fashion! She refuses to start the game unless her beautiful dress exactly matches the color of the floor she is standing on. White Queen, white square! Black Queen, black square! (Unlike the King, who wears mismatched opposite shoes).\n>\n> **Memory Trick for Starting Position:**\n> **\"Queen on her own color!\"**\n\n---"
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know? 🎓",
+      "source_trace": "KB-009#8",
+      "content": "A long time ago, the Queen was actually the weakest piece on the board! She was called the \"Advisor\" and could hardly move. But hundreds of years ago in Europe, players wanted the game to be faster and more exciting, so they gave the Queen superhero powers, and she's been the strongest piece ever since!\n\n---"
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1",
+      "source_trace": "KB-009#9",
+      "content": "**Recognizing the Queen**\n\n![DGM-001 Queen Shape](../../assets/diagrams/TOP-009/DGM-001_Queen_Shape.svg)\n*The Queen is the second tallest piece and features a spiky crown.*\n\n---"
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-009#10",
+      "content": "Setting up the Queen is the easiest part of setting up the board. You just find the center squares, grab the Queen, and match her color to the square. Once the Queen is placed, the King just goes on the empty square next to her!\n\n---"
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2",
+      "source_trace": "KB-009#11",
+      "content": "**Queen on her Own Color**\n\n![DGM-002 Queen Start](../../assets/diagrams/TOP-009/DGM-002_Queen_Start.svg)\n*The White Queen is on d1 (a light square). The Black Queen is on d8 (a dark square).*\n\n---"
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-009#12",
+      "content": "![DGM-003 Queens in Game](../../assets/diagrams/TOP-009/DGM-003_Queens_in_Game.svg)\nEven in a messy game, you can spot the Queens because of their crowns. They are often near the center of the board where all the action is happening.\n\n---"
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-009#13",
+      "content": "### Chess Mistakes\n- ❌ **Swapping King and Queen** — The most common beginner setup error in the world. Always remember: Queen on her own color, King on the opposite. \n\n### Teaching Mistakes\n- ❌ **Teaching movement** — Do not tell them she moves \"like a Rook and a Bishop combined.\" They don't know what a Rook or Bishop is yet! Wait for the movement lesson.\n\n---"
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-009#14",
+      "content": "- **Contrast with the King:** Hold the King and Queen side-by-side. Make your child verbally say \"Cross\" while pointing to the King, and \"Crown\" while pointing to the Queen.\n\n> **🧑‍🏫 Coach Tip:**\n> When setting up a real board, have your child place the Queens first, *before* the Kings. It is much easier for a child to match the Queen to her color, and then put the King in the leftover spot, than to try placing the King first.\n\n---"
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-009#15",
+      "content": "**Q: Can you have more than one Queen?**\nA: Yes! Later you will learn a magic rule called \"Promotion\" where pawns can turn into extra Queens. But you always *start* with exactly one.\n\n**Q: Does the Queen always start on the d-file?**\nA: Yes. `d` stands for Queen! (Wait, no it doesn't, but in many languages it actually does! In French she is the *Dame*, in German the *Dame*).\n\n---"
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-009#16",
+      "content": "### 👑 The Fashion Check\nGive your child the White Queen and Black Queen. Ask them to set them both up on the board. Say, \"Are their outfits matching their shoes?\" Make sure White is on a light square and Black is on a dark square.\n\n### 🛑 Fix the Board\nPlace the White Queen on e1 (a dark square). Ask your child: \"Oh no, a fashion disaster! Her shoes don't match! Can you fix her?\" \n\n---"
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge ⭐",
+      "source_trace": "KB-009#17",
+      "content": "### 🏆 The Royal Setup Race\n**Challenge your child:**\n> \"Let's see how fast you can set up BOTH the Kings and the Queens!\"\n\n**Rules:**\n1. Clear the board.\n2. Give the child the 2 Kings and 2 Queens.\n3. Time them! They must remember: Queen on her own color, King on the opposite color.\n4. If they get it right under 15 seconds, they win!\n\n---"
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-009#18",
+      "content": "### 🟢 Recognition (Easy)\nDoes the Queen have a cross on her head or a spiky crown?\n*Answer: A spiky crown.*\n\n### 🟡 Application (Medium)\nIf you have the Black Queen in your hand, should you place her on a light square or a dark square to start the game?\n*Answer: A dark square! (Queen on her own color).*\n\n### 🔴 Challenge (Hard)\n![DGM-004 Puzzle](../../assets/diagrams/TOP-009/DGM-004_Puzzle.svg)\nLook at this setup. Is the White Queen on the correct square?\n*Answer: Yes! The White Queen is on d1 (a light square). Fashion match!*\n\n---"
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-009#19",
+      "content": "*(No specific external resources required for this micro-concept.)*\n\n---"
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-009#20",
+      "content": "### Prerequisites\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Queen Movement** (TOP-105) — How the Queen actually moves.\n- **Rook** (TOP-010) — Meeting the Castle Towers.\n\n---"
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check ✅",
+      "source_trace": "KB-009#21",
+      "content": "- [ ] Do I understand the \"Queen on her own color\" rule?\n- [ ] Can my child tell the difference between the King and Queen?\n- [ ] Did my child practice placing the Queen on her matching color?\n- [ ] Did I successfully avoid teaching how she moves?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to the **Rook (TOP-010)**.\n**🔄 If several answers are \"No\":** Play the \"Royal Setup Race\" again.\n\n---\n\n**Explicitly NOT covered in this lesson:**\n- How the Queen moves (straight and diagonal).\n- How the Queen captures.\n- Her massive value (9 points).\n*(These will be taught in later lessons to prevent cognitive overload).*\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  diagrams: 4\n  mini_puzzles: 3\n  external_resources: 0\n  coach_challenges: 1\n  practice_activities: 2\n  coach_tips: 1\n  parent_faq: 2\n  estimated_read_time: 10 min\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-010-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-009#1#B1",
+      "parent_prompt_trace": "KB-009#1#B1",
+      "text": "- **Topic**: Queen (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Queen, recognize her crown, and place her on the correct starting square based on her color.\n\n**✅ Lesson Success Criteria:**\n- Child can pick the Queen out of a pile of pieces.\n- Child knows the Queen wears a spiky crown.\n- Child can place the White Queen on d1 and the Black Queen on d8 using the \"color matching\" rule.\n\n*(Purpose: \"Can I teach this today?\" Yes. We are just meeting the powerful Queen today!)*"
+    },
+    {
+      "id": "LES-010-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-009#2#B1",
+      "parent_prompt_trace": "KB-009#2#B1",
+      "text": "The Queen is the most powerful piece in chess. She is usually the second tallest piece on the board and wears a spiky crown. Each player starts with exactly one Queen, placed next to the King."
+    },
+    {
+      "id": "LES-010-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-009#3#B1",
+      "parent_prompt_trace": "KB-009#3#B1",
+      "text": "Because the Queen is the strongest piece, players will spend a lot of time looking for her during a game. Knowing how to quickly identify her and set her up correctly (on her own color) is one of the most famous and fundamental rules of chess setup."
+    },
+    {
+      "id": "LES-010-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-009#4#B1",
+      "parent_prompt_trace": "KB-009#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Queen Movement (TOP-105)\n- ✓ Piece Values (TOP-014)"
+    },
+    {
+      "id": "LES-010-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-009#5#B1",
+      "parent_prompt_trace": "KB-009#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** The Queen is slightly shorter than the King. While the King has a cross (+), the Queen wears a coronet or a spiky crown (often resembling a small flower or points).\n**Role:** She is the army's most powerful superhero.\n**Starting Position:** The Queen stands right next to the King, on the d-file. \n**The Golden Rule:** **\"The Queen goes on her own color.\"** The White Queen starts on a light square (d1). The Black Queen starts on a dark square (d8).\n\n**What NOT to teach today:** Do NOT teach how she moves (diagonals and straight lines). That comes later. Today is only about recognition and setup."
+    },
+    {
+      "id": "LES-010-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-009#6#B1",
+      "parent_prompt_trace": "KB-009#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Queen (2 mins)\nHold up the White Queen.\n> *\"This is the Queen! She is the most powerful hero in the whole army. She is the King's best protector.\"*\n\n### Step 2 — Spot the Crown (2 mins)\n> *\"Look at her head. Does she have a cross? No! She has a beautiful, spiky crown. That's how we know she is the Queen.\"*\n\n### Step 3 — The Fashion Rule (3 mins)\nPlace the Queen on d1. \n> *\"The Queen loves fashion. She always wants her shoes to perfectly match her dress! The White Queen ALWAYS stands on a white square. The Black Queen ALWAYS stands on a black square. Can you put the White Queen on her matching square?\"*"
+    },
+    {
+      "id": "LES-010-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-009#7#B1",
+      "parent_prompt_trace": "KB-009#7#B1",
+      "text": "> **👗 The Fashionable Queen Analogy**\n> \n> The Queen is very powerful, but she also loves fashion! She refuses to start the game unless her beautiful dress exactly matches the color of the floor she is standing on. White Queen, white square! Black Queen, black square! (Unlike the King, who wears mismatched opposite shoes).\n>\n> **Memory Trick for Starting Position:**\n> **\"Queen on her own color!\"**"
+    },
+    {
+      "id": "LES-010-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-009#8#B1",
+      "parent_prompt_trace": "KB-009#8#B1",
+      "text": "A long time ago, the Queen was actually the weakest piece on the board! She was called the \"Advisor\" and could hardly move. But hundreds of years ago in Europe, players wanted the game to be faster and more exciting, so they gave the Queen superhero powers, and she's been the strongest piece ever since!"
+    },
+    {
+      "id": "LES-010-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1",
+      "source_trace": "KB-009#9#B1",
+      "parent_prompt_trace": "KB-009#9#B1",
+      "text": "**Recognizing the Queen**\n\n*The Queen is the second tallest piece and features a spiky crown.*",
+      "diagram_id": "DGM-009-01",
+      "diagram_url": "assets/DGM-009-01.svg",
+      "position_id": "POS-QUEEN-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Queen shape and crown",
+      "diagram_alt": "The Queen shape and crown"
+    },
+    {
+      "id": "LES-010-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-009#10#B1",
+      "parent_prompt_trace": "KB-009#10#B1",
+      "text": "Setting up the Queen is the easiest part of setting up the board. You just find the center squares, grab the Queen, and match her color to the square. Once the Queen is placed, the King just goes on the empty square next to her!"
+    },
+    {
+      "id": "LES-010-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2",
+      "source_trace": "KB-009#11#B1",
+      "parent_prompt_trace": "KB-009#11#B1",
+      "text": "**Queen on her Own Color**\n\n*The White Queen is on d1 (a light square). The Black Queen is on d8 (a dark square).*",
+      "diagram_id": "DGM-009-02",
+      "diagram_url": "assets/DGM-009-02.svg",
+      "position_id": "POS-QUEEN-START-001",
+      "position_version": 1,
+      "position_title": "Starting squares for the Queens",
+      "diagram_alt": "Starting squares for the Queens"
+    },
+    {
+      "id": "LES-010-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-009#12#B1",
+      "parent_prompt_trace": "KB-009#12#B1",
+      "text": "Even in a messy game, you can spot the Queens because of their crowns. They are often near the center of the board where all the action is happening.",
+      "diagram_id": "DGM-009-03",
+      "diagram_url": "assets/DGM-009-03.svg",
+      "position_id": "POS-QUEEN-MIDGAME-001",
+      "position_version": 1,
+      "position_title": "Find the Queens in a midgame",
+      "diagram_alt": "Find the Queens in a midgame"
+    },
+    {
+      "id": "LES-010-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-009#13#B1",
+      "parent_prompt_trace": "KB-009#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Swapping King and Queen** — The most common beginner setup error in the world. Always remember: Queen on her own color, King on the opposite.\n\n### Teaching Mistakes\n- ❌ **Teaching movement** — Do not tell them she moves \"like a Rook and a Bishop combined.\" They don't know what a Rook or Bishop is yet! Wait for the movement lesson."
+    },
+    {
+      "id": "LES-010-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-009#14#B1",
+      "parent_prompt_trace": "KB-009#14#B1",
+      "text": "- **Contrast with the King:** Hold the King and Queen side-by-side. Make your child verbally say \"Cross\" while pointing to the King, and \"Crown\" while pointing to the Queen.\n\n> **🧑‍🏫 Coach Tip:**\n> When setting up a real board, have your child place the Queens first, *before* the Kings. It is much easier for a child to match the Queen to her color, and then put the King in the leftover spot, than to try placing the King first."
+    },
+    {
+      "id": "LES-010-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-009#15#B1",
+      "parent_prompt_trace": "KB-009#15#B1",
+      "text": "**Q: Can you have more than one Queen?**\nA: Yes! Later you will learn a magic rule called \"Promotion\" where pawns can turn into extra Queens. But you always *start* with exactly one.\n\n**Q: Does the Queen always start on the d-file?**\nA: Yes. `d` stands for Queen! (Wait, no it doesn't, but in many languages it actually does! In French she is the *Dame*, in German the *Dame*)."
+    },
+    {
+      "id": "LES-010-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-009#16#B1",
+      "parent_prompt_trace": "KB-009#16#B1",
+      "text": "### 👑 The Fashion Check\nGive your child the White Queen and Black Queen. Ask them to set them both up on the board. Say, \"Are their outfits matching their shoes?\" Make sure White is on a light square and Black is on a dark square.\n\n### 🛑 Fix the Board\nPlace the White Queen on e1 (a dark square). Ask your child: \"Oh no, a fashion disaster! Her shoes don't match! Can you fix her?\""
+    },
+    {
+      "id": "LES-010-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-009#17#B1",
+      "parent_prompt_trace": "KB-009#17#B1",
+      "text": "### 🏆 The Royal Setup Race\n**Challenge your child:**\n> \"Let's see how fast you can set up BOTH the Kings and the Queens!\"\n\n**Rules:**\n1. Clear the board.\n2. Give the child the 2 Kings and 2 Queens.\n3. Time them! They must remember: Queen on her own color, King on the opposite color.\n4. If they get it right under 15 seconds, they win!"
+    },
+    {
+      "id": "LES-010-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-009#18#B1",
+      "parent_prompt_trace": "KB-009#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nDoes the Queen have a cross on her head or a spiky crown?\n*Answer: A spiky crown.*\n\n### 🟡 Application (Medium)\nIf you have the Black Queen in your hand, should you place her on a light square or a dark square to start the game?\n*Answer: A dark square! (Queen on her own color).*\n\n### 🔴 Challenge (Hard)\n\nLook at this setup. Is the White Queen on the correct square?\n*Answer: Yes! The White Queen is on d1 (a light square). Fashion match!*",
+      "diagram_id": "DGM-009-04",
+      "diagram_url": "assets/DGM-009-04.svg",
+      "position_id": "POS-QUEEN-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Queens",
+      "diagram_alt": "Incorrect starting squares for Queens"
+    },
+    {
+      "id": "LES-010-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-009#19#B1",
+      "parent_prompt_trace": "KB-009#19#B1",
+      "text": "*(No specific external resources required for this micro-concept.)*"
+    },
+    {
+      "id": "LES-010-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-009#20#B1",
+      "parent_prompt_trace": "KB-009#20#B1",
+      "text": "### Prerequisites\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Queen Movement** (TOP-105) — How the Queen actually moves.\n- **Rook** (TOP-010) — Meeting the Castle Towers."
+    },
+    {
+      "id": "LES-010-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-009#21#B1",
+      "parent_prompt_trace": "KB-009#21#B1",
+      "text": "- [ ] Do I understand the \"Queen on her own color\" rule?\n- [ ] Can my child tell the difference between the King and Queen?\n- [ ] Did my child practice placing the Queen on her matching color?\n- [ ] Did I successfully avoid teaching how she moves?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to the **Rook (TOP-010)**.\n**🔄 If several answers are \"No\":** Play the \"Royal Setup Race\" again.\n\n**Explicitly NOT covered in this lesson:**\n- How the Queen moves (straight and diagonal).\n- How the Queen captures.\n- Her massive value (9 points).\n*(These will be taught in later lessons to prevent cognitive overload).*"
+    }
+  ],
+  "task_references": [
+    "PZL-010-01",
+    "PZL-010-02",
+    "PZL-010-03",
+    "PZL-010-04"
+  ],
+  "diagram_references": [
+    "DGM-009-01",
+    "DGM-009-02",
+    "DGM-009-03",
+    "DGM-009-04"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-010",
+  "deferred_topics": [],
+  "teach_slides": [
+    {
+      "id": "LES-010-S01",
+      "type": "INTRO",
+      "title": "Meet the Queen",
+      "text": "This is the Queen! She is the most powerful hero in the whole army.",
+      "parent_prompt": "Meet the Queen.",
+      "diagram_id": "DGM-009-01",
+      "diagram_url": "assets/DGM-009-01.svg",
+      "visual": {
+        "diagram_id": "DGM-009-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Queen shape and crown",
+      "diagram_alt": "The Queen shape and crown"
+    },
+    {
+      "id": "LES-010-S02",
+      "type": "DIAGRAM",
+      "title": "Spot the Crown",
+      "text": "Look at her head. She has a beautiful, spiky crown.",
+      "parent_prompt": "Spot the Crown.",
+      "diagram_id": "DGM-009-01",
+      "diagram_url": "assets/DGM-009-01.svg",
+      "visual": {
+        "diagram_id": "DGM-009-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Queen shape and crown",
+      "diagram_alt": "The Queen shape and crown"
+    },
+    {
+      "id": "LES-010-S03",
+      "type": "DIAGRAM",
+      "title": "The Fashion Rule",
+      "text": "The Queen always wants her shoes to perfectly match her dress!",
+      "parent_prompt": "Explain the Fashion Rule.",
+      "diagram_id": "DGM-009-02",
+      "diagram_url": "assets/DGM-009-02.svg",
+      "visual": {
+        "diagram_id": "DGM-009-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-START-001",
+      "position_version": 1,
+      "position_title": "Starting squares for the Queens",
+      "diagram_alt": "Starting squares for the Queens"
+    },
+    {
+      "id": "LES-010-S04",
+      "type": "DIAGRAM",
+      "title": "Find the Queens",
+      "text": "Even in a messy game, can you spot the Queens?",
+      "parent_prompt": "Spot the Queens.",
+      "diagram_id": "DGM-009-03",
+      "diagram_url": "assets/DGM-009-03.svg",
+      "visual": {
+        "diagram_id": "DGM-009-03",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-MIDGAME-001",
+      "position_version": 1,
+      "position_title": "Find the Queens in a midgame",
+      "diagram_alt": "Find the Queens in a midgame"
+    },
+    {
+      "id": "LES-010-S05",
+      "type": "DIAGRAM",
+      "title": "Fix the Board",
+      "text": "Oh no, a fashion disaster! Her shoes don't match!",
+      "parent_prompt": "Find the mistake.",
+      "diagram_id": "DGM-009-04",
+      "diagram_url": "assets/DGM-009-04.svg",
+      "visual": {
+        "diagram_id": "DGM-009-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Queens",
+      "diagram_alt": "Incorrect starting squares for Queens"
+    },
+    {
+      "id": "LES-010-S06",
+      "type": "ASSESSMENT",
+      "title": "Check your progress",
+      "text": "Can you set up both the Kings and the Queens correctly?",
+      "parent_prompt": "Check your progress.",
+      "diagram_id": "DGM-009-04",
+      "diagram_url": "assets/DGM-009-04.svg",
+      "visual": {
+        "diagram_id": "DGM-009-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Queens",
+      "diagram_alt": "Incorrect starting squares for Queens"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-010-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-009#1#B1",
+      "parent_prompt_trace": "KB-009#1#B1",
+      "text": "- **Topic**: Queen (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Queen, recognize her crown, and place her on the correct starting square based on her color.\n\n**✅ Lesson Success Criteria:**\n- Child can pick the Queen out of a pile of pieces.\n- Child knows the Queen wears a spiky crown.\n- Child can place the White Queen on d1 and the Black Queen on d8 using the \"color matching\" rule.\n\n*(Purpose: \"Can I teach this today?\" Yes. We are just meeting the powerful Queen today!)*"
+    },
+    {
+      "id": "LES-010-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-009#2#B1",
+      "parent_prompt_trace": "KB-009#2#B1",
+      "text": "The Queen is the most powerful piece in chess. She is usually the second tallest piece on the board and wears a spiky crown. Each player starts with exactly one Queen, placed next to the King."
+    },
+    {
+      "id": "LES-010-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-009#3#B1",
+      "parent_prompt_trace": "KB-009#3#B1",
+      "text": "Because the Queen is the strongest piece, players will spend a lot of time looking for her during a game. Knowing how to quickly identify her and set her up correctly (on her own color) is one of the most famous and fundamental rules of chess setup."
+    },
+    {
+      "id": "LES-010-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-009#4#B1",
+      "parent_prompt_trace": "KB-009#4#B1",
+      "text": "**Prerequisites:**\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Queen Movement (TOP-105)\n- ✓ Piece Values (TOP-014)"
+    },
+    {
+      "id": "LES-010-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-009#5#B1",
+      "parent_prompt_trace": "KB-009#5#B1",
+      "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** The Queen is slightly shorter than the King. While the King has a cross (+), the Queen wears a coronet or a spiky crown (often resembling a small flower or points).\n**Role:** She is the army's most powerful superhero.\n**Starting Position:** The Queen stands right next to the King, on the d-file. \n**The Golden Rule:** **\"The Queen goes on her own color.\"** The White Queen starts on a light square (d1). The Black Queen starts on a dark square (d8).\n\n**What NOT to teach today:** Do NOT teach how she moves (diagonals and straight lines). That comes later. Today is only about recognition and setup."
+    },
+    {
+      "id": "LES-010-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-009#6#B1",
+      "parent_prompt_trace": "KB-009#6#B1",
+      "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Queen (2 mins)\nHold up the White Queen.\n> *\"This is the Queen! She is the most powerful hero in the whole army. She is the King's best protector.\"*\n\n### Step 2 — Spot the Crown (2 mins)\n> *\"Look at her head. Does she have a cross? No! She has a beautiful, spiky crown. That's how we know she is the Queen.\"*\n\n### Step 3 — The Fashion Rule (3 mins)\nPlace the Queen on d1. \n> *\"The Queen loves fashion. She always wants her shoes to perfectly match her dress! The White Queen ALWAYS stands on a white square. The Black Queen ALWAYS stands on a black square. Can you put the White Queen on her matching square?\"*"
+    },
+    {
+      "id": "LES-010-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-009#7#B1",
+      "parent_prompt_trace": "KB-009#7#B1",
+      "text": "> **👗 The Fashionable Queen Analogy**\n> \n> The Queen is very powerful, but she also loves fashion! She refuses to start the game unless her beautiful dress exactly matches the color of the floor she is standing on. White Queen, white square! Black Queen, black square! (Unlike the King, who wears mismatched opposite shoes).\n>\n> **Memory Trick for Starting Position:**\n> **\"Queen on her own color!\"**"
+    },
+    {
+      "id": "LES-010-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-009#8#B1",
+      "parent_prompt_trace": "KB-009#8#B1",
+      "text": "A long time ago, the Queen was actually the weakest piece on the board! She was called the \"Advisor\" and could hardly move. But hundreds of years ago in Europe, players wanted the game to be faster and more exciting, so they gave the Queen superhero powers, and she's been the strongest piece ever since!"
+    },
+    {
+      "id": "LES-010-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1",
+      "source_trace": "KB-009#9#B1",
+      "parent_prompt_trace": "KB-009#9#B1",
+      "text": "**Recognizing the Queen**\n\n*The Queen is the second tallest piece and features a spiky crown.*",
+      "diagram_id": "DGM-009-01",
+      "diagram_url": "assets/DGM-009-01.svg",
+      "position_id": "POS-QUEEN-SHAPE-001",
+      "position_version": 1,
+      "position_title": "The Queen shape and crown",
+      "diagram_alt": "The Queen shape and crown"
+    },
+    {
+      "id": "LES-010-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-009#10#B1",
+      "parent_prompt_trace": "KB-009#10#B1",
+      "text": "Setting up the Queen is the easiest part of setting up the board. You just find the center squares, grab the Queen, and match her color to the square. Once the Queen is placed, the King just goes on the empty square next to her!"
+    },
+    {
+      "id": "LES-010-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2",
+      "source_trace": "KB-009#11#B1",
+      "parent_prompt_trace": "KB-009#11#B1",
+      "text": "**Queen on her Own Color**\n\n*The White Queen is on d1 (a light square). The Black Queen is on d8 (a dark square).*",
+      "diagram_id": "DGM-009-02",
+      "diagram_url": "assets/DGM-009-02.svg",
+      "position_id": "POS-QUEEN-START-001",
+      "position_version": 1,
+      "position_title": "Starting squares for the Queens",
+      "diagram_alt": "Starting squares for the Queens"
+    },
+    {
+      "id": "LES-010-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-009#12#B1",
+      "parent_prompt_trace": "KB-009#12#B1",
+      "text": "Even in a messy game, you can spot the Queens because of their crowns. They are often near the center of the board where all the action is happening.",
+      "diagram_id": "DGM-009-03",
+      "diagram_url": "assets/DGM-009-03.svg",
+      "position_id": "POS-QUEEN-MIDGAME-001",
+      "position_version": 1,
+      "position_title": "Find the Queens in a midgame",
+      "diagram_alt": "Find the Queens in a midgame"
+    },
+    {
+      "id": "LES-010-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-009#13#B1",
+      "parent_prompt_trace": "KB-009#13#B1",
+      "text": "### Chess Mistakes\n- ❌ **Swapping King and Queen** — The most common beginner setup error in the world. Always remember: Queen on her own color, King on the opposite.\n\n### Teaching Mistakes\n- ❌ **Teaching movement** — Do not tell them she moves \"like a Rook and a Bishop combined.\" They don't know what a Rook or Bishop is yet! Wait for the movement lesson."
+    },
+    {
+      "id": "LES-010-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-009#14#B1",
+      "parent_prompt_trace": "KB-009#14#B1",
+      "text": "- **Contrast with the King:** Hold the King and Queen side-by-side. Make your child verbally say \"Cross\" while pointing to the King, and \"Crown\" while pointing to the Queen.\n\n> **🧑‍🏫 Coach Tip:**\n> When setting up a real board, have your child place the Queens first, *before* the Kings. It is much easier for a child to match the Queen to her color, and then put the King in the leftover spot, than to try placing the King first."
+    },
+    {
+      "id": "LES-010-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-009#15#B1",
+      "parent_prompt_trace": "KB-009#15#B1",
+      "text": "**Q: Can you have more than one Queen?**\nA: Yes! Later you will learn a magic rule called \"Promotion\" where pawns can turn into extra Queens. But you always *start* with exactly one.\n\n**Q: Does the Queen always start on the d-file?**\nA: Yes. `d` stands for Queen! (Wait, no it doesn't, but in many languages it actually does! In French she is the *Dame*, in German the *Dame*)."
+    },
+    {
+      "id": "LES-010-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-009#16#B1",
+      "parent_prompt_trace": "KB-009#16#B1",
+      "text": "### 👑 The Fashion Check\nGive your child the White Queen and Black Queen. Ask them to set them both up on the board. Say, \"Are their outfits matching their shoes?\" Make sure White is on a light square and Black is on a dark square.\n\n### 🛑 Fix the Board\nPlace the White Queen on e1 (a dark square). Ask your child: \"Oh no, a fashion disaster! Her shoes don't match! Can you fix her?\""
+    },
+    {
+      "id": "LES-010-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-009#17#B1",
+      "parent_prompt_trace": "KB-009#17#B1",
+      "text": "### 🏆 The Royal Setup Race\n**Challenge your child:**\n> \"Let's see how fast you can set up BOTH the Kings and the Queens!\"\n\n**Rules:**\n1. Clear the board.\n2. Give the child the 2 Kings and 2 Queens.\n3. Time them! They must remember: Queen on her own color, King on the opposite color.\n4. If they get it right under 15 seconds, they win!"
+    },
+    {
+      "id": "LES-010-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-009#18#B1",
+      "parent_prompt_trace": "KB-009#18#B1",
+      "text": "### 🟢 Recognition (Easy)\nDoes the Queen have a cross on her head or a spiky crown?\n*Answer: A spiky crown.*\n\n### 🟡 Application (Medium)\nIf you have the Black Queen in your hand, should you place her on a light square or a dark square to start the game?\n*Answer: A dark square! (Queen on her own color).*\n\n### 🔴 Challenge (Hard)\n\nLook at this setup. Is the White Queen on the correct square?\n*Answer: Yes! The White Queen is on d1 (a light square). Fashion match!*",
+      "diagram_id": "DGM-009-04",
+      "diagram_url": "assets/DGM-009-04.svg",
+      "position_id": "POS-QUEEN-PUZZLE-001",
+      "position_version": 1,
+      "position_title": "Incorrect starting squares for Queens",
+      "diagram_alt": "Incorrect starting squares for Queens"
+    },
+    {
+      "id": "LES-010-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-009#19#B1",
+      "parent_prompt_trace": "KB-009#19#B1",
+      "text": "*(No specific external resources required for this micro-concept.)*"
+    },
+    {
+      "id": "LES-010-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-009#20#B1",
+      "parent_prompt_trace": "KB-009#20#B1",
+      "text": "### Prerequisites\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Queen Movement** (TOP-105) — How the Queen actually moves.\n- **Rook** (TOP-010) — Meeting the Castle Towers."
+    },
+    {
+      "id": "LES-010-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-009#21#B1",
+      "parent_prompt_trace": "KB-009#21#B1",
+      "text": "- [ ] Do I understand the \"Queen on her own color\" rule?\n- [ ] Can my child tell the difference between the King and Queen?\n- [ ] Did my child practice placing the Queen on her matching color?\n- [ ] Did I successfully avoid teaching how she moves?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to the **Rook (TOP-010)**.\n**🔄 If several answers are \"No\":** Play the \"Royal Setup Race\" again.\n\n**Explicitly NOT covered in this lesson:**\n- How the Queen moves (straight and diagonal).\n- How the Queen captures.\n- Her massive value (9 points).\n*(These will be taught in later lessons to prevent cognitive overload).*"
+    }
+  ],
+  "title": "Queen",
+  "duration_minutes": 10,
+  "memory_phrase": "Queen on her own color!",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 10,
+    "slides": [
+      {
+        "id": "LES-010-S01",
+        "type": "INTRO",
+        "title": "Meet the Queen",
+        "text": "This is the Queen! She is the most powerful hero in the whole army.",
+        "parent_prompt": "Meet the Queen.",
+        "diagram_id": "DGM-009-01",
+        "diagram_url": "assets/DGM-009-01.svg",
+        "visual": {
+          "diagram_id": "DGM-009-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-SHAPE-001",
+        "position_version": 1,
+        "position_title": "The Queen shape and crown",
+        "diagram_alt": "The Queen shape and crown"
+      },
+      {
+        "id": "LES-010-S02",
+        "type": "DIAGRAM",
+        "title": "Spot the Crown",
+        "text": "Look at her head. She has a beautiful, spiky crown.",
+        "parent_prompt": "Spot the Crown.",
+        "diagram_id": "DGM-009-01",
+        "diagram_url": "assets/DGM-009-01.svg",
+        "visual": {
+          "diagram_id": "DGM-009-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-SHAPE-001",
+        "position_version": 1,
+        "position_title": "The Queen shape and crown",
+        "diagram_alt": "The Queen shape and crown"
+      },
+      {
+        "id": "LES-010-S03",
+        "type": "DIAGRAM",
+        "title": "The Fashion Rule",
+        "text": "The Queen always wants her shoes to perfectly match her dress!",
+        "parent_prompt": "Explain the Fashion Rule.",
+        "diagram_id": "DGM-009-02",
+        "diagram_url": "assets/DGM-009-02.svg",
+        "visual": {
+          "diagram_id": "DGM-009-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-START-001",
+        "position_version": 1,
+        "position_title": "Starting squares for the Queens",
+        "diagram_alt": "Starting squares for the Queens"
+      },
+      {
+        "id": "LES-010-S04",
+        "type": "DIAGRAM",
+        "title": "Find the Queens",
+        "text": "Even in a messy game, can you spot the Queens?",
+        "parent_prompt": "Spot the Queens.",
+        "diagram_id": "DGM-009-03",
+        "diagram_url": "assets/DGM-009-03.svg",
+        "visual": {
+          "diagram_id": "DGM-009-03",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-MIDGAME-001",
+        "position_version": 1,
+        "position_title": "Find the Queens in a midgame",
+        "diagram_alt": "Find the Queens in a midgame"
+      },
+      {
+        "id": "LES-010-S05",
+        "type": "DIAGRAM",
+        "title": "Fix the Board",
+        "text": "Oh no, a fashion disaster! Her shoes don't match!",
+        "parent_prompt": "Find the mistake.",
+        "diagram_id": "DGM-009-04",
+        "diagram_url": "assets/DGM-009-04.svg",
+        "visual": {
+          "diagram_id": "DGM-009-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Incorrect starting squares for Queens",
+        "diagram_alt": "Incorrect starting squares for Queens"
+      },
+      {
+        "id": "LES-010-S06",
+        "type": "ASSESSMENT",
+        "title": "Check your progress",
+        "text": "Can you set up both the Kings and the Queens correctly?",
+        "parent_prompt": "Check your progress.",
+        "diagram_id": "DGM-009-04",
+        "diagram_url": "assets/DGM-009-04.svg",
+        "visual": {
+          "diagram_id": "DGM-009-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Incorrect starting squares for Queens",
+        "diagram_alt": "Incorrect starting squares for Queens"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-010-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-009#1#B1",
+        "parent_prompt_trace": "KB-009#1#B1",
+        "text": "- **Topic**: Queen (Recognition)\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Piece\n- **Prerequisites**: Squares (TOP-005), Chess Pieces (TOP-007)\n\n**🎯 Today's Goal:**\nYour child can identify the Queen, recognize her crown, and place her on the correct starting square based on her color.\n\n**✅ Lesson Success Criteria:**\n- Child can pick the Queen out of a pile of pieces.\n- Child knows the Queen wears a spiky crown.\n- Child can place the White Queen on d1 and the Black Queen on d8 using the \"color matching\" rule.\n\n*(Purpose: \"Can I teach this today?\" Yes. We are just meeting the powerful Queen today!)*"
+      },
+      {
+        "id": "LES-010-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-009#2#B1",
+        "parent_prompt_trace": "KB-009#2#B1",
+        "text": "The Queen is the most powerful piece in chess. She is usually the second tallest piece on the board and wears a spiky crown. Each player starts with exactly one Queen, placed next to the King."
+      },
+      {
+        "id": "LES-010-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-009#3#B1",
+        "parent_prompt_trace": "KB-009#3#B1",
+        "text": "Because the Queen is the strongest piece, players will spend a lot of time looking for her during a game. Knowing how to quickly identify her and set her up correctly (on her own color) is one of the most famous and fundamental rules of chess setup."
+      },
+      {
+        "id": "LES-010-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-009#4#B1",
+        "parent_prompt_trace": "KB-009#4#B1",
+        "text": "**Prerequisites:**\n- ✓ Squares (TOP-005)\n- ✓ Chess Pieces (TOP-007)\n\n**What this unlocks:**\n- ✓ Queen Movement (TOP-105)\n- ✓ Piece Values (TOP-014)"
+      },
+      {
+        "id": "LES-010-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-009#5#B1",
+        "parent_prompt_trace": "KB-009#5#B1",
+        "text": "*This section is for YOUR understanding. Read it, absorb it.*\n\n**Appearance:** The Queen is slightly shorter than the King. While the King has a cross (+), the Queen wears a coronet or a spiky crown (often resembling a small flower or points).\n**Role:** She is the army's most powerful superhero.\n**Starting Position:** The Queen stands right next to the King, on the d-file. \n**The Golden Rule:** **\"The Queen goes on her own color.\"** The White Queen starts on a light square (d1). The Black Queen starts on a dark square (d8).\n\n**What NOT to teach today:** Do NOT teach how she moves (diagonals and straight lines). That comes later. Today is only about recognition and setup."
+      },
+      {
+        "id": "LES-010-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-009#6#B1",
+        "parent_prompt_trace": "KB-009#6#B1",
+        "text": "*Now that you understand the concept, here is exactly how to explain it to your child.*\n\n### Step 1 — Meet the Queen (2 mins)\nHold up the White Queen.\n> *\"This is the Queen! She is the most powerful hero in the whole army. She is the King's best protector.\"*\n\n### Step 2 — Spot the Crown (2 mins)\n> *\"Look at her head. Does she have a cross? No! She has a beautiful, spiky crown. That's how we know she is the Queen.\"*\n\n### Step 3 — The Fashion Rule (3 mins)\nPlace the Queen on d1. \n> *\"The Queen loves fashion. She always wants her shoes to perfectly match her dress! The White Queen ALWAYS stands on a white square. The Black Queen ALWAYS stands on a black square. Can you put the White Queen on her matching square?\"*"
+      },
+      {
+        "id": "LES-010-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-009#7#B1",
+        "parent_prompt_trace": "KB-009#7#B1",
+        "text": "> **👗 The Fashionable Queen Analogy**\n> \n> The Queen is very powerful, but she also loves fashion! She refuses to start the game unless her beautiful dress exactly matches the color of the floor she is standing on. White Queen, white square! Black Queen, black square! (Unlike the King, who wears mismatched opposite shoes).\n>\n> **Memory Trick for Starting Position:**\n> **\"Queen on her own color!\"**"
+      },
+      {
+        "id": "LES-010-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know? 🎓",
+        "source_trace": "KB-009#8#B1",
+        "parent_prompt_trace": "KB-009#8#B1",
+        "text": "A long time ago, the Queen was actually the weakest piece on the board! She was called the \"Advisor\" and could hardly move. But hundreds of years ago in Europe, players wanted the game to be faster and more exciting, so they gave the Queen superhero powers, and she's been the strongest piece ever since!"
+      },
+      {
+        "id": "LES-010-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1",
+        "source_trace": "KB-009#9#B1",
+        "parent_prompt_trace": "KB-009#9#B1",
+        "text": "**Recognizing the Queen**\n\n*The Queen is the second tallest piece and features a spiky crown.*",
+        "diagram_id": "DGM-009-01",
+        "diagram_url": "assets/DGM-009-01.svg",
+        "position_id": "POS-QUEEN-SHAPE-001",
+        "position_version": 1,
+        "position_title": "The Queen shape and crown",
+        "diagram_alt": "The Queen shape and crown"
+      },
+      {
+        "id": "LES-010-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-009#10#B1",
+        "parent_prompt_trace": "KB-009#10#B1",
+        "text": "Setting up the Queen is the easiest part of setting up the board. You just find the center squares, grab the Queen, and match her color to the square. Once the Queen is placed, the King just goes on the empty square next to her!"
+      },
+      {
+        "id": "LES-010-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2",
+        "source_trace": "KB-009#11#B1",
+        "parent_prompt_trace": "KB-009#11#B1",
+        "text": "**Queen on her Own Color**\n\n*The White Queen is on d1 (a light square). The Black Queen is on d8 (a dark square).*",
+        "diagram_id": "DGM-009-02",
+        "diagram_url": "assets/DGM-009-02.svg",
+        "position_id": "POS-QUEEN-START-001",
+        "position_version": 1,
+        "position_title": "Starting squares for the Queens",
+        "diagram_alt": "Starting squares for the Queens"
+      },
+      {
+        "id": "LES-010-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-009#12#B1",
+        "parent_prompt_trace": "KB-009#12#B1",
+        "text": "Even in a messy game, you can spot the Queens because of their crowns. They are often near the center of the board where all the action is happening.",
+        "diagram_id": "DGM-009-03",
+        "diagram_url": "assets/DGM-009-03.svg",
+        "position_id": "POS-QUEEN-MIDGAME-001",
+        "position_version": 1,
+        "position_title": "Find the Queens in a midgame",
+        "diagram_alt": "Find the Queens in a midgame"
+      },
+      {
+        "id": "LES-010-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-009#13#B1",
+        "parent_prompt_trace": "KB-009#13#B1",
+        "text": "### Chess Mistakes\n- ❌ **Swapping King and Queen** — The most common beginner setup error in the world. Always remember: Queen on her own color, King on the opposite.\n\n### Teaching Mistakes\n- ❌ **Teaching movement** — Do not tell them she moves \"like a Rook and a Bishop combined.\" They don't know what a Rook or Bishop is yet! Wait for the movement lesson."
+      },
+      {
+        "id": "LES-010-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-009#14#B1",
+        "parent_prompt_trace": "KB-009#14#B1",
+        "text": "- **Contrast with the King:** Hold the King and Queen side-by-side. Make your child verbally say \"Cross\" while pointing to the King, and \"Crown\" while pointing to the Queen.\n\n> **🧑‍🏫 Coach Tip:**\n> When setting up a real board, have your child place the Queens first, *before* the Kings. It is much easier for a child to match the Queen to her color, and then put the King in the leftover spot, than to try placing the King first."
+      },
+      {
+        "id": "LES-010-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-009#15#B1",
+        "parent_prompt_trace": "KB-009#15#B1",
+        "text": "**Q: Can you have more than one Queen?**\nA: Yes! Later you will learn a magic rule called \"Promotion\" where pawns can turn into extra Queens. But you always *start* with exactly one.\n\n**Q: Does the Queen always start on the d-file?**\nA: Yes. `d` stands for Queen! (Wait, no it doesn't, but in many languages it actually does! In French she is the *Dame*, in German the *Dame*)."
+      },
+      {
+        "id": "LES-010-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-009#16#B1",
+        "parent_prompt_trace": "KB-009#16#B1",
+        "text": "### 👑 The Fashion Check\nGive your child the White Queen and Black Queen. Ask them to set them both up on the board. Say, \"Are their outfits matching their shoes?\" Make sure White is on a light square and Black is on a dark square.\n\n### 🛑 Fix the Board\nPlace the White Queen on e1 (a dark square). Ask your child: \"Oh no, a fashion disaster! Her shoes don't match! Can you fix her?\""
+      },
+      {
+        "id": "LES-010-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge ⭐",
+        "source_trace": "KB-009#17#B1",
+        "parent_prompt_trace": "KB-009#17#B1",
+        "text": "### 🏆 The Royal Setup Race\n**Challenge your child:**\n> \"Let's see how fast you can set up BOTH the Kings and the Queens!\"\n\n**Rules:**\n1. Clear the board.\n2. Give the child the 2 Kings and 2 Queens.\n3. Time them! They must remember: Queen on her own color, King on the opposite color.\n4. If they get it right under 15 seconds, they win!"
+      },
+      {
+        "id": "LES-010-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-009#18#B1",
+        "parent_prompt_trace": "KB-009#18#B1",
+        "text": "### 🟢 Recognition (Easy)\nDoes the Queen have a cross on her head or a spiky crown?\n*Answer: A spiky crown.*\n\n### 🟡 Application (Medium)\nIf you have the Black Queen in your hand, should you place her on a light square or a dark square to start the game?\n*Answer: A dark square! (Queen on her own color).*\n\n### 🔴 Challenge (Hard)\n\nLook at this setup. Is the White Queen on the correct square?\n*Answer: Yes! The White Queen is on d1 (a light square). Fashion match!*",
+        "diagram_id": "DGM-009-04",
+        "diagram_url": "assets/DGM-009-04.svg",
+        "position_id": "POS-QUEEN-PUZZLE-001",
+        "position_version": 1,
+        "position_title": "Incorrect starting squares for Queens",
+        "diagram_alt": "Incorrect starting squares for Queens"
+      },
+      {
+        "id": "LES-010-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-009#19#B1",
+        "parent_prompt_trace": "KB-009#19#B1",
+        "text": "*(No specific external resources required for this micro-concept.)*"
+      },
+      {
+        "id": "LES-010-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-009#20#B1",
+        "parent_prompt_trace": "KB-009#20#B1",
+        "text": "### Prerequisites\n- **Squares** (TOP-005)\n- **Chess Pieces** (TOP-007)\n\n### Next Topics\n- **Queen Movement** (TOP-105) — How the Queen actually moves.\n- **Rook** (TOP-010) — Meeting the Castle Towers."
+      },
+      {
+        "id": "LES-010-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check ✅",
+        "source_trace": "KB-009#21#B1",
+        "parent_prompt_trace": "KB-009#21#B1",
+        "text": "- [ ] Do I understand the \"Queen on her own color\" rule?\n- [ ] Can my child tell the difference between the King and Queen?\n- [ ] Did my child practice placing the Queen on her matching color?\n- [ ] Did I successfully avoid teaching how she moves?\n\n**✅ If most answers are \"Yes\":** Congratulations — move on to the **Rook (TOP-010)**.\n**🔄 If several answers are \"No\":** Play the \"Royal Setup Race\" again.\n\n**Explicitly NOT covered in this lesson:**\n- How the Queen moves (straight and diagonal).\n- How the Queen captures.\n- Her massive value (9 points).\n*(These will be taught in later lessons to prevent cognitive overload).*"
+      }
+    ]
+  }
+}

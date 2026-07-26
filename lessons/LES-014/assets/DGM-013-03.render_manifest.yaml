@@ -1,0 +1,79 @@
+schema_version: 1
+diagram_id: DGM-013-03
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-PAWN-MIDGAME-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: BLACK
+    piece_type: KING
+    square: g8
+  - color: BLACK
+    piece_type: PAWN
+    square: a6
+  - color: BLACK
+    piece_type: PAWN
+    square: b5
+  - color: BLACK
+    piece_type: PAWN
+    square: d5
+  - color: BLACK
+    piece_type: PAWN
+    square: e6
+  - color: BLACK
+    piece_type: PAWN
+    square: f7
+  - color: BLACK
+    piece_type: PAWN
+    square: g7
+  - color: BLACK
+    piece_type: PAWN
+    square: h7
+  - color: BLACK
+    piece_type: ROOK
+    square: f8
+  - color: BLACK
+    piece_type: KNIGHT
+    square: f6
+  - color: WHITE
+    piece_type: KING
+    square: g1
+  - color: WHITE
+    piece_type: PAWN
+    square: a4
+  - color: WHITE
+    piece_type: PAWN
+    square: b3
+  - color: WHITE
+    piece_type: PAWN
+    square: c4
+  - color: WHITE
+    piece_type: PAWN
+    square: d4
+  - color: WHITE
+    piece_type: PAWN
+    square: f2
+  - color: WHITE
+    piece_type: PAWN
+    square: g2
+  - color: WHITE
+    piece_type: PAWN
+    square: h2
+  - color: WHITE
+    piece_type: ROOK
+    square: e1
+  - color: WHITE
+    piece_type: KNIGHT
+    square: c3
+position_sha256: cf44fad8e72b38b15fe12d9464fb0b50acf08dec6a85bced856a60ec79dd98fa
+presentation_sha256: 42d7551cbbc6eea26692a14586afbc3c1f7713ff749ea9f0805a56b1d3749dfc
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-013#12#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 1f3a4d2e3cb7a171df21d6388eb36133704202d16cf3792e84048be94bfa0cf3
+output_svg_sha256: 1f3a4d2e3cb7a171df21d6388eb36133704202d16cf3792e84048be94bfa0cf3

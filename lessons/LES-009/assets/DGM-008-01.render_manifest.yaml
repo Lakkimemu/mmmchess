@@ -1,0 +1,22 @@
+schema_version: 1
+diagram_id: DGM-008-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-KING-SHAPE-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: e4
+position_sha256: 23dcdbee31a307cccb5ebf80d9a2ffe530f351e908423cd05c1a56a1751373af
+presentation_sha256: 5edca466645ec2ab8c69537cdc6ec58c79012e4b670271adb7080d36619bfbf5
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-008#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 3f3262bf66829eeb3cdb86d9f6a3cfd6b8d3971f154a191851d0c38717190041
+output_svg_sha256: 3f3262bf66829eeb3cdb86d9f6a3cfd6b8d3971f154a191851d0c38717190041

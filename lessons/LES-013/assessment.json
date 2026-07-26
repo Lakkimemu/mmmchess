@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-013",
+  "assessment_id": "ASM-013",
+  "rubric": {
+    "criteria": "- [ ] Do I call it a Knight instead of a Horse?\n- [ ] Did my child practice calling it a Knight?\n- [ ] Can my child set up the entire back row (Rooks, Knights, Bishops, Queen, King)?\n- [ ] Did I successfully avoid teaching the L-shape today?",
+    "source_trace": "KB-012#21#B1"
+  },
+  "task_references": [
+    "PZL-013-01",
+    "PZL-013-02",
+    "PZL-013-03",
+    "PZL-013-04"
+  ]
+}

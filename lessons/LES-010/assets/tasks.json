@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-010",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-010-01",
+      "kb_id": "KB-009",
+      "lesson_id": "LES-010",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Does the Queen have a cross on her head or a spiky crown?",
+      "hint": "Think about royalty.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "A spiky crown."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-010.yaml",
+        "source_sha256": "17b9892975eda6a237ba7ed3574e83baa7ddbdb3a820cacb0e7d13cf5dde0090",
+        "field": "exercises",
+        "anchor": "EX-010-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-010-02",
+      "kb_id": "KB-009",
+      "lesson_id": "LES-010",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "If you have the Black Queen, what color square does she start on?",
+      "hint": "Queen on her own color.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "A dark square!"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-010.yaml",
+        "source_sha256": "17b9892975eda6a237ba7ed3574e83baa7ddbdb3a820cacb0e7d13cf5dde0090",
+        "field": "exercises",
+        "anchor": "EX-010-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-010-03",
+      "kb_id": "KB-009",
+      "lesson_id": "LES-010",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Is the White Queen on the correct square on d1?",
+      "hint": "It's a light square.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Yes!"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-010.yaml",
+        "source_sha256": "17b9892975eda6a237ba7ed3574e83baa7ddbdb3a820cacb0e7d13cf5dde0090",
+        "field": "exercises",
+        "anchor": "EX-010-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-010-04",
+      "kb_id": "KB-009",
+      "lesson_id": "LES-010",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Can you place the Kings first?",
+      "hint": "Coach tip.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No, place the Queens first, it's easier."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-010.yaml",
+        "source_sha256": "17b9892975eda6a237ba7ed3574e83baa7ddbdb3a820cacb0e7d13cf5dde0090",
+        "field": "exercises",
+        "anchor": "EX-010-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

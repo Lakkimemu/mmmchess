@@ -1,0 +1,61 @@
+schema_version: 1
+diagram_id: DGM-011-03
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-BISHOP-MIDGAME-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: BLACK
+    piece_type: KING
+    square: g8
+  - color: BLACK
+    piece_type: PAWN
+    square: f7
+  - color: BLACK
+    piece_type: PAWN
+    square: g7
+  - color: BLACK
+    piece_type: PAWN
+    square: h7
+  - color: BLACK
+    piece_type: ROOK
+    square: c8
+  - color: BLACK
+    piece_type: BISHOP
+    square: e7
+  - color: BLACK
+    piece_type: BISHOP
+    square: b6
+  - color: WHITE
+    piece_type: KING
+    square: g1
+  - color: WHITE
+    piece_type: PAWN
+    square: f2
+  - color: WHITE
+    piece_type: PAWN
+    square: g2
+  - color: WHITE
+    piece_type: PAWN
+    square: h2
+  - color: WHITE
+    piece_type: ROOK
+    square: c1
+  - color: WHITE
+    piece_type: BISHOP
+    square: d3
+  - color: WHITE
+    piece_type: BISHOP
+    square: g5
+position_sha256: 2e337bc755ea0338d9cee5dad5ca007e9ca5a71afa7886bd957f7a6c719042dc
+presentation_sha256: aad153b0989ae2208f537424e4c035949b1f46baa4cdc0db68347dd6638fafd9
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-011#12#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 4c3c83a917735fcac436f2699a8630e626dcb06f2ba0427004197aabc0eac532
+output_svg_sha256: 4c3c83a917735fcac436f2699a8630e626dcb06f2ba0427004197aabc0eac532

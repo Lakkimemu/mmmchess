@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-009",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-009-01",
+      "kb_id": "KB-008",
+      "lesson_id": "LES-009",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What is on top of the King's head?",
+      "hint": "Look at the very top.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "A cross!"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-009.yaml",
+        "source_sha256": "8feed0450b8dbcd4f8a0b6c9d03cd9c879f5e9c0549f5283a211c4210e727ad8",
+        "field": "exercises",
+        "anchor": "EX-009-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-009-02",
+      "kb_id": "KB-008",
+      "lesson_id": "LES-009",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What square does the White King start on?",
+      "hint": "Opposite shoes.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "e1"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-009.yaml",
+        "source_sha256": "8feed0450b8dbcd4f8a0b6c9d03cd9c879f5e9c0549f5283a211c4210e727ad8",
+        "field": "exercises",
+        "anchor": "EX-009-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-009-03",
+      "kb_id": "KB-008",
+      "lesson_id": "LES-009",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What square does the Black King start on?",
+      "hint": "Opposite shoes.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "e8"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-009.yaml",
+        "source_sha256": "8feed0450b8dbcd4f8a0b6c9d03cd9c879f5e9c0549f5283a211c4210e727ad8",
+        "field": "exercises",
+        "anchor": "EX-009-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-009-04",
+      "kb_id": "KB-008",
+      "lesson_id": "LES-009",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Who is the most important piece in chess?",
+      "hint": "The game is named after him.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The King!"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-009.yaml",
+        "source_sha256": "8feed0450b8dbcd4f8a0b6c9d03cd9c879f5e9c0549f5283a211c4210e727ad8",
+        "field": "exercises",
+        "anchor": "EX-009-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

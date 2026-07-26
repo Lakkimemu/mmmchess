@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-013",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-013-01",
+      "kb_id": "KB-012",
+      "lesson_id": "LES-013",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What is the proper name of the piece that looks like a horse?",
+      "hint": "Think of a horse.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Knight."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-013.yaml",
+        "source_sha256": "7748605d42b8e023291dde5ab07987ea8053e652370319a91574dc06e19a4a3f",
+        "field": "exercises",
+        "anchor": "EX-013-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-013-02",
+      "kb_id": "KB-012",
+      "lesson_id": "LES-013",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Where do the Knights start on the board?",
+      "hint": "They are kept in the stables next to the castle.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Between the Rooks and the Bishops."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-013.yaml",
+        "source_sha256": "7748605d42b8e023291dde5ab07987ea8053e652370319a91574dc06e19a4a3f",
+        "field": "exercises",
+        "anchor": "EX-013-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-013-03",
+      "kb_id": "KB-012",
+      "lesson_id": "LES-013",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What animal does the Knight look like?",
+      "hint": "Think of farm animals.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "A horse."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-013.yaml",
+        "source_sha256": "7748605d42b8e023291dde5ab07987ea8053e652370319a91574dc06e19a4a3f",
+        "field": "exercises",
+        "anchor": "EX-013-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-013-04",
+      "kb_id": "KB-012",
+      "lesson_id": "LES-013",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "How many Knights does each player have?",
+      "hint": "Count them.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Two."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-013.yaml",
+        "source_sha256": "7748605d42b8e023291dde5ab07987ea8053e652370319a91574dc06e19a4a3f",
+        "field": "exercises",
+        "anchor": "EX-013-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

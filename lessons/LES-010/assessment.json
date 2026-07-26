@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-010",
+  "assessment_id": "ASM-010",
+  "rubric": {
+    "criteria": "- [ ] Do I understand the \"Queen on her own color\" rule?\n- [ ] Can my child tell the difference between the King and Queen?\n- [ ] Did my child practice placing the Queen on her matching color?\n- [ ] Did I successfully avoid teaching how she moves?",
+    "source_trace": "KB-009#21#B1"
+  },
+  "task_references": [
+    "PZL-010-01",
+    "PZL-010-02",
+    "PZL-010-03",
+    "PZL-010-04"
+  ]
+}

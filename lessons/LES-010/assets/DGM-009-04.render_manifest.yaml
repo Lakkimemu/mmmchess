@@ -1,0 +1,25 @@
+schema_version: 1
+diagram_id: DGM-009-04
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-QUEEN-PUZZLE-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: QUEEN
+    square: e1
+  - color: BLACK
+    piece_type: QUEEN
+    square: e8
+position_sha256: fa60ceb7df15c4acea41fb22e5a05c0d70c572c9c852fa72b065e2f14e558e7f
+presentation_sha256: 66050787a5a3dd3e2c10b36a3965a802cb0f514287e71cf40b45f80bff54a000
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-009#18#B3
+review_status: APPROVED
+reviewed_artifact_sha256: 6c92c9ba070d977f0fe0c4df0b5d31999634cdd993dc2274c431662ee1f45955
+output_svg_sha256: 6c92c9ba070d977f0fe0c4df0b5d31999634cdd993dc2274c431662ee1f45955
