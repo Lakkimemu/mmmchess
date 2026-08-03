@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-016",
+  "assessment_id": "ASM-016",
+  "rubric": {
+    "criteria": "- [ ] Do I understand that the King only moves one square?\n- [ ] Do I understand that the King cannot step into an attacked square?\n- [ ] Do I understand that two Kings can never touch?\n- [ ] Did we complete the \"Minefield Game\" together?\n- [ ] Can my child explain why the King cannot step next to another King?",
+    "source_trace": "KB-104#21#B1"
+  },
+  "task_references": [
+    "PZL-016-01",
+    "PZL-016-02",
+    "PZL-016-03",
+    "PZL-016-04"
+  ]
+}

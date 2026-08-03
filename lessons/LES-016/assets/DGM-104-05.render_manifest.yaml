@@ -1,0 +1,28 @@
+schema_version: 1
+diagram_id: DGM-104-05
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-KING-MOVEMENT-005
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: g2
+  - color: BLACK
+    piece_type: PAWN
+    square: h3
+  - color: BLACK
+    piece_type: KING
+    square: h8
+position_sha256: b71eb68254774d8653f48e3a49e68d90380b97ed06c5c1827dffbefc198eb3cc
+presentation_sha256: ca9c2914137acc22f5ffa902d573a30c784ac1fac95edf430283aecdc20472dc
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-104#18#B2
+review_status: APPROVED
+reviewed_artifact_sha256: 8711f5c7f7ee1b24e53d1fd840adb15d4e5b7d9964e1ba69ffe3867ff5111d1e
+output_svg_sha256: 8711f5c7f7ee1b24e53d1fd840adb15d4e5b7d9964e1ba69ffe3867ff5111d1e

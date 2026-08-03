@@ -1,4 +1,4 @@
-lesson_id: LES-012
+lesson_id: LES-016
 schema_version: 1
 compiler_version: phase7.2
 inputs:
@@ -7,12 +7,12 @@ inputs:
   classroom/scripts/classroom.js: beaee8d4ef6a6e25d169c127f102f8bbe7781ba688cd57f63248927f92585459
   classroom/styles/classroom.css: a3d9ba74abbf054facd3e9a5afe06ea2065fd59ee4cc0928023fe40569404415
   classroom/templates/lesson_deck.html: 87e32f1dd131ee52fc77f1d89f09aceae106d8d7afd58fb4138a227f995ab5c8
-  curriculum/lesson_policies/LES-012.yaml: 3d3afed168e9c799152fc1f8c3e28ae54142153115e8e61602ff61b41328d086
-  curriculum/lessons/LES-012.yaml: 4648e18192b208e80d0a031d423fa52f09453f1903aaaa0a80677b9d195e0e54
+  curriculum/lesson_policies/LES-016.yaml: 01274da0a46ac2b1c32774f7317dfde320251874520f79c66ac5bc6de345ecbc
+  curriculum/lessons/LES-016.yaml: e529b83340a604c61137d151870f8488c624650d5005e09ab167a552a5d20af4
   curriculum/schemas/LESSON_POLICY_SCHEMA.yaml: c9085eb84aa6773eec93e726f98c0d01dff53cac338b60e1f86206f5d74339e2
   curriculum/schemas/LESSON_SOURCE_MAP_SCHEMA.yaml: d40068bb83e9acf0733e601e59ca0cbfc31b3879c16eeec82c3ffd9a43f0cee7
-  diagram/packages/KB-011/DIAGRAM_SPECIFICATION.yaml: e001d3a7844ccd41faa0fdcacf03e508e82caa6a5b516c8d9891db46b10da88f
-  knowledge_base/Chess_Fundamentals/KB-011_Bishop.md: 1d3e2775bb79e17c4ee208548ff623c3f024be78a6bc5b2fa3b610080d286817
+  diagram/packages/KB-104/DIAGRAM_SPECIFICATION.yaml: 80c8e9e47f976bbb2efde0985324afd50d263576169eceb34857dc8838c849b7
+  knowledge_base/Chess_Fundamentals/KB-104_King_Movement.md: 591fc43da524862e1f1e27a925403dfb358f5333e7a21e93dc2f10569718c56d
   lesson_packages/schemas/ASSESSMENT_PACKAGE_SCHEMA.yaml: 97b67877804ac2c5b282a77000cc35abaacb8dcfa8f83c6bdf1f906b23e4d1a8
   lesson_packages/schemas/LESSON_MANIFEST_SCHEMA.yaml: a32585ae2cf6c8a55a059eab2a776d6f1cb37d8bec22d9319706e657219c403c
   lesson_packages/schemas/LESSON_PACKAGE_SCHEMA.yaml: 7489bf29f60f97daaff632b60e0e050d7007ab06fabaf9c9ecf4c2e0002bd53d
@@ -25,8 +25,8 @@ inputs:
   pipeline/validate_learning_tasks.py: 0c4d2b1ebb784912f25d70b13d5564b34f923fb81c557b399d06576d5be42214
   pipeline/validate_lesson_package.py: 4fb10cca27fca19b4c800a14b25571d57cc2f2ec590600f6123a531d93b801b2
   pipeline/validate_position_registry.py: 3301db07a7a46af5dd06bd06fd34e57b68367dc5f219d71f1abaddedb4e81395
-  positions/presentations/KB-011.yaml: c010ce3d960988a1541dbb88a29b38bba0fab300f501864d3df0ac6752169c3f
-  positions/registry/bishop_positions.yaml: dd4e381557f19d80db8215b76eb1b66004acd17e0bc051dd97dacd672d4575fa
+  positions/presentations/KB-104.yaml: 52da63b993aa360bb11571668233b46e846c809a10a5b3acc7a66258614735ca
+  positions/registry/king_movement_positions.yaml: a0469641b7e48386210176fa95dd7de8dea994664a4d153a27616ed78c6e1ca0
   positions/schemas/POSITION_ENTRY_SCHEMA.yaml: 8a05ad140dd048ee962b895a8fbeee01886d145f557e579273260a476ba470f6
   positions/schemas/POSITION_PRESENTATION_SCHEMA.yaml: 368f27844f620912ec9fd90cd6a2489b185a5c5135497caeef109b3e1c0bc2dc
   puzzles/policies/FOUNDATION_TASK_POLICY.yaml: 0066d278aed3d77a77a57890c939fa1e4ad37f4593d8984741d2ca07d9c0b399
@@ -34,31 +34,37 @@ inputs:
   puzzles/schemas/LEARNING_TASK_SCHEMA.yaml: bb71adbd9fa3f5c6a8338c9acbfdf42028c15bfa1b20e2076a6f220a4eca462c
   puzzles/snapshots/LICHESS_PUZZLES_2026-07-05.selected.json: 6cdd41f3ae8fd5c114e18bbb0021a3151e3c778f888fe2d17c5741cc0d835070
 scoped_inputs:
-  curriculum/source_mapping/KB-011: 2eb6ace5b368eee1eb9cf5a411681b28290a5dc1236257aaf74d5989e4e0dda3
+  curriculum/source_mapping/KB-104: d9d5974ca22fd3449f50d1d548e17f06b0c00de2448dcba035f17658cb989667
 selected_ids:
-- DGM-011-01
-- DGM-011-02
-- DGM-011-03
-- DGM-011-04
-- KB-011
-- LES-012
-- TOP-011
+- DGM-104-01
+- DGM-104-02
+- DGM-104-03
+- DGM-104-04
+- DGM-104-05
+- DGM-104-06
+- KB-104
+- LES-016
+- TOP-104
 - UNT-001
 outputs:
-  assessment.json: 9d91e6235f754df3f39de3399b17eb4a443616e87d81c6c324c8686c633ba11d
-  assets/DGM-011-01.render_manifest.yaml: 9791a3f116881f35860aa1716416d0b7944029ff36184870ce85fef75793fc67
-  assets/DGM-011-01.svg: a0f6ad48176c218dbac963ad16c973f7acb0535c9042b67b01c7a199d07831f2
-  assets/DGM-011-02.render_manifest.yaml: 9fc4e7208d2180f537e3b35ebc839251d47379618628333f4dab514b000d7d53
-  assets/DGM-011-02.svg: 5c0cc764e088e900d537ab28fe2980068d9ed64504e2988d07e6c3d88972a411
-  assets/DGM-011-03.render_manifest.yaml: 8659782f8072c39897e32488c30fa4c947983c8e89c14fe5b7692d6216dd3cd1
-  assets/DGM-011-03.svg: 4c3c83a917735fcac436f2699a8630e626dcb06f2ba0427004197aabc0eac532
-  assets/DGM-011-04.render_manifest.yaml: 26be2d435c6c51ab129025002e23b4ec84579f6cb370e37ca796628c3338fa8c
-  assets/DGM-011-04.svg: 9f5337fc579af688764d1f78fa10f4d079bd8a834df99af5d0b2f2b89d08b617
+  assessment.json: fab4a4d50bce736189225e05a2ce3013c252f1bba2c0f80470beebd8daa2a426
+  assets/DGM-104-01.render_manifest.yaml: 8e522b6b2d80b5f140a9d14c455a20196642d2b228dda9b5a4ce16be174ab1fb
+  assets/DGM-104-01.svg: 5c5936b6a4a16ef9adc3b0d19cda3a5eee90f8f2e03c11ab0111d2fc16960cf1
+  assets/DGM-104-02.render_manifest.yaml: fa501dc01209f62a8907ec72b7ecff23a230c3d0386249aaeaa127d79f65c6b5
+  assets/DGM-104-02.svg: 5ed545ccfd61322b39faf785642aa6e90dfec7c59aae8328e36a8e85e6881d3b
+  assets/DGM-104-03.render_manifest.yaml: 4c14afb640966c145f921aa80f27816e7aff5b6cb0410995f0027e20f2f166a4
+  assets/DGM-104-03.svg: fc967fbdef9bab86b0a1f73a00e4c1c9fbdea27f7af7d628c84de737125b8074
+  assets/DGM-104-04.render_manifest.yaml: da4ec30f4411d50263ec36606d1754e8c2e2fca9dc9e9d9804470c9bd39cc479
+  assets/DGM-104-04.svg: b0984a9d38333021a2226092a31f09ca718b1548f963340c3c709f3b9989cc8e
+  assets/DGM-104-05.render_manifest.yaml: b42517599d5143da34e0f368dd054018983dc23058681a49870c23deeededf0b
+  assets/DGM-104-05.svg: 8711f5c7f7ee1b24e53d1fd840adb15d4e5b7d9964e1ba69ffe3867ff5111d1e
+  assets/DGM-104-06.render_manifest.yaml: bce8e42dd9af9b07bae5cf9eefbdf78332289ef597279d15fa4a864b37b54893
+  assets/DGM-104-06.svg: a5d1e7d765d33496ddcb50c23c7aa56e6c3a924322eadfcb0e36335c4de6bf3a
   assets/classroom.css: a3d9ba74abbf054facd3e9a5afe06ea2065fd59ee4cc0928023fe40569404415
   assets/classroom.js: beaee8d4ef6a6e25d169c127f102f8bbe7781ba688cd57f63248927f92585459
   assets/detective.svg: 3b430b0568ac44111a65894a4676f33d8318079c448fa80cc101302ba74607a4
-  assets/tasks.json: 6a25706ea6e620f8c2725f97bf378c4561b4b81d56d215834c15a2b8bebaf4b0
-  index.html: 3cc90100218afcf1c60f835b7f9442c0ef3e9f5f753feb37d33fd453b5fa6696
-  lesson.json: 3b05f3439d53563e12ce75e2d7cbb38b0f67ab9525055edab41da2ce88122b6e
-build_id: e5b772cfe17c5c1ef0bfec3cc8310b13d230db5d913a4e5a1b1580ed9ccb2772
+  assets/tasks.json: 6e68230c61167c8cf0dac81137884b48025ba460428aace5d3bc159235f013ca
+  index.html: 29f99937317501ca5330438c8f609d1487e7641db68ef28b06c8e3b543becf30
+  lesson.json: cebf72699a1a0036b7d7dead09e74dabaef0dfd13ae06fe8742820183282f20c
+build_id: a432d525da15792bdcbb0285765075f4af8d95920aed54151616c2f49d796577
 validation_decision: VALID

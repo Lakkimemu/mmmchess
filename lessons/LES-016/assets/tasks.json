@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-016",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-016-01",
+      "kb_id": "KB-104",
+      "lesson_id": "LES-016",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Show the basic movement pattern for the King.",
+      "hint": "One careful step, always safe.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Moves the King exactly one square in any direction."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-016.yaml",
+        "source_sha256": "e529b83340a604c61137d151870f8488c624650d5005e09ab167a552a5d20af4",
+        "field": "exercises",
+        "anchor": "EX-016-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-016-02",
+      "kb_id": "KB-104",
+      "lesson_id": "LES-016",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Demonstrate a legal capture.",
+      "hint": "Capture only according to the movement rule.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Captures an unprotected adjacent enemy piece."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-016.yaml",
+        "source_sha256": "e529b83340a604c61137d151870f8488c624650d5005e09ab167a552a5d20af4",
+        "field": "exercises",
+        "anchor": "EX-016-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-016-03",
+      "kb_id": "KB-104",
+      "lesson_id": "LES-016",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Identify an illegal move in the challenge position.",
+      "hint": "Check the path and landing square.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Refuses moves onto enemy-attacked squares."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-016.yaml",
+        "source_sha256": "e529b83340a604c61137d151870f8488c624650d5005e09ab167a552a5d20af4",
+        "field": "exercises",
+        "anchor": "EX-016-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-016-04",
+      "kb_id": "KB-104",
+      "lesson_id": "LES-016",
+      "task_type": "EXPLAIN_POSITION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Explain the movement rule in your own words.",
+      "hint": "The King takes one careful step and never steps into danger.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "One careful step, always safe."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-016.yaml",
+        "source_sha256": "e529b83340a604c61137d151870f8488c624650d5005e09ab167a552a5d20af4",
+        "field": "exercises",
+        "anchor": "EX-016-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}
