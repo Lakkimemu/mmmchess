@@ -19,7 +19,7 @@ inputs:
   diagram/rendered/KB-004/DGM-004-03.svg: 8df449cbe03cec9a6be38f4fe5fb3d68387842da5e50f842c2d0dd3ab34c1f46
   diagram/rendered/KB-004/DGM-004-04.render_manifest.yaml: aafe1332048fd9492956f16913d6ee3e661e29a9e45f56e85b97a57357e98260
   diagram/rendered/KB-004/DGM-004-04.svg: 92fcf82ae57ae5a808ffe29df9123829bd0512a60974687a12785a1b5e6c4b60
-  knowledge_base/Chess_Fundamentals/KB-004_Ranks.md: ad521d05f9ce70c9868843d1dca214c66e74a28594489a9b3e8f1ae7e40dea72
+  knowledge_base/Chess_Fundamentals/KB-004_Ranks.md: 3ac9bce90c84f3370c5fcfb53aab36adce1047f97c009fd788f559855cfbcd28
   lesson_packages/schemas/ASSESSMENT_PACKAGE_SCHEMA.yaml: 97b67877804ac2c5b282a77000cc35abaacb8dcfa8f83c6bdf1f906b23e4d1a8
   lesson_packages/schemas/LESSON_MANIFEST_SCHEMA.yaml: a32585ae2cf6c8a55a059eab2a776d6f1cb37d8bec22d9319706e657219c403c
   lesson_packages/schemas/LESSON_PACKAGE_SCHEMA.yaml: 7489bf29f60f97daaff632b60e0e050d7007ab06fabaf9c9ecf4c2e0002bd53d
@@ -96,5 +96,5 @@ outputs:
   assets/tasks.json: 2e49f32a31a310545a0e6e5c49fc784167c9a86acfeb2cce2e2ee7d760ae0e3e
   index.html: 5ff14296e7f1c353b8d88c05fd1ba7ffa11db2bff2a927f07d60006473609ff9
   lesson.json: 3a9208b5a5399fdd4464798605369731fac5007d415f51f74df661a4b3b655c8
-build_id: 7a0559d0d777e4a11958ef209f25e139c3dae15a90cbe7fee6bf22d616eca84e
+build_id: 26dd5c32fb87844d73667171d98c0535ee2a99007a18219d29791bfdc3b8215b
 validation_decision: VALID
