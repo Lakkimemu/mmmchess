@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-021",
+  "assessment_id": "ASM-021",
+  "rubric": {
+    "criteria": "- [ ] Do I understand the pawn's two-square option on the first move?\n- [ ] Do I understand that pawns move straight, but capture diagonally?\n- [ ] Do I understand that pawns can never move backward?\n- [ ] Did we play the \"Pawn Wars\" mini-game?\n- [ ] Can my child explain why a pawn cannot capture straight ahead?",
+    "source_trace": "KB-109#21#B1"
+  },
+  "task_references": [
+    "PZL-021-01",
+    "PZL-021-02",
+    "PZL-021-03",
+    "PZL-021-04"
+  ]
+}

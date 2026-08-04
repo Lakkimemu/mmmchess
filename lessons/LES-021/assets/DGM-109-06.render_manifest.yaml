@@ -1,0 +1,34 @@
+schema_version: 1
+diagram_id: DGM-109-06
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-PAWN-MOVEMENT-006
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: PAWN
+    square: c4
+  - color: BLACK
+    piece_type: ROOK
+    square: c5
+  - color: BLACK
+    piece_type: BISHOP
+    square: d5
+  - color: WHITE
+    piece_type: KING
+    square: a1
+  - color: BLACK
+    piece_type: KING
+    square: h8
+position_sha256: 97e52f8e2585114d289e6e08616812b664eac2a779a35544ead5cd79422a9364
+presentation_sha256: c99dc83d7538974f45bc16580182dbccb55839e0a80527a7dbb1673f2f3cdf11
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-109#18#B3
+review_status: APPROVED
+reviewed_artifact_sha256: d10c54f11cbe55ef673a5f8a621c15adff9cbc16b57855e25452406788111349
+output_svg_sha256: d10c54f11cbe55ef673a5f8a621c15adff9cbc16b57855e25452406788111349

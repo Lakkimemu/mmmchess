@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-021",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-021-01",
+      "kb_id": "KB-109",
+      "lesson_id": "LES-021",
+      "task_type": "PLACE_PIECE",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Move a pawn one square forward.",
+      "hint": "March behind the shield.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "One unobstructed square straight ahead."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-021.yaml",
+        "source_sha256": "d527f058d024927926ffb6cdfe5cc1b2766bcb103e6f2cdcfe819f771bf8dd91",
+        "field": "exercises",
+        "anchor": "EX-021-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-021-02",
+      "kb_id": "KB-109",
+      "lesson_id": "LES-021",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Demonstrate when a pawn may move two squares.",
+      "hint": "The sprint is a first-move choice.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Only from its starting rank when both squares are clear."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-021.yaml",
+        "source_sha256": "d527f058d024927926ffb6cdfe5cc1b2766bcb103e6f2cdcfe819f771bf8dd91",
+        "field": "exercises",
+        "anchor": "EX-021-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-021-03",
+      "kb_id": "KB-109",
+      "lesson_id": "LES-021",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Capture with a pawn.",
+      "hint": "The sword points diagonally.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "One square diagonally forward onto an enemy piece."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-021.yaml",
+        "source_sha256": "d527f058d024927926ffb6cdfe5cc1b2766bcb103e6f2cdcfe819f771bf8dd91",
+        "field": "exercises",
+        "anchor": "EX-021-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-021-04",
+      "kb_id": "KB-109",
+      "lesson_id": "LES-021",
+      "task_type": "EXPLAIN_POSITION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Explain why a blocked pawn cannot capture straight ahead.",
+      "hint": "March straight; capture sideways.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Pawns move straight only into empty squares and capture diagonally."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-021.yaml",
+        "source_sha256": "d527f058d024927926ffb6cdfe5cc1b2766bcb103e6f2cdcfe819f771bf8dd91",
+        "field": "exercises",
+        "anchor": "EX-021-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

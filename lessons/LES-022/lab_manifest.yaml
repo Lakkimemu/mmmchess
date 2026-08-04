@@ -1,0 +1,20 @@
+schema_version: 1
+lab_id: LAB-MOVEMENT-001
+lesson_id: LES-022
+compiler_version: puzzle-lab-1
+inputs:
+  classroom/scripts/puzzle_lab.js: 817576a57bfe317011fef3746067406e82750983241d7b72a024811f70c8f03d
+  classroom/styles/puzzle_lab.css: 633cec901de2524d2057433120621284cfb7391f56954eaaa0042c9f763da0f1
+  classroom/templates/puzzle_lab.html: 9c77a6dab6aa828d3d58f87fd0a30fc66bcab051c95eb58578798c14f1213af3
+  curriculum/CURRICULUM_INDEX.yaml: f07c4bc0ca7a4e0a0a541b4172dc504ace31e607db37230116858a9cfc1fd5cf
+  pipeline/puzzle_lab.py: 87011515c241fdbe1a74b18c8ae21306b148dbc925b1b1a311e90cbf88761649
+  puzzles/policies/labs/LAB-MOVEMENT-001.yaml: 19a5b7c0447d4ecd3309a5b8cc27f7be0166b08595deca748cc07987ff4b770f
+  puzzles/reviews/LAB-MOVEMENT-001.yaml: d3ac6f645fdbbe80a3ffc56af1ae4efb940429b96247a8156a04bdf093f1ce8a
+  puzzles/snapshots/LAB-MOVEMENT-001.selected.json: 4799a8729da21af64c946edc0e8b9804066cc1666c8683f86d6313c4660d5858
+outputs:
+  assets/puzzle_lab.css: 633cec901de2524d2057433120621284cfb7391f56954eaaa0042c9f763da0f1
+  assets/puzzle_lab.js: 817576a57bfe317011fef3746067406e82750983241d7b72a024811f70c8f03d
+  index.html: 491f56928ef8e3440e3c2d19fd6740cc4203ded68071084e72f9a3375ca55d4d
+  lab.json: cd66cb086226c7382c4f89989dc00bfb69e61439ced53c12fa0cd6137881aaa4
+build_id: 07a81b22a5cb5bb9456a219013b99e9d7ced8328b5ce255424f6009599b410d1
+validation_decision: VALID
