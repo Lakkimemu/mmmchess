@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-017",
+  "assessment_id": "ASM-017",
+  "rubric": {
+    "criteria": "- [ ] Do I understand that the Queen moves on ranks, files, and diagonals?\n- [ ] Do I understand that the Queen cannot jump over pieces?\n- [ ] Do I understand that the Queen cannot capture and keep moving on the same turn?\n- [ ] Did we complete the \"Star Grabber\" activity?\n- [ ] Can my child trace the Queen's path with their finger?",
+    "source_trace": "KB-105#21#B1"
+  },
+  "task_references": [
+    "PZL-017-01",
+    "PZL-017-02",
+    "PZL-017-03",
+    "PZL-017-04"
+  ]
+}

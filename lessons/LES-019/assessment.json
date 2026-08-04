@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-019",
+  "assessment_id": "ASM-019",
+  "rubric": {
+    "criteria": "- [ ] Do I understand that Bishops only move diagonally?\n- [ ] Do I understand the concept of color-bound pieces?\n- [ ] Did we practice the \"Color Test Game\"?\n- [ ] Can my child successfully perform a \"Color check\" after moving?",
+    "source_trace": "KB-107#21#B1"
+  },
+  "task_references": [
+    "PZL-019-01",
+    "PZL-019-02",
+    "PZL-019-03",
+    "PZL-019-04"
+  ]
+}

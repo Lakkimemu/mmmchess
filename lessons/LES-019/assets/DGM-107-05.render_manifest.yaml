@@ -1,0 +1,34 @@
+schema_version: 1
+diagram_id: DGM-107-05
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-BISHOP-MOVEMENT-005
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: BISHOP
+    square: d3
+  - color: BLACK
+    piece_type: KNIGHT
+    square: h7
+  - color: BLACK
+    piece_type: PAWN
+    square: e4
+  - color: WHITE
+    piece_type: KING
+    square: a1
+  - color: BLACK
+    piece_type: KING
+    square: h8
+position_sha256: e90a4278d62c7ae53f6e3e59a66dc266963cd7573f0106dfa5b4ae805657c9e5
+presentation_sha256: 6cfe0d3fc5791df9b84b9e4cc365de489041c39008172677583711da9e45f127
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-107#18#B2
+review_status: APPROVED
+reviewed_artifact_sha256: c86ef4315fcd84a84eee476b68b32efc03140706e8f1fe155601fc855859a37b
+output_svg_sha256: c86ef4315fcd84a84eee476b68b32efc03140706e8f1fe155601fc855859a37b

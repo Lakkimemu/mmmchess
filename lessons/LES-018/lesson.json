@@ -1,0 +1,1260 @@
+{
+  "lesson_id": "LES-018",
+  "kb_id": "KB-106",
+  "topic_id": "TOP-106",
+  "unit_id": "UNT-001",
+  "sequence": 18,
+  "objective": "**🎯 Today's Goal:**\nYour child will be able to slide the Rook correctly up, down, left, and right (along files and ranks) and capture enemy pieces in straight lines.",
+  "success_criteria": "**✅ Lesson Success Criteria:**\n- The child moves the Rook across the board only in straight horizontal and vertical lines.\n- The child correctly captures an enemy piece with the Rook.\n- The child remembers that the Rook cannot move diagonally.",
+  "source_traces": {
+    "objective": "KB-106#1#B2",
+    "success_criteria": "KB-106#1#B3"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-106#1",
+      "content": "- **Topic**: Rook Movement\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: TOP-105 Queen Movement, TOP-010 Rook Recognition\n\n**🎯 Today's Goal:**\nYour child will be able to slide the Rook correctly up, down, left, and right (along files and ranks) and capture enemy pieces in straight lines.\n\n**✅ Lesson Success Criteria:**\n- The child moves the Rook across the board only in straight horizontal and vertical lines.\n- The child correctly captures an enemy piece with the Rook.\n- The child remembers that the Rook cannot move diagonally.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-106#2",
+      "content": "The Rook is a powerful, straight-line mover. It can move any number of empty squares vertically (along a file) or horizontally (along a rank). It captures by sliding along its path and taking the place of an enemy piece. Like the Queen, it cannot jump over other pieces, and it cannot turn a corner during a single move."
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-106#3",
+      "content": "The Rook is the second most powerful piece in the game (after the Queen). Mastering the Rook introduces children to the power of controlling straight lines. Rooks are essential in the late game for trapping the enemy King."
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-106#4",
+      "content": "- **Requires:** TOP-010 (Rook Recognition), TOP-105 (Queen Movement)\n- **Unlocks:** TOP-107 (Bishop Movement), TOP-022 (Castling)"
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-106#5",
+      "content": "If you just taught Queen movement, the Rook is very easy: it is exactly like the Queen, but **no diagonals allowed**. \nIt moves in a plus-sign (+) pattern. It can travel as far as it wants along open ranks and files, stopping when it reaches the edge of the board, a friendly piece, or an enemy piece (which it captures)."
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-106#6",
+      "content": "1. **The Straight Roads:** Place the White Rook in the center of an empty board. Say, \"The Rook is a heavy castle tower. It rolls on big wheels, but only on straight roads! It goes up, down, left, and right.\"\n2. **The \"Plus Sign\" Trace:** Ask your child to use their finger to draw a giant plus sign (+) starting from the Rook, tracing all the way to the edges of the board.\n3. **The No-Diagonal Rule:** Point to a diagonal square and ask, \"Can the castle roll this way?\" Emphasize that Rooks never drive diagonally.\n4. **The Capture:** Place a Black piece on the same file as the Rook. Have the child roll the Rook forward, knock the Black piece over, and take its square.\n5. **The Block:** Place a White piece in front of the Rook. Show that the Rook must stop and cannot jump over its friends."
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-106#7",
+      "content": "**The Rolling Castle Tower:** \nImagine the Rook is a giant stone castle tower on wheels. Because it is so heavy, it can only roll straight down the big roads (files) or straight across the side roads (ranks). If it tries to drive zig-zag or diagonally, the heavy wheels will get stuck in the mud!"
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know? 🎓",
+      "source_trace": "KB-106#8",
+      "content": "The word \"Rook\" comes from the ancient Persian word \"Rukh,\" which meant chariot! That's why it's so good at driving fast in straight lines across the battlefield."
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-106#9",
+      "content": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)\n*The Rook moves in straight lines forming a giant plus sign (+).*"
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-106#10",
+      "content": "The Rook slides horizontally or vertically. It cannot change direction in the middle of a move. To capture, it slides into the enemy piece's square and replaces it. It cannot jump over any pieces."
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-106#11",
+      "content": "![DGM-106-02: A White Rook sliding horizontally to capture a Black Bishop.](../../assets/diagrams/TOP-106/DGM-106-02.svg)\n*The Rook rolls straight across the rank to capture the enemy piece.*"
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-106#12",
+      "content": "![DGM-106-03: Two Rooks lined up on the same file, controlling a powerful straight line together.](../../assets/diagrams/TOP-106/DGM-106-03.svg)\n*In real games, Rooks love open files (lines with no pawns) where they can roll all the way across the board.*"
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-106#13",
+      "content": "- **Diagonals:** The most common mistake is a child forgetting and sliding the Rook diagonally, especially if they just learned the Queen.\n- **Jumping:** Trying to hop over their own pawns to get into the action.\n\n> **🧑‍🏫 Coach Tip:**\n> If they move diagonally, say \"Uh oh! The heavy wheels got stuck in the mud! Rooks only drive straight!\" Keep corrections light and narrative-focused."
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-106#14",
+      "content": "Since this follows Queen movement, this lesson is usually very fast. You are essentially teaching a restriction (what the piece *cannot* do) rather than a new mechanic. Focus the practice time on making sure they don't accidentally slip into diagonal Queen moves.\n\n> **🧑‍🏫 Coach Tip:**\n> When setting up practice activities, deliberately place pieces on diagonals near the Rook to test if the child can resist the temptation to capture them illegally!"
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-106#15",
+      "content": "**Q: My child wants to know about Castling. Do I teach it now?**\nA: Not yet! Castling is a special move involving the King and the Rook jumping. We must learn how all the pieces move normally before we learn special magic tricks like Castling.\n\n**Q: Which piece is better, the Rook or the Queen?**\nA: The Queen is better because she can move diagonally, but Rooks are incredibly strong when working together!"
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-106#16",
+      "content": "**The Bowling Game:**\nSet up 5 or 6 Black pawns scattered on the board. Place the White Rook in the corner (`a1`). Tell your child the Rook is a bowling ball. They get to \"bowl\" (move) the Rook to capture one pawn per turn. See how many turns it takes them to knock down all the pins (pawns). Remind them: straight lines only, no curves, no diagonals!"
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge ⭐",
+      "source_trace": "KB-106#17",
+      "content": "**The Diagonal Temptation Trap:**\nPlace the White Rook on `d4`. Place a piece of candy on `d8` (a legal straight-line move). Place an even bigger piece of candy on `h8` (an illegal diagonal move). Tell your child they can capture a candy with the Rook. Watch to see if they follow the rules (taking the smaller candy legally) or break the rules (sliding diagonally for the big candy). If they grab the `d8` candy legally, reward them with both!"
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-106#18",
+      "content": "### 🟢 Recognition (Easy)\n![DGM-106-04: White Rook on e4. Highlight a straight path and a diagonal path.](../../assets/diagrams/TOP-106/DGM-106-04.svg)\n**Question:** Which path is the Rook allowed to take? The straight plus-sign path, or the diagonal X-path?\n**Answer:** The straight plus-sign path. Rooks never move diagonally!\n\n### 🟡 Application (Medium)\n![DGM-106-05: White Rook on b2. Black Knight on b7. Black Bishop on g7.](../../assets/diagrams/TOP-106/DGM-106-05.svg)\n**Question:** Which enemy piece can the White Rook capture right now?\n**Answer:** The Black Knight on b7 (straight up the file). It cannot capture the Bishop on g7 because that is a diagonal.\n\n### 🔴 Challenge (Hard)\n![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)\n**Question:** The Rook wants to get to h8. Can it go straight to a8 and then across to h8?\n**Answer:** No! The White pawn on a5 is blocking the straight road. The Rook will have to find a different path (like moving to h1 first, then up to h8)."
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-106#19",
+      "content": "- **Lichess Practice:** [The Pieces - Rook](https://lichess.org/learn#/1) (Interactive drills for kids)."
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-106#20",
+      "content": "- **Prerequisites:** TOP-105 Queen Movement, TOP-010 Rook (Recognition)\n- **Next Steps:** TOP-107 Bishop Movement"
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check ✅",
+      "source_trace": "KB-106#21",
+      "content": "- [ ] Do I understand that the Rook moves only on ranks and files?\n- [ ] Do I understand that the Rook cannot jump?\n- [ ] Did we play the \"Bowling Game\"?\n- [ ] Did my child successfully pass the \"Diagonal Temptation Trap\"?\n\n---\n\n```yaml\nkb_quality:\n  reviewed: true\n  diagrams: 6\n  mini_puzzles: 3\n  external_resources: 1\n  coach_challenges: 1\n  practice_activities: 1\n  coach_tips: 2\n  parent_faq: 2\n  estimated_read_time: 10 min\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-018-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-106#1#B1",
+      "parent_prompt_trace": "KB-106#1#B1",
+      "text": "- **Topic**: Rook Movement\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: TOP-105 Queen Movement, TOP-010 Rook Recognition\n\n**🎯 Today's Goal:**\nYour child will be able to slide the Rook correctly up, down, left, and right (along files and ranks) and capture enemy pieces in straight lines.\n\n**✅ Lesson Success Criteria:**\n- The child moves the Rook across the board only in straight horizontal and vertical lines.\n- The child correctly captures an enemy piece with the Rook.\n- The child remembers that the Rook cannot move diagonally.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "id": "LES-018-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-106#2#B1",
+      "parent_prompt_trace": "KB-106#2#B1",
+      "text": "The Rook is a powerful, straight-line mover. It can move any number of empty squares vertically (along a file) or horizontally (along a rank). It captures by sliding along its path and taking the place of an enemy piece. Like the Queen, it cannot jump over other pieces, and it cannot turn a corner during a single move."
+    },
+    {
+      "id": "LES-018-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-106#3#B1",
+      "parent_prompt_trace": "KB-106#3#B1",
+      "text": "The Rook is the second most powerful piece in the game (after the Queen). Mastering the Rook introduces children to the power of controlling straight lines. Rooks are essential in the late game for trapping the enemy King."
+    },
+    {
+      "id": "LES-018-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-106#4#B1",
+      "parent_prompt_trace": "KB-106#4#B1",
+      "text": "- **Requires:** TOP-010 (Rook Recognition), TOP-105 (Queen Movement)\n- **Unlocks:** TOP-107 (Bishop Movement), TOP-022 (Castling)"
+    },
+    {
+      "id": "LES-018-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-106#5#B1",
+      "parent_prompt_trace": "KB-106#5#B1",
+      "text": "If you just taught Queen movement, the Rook is very easy: it is exactly like the Queen, but **no diagonals allowed**. \nIt moves in a plus-sign (+) pattern. It can travel as far as it wants along open ranks and files, stopping when it reaches the edge of the board, a friendly piece, or an enemy piece (which it captures)."
+    },
+    {
+      "id": "LES-018-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-106#6#B1",
+      "parent_prompt_trace": "KB-106#6#B1",
+      "text": "1. **The Straight Roads:** Place the White Rook in the center of an empty board. Say, \"The Rook is a heavy castle tower. It rolls on big wheels, but only on straight roads! It goes up, down, left, and right.\"\n2. **The \"Plus Sign\" Trace:** Ask your child to use their finger to draw a giant plus sign (+) starting from the Rook, tracing all the way to the edges of the board.\n3. **The No-Diagonal Rule:** Point to a diagonal square and ask, \"Can the castle roll this way?\" Emphasize that Rooks never drive diagonally.\n4. **The Capture:** Place a Black piece on the same file as the Rook. Have the child roll the Rook forward, knock the Black piece over, and take its square.\n5. **The Block:** Place a White piece in front of the Rook. Show that the Rook must stop and cannot jump over its friends."
+    },
+    {
+      "id": "LES-018-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-106#7#B1",
+      "parent_prompt_trace": "KB-106#7#B1",
+      "text": "**The Rolling Castle Tower:** \nImagine the Rook is a giant stone castle tower on wheels. Because it is so heavy, it can only roll straight down the big roads (files) or straight across the side roads (ranks). If it tries to drive zig-zag or diagonally, the heavy wheels will get stuck in the mud!"
+    },
+    {
+      "id": "LES-018-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-106#8#B1",
+      "parent_prompt_trace": "KB-106#8#B1",
+      "text": "The word \"Rook\" comes from the ancient Persian word \"Rukh,\" which meant chariot! That's why it's so good at driving fast in straight lines across the battlefield."
+    },
+    {
+      "id": "LES-018-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-106#9#B1",
+      "parent_prompt_trace": "KB-106#9#B1",
+      "text": "*The Rook moves in straight lines forming a giant plus sign (+).*",
+      "diagram_id": "DGM-106-01",
+      "diagram_url": "assets/DGM-106-01.svg",
+      "position_id": "POS-ROOK-MOVEMENT-001",
+      "position_version": 1,
+      "position_title": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)",
+      "diagram_alt": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)"
+    },
+    {
+      "id": "LES-018-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-106#10#B1",
+      "parent_prompt_trace": "KB-106#10#B1",
+      "text": "The Rook slides horizontally or vertically. It cannot change direction in the middle of a move. To capture, it slides into the enemy piece's square and replaces it. It cannot jump over any pieces."
+    },
+    {
+      "id": "LES-018-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-106#11#B1",
+      "parent_prompt_trace": "KB-106#11#B1",
+      "text": "*The Rook rolls straight across the rank to capture the enemy piece.*",
+      "diagram_id": "DGM-106-02",
+      "diagram_url": "assets/DGM-106-02.svg",
+      "position_id": "POS-ROOK-MOVEMENT-002",
+      "position_version": 1,
+      "position_title": "![DGM-106-02: A White Rook sliding horizontally to capture a Black Bishop.](../../assets/diagrams/TOP-106/DGM-106-02.svg)",
+      "diagram_alt": "![DGM-106-02: A White Rook sliding horizontally to capture a Black Bishop.](../../assets/diagrams/TOP-106/DGM-106-02.svg)"
+    },
+    {
+      "id": "LES-018-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-106#12#B1",
+      "parent_prompt_trace": "KB-106#12#B1",
+      "text": "*In real games, Rooks love open files (lines with no pawns) where they can roll all the way across the board.*",
+      "diagram_id": "DGM-106-03",
+      "diagram_url": "assets/DGM-106-03.svg",
+      "position_id": "POS-ROOK-MOVEMENT-003",
+      "position_version": 1,
+      "position_title": "![DGM-106-03: Two Rooks lined up on the same file, controlling a powerful straight line together.](../../assets/diagrams/TOP-106/DGM-106-03.svg)",
+      "diagram_alt": "![DGM-106-03: Two Rooks lined up on the same file, controlling a powerful straight line together.](../../assets/diagrams/TOP-106/DGM-106-03.svg)"
+    },
+    {
+      "id": "LES-018-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-106#13#B1",
+      "parent_prompt_trace": "KB-106#13#B1",
+      "text": "- **Diagonals:** The most common mistake is a child forgetting and sliding the Rook diagonally, especially if they just learned the Queen.\n- **Jumping:** Trying to hop over their own pawns to get into the action.\n\n> **🧑‍🏫 Coach Tip:**\n> If they move diagonally, say \"Uh oh! The heavy wheels got stuck in the mud! Rooks only drive straight!\" Keep corrections light and narrative-focused."
+    },
+    {
+      "id": "LES-018-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-106#14#B1",
+      "parent_prompt_trace": "KB-106#14#B1",
+      "text": "Since this follows Queen movement, this lesson is usually very fast. You are essentially teaching a restriction (what the piece *cannot* do) rather than a new mechanic. Focus the practice time on making sure they don't accidentally slip into diagonal Queen moves.\n\n> **🧑‍🏫 Coach Tip:**\n> When setting up practice activities, deliberately place pieces on diagonals near the Rook to test if the child can resist the temptation to capture them illegally!"
+    },
+    {
+      "id": "LES-018-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-106#15#B1",
+      "parent_prompt_trace": "KB-106#15#B1",
+      "text": "**Q: My child wants to know about Castling. Do I teach it now?**\nA: Not yet! Castling is a special move involving the King and the Rook jumping. We must learn how all the pieces move normally before we learn special magic tricks like Castling.\n\n**Q: Which piece is better, the Rook or the Queen?**\nA: The Queen is better because she can move diagonally, but Rooks are incredibly strong when working together!"
+    },
+    {
+      "id": "LES-018-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-106#16#B1",
+      "parent_prompt_trace": "KB-106#16#B1",
+      "text": "**The Bowling Game:**\nSet up 5 or 6 Black pawns scattered on the board. Place the White Rook in the corner (`a1`). Tell your child the Rook is a bowling ball. They get to \"bowl\" (move) the Rook to capture one pawn per turn. See how many turns it takes them to knock down all the pins (pawns). Remind them: straight lines only, no curves, no diagonals!"
+    },
+    {
+      "id": "LES-018-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-106#17#B1",
+      "parent_prompt_trace": "KB-106#17#B1",
+      "text": "**The Diagonal Temptation Trap:**\nPlace the White Rook on `d4`. Place a piece of candy on `d8` (a legal straight-line move). Place an even bigger piece of candy on `h8` (an illegal diagonal move). Tell your child they can capture a candy with the Rook. Watch to see if they follow the rules (taking the smaller candy legally) or break the rules (sliding diagonally for the big candy). If they grab the `d8` candy legally, reward them with both!"
+    },
+    {
+      "id": "LES-018-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-106#18#B1",
+      "parent_prompt_trace": "KB-106#18#B1",
+      "text": "### 🟢 Recognition (Easy)\n\n**Question:** Which path is the Rook allowed to take? The straight plus-sign path, or the diagonal X-path?\n**Answer:** The straight plus-sign path. Rooks never move diagonally!\n\n### 🟡 Application (Medium)\n\n**Question:** Which enemy piece can the White Rook capture right now?\n**Answer:** The Black Knight on b7 (straight up the file). It cannot capture the Bishop on g7 because that is a diagonal.\n\n### 🔴 Challenge (Hard)\n\n**Question:** The Rook wants to get to h8. Can it go straight to a8 and then across to h8?\n**Answer:** No! The White pawn on a5 is blocking the straight road. The Rook will have to find a different path (like moving to h1 first, then up to h8).",
+      "diagram_id": "DGM-106-06",
+      "diagram_url": "assets/DGM-106-06.svg",
+      "position_id": "POS-ROOK-MOVEMENT-006",
+      "position_version": 1,
+      "position_title": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)",
+      "diagram_alt": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)"
+    },
+    {
+      "id": "LES-018-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-106#19#B1",
+      "parent_prompt_trace": "KB-106#19#B1",
+      "text": "- **Lichess Practice:** [The Pieces - Rook](https://lichess.org/learn#/1) (Interactive drills for kids)."
+    },
+    {
+      "id": "LES-018-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-106#20#B1",
+      "parent_prompt_trace": "KB-106#20#B1",
+      "text": "- **Prerequisites:** TOP-105 Queen Movement, TOP-010 Rook (Recognition)\n- **Next Steps:** TOP-107 Bishop Movement"
+    },
+    {
+      "id": "LES-018-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-106#21#B1",
+      "parent_prompt_trace": "KB-106#21#B1",
+      "text": "- [ ] Do I understand that the Rook moves only on ranks and files?\n- [ ] Do I understand that the Rook cannot jump?\n- [ ] Did we play the \"Bowling Game\"?\n- [ ] Did my child successfully pass the \"Diagonal Temptation Trap\"?"
+    }
+  ],
+  "task_references": [
+    "PZL-018-01",
+    "PZL-018-02",
+    "PZL-018-03",
+    "PZL-018-04"
+  ],
+  "diagram_references": [
+    "DGM-106-01",
+    "DGM-106-02",
+    "DGM-106-03",
+    "DGM-106-04",
+    "DGM-106-05",
+    "DGM-106-06"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-018",
+  "deferred_topics": [],
+  "teach_slides": [
+    {
+      "id": "LES-018-S01",
+      "type": "INTRO",
+      "title": "Rook Movement",
+      "text": "The Rook travels on straight roads: up, down, left, and right.",
+      "parent_prompt": "Introduce rook movement.",
+      "diagram_id": "DGM-106-01",
+      "diagram_url": "assets/DGM-106-01.svg",
+      "visual": {
+        "diagram_id": "DGM-106-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ROOK-MOVEMENT-001",
+      "position_version": 1,
+      "position_title": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)",
+      "diagram_alt": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)"
+    },
+    {
+      "id": "LES-018-S02",
+      "type": "DIAGRAM",
+      "title": "Basic movement",
+      "text": "Use the board to explore rook movement.",
+      "parent_prompt": "Guide the basic movement.",
+      "diagram_id": "DGM-106-01",
+      "diagram_url": "assets/DGM-106-01.svg",
+      "visual": {
+        "diagram_id": "DGM-106-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ROOK-MOVEMENT-001",
+      "position_version": 1,
+      "position_title": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)",
+      "diagram_alt": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)"
+    },
+    {
+      "id": "LES-018-S03",
+      "type": "DIAGRAM",
+      "title": "Capture",
+      "text": "Use the board to explore rook movement.",
+      "parent_prompt": "Guide the capture.",
+      "diagram_id": "DGM-106-02",
+      "diagram_url": "assets/DGM-106-02.svg",
+      "visual": {
+        "diagram_id": "DGM-106-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ROOK-MOVEMENT-002",
+      "position_version": 1,
+      "position_title": "![DGM-106-02: A White Rook sliding horizontally to capture a Black Bishop.](../../assets/diagrams/TOP-106/DGM-106-02.svg)",
+      "diagram_alt": "![DGM-106-02: A White Rook sliding horizontally to capture a Black Bishop.](../../assets/diagrams/TOP-106/DGM-106-02.svg)"
+    },
+    {
+      "id": "LES-018-S04",
+      "type": "DIAGRAM",
+      "title": "Real-game pattern",
+      "text": "Use the board to explore rook movement.",
+      "parent_prompt": "Guide the real-game pattern.",
+      "diagram_id": "DGM-106-03",
+      "diagram_url": "assets/DGM-106-03.svg",
+      "visual": {
+        "diagram_id": "DGM-106-03",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ROOK-MOVEMENT-003",
+      "position_version": 1,
+      "position_title": "![DGM-106-03: Two Rooks lined up on the same file, controlling a powerful straight line together.](../../assets/diagrams/TOP-106/DGM-106-03.svg)",
+      "diagram_alt": "![DGM-106-03: Two Rooks lined up on the same file, controlling a powerful straight line together.](../../assets/diagrams/TOP-106/DGM-106-03.svg)"
+    },
+    {
+      "id": "LES-018-S05",
+      "type": "QUESTION",
+      "title": "Recognition check",
+      "text": "Use the board to explore rook movement.",
+      "parent_prompt": "Guide the recognition check.",
+      "diagram_id": "DGM-106-04",
+      "diagram_url": "assets/DGM-106-04.svg",
+      "visual": {
+        "diagram_id": "DGM-106-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ROOK-MOVEMENT-004",
+      "position_version": 1,
+      "position_title": "![DGM-106-04: White Rook on e4. Highlight a straight path and a diagonal path.](../../assets/diagrams/TOP-106/DGM-106-04.svg)",
+      "diagram_alt": "![DGM-106-04: White Rook on e4. Highlight a straight path and a diagonal path.](../../assets/diagrams/TOP-106/DGM-106-04.svg)"
+    },
+    {
+      "id": "LES-018-S06",
+      "type": "QUESTION",
+      "title": "Find the clear line",
+      "text": "Decide which piece the Rook can reach.",
+      "parent_prompt": "Guide the clear-line check.",
+      "diagram_id": "DGM-106-05",
+      "diagram_url": "assets/DGM-106-05.svg",
+      "visual": {
+        "diagram_id": "DGM-106-05",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ROOK-MOVEMENT-005",
+      "position_version": 1,
+      "position_title": "![DGM-106-05: White Rook on b2. Black Knight on b7. Black Bishop on g7.](../../assets/diagrams/TOP-106/DGM-106-05.svg)",
+      "diagram_alt": "![DGM-106-05: White Rook on b2. Black Knight on b7. Black Bishop on g7.](../../assets/diagrams/TOP-106/DGM-106-05.svg)"
+    },
+    {
+      "id": "LES-018-S07",
+      "type": "QUESTION",
+      "title": "Plan the route",
+      "text": "Decide how the Rook can reach the target.",
+      "parent_prompt": "Guide the route check.",
+      "diagram_id": "DGM-106-06",
+      "diagram_url": "assets/DGM-106-06.svg",
+      "visual": {
+        "diagram_id": "DGM-106-06",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ROOK-MOVEMENT-006",
+      "position_version": 1,
+      "position_title": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)",
+      "diagram_alt": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)"
+    },
+    {
+      "id": "LES-018-S08",
+      "type": "ASSESSMENT",
+      "title": "Check your progress",
+      "text": "Show that you understand rook movement.",
+      "parent_prompt": "Check each success criterion with the board.",
+      "diagram_id": "DGM-106-06",
+      "diagram_url": "assets/DGM-106-06.svg",
+      "visual": {
+        "diagram_id": "DGM-106-06",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ROOK-MOVEMENT-006",
+      "position_version": 1,
+      "position_title": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)",
+      "diagram_alt": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-018-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-106#1#B1",
+      "parent_prompt_trace": "KB-106#1#B1",
+      "text": "- **Topic**: Rook Movement\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: TOP-105 Queen Movement, TOP-010 Rook Recognition\n\n**🎯 Today's Goal:**\nYour child will be able to slide the Rook correctly up, down, left, and right (along files and ranks) and capture enemy pieces in straight lines.\n\n**✅ Lesson Success Criteria:**\n- The child moves the Rook across the board only in straight horizontal and vertical lines.\n- The child correctly captures an enemy piece with the Rook.\n- The child remembers that the Rook cannot move diagonally.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "id": "LES-018-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-106#2#B1",
+      "parent_prompt_trace": "KB-106#2#B1",
+      "text": "The Rook is a powerful, straight-line mover. It can move any number of empty squares vertically (along a file) or horizontally (along a rank). It captures by sliding along its path and taking the place of an enemy piece. Like the Queen, it cannot jump over other pieces, and it cannot turn a corner during a single move."
+    },
+    {
+      "id": "LES-018-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-106#3#B1",
+      "parent_prompt_trace": "KB-106#3#B1",
+      "text": "The Rook is the second most powerful piece in the game (after the Queen). Mastering the Rook introduces children to the power of controlling straight lines. Rooks are essential in the late game for trapping the enemy King."
+    },
+    {
+      "id": "LES-018-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-106#4#B1",
+      "parent_prompt_trace": "KB-106#4#B1",
+      "text": "- **Requires:** TOP-010 (Rook Recognition), TOP-105 (Queen Movement)\n- **Unlocks:** TOP-107 (Bishop Movement), TOP-022 (Castling)"
+    },
+    {
+      "id": "LES-018-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-106#5#B1",
+      "parent_prompt_trace": "KB-106#5#B1",
+      "text": "If you just taught Queen movement, the Rook is very easy: it is exactly like the Queen, but **no diagonals allowed**. \nIt moves in a plus-sign (+) pattern. It can travel as far as it wants along open ranks and files, stopping when it reaches the edge of the board, a friendly piece, or an enemy piece (which it captures)."
+    },
+    {
+      "id": "LES-018-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-106#6#B1",
+      "parent_prompt_trace": "KB-106#6#B1",
+      "text": "1. **The Straight Roads:** Place the White Rook in the center of an empty board. Say, \"The Rook is a heavy castle tower. It rolls on big wheels, but only on straight roads! It goes up, down, left, and right.\"\n2. **The \"Plus Sign\" Trace:** Ask your child to use their finger to draw a giant plus sign (+) starting from the Rook, tracing all the way to the edges of the board.\n3. **The No-Diagonal Rule:** Point to a diagonal square and ask, \"Can the castle roll this way?\" Emphasize that Rooks never drive diagonally.\n4. **The Capture:** Place a Black piece on the same file as the Rook. Have the child roll the Rook forward, knock the Black piece over, and take its square.\n5. **The Block:** Place a White piece in front of the Rook. Show that the Rook must stop and cannot jump over its friends."
+    },
+    {
+      "id": "LES-018-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-106#7#B1",
+      "parent_prompt_trace": "KB-106#7#B1",
+      "text": "**The Rolling Castle Tower:** \nImagine the Rook is a giant stone castle tower on wheels. Because it is so heavy, it can only roll straight down the big roads (files) or straight across the side roads (ranks). If it tries to drive zig-zag or diagonally, the heavy wheels will get stuck in the mud!"
+    },
+    {
+      "id": "LES-018-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-106#8#B1",
+      "parent_prompt_trace": "KB-106#8#B1",
+      "text": "The word \"Rook\" comes from the ancient Persian word \"Rukh,\" which meant chariot! That's why it's so good at driving fast in straight lines across the battlefield."
+    },
+    {
+      "id": "LES-018-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-106#9#B1",
+      "parent_prompt_trace": "KB-106#9#B1",
+      "text": "*The Rook moves in straight lines forming a giant plus sign (+).*",
+      "diagram_id": "DGM-106-01",
+      "diagram_url": "assets/DGM-106-01.svg",
+      "position_id": "POS-ROOK-MOVEMENT-001",
+      "position_version": 1,
+      "position_title": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)",
+      "diagram_alt": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)"
+    },
+    {
+      "id": "LES-018-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-106#10#B1",
+      "parent_prompt_trace": "KB-106#10#B1",
+      "text": "The Rook slides horizontally or vertically. It cannot change direction in the middle of a move. To capture, it slides into the enemy piece's square and replaces it. It cannot jump over any pieces."
+    },
+    {
+      "id": "LES-018-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-106#11#B1",
+      "parent_prompt_trace": "KB-106#11#B1",
+      "text": "*The Rook rolls straight across the rank to capture the enemy piece.*",
+      "diagram_id": "DGM-106-02",
+      "diagram_url": "assets/DGM-106-02.svg",
+      "position_id": "POS-ROOK-MOVEMENT-002",
+      "position_version": 1,
+      "position_title": "![DGM-106-02: A White Rook sliding horizontally to capture a Black Bishop.](../../assets/diagrams/TOP-106/DGM-106-02.svg)",
+      "diagram_alt": "![DGM-106-02: A White Rook sliding horizontally to capture a Black Bishop.](../../assets/diagrams/TOP-106/DGM-106-02.svg)"
+    },
+    {
+      "id": "LES-018-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-106#12#B1",
+      "parent_prompt_trace": "KB-106#12#B1",
+      "text": "*In real games, Rooks love open files (lines with no pawns) where they can roll all the way across the board.*",
+      "diagram_id": "DGM-106-03",
+      "diagram_url": "assets/DGM-106-03.svg",
+      "position_id": "POS-ROOK-MOVEMENT-003",
+      "position_version": 1,
+      "position_title": "![DGM-106-03: Two Rooks lined up on the same file, controlling a powerful straight line together.](../../assets/diagrams/TOP-106/DGM-106-03.svg)",
+      "diagram_alt": "![DGM-106-03: Two Rooks lined up on the same file, controlling a powerful straight line together.](../../assets/diagrams/TOP-106/DGM-106-03.svg)"
+    },
+    {
+      "id": "LES-018-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-106#13#B1",
+      "parent_prompt_trace": "KB-106#13#B1",
+      "text": "- **Diagonals:** The most common mistake is a child forgetting and sliding the Rook diagonally, especially if they just learned the Queen.\n- **Jumping:** Trying to hop over their own pawns to get into the action.\n\n> **🧑‍🏫 Coach Tip:**\n> If they move diagonally, say \"Uh oh! The heavy wheels got stuck in the mud! Rooks only drive straight!\" Keep corrections light and narrative-focused."
+    },
+    {
+      "id": "LES-018-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-106#14#B1",
+      "parent_prompt_trace": "KB-106#14#B1",
+      "text": "Since this follows Queen movement, this lesson is usually very fast. You are essentially teaching a restriction (what the piece *cannot* do) rather than a new mechanic. Focus the practice time on making sure they don't accidentally slip into diagonal Queen moves.\n\n> **🧑‍🏫 Coach Tip:**\n> When setting up practice activities, deliberately place pieces on diagonals near the Rook to test if the child can resist the temptation to capture them illegally!"
+    },
+    {
+      "id": "LES-018-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-106#15#B1",
+      "parent_prompt_trace": "KB-106#15#B1",
+      "text": "**Q: My child wants to know about Castling. Do I teach it now?**\nA: Not yet! Castling is a special move involving the King and the Rook jumping. We must learn how all the pieces move normally before we learn special magic tricks like Castling.\n\n**Q: Which piece is better, the Rook or the Queen?**\nA: The Queen is better because she can move diagonally, but Rooks are incredibly strong when working together!"
+    },
+    {
+      "id": "LES-018-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-106#16#B1",
+      "parent_prompt_trace": "KB-106#16#B1",
+      "text": "**The Bowling Game:**\nSet up 5 or 6 Black pawns scattered on the board. Place the White Rook in the corner (`a1`). Tell your child the Rook is a bowling ball. They get to \"bowl\" (move) the Rook to capture one pawn per turn. See how many turns it takes them to knock down all the pins (pawns). Remind them: straight lines only, no curves, no diagonals!"
+    },
+    {
+      "id": "LES-018-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-106#17#B1",
+      "parent_prompt_trace": "KB-106#17#B1",
+      "text": "**The Diagonal Temptation Trap:**\nPlace the White Rook on `d4`. Place a piece of candy on `d8` (a legal straight-line move). Place an even bigger piece of candy on `h8` (an illegal diagonal move). Tell your child they can capture a candy with the Rook. Watch to see if they follow the rules (taking the smaller candy legally) or break the rules (sliding diagonally for the big candy). If they grab the `d8` candy legally, reward them with both!"
+    },
+    {
+      "id": "LES-018-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-106#18#B1",
+      "parent_prompt_trace": "KB-106#18#B1",
+      "text": "### 🟢 Recognition (Easy)\n\n**Question:** Which path is the Rook allowed to take? The straight plus-sign path, or the diagonal X-path?\n**Answer:** The straight plus-sign path. Rooks never move diagonally!\n\n### 🟡 Application (Medium)\n\n**Question:** Which enemy piece can the White Rook capture right now?\n**Answer:** The Black Knight on b7 (straight up the file). It cannot capture the Bishop on g7 because that is a diagonal.\n\n### 🔴 Challenge (Hard)\n\n**Question:** The Rook wants to get to h8. Can it go straight to a8 and then across to h8?\n**Answer:** No! The White pawn on a5 is blocking the straight road. The Rook will have to find a different path (like moving to h1 first, then up to h8).",
+      "diagram_id": "DGM-106-06",
+      "diagram_url": "assets/DGM-106-06.svg",
+      "position_id": "POS-ROOK-MOVEMENT-006",
+      "position_version": 1,
+      "position_title": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)",
+      "diagram_alt": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)"
+    },
+    {
+      "id": "LES-018-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-106#19#B1",
+      "parent_prompt_trace": "KB-106#19#B1",
+      "text": "- **Lichess Practice:** [The Pieces - Rook](https://lichess.org/learn#/1) (Interactive drills for kids)."
+    },
+    {
+      "id": "LES-018-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-106#20#B1",
+      "parent_prompt_trace": "KB-106#20#B1",
+      "text": "- **Prerequisites:** TOP-105 Queen Movement, TOP-010 Rook (Recognition)\n- **Next Steps:** TOP-107 Bishop Movement"
+    },
+    {
+      "id": "LES-018-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-106#21#B1",
+      "parent_prompt_trace": "KB-106#21#B1",
+      "text": "- [ ] Do I understand that the Rook moves only on ranks and files?\n- [ ] Do I understand that the Rook cannot jump?\n- [ ] Did we play the \"Bowling Game\"?\n- [ ] Did my child successfully pass the \"Diagonal Temptation Trap\"?"
+    }
+  ],
+  "title": "Rook Movement",
+  "duration_minutes": 15,
+  "memory_phrase": "Straight roads only.",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 15,
+    "slides": [
+      {
+        "id": "LES-018-S01",
+        "type": "INTRO",
+        "title": "Rook Movement",
+        "text": "The Rook travels on straight roads: up, down, left, and right.",
+        "parent_prompt": "Introduce rook movement.",
+        "diagram_id": "DGM-106-01",
+        "diagram_url": "assets/DGM-106-01.svg",
+        "visual": {
+          "diagram_id": "DGM-106-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ROOK-MOVEMENT-001",
+        "position_version": 1,
+        "position_title": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)",
+        "diagram_alt": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)"
+      },
+      {
+        "id": "LES-018-S02",
+        "type": "DIAGRAM",
+        "title": "Basic movement",
+        "text": "Use the board to explore rook movement.",
+        "parent_prompt": "Guide the basic movement.",
+        "diagram_id": "DGM-106-01",
+        "diagram_url": "assets/DGM-106-01.svg",
+        "visual": {
+          "diagram_id": "DGM-106-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ROOK-MOVEMENT-001",
+        "position_version": 1,
+        "position_title": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)",
+        "diagram_alt": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)"
+      },
+      {
+        "id": "LES-018-S03",
+        "type": "DIAGRAM",
+        "title": "Capture",
+        "text": "Use the board to explore rook movement.",
+        "parent_prompt": "Guide the capture.",
+        "diagram_id": "DGM-106-02",
+        "diagram_url": "assets/DGM-106-02.svg",
+        "visual": {
+          "diagram_id": "DGM-106-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ROOK-MOVEMENT-002",
+        "position_version": 1,
+        "position_title": "![DGM-106-02: A White Rook sliding horizontally to capture a Black Bishop.](../../assets/diagrams/TOP-106/DGM-106-02.svg)",
+        "diagram_alt": "![DGM-106-02: A White Rook sliding horizontally to capture a Black Bishop.](../../assets/diagrams/TOP-106/DGM-106-02.svg)"
+      },
+      {
+        "id": "LES-018-S04",
+        "type": "DIAGRAM",
+        "title": "Real-game pattern",
+        "text": "Use the board to explore rook movement.",
+        "parent_prompt": "Guide the real-game pattern.",
+        "diagram_id": "DGM-106-03",
+        "diagram_url": "assets/DGM-106-03.svg",
+        "visual": {
+          "diagram_id": "DGM-106-03",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ROOK-MOVEMENT-003",
+        "position_version": 1,
+        "position_title": "![DGM-106-03: Two Rooks lined up on the same file, controlling a powerful straight line together.](../../assets/diagrams/TOP-106/DGM-106-03.svg)",
+        "diagram_alt": "![DGM-106-03: Two Rooks lined up on the same file, controlling a powerful straight line together.](../../assets/diagrams/TOP-106/DGM-106-03.svg)"
+      },
+      {
+        "id": "LES-018-S05",
+        "type": "QUESTION",
+        "title": "Recognition check",
+        "text": "Use the board to explore rook movement.",
+        "parent_prompt": "Guide the recognition check.",
+        "diagram_id": "DGM-106-04",
+        "diagram_url": "assets/DGM-106-04.svg",
+        "visual": {
+          "diagram_id": "DGM-106-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ROOK-MOVEMENT-004",
+        "position_version": 1,
+        "position_title": "![DGM-106-04: White Rook on e4. Highlight a straight path and a diagonal path.](../../assets/diagrams/TOP-106/DGM-106-04.svg)",
+        "diagram_alt": "![DGM-106-04: White Rook on e4. Highlight a straight path and a diagonal path.](../../assets/diagrams/TOP-106/DGM-106-04.svg)"
+      },
+      {
+        "id": "LES-018-S06",
+        "type": "QUESTION",
+        "title": "Find the clear line",
+        "text": "Decide which piece the Rook can reach.",
+        "parent_prompt": "Guide the clear-line check.",
+        "diagram_id": "DGM-106-05",
+        "diagram_url": "assets/DGM-106-05.svg",
+        "visual": {
+          "diagram_id": "DGM-106-05",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ROOK-MOVEMENT-005",
+        "position_version": 1,
+        "position_title": "![DGM-106-05: White Rook on b2. Black Knight on b7. Black Bishop on g7.](../../assets/diagrams/TOP-106/DGM-106-05.svg)",
+        "diagram_alt": "![DGM-106-05: White Rook on b2. Black Knight on b7. Black Bishop on g7.](../../assets/diagrams/TOP-106/DGM-106-05.svg)"
+      },
+      {
+        "id": "LES-018-S07",
+        "type": "QUESTION",
+        "title": "Plan the route",
+        "text": "Decide how the Rook can reach the target.",
+        "parent_prompt": "Guide the route check.",
+        "diagram_id": "DGM-106-06",
+        "diagram_url": "assets/DGM-106-06.svg",
+        "visual": {
+          "diagram_id": "DGM-106-06",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ROOK-MOVEMENT-006",
+        "position_version": 1,
+        "position_title": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)",
+        "diagram_alt": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)"
+      },
+      {
+        "id": "LES-018-S08",
+        "type": "ASSESSMENT",
+        "title": "Check your progress",
+        "text": "Show that you understand rook movement.",
+        "parent_prompt": "Check each success criterion with the board.",
+        "diagram_id": "DGM-106-06",
+        "diagram_url": "assets/DGM-106-06.svg",
+        "visual": {
+          "diagram_id": "DGM-106-06",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ROOK-MOVEMENT-006",
+        "position_version": 1,
+        "position_title": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)",
+        "diagram_alt": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-018-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-106#1#B1",
+        "parent_prompt_trace": "KB-106#1#B1",
+        "text": "- **Topic**: Rook Movement\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 10 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: TOP-105 Queen Movement, TOP-010 Rook Recognition\n\n**🎯 Today's Goal:**\nYour child will be able to slide the Rook correctly up, down, left, and right (along files and ranks) and capture enemy pieces in straight lines.\n\n**✅ Lesson Success Criteria:**\n- The child moves the Rook across the board only in straight horizontal and vertical lines.\n- The child correctly captures an enemy piece with the Rook.\n- The child remembers that the Rook cannot move diagonally.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+      },
+      {
+        "id": "LES-018-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-106#2#B1",
+        "parent_prompt_trace": "KB-106#2#B1",
+        "text": "The Rook is a powerful, straight-line mover. It can move any number of empty squares vertically (along a file) or horizontally (along a rank). It captures by sliding along its path and taking the place of an enemy piece. Like the Queen, it cannot jump over other pieces, and it cannot turn a corner during a single move."
+      },
+      {
+        "id": "LES-018-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-106#3#B1",
+        "parent_prompt_trace": "KB-106#3#B1",
+        "text": "The Rook is the second most powerful piece in the game (after the Queen). Mastering the Rook introduces children to the power of controlling straight lines. Rooks are essential in the late game for trapping the enemy King."
+      },
+      {
+        "id": "LES-018-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-106#4#B1",
+        "parent_prompt_trace": "KB-106#4#B1",
+        "text": "- **Requires:** TOP-010 (Rook Recognition), TOP-105 (Queen Movement)\n- **Unlocks:** TOP-107 (Bishop Movement), TOP-022 (Castling)"
+      },
+      {
+        "id": "LES-018-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-106#5#B1",
+        "parent_prompt_trace": "KB-106#5#B1",
+        "text": "If you just taught Queen movement, the Rook is very easy: it is exactly like the Queen, but **no diagonals allowed**. \nIt moves in a plus-sign (+) pattern. It can travel as far as it wants along open ranks and files, stopping when it reaches the edge of the board, a friendly piece, or an enemy piece (which it captures)."
+      },
+      {
+        "id": "LES-018-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-106#6#B1",
+        "parent_prompt_trace": "KB-106#6#B1",
+        "text": "1. **The Straight Roads:** Place the White Rook in the center of an empty board. Say, \"The Rook is a heavy castle tower. It rolls on big wheels, but only on straight roads! It goes up, down, left, and right.\"\n2. **The \"Plus Sign\" Trace:** Ask your child to use their finger to draw a giant plus sign (+) starting from the Rook, tracing all the way to the edges of the board.\n3. **The No-Diagonal Rule:** Point to a diagonal square and ask, \"Can the castle roll this way?\" Emphasize that Rooks never drive diagonally.\n4. **The Capture:** Place a Black piece on the same file as the Rook. Have the child roll the Rook forward, knock the Black piece over, and take its square.\n5. **The Block:** Place a White piece in front of the Rook. Show that the Rook must stop and cannot jump over its friends."
+      },
+      {
+        "id": "LES-018-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-106#7#B1",
+        "parent_prompt_trace": "KB-106#7#B1",
+        "text": "**The Rolling Castle Tower:** \nImagine the Rook is a giant stone castle tower on wheels. Because it is so heavy, it can only roll straight down the big roads (files) or straight across the side roads (ranks). If it tries to drive zig-zag or diagonally, the heavy wheels will get stuck in the mud!"
+      },
+      {
+        "id": "LES-018-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know? 🎓",
+        "source_trace": "KB-106#8#B1",
+        "parent_prompt_trace": "KB-106#8#B1",
+        "text": "The word \"Rook\" comes from the ancient Persian word \"Rukh,\" which meant chariot! That's why it's so good at driving fast in straight lines across the battlefield."
+      },
+      {
+        "id": "LES-018-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-106#9#B1",
+        "parent_prompt_trace": "KB-106#9#B1",
+        "text": "*The Rook moves in straight lines forming a giant plus sign (+).*",
+        "diagram_id": "DGM-106-01",
+        "diagram_url": "assets/DGM-106-01.svg",
+        "position_id": "POS-ROOK-MOVEMENT-001",
+        "position_version": 1,
+        "position_title": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)",
+        "diagram_alt": "![DGM-106-01: A White Rook in the center of the board with green arrows pointing up, down, left, and right, forming a plus sign.](../../assets/diagrams/TOP-106/DGM-106-01.svg)"
+      },
+      {
+        "id": "LES-018-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-106#10#B1",
+        "parent_prompt_trace": "KB-106#10#B1",
+        "text": "The Rook slides horizontally or vertically. It cannot change direction in the middle of a move. To capture, it slides into the enemy piece's square and replaces it. It cannot jump over any pieces."
+      },
+      {
+        "id": "LES-018-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-106#11#B1",
+        "parent_prompt_trace": "KB-106#11#B1",
+        "text": "*The Rook rolls straight across the rank to capture the enemy piece.*",
+        "diagram_id": "DGM-106-02",
+        "diagram_url": "assets/DGM-106-02.svg",
+        "position_id": "POS-ROOK-MOVEMENT-002",
+        "position_version": 1,
+        "position_title": "![DGM-106-02: A White Rook sliding horizontally to capture a Black Bishop.](../../assets/diagrams/TOP-106/DGM-106-02.svg)",
+        "diagram_alt": "![DGM-106-02: A White Rook sliding horizontally to capture a Black Bishop.](../../assets/diagrams/TOP-106/DGM-106-02.svg)"
+      },
+      {
+        "id": "LES-018-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-106#12#B1",
+        "parent_prompt_trace": "KB-106#12#B1",
+        "text": "*In real games, Rooks love open files (lines with no pawns) where they can roll all the way across the board.*",
+        "diagram_id": "DGM-106-03",
+        "diagram_url": "assets/DGM-106-03.svg",
+        "position_id": "POS-ROOK-MOVEMENT-003",
+        "position_version": 1,
+        "position_title": "![DGM-106-03: Two Rooks lined up on the same file, controlling a powerful straight line together.](../../assets/diagrams/TOP-106/DGM-106-03.svg)",
+        "diagram_alt": "![DGM-106-03: Two Rooks lined up on the same file, controlling a powerful straight line together.](../../assets/diagrams/TOP-106/DGM-106-03.svg)"
+      },
+      {
+        "id": "LES-018-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-106#13#B1",
+        "parent_prompt_trace": "KB-106#13#B1",
+        "text": "- **Diagonals:** The most common mistake is a child forgetting and sliding the Rook diagonally, especially if they just learned the Queen.\n- **Jumping:** Trying to hop over their own pawns to get into the action.\n\n> **🧑‍🏫 Coach Tip:**\n> If they move diagonally, say \"Uh oh! The heavy wheels got stuck in the mud! Rooks only drive straight!\" Keep corrections light and narrative-focused."
+      },
+      {
+        "id": "LES-018-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-106#14#B1",
+        "parent_prompt_trace": "KB-106#14#B1",
+        "text": "Since this follows Queen movement, this lesson is usually very fast. You are essentially teaching a restriction (what the piece *cannot* do) rather than a new mechanic. Focus the practice time on making sure they don't accidentally slip into diagonal Queen moves.\n\n> **🧑‍🏫 Coach Tip:**\n> When setting up practice activities, deliberately place pieces on diagonals near the Rook to test if the child can resist the temptation to capture them illegally!"
+      },
+      {
+        "id": "LES-018-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-106#15#B1",
+        "parent_prompt_trace": "KB-106#15#B1",
+        "text": "**Q: My child wants to know about Castling. Do I teach it now?**\nA: Not yet! Castling is a special move involving the King and the Rook jumping. We must learn how all the pieces move normally before we learn special magic tricks like Castling.\n\n**Q: Which piece is better, the Rook or the Queen?**\nA: The Queen is better because she can move diagonally, but Rooks are incredibly strong when working together!"
+      },
+      {
+        "id": "LES-018-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-106#16#B1",
+        "parent_prompt_trace": "KB-106#16#B1",
+        "text": "**The Bowling Game:**\nSet up 5 or 6 Black pawns scattered on the board. Place the White Rook in the corner (`a1`). Tell your child the Rook is a bowling ball. They get to \"bowl\" (move) the Rook to capture one pawn per turn. See how many turns it takes them to knock down all the pins (pawns). Remind them: straight lines only, no curves, no diagonals!"
+      },
+      {
+        "id": "LES-018-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge ⭐",
+        "source_trace": "KB-106#17#B1",
+        "parent_prompt_trace": "KB-106#17#B1",
+        "text": "**The Diagonal Temptation Trap:**\nPlace the White Rook on `d4`. Place a piece of candy on `d8` (a legal straight-line move). Place an even bigger piece of candy on `h8` (an illegal diagonal move). Tell your child they can capture a candy with the Rook. Watch to see if they follow the rules (taking the smaller candy legally) or break the rules (sliding diagonally for the big candy). If they grab the `d8` candy legally, reward them with both!"
+      },
+      {
+        "id": "LES-018-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-106#18#B1",
+        "parent_prompt_trace": "KB-106#18#B1",
+        "text": "### 🟢 Recognition (Easy)\n\n**Question:** Which path is the Rook allowed to take? The straight plus-sign path, or the diagonal X-path?\n**Answer:** The straight plus-sign path. Rooks never move diagonally!\n\n### 🟡 Application (Medium)\n\n**Question:** Which enemy piece can the White Rook capture right now?\n**Answer:** The Black Knight on b7 (straight up the file). It cannot capture the Bishop on g7 because that is a diagonal.\n\n### 🔴 Challenge (Hard)\n\n**Question:** The Rook wants to get to h8. Can it go straight to a8 and then across to h8?\n**Answer:** No! The White pawn on a5 is blocking the straight road. The Rook will have to find a different path (like moving to h1 first, then up to h8).",
+        "diagram_id": "DGM-106-06",
+        "diagram_url": "assets/DGM-106-06.svg",
+        "position_id": "POS-ROOK-MOVEMENT-006",
+        "position_version": 1,
+        "position_title": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)",
+        "diagram_alt": "![DGM-106-06: White Rook on a1. Target square is h8. White pawn on a5.](../../assets/diagrams/TOP-106/DGM-106-06.svg)"
+      },
+      {
+        "id": "LES-018-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-106#19#B1",
+        "parent_prompt_trace": "KB-106#19#B1",
+        "text": "- **Lichess Practice:** [The Pieces - Rook](https://lichess.org/learn#/1) (Interactive drills for kids)."
+      },
+      {
+        "id": "LES-018-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-106#20#B1",
+        "parent_prompt_trace": "KB-106#20#B1",
+        "text": "- **Prerequisites:** TOP-105 Queen Movement, TOP-010 Rook (Recognition)\n- **Next Steps:** TOP-107 Bishop Movement"
+      },
+      {
+        "id": "LES-018-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check ✅",
+        "source_trace": "KB-106#21#B1",
+        "parent_prompt_trace": "KB-106#21#B1",
+        "text": "- [ ] Do I understand that the Rook moves only on ranks and files?\n- [ ] Do I understand that the Rook cannot jump?\n- [ ] Did we play the \"Bowling Game\"?\n- [ ] Did my child successfully pass the \"Diagonal Temptation Trap\"?"
+      }
+    ]
+  }
+}

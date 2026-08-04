@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-018",
+  "assessment_id": "ASM-018",
+  "rubric": {
+    "criteria": "- [ ] Do I understand that the Rook moves only on ranks and files?\n- [ ] Do I understand that the Rook cannot jump?\n- [ ] Did we play the \"Bowling Game\"?\n- [ ] Did my child successfully pass the \"Diagonal Temptation Trap\"?",
+    "source_trace": "KB-106#21#B1"
+  },
+  "task_references": [
+    "PZL-018-01",
+    "PZL-018-02",
+    "PZL-018-03",
+    "PZL-018-04"
+  ]
+}

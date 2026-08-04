@@ -1,0 +1,28 @@
+schema_version: 1
+diagram_id: DGM-106-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-ROOK-MOVEMENT-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: ROOK
+    square: d4
+  - color: WHITE
+    piece_type: KING
+    square: b1
+  - color: BLACK
+    piece_type: KING
+    square: h7
+position_sha256: 94748c77aa98f1e6ddda97a45baf2bb3beef8ac0804eb594592f0179edc55468
+presentation_sha256: c02d8a6c67ccd66c0e768161d12dac5d28bb4c98a3c8222848ea122605241f16
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-106#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 8c651c1e056c2bd760935c872f538525ce91efc563e240a35fb4af8d721b5206
+output_svg_sha256: 8c651c1e056c2bd760935c872f538525ce91efc563e240a35fb4af8d721b5206

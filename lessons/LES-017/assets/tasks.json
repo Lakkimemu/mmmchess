@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-017",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-017-01",
+      "kb_id": "KB-105",
+      "lesson_id": "LES-017",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Show the basic movement pattern for the Queen.",
+      "hint": "Straight or diagonal, stop at every wall.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Moves the Queen any distance on straight or diagonal lines."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-017.yaml",
+        "source_sha256": "fa5f60ab8f1ca99486ae454b14db1fbe95d5fc863792f7f79bf150c38ddeed4b",
+        "field": "exercises",
+        "anchor": "EX-017-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-017-02",
+      "kb_id": "KB-105",
+      "lesson_id": "LES-017",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Demonstrate a legal capture.",
+      "hint": "Capture only according to the movement rule.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Captures by landing on an enemy piece."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-017.yaml",
+        "source_sha256": "fa5f60ab8f1ca99486ae454b14db1fbe95d5fc863792f7f79bf150c38ddeed4b",
+        "field": "exercises",
+        "anchor": "EX-017-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-017-03",
+      "kb_id": "KB-105",
+      "lesson_id": "LES-017",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Identify an illegal move in the challenge position.",
+      "hint": "Check the path and landing square.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Stops before any blocking piece."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-017.yaml",
+        "source_sha256": "fa5f60ab8f1ca99486ae454b14db1fbe95d5fc863792f7f79bf150c38ddeed4b",
+        "field": "exercises",
+        "anchor": "EX-017-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-017-04",
+      "kb_id": "KB-105",
+      "lesson_id": "LES-017",
+      "task_type": "EXPLAIN_POSITION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Explain the movement rule in your own words.",
+      "hint": "The Queen travels far on straight and diagonal roads but cannot jump.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Straight or diagonal, stop at every wall."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-017.yaml",
+        "source_sha256": "fa5f60ab8f1ca99486ae454b14db1fbe95d5fc863792f7f79bf150c38ddeed4b",
+        "field": "exercises",
+        "anchor": "EX-017-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

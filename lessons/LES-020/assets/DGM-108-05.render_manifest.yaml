@@ -1,0 +1,34 @@
+schema_version: 1
+diagram_id: DGM-108-05
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-KNIGHT-MOVEMENT-005
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KNIGHT
+    square: c3
+  - color: BLACK
+    piece_type: PAWN
+    square: c4
+  - color: BLACK
+    piece_type: BISHOP
+    square: d5
+  - color: WHITE
+    piece_type: KING
+    square: a1
+  - color: BLACK
+    piece_type: KING
+    square: h8
+position_sha256: ace32b11bc690dcd80a0cefa6f8d7c50078253df8b958f3f59bd4dcbec051c80
+presentation_sha256: e11bfe6047f5f76ee0485cb0ce937beaa734a0309c3f91aaae90ebf814042f9f
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-108#18#B2
+review_status: APPROVED
+reviewed_artifact_sha256: 97ca0cef741e2775461aacba5dad88baeff128bbba44b6ab96b37dce8d370319
+output_svg_sha256: 97ca0cef741e2775461aacba5dad88baeff128bbba44b6ab96b37dce8d370319

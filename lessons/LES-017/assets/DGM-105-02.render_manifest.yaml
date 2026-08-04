@@ -1,0 +1,31 @@
+schema_version: 1
+diagram_id: DGM-105-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-QUEEN-MOVEMENT-002
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: QUEEN
+    square: c3
+  - color: BLACK
+    piece_type: KNIGHT
+    square: f6
+  - color: WHITE
+    piece_type: KING
+    square: a1
+  - color: BLACK
+    piece_type: KING
+    square: h8
+position_sha256: 56cede90cb80ffefb31ae75d0bbf4d35a14051d7fdda7b17b3b869e5df7f3717
+presentation_sha256: 5ee47a45be80bb585419c92c507091995301ff87f9e4d773d3581565b6719071
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-105#11#B1
+review_status: APPROVED
+reviewed_artifact_sha256: acb3a6d942a1501e92186f74c914a8be4f8b56bc7457d3897dfad8b882801b47
+output_svg_sha256: acb3a6d942a1501e92186f74c914a8be4f8b56bc7457d3897dfad8b882801b47

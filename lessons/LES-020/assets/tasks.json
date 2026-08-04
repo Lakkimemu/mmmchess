@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-020",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-020-01",
+      "kb_id": "KB-108",
+      "lesson_id": "LES-020",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Show the basic movement pattern for the Knight.",
+      "hint": "Gallop, gallop, turn.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Moves the Knight two squares then one sideways."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-020.yaml",
+        "source_sha256": "9f835ce14dd8f6270a149d4bd63cc6d18464d77ed47019779a17d1aa8ec8f45b",
+        "field": "exercises",
+        "anchor": "EX-020-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-020-02",
+      "kb_id": "KB-108",
+      "lesson_id": "LES-020",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Demonstrate a legal capture.",
+      "hint": "Capture only according to the movement rule.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Jumps over occupied squares without capturing them."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-020.yaml",
+        "source_sha256": "9f835ce14dd8f6270a149d4bd63cc6d18464d77ed47019779a17d1aa8ec8f45b",
+        "field": "exercises",
+        "anchor": "EX-020-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-020-03",
+      "kb_id": "KB-108",
+      "lesson_id": "LES-020",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Identify an illegal move in the challenge position.",
+      "hint": "Check the path and landing square.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Captures only an enemy on the landing square."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-020.yaml",
+        "source_sha256": "9f835ce14dd8f6270a149d4bd63cc6d18464d77ed47019779a17d1aa8ec8f45b",
+        "field": "exercises",
+        "anchor": "EX-020-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-020-04",
+      "kb_id": "KB-108",
+      "lesson_id": "LES-020",
+      "task_type": "EXPLAIN_POSITION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Explain the movement rule in your own words.",
+      "hint": "The Knight gallops two, turns one, and can jump every wall.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Gallop, gallop, turn."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-020.yaml",
+        "source_sha256": "9f835ce14dd8f6270a149d4bd63cc6d18464d77ed47019779a17d1aa8ec8f45b",
+        "field": "exercises",
+        "anchor": "EX-020-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

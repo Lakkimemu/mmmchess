@@ -1,0 +1,1260 @@
+{
+  "lesson_id": "LES-017",
+  "kb_id": "KB-105",
+  "topic_id": "TOP-105",
+  "unit_id": "UNT-001",
+  "sequence": 17,
+  "objective": "**🎯 Today's Goal:**\nYour child will be able to slide the Queen correctly along straight lines and diagonals, and capture enemy pieces without jumping.",
+  "success_criteria": "**✅ Lesson Success Criteria:**\n- The child moves the Queen across the board in straight lines (ranks/files) and diagonals.\n- The child correctly captures an enemy piece with the Queen.\n- The child stops the Queen if a piece is blocking her path (no jumping).",
+  "source_traces": {
+    "objective": "KB-105#1#B2",
+    "success_criteria": "KB-105#1#B3"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-105#1",
+      "content": "- **Topic**: Queen Movement\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 15 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: TOP-104 King Movement, TOP-009 Queen Recognition\n\n**🎯 Today's Goal:**\nYour child will be able to slide the Queen correctly along straight lines and diagonals, and capture enemy pieces without jumping.\n\n**✅ Lesson Success Criteria:**\n- The child moves the Queen across the board in straight lines (ranks/files) and diagonals.\n- The child correctly captures an enemy piece with the Queen.\n- The child stops the Queen if a piece is blocking her path (no jumping).\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-105#2",
+      "content": "The Queen is the most powerful piece in chess. She can move any number of empty squares in any straight direction: vertically (along files), horizontally (along ranks), or diagonally. She captures exactly how she moves, by sliding across the board and taking the place of an enemy piece. However, the Queen cannot jump over other pieces."
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-105#3",
+      "content": "Because the Queen commands so much space on the board, mastering her movement unlocks the feeling of power in chess. Children love the Queen because she is fast and dangerous. Learning to see all the lines the Queen controls is the first step toward advanced board vision."
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-105#4",
+      "content": "- **Requires:** TOP-009 (Queen Recognition), TOP-104 (King Movement)\n- **Unlocks:** TOP-106 (Rook Movement), TOP-107 (Bishop Movement)"
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-105#5",
+      "content": "The Queen is effectively a Rook and a Bishop combined into one piece. Mechanically, you pick a direction (up, down, left, right, or any of the 4 diagonals) and slide the Queen as far as you want. \nIf a friendly piece is in the way, the Queen must stop before reaching that piece. \nIf an enemy piece is in the way, the Queen can slide exactly to that square, remove the enemy piece, and stop there. She cannot slide *past* an enemy piece on the same turn she captures it."
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-105#6",
+      "content": "1. **Clear the Board:** Start with an empty board and place the White Queen in the center.\n2. **The Slide Demonstration:** Show how she moves. Say, \"The Queen can fly as far as she wants on the straight roads (ranks/files).\" Slide her all the way to the edge. Then bring her back to the center. \"She can also fly on the diagonal roads!\" Slide her to a corner.\n3. **The Starburst Trace:** Have your child trace the 8 lines radiating outward from the Queen using their finger. \n4. **The No-Jumping Rule:** Place a friendly pawn next to the Queen. Try to move the Queen *over* the pawn. Stop and say, \"Crash! The Queen is fast, but she doesn't have wings to jump. She has to stop!\"\n5. **The Capture:** Place a Black pawn far away on the same diagonal. Let the child fly the Queen across the board, knock the pawn off, and take its place."
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-105#7",
+      "content": "**The Powerful Superhero:** \nThe Queen is the superhero of the chess army. While the old King takes one slow step, the Queen has super-speed! She can fly all the way across the kingdom in a flash. She can fly straight up, straight across, or criss-cross (diagonally). But even superheroes can't fly through walls—if someone is in her way, she has to stop!"
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know? 🎓",
+      "source_trace": "KB-105#8",
+      "content": "Hundreds of years ago, the Queen could only move one square diagonally! She was one of the weakest pieces. Later, chess players changed the rules to make the game faster and more exciting, turning her into the most powerful piece on the board. This rule change was sometimes called \"Mad Queen Chess\"!"
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-105#9",
+      "content": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)\n*The Queen can move as far as she wants in any straight line or diagonal.*"
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-105#10",
+      "content": "When you move the Queen, you must pick one direction and stick to it for that turn. You cannot move straight and then turn a corner in a single turn. To capture, slide the Queen along her path until she hits the enemy piece, take the enemy off the board, and put the Queen on that exact square."
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-105#11",
+      "content": "![DGM-105-02: A White Queen sliding diagonally to capture a Black Knight.](../../assets/diagrams/TOP-105/DGM-105-02.svg)\n*To capture, the Queen flies across the board and replaces the enemy piece.*"
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-105#12",
+      "content": "![DGM-105-03: A White Queen blocked by her own pawn forward, but free to move sideways and diagonally.](../../assets/diagrams/TOP-105/DGM-105-03.svg)\n*The Queen controls many squares, but she cannot jump over her own pawn. She must choose an open path.*"
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-105#13",
+      "content": "- **Turning Corners:** Children often try to move the Queen up a file and then sideways in the same turn (like a car turning a corner). Remind them: one straight line per turn!\n- **Jumping:** Because the Queen feels so powerful, children might try to jump her over pawns to get to enemies.\n- **Capturing and keeping moving:** A child might capture an enemy piece and then try to keep sliding the Queen forward on the same turn. Capturing ends the turn immediately.\n\n> **🧑‍🏫 Coach Tip:**\n> If a child tries to turn a corner with the Queen, make a playful screeching tire sound. \"Skrrrrt! The Queen can only drive in a straight line for this turn! Next turn, you can pick a new direction!\""
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-105#14",
+      "content": "Children usually grasp the Queen very quickly because her movement is so intuitive and fun. The main challenge is getting them to look at *all 8 directions*. They will often focus only on forward moves and completely miss that the Queen can slide backward or diagonally backward.\n\n> **🧑‍🏫 Coach Tip:**\n> Encourage your child to do \"Helicopter Vision.\" Ask them to hover their hand over the Queen and physically trace all the paths backwards and sideways before deciding to move."
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-105#15",
+      "content": "**Q: Can the Queen move just one square if she wants to?**\nA: Yes! The Queen can move 1 square, 2 squares, or all the way across the board. She has the choice.\n\n**Q: Should I teach them that the Queen is worth 9 points now?**\nA: Not yet. Point values are a math concept that distracts from the visual learning of how the piece physically moves. We will learn piece values in a separate lesson.\n\n**Q: My child keeps giving their Queen away for free. How do I stop this?**\nA: This is totally normal. They are intoxicated by her power! Play the \"Practice Together\" game below to train their \"Helicopter Vision.\""
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-105#16",
+      "content": "**The Star Grabber Game:**\nPlace the White Queen in the center. Place 5 or 6 small items (coins, cereal pieces, or pawns) scattered on various ranks, files, and diagonals that the Queen can reach. Have the child capture one item per turn. As they capture, add a new item somewhere else on the board. See how fast they can capture 10 items. *Rule: They can only capture items in a straight or diagonal line, with no jumping!*"
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge ⭐",
+      "source_trace": "KB-105#17",
+      "content": "**The Maze of Pawns:**\nPlace the White Queen on `a1`. Place 5 of your own (White) pawns randomly on the board. Place a target (a piece of candy or a Black piece) on `h8`. Tell your child they must navigate the Queen to the target. \n*The Catch:* Because their own pawns are on the board, some diagonals and straight lines are blocked! They must find a path that requires 2 or 3 turns, changing direction each turn without jumping. This reinforces that turning corners requires separate turns!"
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-105#18",
+      "content": "### 🟢 Recognition (Easy)\n![DGM-105-04: White Queen on d4. Highlight a legal straight path and an illegal L-shape path.](../../assets/diagrams/TOP-105/DGM-105-04.svg)\n**Question:** Which path is the Queen allowed to fly on? The straight green path, or the curvy red path?\n**Answer:** The straight green path! The Queen cannot turn corners in one move.\n\n### 🟡 Application (Medium)\n![DGM-105-05: White Queen on c3. Black Rook on c7. Black Knight on f6. White pawn on c5 blocking the Rook.](../../assets/diagrams/TOP-105/DGM-105-05.svg)\n**Question:** Which Black piece can the White Queen capture right now?\n**Answer:** The Black Knight on f6 (diagonal). She cannot capture the Rook on c7 because her own pawn on c5 is blocking the straight path!\n\n### 🔴 Challenge (Hard)\n![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)\n**Question:** The White Queen wants to get to the square a2. How many turns will it take her to get there? (Hint: Can she get there in 1 turn?)\n**Answer:** It takes 2 turns! She cannot reach a2 in a straight line from h1. She must move somewhere else first (like h2, or a1) and then move to a2 on the next turn."
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-105#19",
+      "content": "- **Lichess Practice:** [The Pieces - Queen](https://lichess.org/learn#/4) (Interactive drills for kids)."
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-105#20",
+      "content": "- **Prerequisites:** TOP-104 King Movement, TOP-009 Queen (Recognition)\n- **Next Steps:** TOP-106 Rook Movement, TOP-014 Piece Values"
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check ✅",
+      "source_trace": "KB-105#21",
+      "content": "- [ ] Do I understand that the Queen moves on ranks, files, and diagonals?\n- [ ] Do I understand that the Queen cannot jump over pieces?\n- [ ] Do I understand that the Queen cannot capture and keep moving on the same turn?\n- [ ] Did we complete the \"Star Grabber\" activity?\n- [ ] Can my child trace the Queen's path with their finger?\n\n---\n\n```yaml\nkb_quality:\n  reviewed: true\n  diagrams: 6\n  mini_puzzles: 3\n  external_resources: 1\n  coach_challenges: 1\n  practice_activities: 1\n  coach_tips: 2\n  parent_faq: 3\n  estimated_read_time: 15 min\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-017-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-105#1#B1",
+      "parent_prompt_trace": "KB-105#1#B1",
+      "text": "- **Topic**: Queen Movement\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 15 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: TOP-104 King Movement, TOP-009 Queen Recognition\n\n**🎯 Today's Goal:**\nYour child will be able to slide the Queen correctly along straight lines and diagonals, and capture enemy pieces without jumping.\n\n**✅ Lesson Success Criteria:**\n- The child moves the Queen across the board in straight lines (ranks/files) and diagonals.\n- The child correctly captures an enemy piece with the Queen.\n- The child stops the Queen if a piece is blocking her path (no jumping).\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "id": "LES-017-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-105#2#B1",
+      "parent_prompt_trace": "KB-105#2#B1",
+      "text": "The Queen is the most powerful piece in chess. She can move any number of empty squares in any straight direction: vertically (along files), horizontally (along ranks), or diagonally. She captures exactly how she moves, by sliding across the board and taking the place of an enemy piece. However, the Queen cannot jump over other pieces."
+    },
+    {
+      "id": "LES-017-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-105#3#B1",
+      "parent_prompt_trace": "KB-105#3#B1",
+      "text": "Because the Queen commands so much space on the board, mastering her movement unlocks the feeling of power in chess. Children love the Queen because she is fast and dangerous. Learning to see all the lines the Queen controls is the first step toward advanced board vision."
+    },
+    {
+      "id": "LES-017-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-105#4#B1",
+      "parent_prompt_trace": "KB-105#4#B1",
+      "text": "- **Requires:** TOP-009 (Queen Recognition), TOP-104 (King Movement)\n- **Unlocks:** TOP-106 (Rook Movement), TOP-107 (Bishop Movement)"
+    },
+    {
+      "id": "LES-017-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-105#5#B1",
+      "parent_prompt_trace": "KB-105#5#B1",
+      "text": "The Queen is effectively a Rook and a Bishop combined into one piece. Mechanically, you pick a direction (up, down, left, right, or any of the 4 diagonals) and slide the Queen as far as you want. \nIf a friendly piece is in the way, the Queen must stop before reaching that piece. \nIf an enemy piece is in the way, the Queen can slide exactly to that square, remove the enemy piece, and stop there. She cannot slide *past* an enemy piece on the same turn she captures it."
+    },
+    {
+      "id": "LES-017-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-105#6#B1",
+      "parent_prompt_trace": "KB-105#6#B1",
+      "text": "1. **Clear the Board:** Start with an empty board and place the White Queen in the center.\n2. **The Slide Demonstration:** Show how she moves. Say, \"The Queen can fly as far as she wants on the straight roads (ranks/files).\" Slide her all the way to the edge. Then bring her back to the center. \"She can also fly on the diagonal roads!\" Slide her to a corner.\n3. **The Starburst Trace:** Have your child trace the 8 lines radiating outward from the Queen using their finger. \n4. **The No-Jumping Rule:** Place a friendly pawn next to the Queen. Try to move the Queen *over* the pawn. Stop and say, \"Crash! The Queen is fast, but she doesn't have wings to jump. She has to stop!\"\n5. **The Capture:** Place a Black pawn far away on the same diagonal. Let the child fly the Queen across the board, knock the pawn off, and take its place."
+    },
+    {
+      "id": "LES-017-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-105#7#B1",
+      "parent_prompt_trace": "KB-105#7#B1",
+      "text": "**The Powerful Superhero:** \nThe Queen is the superhero of the chess army. While the old King takes one slow step, the Queen has super-speed! She can fly all the way across the kingdom in a flash. She can fly straight up, straight across, or criss-cross (diagonally). But even superheroes can't fly through walls—if someone is in her way, she has to stop!"
+    },
+    {
+      "id": "LES-017-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-105#8#B1",
+      "parent_prompt_trace": "KB-105#8#B1",
+      "text": "Hundreds of years ago, the Queen could only move one square diagonally! She was one of the weakest pieces. Later, chess players changed the rules to make the game faster and more exciting, turning her into the most powerful piece on the board. This rule change was sometimes called \"Mad Queen Chess\"!"
+    },
+    {
+      "id": "LES-017-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-105#9#B1",
+      "parent_prompt_trace": "KB-105#9#B1",
+      "text": "*The Queen can move as far as she wants in any straight line or diagonal.*",
+      "diagram_id": "DGM-105-01",
+      "diagram_url": "assets/DGM-105-01.svg",
+      "position_id": "POS-QUEEN-MOVEMENT-001",
+      "position_version": 1,
+      "position_title": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)",
+      "diagram_alt": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)"
+    },
+    {
+      "id": "LES-017-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-105#10#B1",
+      "parent_prompt_trace": "KB-105#10#B1",
+      "text": "When you move the Queen, you must pick one direction and stick to it for that turn. You cannot move straight and then turn a corner in a single turn. To capture, slide the Queen along her path until she hits the enemy piece, take the enemy off the board, and put the Queen on that exact square."
+    },
+    {
+      "id": "LES-017-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-105#11#B1",
+      "parent_prompt_trace": "KB-105#11#B1",
+      "text": "*To capture, the Queen flies across the board and replaces the enemy piece.*",
+      "diagram_id": "DGM-105-02",
+      "diagram_url": "assets/DGM-105-02.svg",
+      "position_id": "POS-QUEEN-MOVEMENT-002",
+      "position_version": 1,
+      "position_title": "![DGM-105-02: A White Queen sliding diagonally to capture a Black Knight.](../../assets/diagrams/TOP-105/DGM-105-02.svg)",
+      "diagram_alt": "![DGM-105-02: A White Queen sliding diagonally to capture a Black Knight.](../../assets/diagrams/TOP-105/DGM-105-02.svg)"
+    },
+    {
+      "id": "LES-017-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-105#12#B1",
+      "parent_prompt_trace": "KB-105#12#B1",
+      "text": "*The Queen controls many squares, but she cannot jump over her own pawn. She must choose an open path.*",
+      "diagram_id": "DGM-105-03",
+      "diagram_url": "assets/DGM-105-03.svg",
+      "position_id": "POS-QUEEN-MOVEMENT-003",
+      "position_version": 1,
+      "position_title": "![DGM-105-03: A White Queen blocked by her own pawn forward, but free to move sideways and diagonally.](../../assets/diagrams/TOP-105/DGM-105-03.svg)",
+      "diagram_alt": "![DGM-105-03: A White Queen blocked by her own pawn forward, but free to move sideways and diagonally.](../../assets/diagrams/TOP-105/DGM-105-03.svg)"
+    },
+    {
+      "id": "LES-017-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-105#13#B1",
+      "parent_prompt_trace": "KB-105#13#B1",
+      "text": "- **Turning Corners:** Children often try to move the Queen up a file and then sideways in the same turn (like a car turning a corner). Remind them: one straight line per turn!\n- **Jumping:** Because the Queen feels so powerful, children might try to jump her over pawns to get to enemies.\n- **Capturing and keeping moving:** A child might capture an enemy piece and then try to keep sliding the Queen forward on the same turn. Capturing ends the turn immediately.\n\n> **🧑‍🏫 Coach Tip:**\n> If a child tries to turn a corner with the Queen, make a playful screeching tire sound. \"Skrrrrt! The Queen can only drive in a straight line for this turn! Next turn, you can pick a new direction!\""
+    },
+    {
+      "id": "LES-017-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-105#14#B1",
+      "parent_prompt_trace": "KB-105#14#B1",
+      "text": "Children usually grasp the Queen very quickly because her movement is so intuitive and fun. The main challenge is getting them to look at *all 8 directions*. They will often focus only on forward moves and completely miss that the Queen can slide backward or diagonally backward.\n\n> **🧑‍🏫 Coach Tip:**\n> Encourage your child to do \"Helicopter Vision.\" Ask them to hover their hand over the Queen and physically trace all the paths backwards and sideways before deciding to move."
+    },
+    {
+      "id": "LES-017-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-105#15#B1",
+      "parent_prompt_trace": "KB-105#15#B1",
+      "text": "**Q: Can the Queen move just one square if she wants to?**\nA: Yes! The Queen can move 1 square, 2 squares, or all the way across the board. She has the choice.\n\n**Q: Should I teach them that the Queen is worth 9 points now?**\nA: Not yet. Point values are a math concept that distracts from the visual learning of how the piece physically moves. We will learn piece values in a separate lesson.\n\n**Q: My child keeps giving their Queen away for free. How do I stop this?**\nA: This is totally normal. They are intoxicated by her power! Play the \"Practice Together\" game below to train their \"Helicopter Vision.\""
+    },
+    {
+      "id": "LES-017-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-105#16#B1",
+      "parent_prompt_trace": "KB-105#16#B1",
+      "text": "**The Star Grabber Game:**\nPlace the White Queen in the center. Place 5 or 6 small items (coins, cereal pieces, or pawns) scattered on various ranks, files, and diagonals that the Queen can reach. Have the child capture one item per turn. As they capture, add a new item somewhere else on the board. See how fast they can capture 10 items. *Rule: They can only capture items in a straight or diagonal line, with no jumping!*"
+    },
+    {
+      "id": "LES-017-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-105#17#B1",
+      "parent_prompt_trace": "KB-105#17#B1",
+      "text": "**The Maze of Pawns:**\nPlace the White Queen on `a1`. Place 5 of your own (White) pawns randomly on the board. Place a target (a piece of candy or a Black piece) on `h8`. Tell your child they must navigate the Queen to the target. \n*The Catch:* Because their own pawns are on the board, some diagonals and straight lines are blocked! They must find a path that requires 2 or 3 turns, changing direction each turn without jumping. This reinforces that turning corners requires separate turns!"
+    },
+    {
+      "id": "LES-017-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-105#18#B1",
+      "parent_prompt_trace": "KB-105#18#B1",
+      "text": "### 🟢 Recognition (Easy)\n\n**Question:** Which path is the Queen allowed to fly on? The straight green path, or the curvy red path?\n**Answer:** The straight green path! The Queen cannot turn corners in one move.\n\n### 🟡 Application (Medium)\n\n**Question:** Which Black piece can the White Queen capture right now?\n**Answer:** The Black Knight on f6 (diagonal). She cannot capture the Rook on c7 because her own pawn on c5 is blocking the straight path!\n\n### 🔴 Challenge (Hard)\n\n**Question:** The White Queen wants to get to the square a2. How many turns will it take her to get there? (Hint: Can she get there in 1 turn?)\n**Answer:** It takes 2 turns! She cannot reach a2 in a straight line from h1. She must move somewhere else first (like h2, or a1) and then move to a2 on the next turn.",
+      "diagram_id": "DGM-105-06",
+      "diagram_url": "assets/DGM-105-06.svg",
+      "position_id": "POS-QUEEN-MOVEMENT-006",
+      "position_version": 1,
+      "position_title": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)",
+      "diagram_alt": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)"
+    },
+    {
+      "id": "LES-017-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-105#19#B1",
+      "parent_prompt_trace": "KB-105#19#B1",
+      "text": "- **Lichess Practice:** [The Pieces - Queen](https://lichess.org/learn#/4) (Interactive drills for kids)."
+    },
+    {
+      "id": "LES-017-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-105#20#B1",
+      "parent_prompt_trace": "KB-105#20#B1",
+      "text": "- **Prerequisites:** TOP-104 King Movement, TOP-009 Queen (Recognition)\n- **Next Steps:** TOP-106 Rook Movement, TOP-014 Piece Values"
+    },
+    {
+      "id": "LES-017-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-105#21#B1",
+      "parent_prompt_trace": "KB-105#21#B1",
+      "text": "- [ ] Do I understand that the Queen moves on ranks, files, and diagonals?\n- [ ] Do I understand that the Queen cannot jump over pieces?\n- [ ] Do I understand that the Queen cannot capture and keep moving on the same turn?\n- [ ] Did we complete the \"Star Grabber\" activity?\n- [ ] Can my child trace the Queen's path with their finger?"
+    }
+  ],
+  "task_references": [
+    "PZL-017-01",
+    "PZL-017-02",
+    "PZL-017-03",
+    "PZL-017-04"
+  ],
+  "diagram_references": [
+    "DGM-105-01",
+    "DGM-105-02",
+    "DGM-105-03",
+    "DGM-105-04",
+    "DGM-105-05",
+    "DGM-105-06"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-017",
+  "deferred_topics": [],
+  "teach_slides": [
+    {
+      "id": "LES-017-S01",
+      "type": "INTRO",
+      "title": "Queen Movement",
+      "text": "The Queen travels far on straight and diagonal roads but cannot jump.",
+      "parent_prompt": "Introduce queen movement.",
+      "diagram_id": "DGM-105-01",
+      "diagram_url": "assets/DGM-105-01.svg",
+      "visual": {
+        "diagram_id": "DGM-105-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-MOVEMENT-001",
+      "position_version": 1,
+      "position_title": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)",
+      "diagram_alt": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)"
+    },
+    {
+      "id": "LES-017-S02",
+      "type": "DIAGRAM",
+      "title": "Basic movement",
+      "text": "Use the board to explore queen movement.",
+      "parent_prompt": "Guide the basic movement.",
+      "diagram_id": "DGM-105-01",
+      "diagram_url": "assets/DGM-105-01.svg",
+      "visual": {
+        "diagram_id": "DGM-105-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-MOVEMENT-001",
+      "position_version": 1,
+      "position_title": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)",
+      "diagram_alt": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)"
+    },
+    {
+      "id": "LES-017-S03",
+      "type": "DIAGRAM",
+      "title": "Capture",
+      "text": "Use the board to explore queen movement.",
+      "parent_prompt": "Guide the capture.",
+      "diagram_id": "DGM-105-02",
+      "diagram_url": "assets/DGM-105-02.svg",
+      "visual": {
+        "diagram_id": "DGM-105-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-MOVEMENT-002",
+      "position_version": 1,
+      "position_title": "![DGM-105-02: A White Queen sliding diagonally to capture a Black Knight.](../../assets/diagrams/TOP-105/DGM-105-02.svg)",
+      "diagram_alt": "![DGM-105-02: A White Queen sliding diagonally to capture a Black Knight.](../../assets/diagrams/TOP-105/DGM-105-02.svg)"
+    },
+    {
+      "id": "LES-017-S04",
+      "type": "DIAGRAM",
+      "title": "Real-game pattern",
+      "text": "Use the board to explore queen movement.",
+      "parent_prompt": "Guide the real-game pattern.",
+      "diagram_id": "DGM-105-03",
+      "diagram_url": "assets/DGM-105-03.svg",
+      "visual": {
+        "diagram_id": "DGM-105-03",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-MOVEMENT-003",
+      "position_version": 1,
+      "position_title": "![DGM-105-03: A White Queen blocked by her own pawn forward, but free to move sideways and diagonally.](../../assets/diagrams/TOP-105/DGM-105-03.svg)",
+      "diagram_alt": "![DGM-105-03: A White Queen blocked by her own pawn forward, but free to move sideways and diagonally.](../../assets/diagrams/TOP-105/DGM-105-03.svg)"
+    },
+    {
+      "id": "LES-017-S05",
+      "type": "QUESTION",
+      "title": "Recognition check",
+      "text": "Use the board to explore queen movement.",
+      "parent_prompt": "Guide the recognition check.",
+      "diagram_id": "DGM-105-04",
+      "diagram_url": "assets/DGM-105-04.svg",
+      "visual": {
+        "diagram_id": "DGM-105-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-MOVEMENT-004",
+      "position_version": 1,
+      "position_title": "![DGM-105-04: White Queen on d4. Highlight a legal straight path and an illegal L-shape path.](../../assets/diagrams/TOP-105/DGM-105-04.svg)",
+      "diagram_alt": "![DGM-105-04: White Queen on d4. Highlight a legal straight path and an illegal L-shape path.](../../assets/diagrams/TOP-105/DGM-105-04.svg)"
+    },
+    {
+      "id": "LES-017-S06",
+      "type": "QUESTION",
+      "title": "Choose the line",
+      "text": "Find what the Queen can reach on this board.",
+      "parent_prompt": "Guide the movement-line check.",
+      "diagram_id": "DGM-105-05",
+      "diagram_url": "assets/DGM-105-05.svg",
+      "visual": {
+        "diagram_id": "DGM-105-05",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-MOVEMENT-005",
+      "position_version": 1,
+      "position_title": "![DGM-105-05: White Queen on c3. Black Rook on c7. Black Knight on f6. White pawn on c5 blocking the Rook.](../../assets/diagrams/TOP-105/DGM-105-05.svg)",
+      "diagram_alt": "![DGM-105-05: White Queen on c3. Black Rook on c7. Black Knight on f6. White pawn on c5 blocking the Rook.](../../assets/diagrams/TOP-105/DGM-105-05.svg)"
+    },
+    {
+      "id": "LES-017-S07",
+      "type": "QUESTION",
+      "title": "Plan the route",
+      "text": "Decide how the Queen can reach the target.",
+      "parent_prompt": "Guide the route check.",
+      "diagram_id": "DGM-105-06",
+      "diagram_url": "assets/DGM-105-06.svg",
+      "visual": {
+        "diagram_id": "DGM-105-06",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-MOVEMENT-006",
+      "position_version": 1,
+      "position_title": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)",
+      "diagram_alt": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)"
+    },
+    {
+      "id": "LES-017-S08",
+      "type": "ASSESSMENT",
+      "title": "Check your progress",
+      "text": "Show that you understand queen movement.",
+      "parent_prompt": "Check each success criterion with the board.",
+      "diagram_id": "DGM-105-06",
+      "diagram_url": "assets/DGM-105-06.svg",
+      "visual": {
+        "diagram_id": "DGM-105-06",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-QUEEN-MOVEMENT-006",
+      "position_version": 1,
+      "position_title": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)",
+      "diagram_alt": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-017-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-105#1#B1",
+      "parent_prompt_trace": "KB-105#1#B1",
+      "text": "- **Topic**: Queen Movement\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 15 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: TOP-104 King Movement, TOP-009 Queen Recognition\n\n**🎯 Today's Goal:**\nYour child will be able to slide the Queen correctly along straight lines and diagonals, and capture enemy pieces without jumping.\n\n**✅ Lesson Success Criteria:**\n- The child moves the Queen across the board in straight lines (ranks/files) and diagonals.\n- The child correctly captures an enemy piece with the Queen.\n- The child stops the Queen if a piece is blocking her path (no jumping).\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "id": "LES-017-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-105#2#B1",
+      "parent_prompt_trace": "KB-105#2#B1",
+      "text": "The Queen is the most powerful piece in chess. She can move any number of empty squares in any straight direction: vertically (along files), horizontally (along ranks), or diagonally. She captures exactly how she moves, by sliding across the board and taking the place of an enemy piece. However, the Queen cannot jump over other pieces."
+    },
+    {
+      "id": "LES-017-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-105#3#B1",
+      "parent_prompt_trace": "KB-105#3#B1",
+      "text": "Because the Queen commands so much space on the board, mastering her movement unlocks the feeling of power in chess. Children love the Queen because she is fast and dangerous. Learning to see all the lines the Queen controls is the first step toward advanced board vision."
+    },
+    {
+      "id": "LES-017-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-105#4#B1",
+      "parent_prompt_trace": "KB-105#4#B1",
+      "text": "- **Requires:** TOP-009 (Queen Recognition), TOP-104 (King Movement)\n- **Unlocks:** TOP-106 (Rook Movement), TOP-107 (Bishop Movement)"
+    },
+    {
+      "id": "LES-017-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-105#5#B1",
+      "parent_prompt_trace": "KB-105#5#B1",
+      "text": "The Queen is effectively a Rook and a Bishop combined into one piece. Mechanically, you pick a direction (up, down, left, right, or any of the 4 diagonals) and slide the Queen as far as you want. \nIf a friendly piece is in the way, the Queen must stop before reaching that piece. \nIf an enemy piece is in the way, the Queen can slide exactly to that square, remove the enemy piece, and stop there. She cannot slide *past* an enemy piece on the same turn she captures it."
+    },
+    {
+      "id": "LES-017-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-105#6#B1",
+      "parent_prompt_trace": "KB-105#6#B1",
+      "text": "1. **Clear the Board:** Start with an empty board and place the White Queen in the center.\n2. **The Slide Demonstration:** Show how she moves. Say, \"The Queen can fly as far as she wants on the straight roads (ranks/files).\" Slide her all the way to the edge. Then bring her back to the center. \"She can also fly on the diagonal roads!\" Slide her to a corner.\n3. **The Starburst Trace:** Have your child trace the 8 lines radiating outward from the Queen using their finger. \n4. **The No-Jumping Rule:** Place a friendly pawn next to the Queen. Try to move the Queen *over* the pawn. Stop and say, \"Crash! The Queen is fast, but she doesn't have wings to jump. She has to stop!\"\n5. **The Capture:** Place a Black pawn far away on the same diagonal. Let the child fly the Queen across the board, knock the pawn off, and take its place."
+    },
+    {
+      "id": "LES-017-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-105#7#B1",
+      "parent_prompt_trace": "KB-105#7#B1",
+      "text": "**The Powerful Superhero:** \nThe Queen is the superhero of the chess army. While the old King takes one slow step, the Queen has super-speed! She can fly all the way across the kingdom in a flash. She can fly straight up, straight across, or criss-cross (diagonally). But even superheroes can't fly through walls—if someone is in her way, she has to stop!"
+    },
+    {
+      "id": "LES-017-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-105#8#B1",
+      "parent_prompt_trace": "KB-105#8#B1",
+      "text": "Hundreds of years ago, the Queen could only move one square diagonally! She was one of the weakest pieces. Later, chess players changed the rules to make the game faster and more exciting, turning her into the most powerful piece on the board. This rule change was sometimes called \"Mad Queen Chess\"!"
+    },
+    {
+      "id": "LES-017-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-105#9#B1",
+      "parent_prompt_trace": "KB-105#9#B1",
+      "text": "*The Queen can move as far as she wants in any straight line or diagonal.*",
+      "diagram_id": "DGM-105-01",
+      "diagram_url": "assets/DGM-105-01.svg",
+      "position_id": "POS-QUEEN-MOVEMENT-001",
+      "position_version": 1,
+      "position_title": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)",
+      "diagram_alt": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)"
+    },
+    {
+      "id": "LES-017-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-105#10#B1",
+      "parent_prompt_trace": "KB-105#10#B1",
+      "text": "When you move the Queen, you must pick one direction and stick to it for that turn. You cannot move straight and then turn a corner in a single turn. To capture, slide the Queen along her path until she hits the enemy piece, take the enemy off the board, and put the Queen on that exact square."
+    },
+    {
+      "id": "LES-017-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-105#11#B1",
+      "parent_prompt_trace": "KB-105#11#B1",
+      "text": "*To capture, the Queen flies across the board and replaces the enemy piece.*",
+      "diagram_id": "DGM-105-02",
+      "diagram_url": "assets/DGM-105-02.svg",
+      "position_id": "POS-QUEEN-MOVEMENT-002",
+      "position_version": 1,
+      "position_title": "![DGM-105-02: A White Queen sliding diagonally to capture a Black Knight.](../../assets/diagrams/TOP-105/DGM-105-02.svg)",
+      "diagram_alt": "![DGM-105-02: A White Queen sliding diagonally to capture a Black Knight.](../../assets/diagrams/TOP-105/DGM-105-02.svg)"
+    },
+    {
+      "id": "LES-017-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-105#12#B1",
+      "parent_prompt_trace": "KB-105#12#B1",
+      "text": "*The Queen controls many squares, but she cannot jump over her own pawn. She must choose an open path.*",
+      "diagram_id": "DGM-105-03",
+      "diagram_url": "assets/DGM-105-03.svg",
+      "position_id": "POS-QUEEN-MOVEMENT-003",
+      "position_version": 1,
+      "position_title": "![DGM-105-03: A White Queen blocked by her own pawn forward, but free to move sideways and diagonally.](../../assets/diagrams/TOP-105/DGM-105-03.svg)",
+      "diagram_alt": "![DGM-105-03: A White Queen blocked by her own pawn forward, but free to move sideways and diagonally.](../../assets/diagrams/TOP-105/DGM-105-03.svg)"
+    },
+    {
+      "id": "LES-017-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-105#13#B1",
+      "parent_prompt_trace": "KB-105#13#B1",
+      "text": "- **Turning Corners:** Children often try to move the Queen up a file and then sideways in the same turn (like a car turning a corner). Remind them: one straight line per turn!\n- **Jumping:** Because the Queen feels so powerful, children might try to jump her over pawns to get to enemies.\n- **Capturing and keeping moving:** A child might capture an enemy piece and then try to keep sliding the Queen forward on the same turn. Capturing ends the turn immediately.\n\n> **🧑‍🏫 Coach Tip:**\n> If a child tries to turn a corner with the Queen, make a playful screeching tire sound. \"Skrrrrt! The Queen can only drive in a straight line for this turn! Next turn, you can pick a new direction!\""
+    },
+    {
+      "id": "LES-017-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-105#14#B1",
+      "parent_prompt_trace": "KB-105#14#B1",
+      "text": "Children usually grasp the Queen very quickly because her movement is so intuitive and fun. The main challenge is getting them to look at *all 8 directions*. They will often focus only on forward moves and completely miss that the Queen can slide backward or diagonally backward.\n\n> **🧑‍🏫 Coach Tip:**\n> Encourage your child to do \"Helicopter Vision.\" Ask them to hover their hand over the Queen and physically trace all the paths backwards and sideways before deciding to move."
+    },
+    {
+      "id": "LES-017-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-105#15#B1",
+      "parent_prompt_trace": "KB-105#15#B1",
+      "text": "**Q: Can the Queen move just one square if she wants to?**\nA: Yes! The Queen can move 1 square, 2 squares, or all the way across the board. She has the choice.\n\n**Q: Should I teach them that the Queen is worth 9 points now?**\nA: Not yet. Point values are a math concept that distracts from the visual learning of how the piece physically moves. We will learn piece values in a separate lesson.\n\n**Q: My child keeps giving their Queen away for free. How do I stop this?**\nA: This is totally normal. They are intoxicated by her power! Play the \"Practice Together\" game below to train their \"Helicopter Vision.\""
+    },
+    {
+      "id": "LES-017-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-105#16#B1",
+      "parent_prompt_trace": "KB-105#16#B1",
+      "text": "**The Star Grabber Game:**\nPlace the White Queen in the center. Place 5 or 6 small items (coins, cereal pieces, or pawns) scattered on various ranks, files, and diagonals that the Queen can reach. Have the child capture one item per turn. As they capture, add a new item somewhere else on the board. See how fast they can capture 10 items. *Rule: They can only capture items in a straight or diagonal line, with no jumping!*"
+    },
+    {
+      "id": "LES-017-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-105#17#B1",
+      "parent_prompt_trace": "KB-105#17#B1",
+      "text": "**The Maze of Pawns:**\nPlace the White Queen on `a1`. Place 5 of your own (White) pawns randomly on the board. Place a target (a piece of candy or a Black piece) on `h8`. Tell your child they must navigate the Queen to the target. \n*The Catch:* Because their own pawns are on the board, some diagonals and straight lines are blocked! They must find a path that requires 2 or 3 turns, changing direction each turn without jumping. This reinforces that turning corners requires separate turns!"
+    },
+    {
+      "id": "LES-017-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-105#18#B1",
+      "parent_prompt_trace": "KB-105#18#B1",
+      "text": "### 🟢 Recognition (Easy)\n\n**Question:** Which path is the Queen allowed to fly on? The straight green path, or the curvy red path?\n**Answer:** The straight green path! The Queen cannot turn corners in one move.\n\n### 🟡 Application (Medium)\n\n**Question:** Which Black piece can the White Queen capture right now?\n**Answer:** The Black Knight on f6 (diagonal). She cannot capture the Rook on c7 because her own pawn on c5 is blocking the straight path!\n\n### 🔴 Challenge (Hard)\n\n**Question:** The White Queen wants to get to the square a2. How many turns will it take her to get there? (Hint: Can she get there in 1 turn?)\n**Answer:** It takes 2 turns! She cannot reach a2 in a straight line from h1. She must move somewhere else first (like h2, or a1) and then move to a2 on the next turn.",
+      "diagram_id": "DGM-105-06",
+      "diagram_url": "assets/DGM-105-06.svg",
+      "position_id": "POS-QUEEN-MOVEMENT-006",
+      "position_version": 1,
+      "position_title": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)",
+      "diagram_alt": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)"
+    },
+    {
+      "id": "LES-017-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-105#19#B1",
+      "parent_prompt_trace": "KB-105#19#B1",
+      "text": "- **Lichess Practice:** [The Pieces - Queen](https://lichess.org/learn#/4) (Interactive drills for kids)."
+    },
+    {
+      "id": "LES-017-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-105#20#B1",
+      "parent_prompt_trace": "KB-105#20#B1",
+      "text": "- **Prerequisites:** TOP-104 King Movement, TOP-009 Queen (Recognition)\n- **Next Steps:** TOP-106 Rook Movement, TOP-014 Piece Values"
+    },
+    {
+      "id": "LES-017-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-105#21#B1",
+      "parent_prompt_trace": "KB-105#21#B1",
+      "text": "- [ ] Do I understand that the Queen moves on ranks, files, and diagonals?\n- [ ] Do I understand that the Queen cannot jump over pieces?\n- [ ] Do I understand that the Queen cannot capture and keep moving on the same turn?\n- [ ] Did we complete the \"Star Grabber\" activity?\n- [ ] Can my child trace the Queen's path with their finger?"
+    }
+  ],
+  "title": "Queen Movement",
+  "duration_minutes": 15,
+  "memory_phrase": "Straight or diagonal, stop at every wall.",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 15,
+    "slides": [
+      {
+        "id": "LES-017-S01",
+        "type": "INTRO",
+        "title": "Queen Movement",
+        "text": "The Queen travels far on straight and diagonal roads but cannot jump.",
+        "parent_prompt": "Introduce queen movement.",
+        "diagram_id": "DGM-105-01",
+        "diagram_url": "assets/DGM-105-01.svg",
+        "visual": {
+          "diagram_id": "DGM-105-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-MOVEMENT-001",
+        "position_version": 1,
+        "position_title": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)",
+        "diagram_alt": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)"
+      },
+      {
+        "id": "LES-017-S02",
+        "type": "DIAGRAM",
+        "title": "Basic movement",
+        "text": "Use the board to explore queen movement.",
+        "parent_prompt": "Guide the basic movement.",
+        "diagram_id": "DGM-105-01",
+        "diagram_url": "assets/DGM-105-01.svg",
+        "visual": {
+          "diagram_id": "DGM-105-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-MOVEMENT-001",
+        "position_version": 1,
+        "position_title": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)",
+        "diagram_alt": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)"
+      },
+      {
+        "id": "LES-017-S03",
+        "type": "DIAGRAM",
+        "title": "Capture",
+        "text": "Use the board to explore queen movement.",
+        "parent_prompt": "Guide the capture.",
+        "diagram_id": "DGM-105-02",
+        "diagram_url": "assets/DGM-105-02.svg",
+        "visual": {
+          "diagram_id": "DGM-105-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-MOVEMENT-002",
+        "position_version": 1,
+        "position_title": "![DGM-105-02: A White Queen sliding diagonally to capture a Black Knight.](../../assets/diagrams/TOP-105/DGM-105-02.svg)",
+        "diagram_alt": "![DGM-105-02: A White Queen sliding diagonally to capture a Black Knight.](../../assets/diagrams/TOP-105/DGM-105-02.svg)"
+      },
+      {
+        "id": "LES-017-S04",
+        "type": "DIAGRAM",
+        "title": "Real-game pattern",
+        "text": "Use the board to explore queen movement.",
+        "parent_prompt": "Guide the real-game pattern.",
+        "diagram_id": "DGM-105-03",
+        "diagram_url": "assets/DGM-105-03.svg",
+        "visual": {
+          "diagram_id": "DGM-105-03",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-MOVEMENT-003",
+        "position_version": 1,
+        "position_title": "![DGM-105-03: A White Queen blocked by her own pawn forward, but free to move sideways and diagonally.](../../assets/diagrams/TOP-105/DGM-105-03.svg)",
+        "diagram_alt": "![DGM-105-03: A White Queen blocked by her own pawn forward, but free to move sideways and diagonally.](../../assets/diagrams/TOP-105/DGM-105-03.svg)"
+      },
+      {
+        "id": "LES-017-S05",
+        "type": "QUESTION",
+        "title": "Recognition check",
+        "text": "Use the board to explore queen movement.",
+        "parent_prompt": "Guide the recognition check.",
+        "diagram_id": "DGM-105-04",
+        "diagram_url": "assets/DGM-105-04.svg",
+        "visual": {
+          "diagram_id": "DGM-105-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-MOVEMENT-004",
+        "position_version": 1,
+        "position_title": "![DGM-105-04: White Queen on d4. Highlight a legal straight path and an illegal L-shape path.](../../assets/diagrams/TOP-105/DGM-105-04.svg)",
+        "diagram_alt": "![DGM-105-04: White Queen on d4. Highlight a legal straight path and an illegal L-shape path.](../../assets/diagrams/TOP-105/DGM-105-04.svg)"
+      },
+      {
+        "id": "LES-017-S06",
+        "type": "QUESTION",
+        "title": "Choose the line",
+        "text": "Find what the Queen can reach on this board.",
+        "parent_prompt": "Guide the movement-line check.",
+        "diagram_id": "DGM-105-05",
+        "diagram_url": "assets/DGM-105-05.svg",
+        "visual": {
+          "diagram_id": "DGM-105-05",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-MOVEMENT-005",
+        "position_version": 1,
+        "position_title": "![DGM-105-05: White Queen on c3. Black Rook on c7. Black Knight on f6. White pawn on c5 blocking the Rook.](../../assets/diagrams/TOP-105/DGM-105-05.svg)",
+        "diagram_alt": "![DGM-105-05: White Queen on c3. Black Rook on c7. Black Knight on f6. White pawn on c5 blocking the Rook.](../../assets/diagrams/TOP-105/DGM-105-05.svg)"
+      },
+      {
+        "id": "LES-017-S07",
+        "type": "QUESTION",
+        "title": "Plan the route",
+        "text": "Decide how the Queen can reach the target.",
+        "parent_prompt": "Guide the route check.",
+        "diagram_id": "DGM-105-06",
+        "diagram_url": "assets/DGM-105-06.svg",
+        "visual": {
+          "diagram_id": "DGM-105-06",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-MOVEMENT-006",
+        "position_version": 1,
+        "position_title": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)",
+        "diagram_alt": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)"
+      },
+      {
+        "id": "LES-017-S08",
+        "type": "ASSESSMENT",
+        "title": "Check your progress",
+        "text": "Show that you understand queen movement.",
+        "parent_prompt": "Check each success criterion with the board.",
+        "diagram_id": "DGM-105-06",
+        "diagram_url": "assets/DGM-105-06.svg",
+        "visual": {
+          "diagram_id": "DGM-105-06",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-QUEEN-MOVEMENT-006",
+        "position_version": 1,
+        "position_title": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)",
+        "diagram_alt": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-017-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-105#1#B1",
+        "parent_prompt_trace": "KB-105#1#B1",
+        "text": "- **Topic**: Queen Movement\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 15 min\n- **Piece/concept type**: Concept\n- **Prerequisites**: TOP-104 King Movement, TOP-009 Queen Recognition\n\n**🎯 Today's Goal:**\nYour child will be able to slide the Queen correctly along straight lines and diagonals, and capture enemy pieces without jumping.\n\n**✅ Lesson Success Criteria:**\n- The child moves the Queen across the board in straight lines (ranks/files) and diagonals.\n- The child correctly captures an enemy piece with the Queen.\n- The child stops the Queen if a piece is blocking her path (no jumping).\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+      },
+      {
+        "id": "LES-017-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-105#2#B1",
+        "parent_prompt_trace": "KB-105#2#B1",
+        "text": "The Queen is the most powerful piece in chess. She can move any number of empty squares in any straight direction: vertically (along files), horizontally (along ranks), or diagonally. She captures exactly how she moves, by sliding across the board and taking the place of an enemy piece. However, the Queen cannot jump over other pieces."
+      },
+      {
+        "id": "LES-017-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-105#3#B1",
+        "parent_prompt_trace": "KB-105#3#B1",
+        "text": "Because the Queen commands so much space on the board, mastering her movement unlocks the feeling of power in chess. Children love the Queen because she is fast and dangerous. Learning to see all the lines the Queen controls is the first step toward advanced board vision."
+      },
+      {
+        "id": "LES-017-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-105#4#B1",
+        "parent_prompt_trace": "KB-105#4#B1",
+        "text": "- **Requires:** TOP-009 (Queen Recognition), TOP-104 (King Movement)\n- **Unlocks:** TOP-106 (Rook Movement), TOP-107 (Bishop Movement)"
+      },
+      {
+        "id": "LES-017-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-105#5#B1",
+        "parent_prompt_trace": "KB-105#5#B1",
+        "text": "The Queen is effectively a Rook and a Bishop combined into one piece. Mechanically, you pick a direction (up, down, left, right, or any of the 4 diagonals) and slide the Queen as far as you want. \nIf a friendly piece is in the way, the Queen must stop before reaching that piece. \nIf an enemy piece is in the way, the Queen can slide exactly to that square, remove the enemy piece, and stop there. She cannot slide *past* an enemy piece on the same turn she captures it."
+      },
+      {
+        "id": "LES-017-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-105#6#B1",
+        "parent_prompt_trace": "KB-105#6#B1",
+        "text": "1. **Clear the Board:** Start with an empty board and place the White Queen in the center.\n2. **The Slide Demonstration:** Show how she moves. Say, \"The Queen can fly as far as she wants on the straight roads (ranks/files).\" Slide her all the way to the edge. Then bring her back to the center. \"She can also fly on the diagonal roads!\" Slide her to a corner.\n3. **The Starburst Trace:** Have your child trace the 8 lines radiating outward from the Queen using their finger. \n4. **The No-Jumping Rule:** Place a friendly pawn next to the Queen. Try to move the Queen *over* the pawn. Stop and say, \"Crash! The Queen is fast, but she doesn't have wings to jump. She has to stop!\"\n5. **The Capture:** Place a Black pawn far away on the same diagonal. Let the child fly the Queen across the board, knock the pawn off, and take its place."
+      },
+      {
+        "id": "LES-017-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-105#7#B1",
+        "parent_prompt_trace": "KB-105#7#B1",
+        "text": "**The Powerful Superhero:** \nThe Queen is the superhero of the chess army. While the old King takes one slow step, the Queen has super-speed! She can fly all the way across the kingdom in a flash. She can fly straight up, straight across, or criss-cross (diagonally). But even superheroes can't fly through walls—if someone is in her way, she has to stop!"
+      },
+      {
+        "id": "LES-017-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know? 🎓",
+        "source_trace": "KB-105#8#B1",
+        "parent_prompt_trace": "KB-105#8#B1",
+        "text": "Hundreds of years ago, the Queen could only move one square diagonally! She was one of the weakest pieces. Later, chess players changed the rules to make the game faster and more exciting, turning her into the most powerful piece on the board. This rule change was sometimes called \"Mad Queen Chess\"!"
+      },
+      {
+        "id": "LES-017-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-105#9#B1",
+        "parent_prompt_trace": "KB-105#9#B1",
+        "text": "*The Queen can move as far as she wants in any straight line or diagonal.*",
+        "diagram_id": "DGM-105-01",
+        "diagram_url": "assets/DGM-105-01.svg",
+        "position_id": "POS-QUEEN-MOVEMENT-001",
+        "position_version": 1,
+        "position_title": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)",
+        "diagram_alt": "![DGM-105-01: A White Queen in the center with 8 long arrows pointing in all directions to the edges of the board.](../../assets/diagrams/TOP-105/DGM-105-01.svg)"
+      },
+      {
+        "id": "LES-017-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-105#10#B1",
+        "parent_prompt_trace": "KB-105#10#B1",
+        "text": "When you move the Queen, you must pick one direction and stick to it for that turn. You cannot move straight and then turn a corner in a single turn. To capture, slide the Queen along her path until she hits the enemy piece, take the enemy off the board, and put the Queen on that exact square."
+      },
+      {
+        "id": "LES-017-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-105#11#B1",
+        "parent_prompt_trace": "KB-105#11#B1",
+        "text": "*To capture, the Queen flies across the board and replaces the enemy piece.*",
+        "diagram_id": "DGM-105-02",
+        "diagram_url": "assets/DGM-105-02.svg",
+        "position_id": "POS-QUEEN-MOVEMENT-002",
+        "position_version": 1,
+        "position_title": "![DGM-105-02: A White Queen sliding diagonally to capture a Black Knight.](../../assets/diagrams/TOP-105/DGM-105-02.svg)",
+        "diagram_alt": "![DGM-105-02: A White Queen sliding diagonally to capture a Black Knight.](../../assets/diagrams/TOP-105/DGM-105-02.svg)"
+      },
+      {
+        "id": "LES-017-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-105#12#B1",
+        "parent_prompt_trace": "KB-105#12#B1",
+        "text": "*The Queen controls many squares, but she cannot jump over her own pawn. She must choose an open path.*",
+        "diagram_id": "DGM-105-03",
+        "diagram_url": "assets/DGM-105-03.svg",
+        "position_id": "POS-QUEEN-MOVEMENT-003",
+        "position_version": 1,
+        "position_title": "![DGM-105-03: A White Queen blocked by her own pawn forward, but free to move sideways and diagonally.](../../assets/diagrams/TOP-105/DGM-105-03.svg)",
+        "diagram_alt": "![DGM-105-03: A White Queen blocked by her own pawn forward, but free to move sideways and diagonally.](../../assets/diagrams/TOP-105/DGM-105-03.svg)"
+      },
+      {
+        "id": "LES-017-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-105#13#B1",
+        "parent_prompt_trace": "KB-105#13#B1",
+        "text": "- **Turning Corners:** Children often try to move the Queen up a file and then sideways in the same turn (like a car turning a corner). Remind them: one straight line per turn!\n- **Jumping:** Because the Queen feels so powerful, children might try to jump her over pawns to get to enemies.\n- **Capturing and keeping moving:** A child might capture an enemy piece and then try to keep sliding the Queen forward on the same turn. Capturing ends the turn immediately.\n\n> **🧑‍🏫 Coach Tip:**\n> If a child tries to turn a corner with the Queen, make a playful screeching tire sound. \"Skrrrrt! The Queen can only drive in a straight line for this turn! Next turn, you can pick a new direction!\""
+      },
+      {
+        "id": "LES-017-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-105#14#B1",
+        "parent_prompt_trace": "KB-105#14#B1",
+        "text": "Children usually grasp the Queen very quickly because her movement is so intuitive and fun. The main challenge is getting them to look at *all 8 directions*. They will often focus only on forward moves and completely miss that the Queen can slide backward or diagonally backward.\n\n> **🧑‍🏫 Coach Tip:**\n> Encourage your child to do \"Helicopter Vision.\" Ask them to hover their hand over the Queen and physically trace all the paths backwards and sideways before deciding to move."
+      },
+      {
+        "id": "LES-017-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-105#15#B1",
+        "parent_prompt_trace": "KB-105#15#B1",
+        "text": "**Q: Can the Queen move just one square if she wants to?**\nA: Yes! The Queen can move 1 square, 2 squares, or all the way across the board. She has the choice.\n\n**Q: Should I teach them that the Queen is worth 9 points now?**\nA: Not yet. Point values are a math concept that distracts from the visual learning of how the piece physically moves. We will learn piece values in a separate lesson.\n\n**Q: My child keeps giving their Queen away for free. How do I stop this?**\nA: This is totally normal. They are intoxicated by her power! Play the \"Practice Together\" game below to train their \"Helicopter Vision.\""
+      },
+      {
+        "id": "LES-017-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-105#16#B1",
+        "parent_prompt_trace": "KB-105#16#B1",
+        "text": "**The Star Grabber Game:**\nPlace the White Queen in the center. Place 5 or 6 small items (coins, cereal pieces, or pawns) scattered on various ranks, files, and diagonals that the Queen can reach. Have the child capture one item per turn. As they capture, add a new item somewhere else on the board. See how fast they can capture 10 items. *Rule: They can only capture items in a straight or diagonal line, with no jumping!*"
+      },
+      {
+        "id": "LES-017-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge ⭐",
+        "source_trace": "KB-105#17#B1",
+        "parent_prompt_trace": "KB-105#17#B1",
+        "text": "**The Maze of Pawns:**\nPlace the White Queen on `a1`. Place 5 of your own (White) pawns randomly on the board. Place a target (a piece of candy or a Black piece) on `h8`. Tell your child they must navigate the Queen to the target. \n*The Catch:* Because their own pawns are on the board, some diagonals and straight lines are blocked! They must find a path that requires 2 or 3 turns, changing direction each turn without jumping. This reinforces that turning corners requires separate turns!"
+      },
+      {
+        "id": "LES-017-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-105#18#B1",
+        "parent_prompt_trace": "KB-105#18#B1",
+        "text": "### 🟢 Recognition (Easy)\n\n**Question:** Which path is the Queen allowed to fly on? The straight green path, or the curvy red path?\n**Answer:** The straight green path! The Queen cannot turn corners in one move.\n\n### 🟡 Application (Medium)\n\n**Question:** Which Black piece can the White Queen capture right now?\n**Answer:** The Black Knight on f6 (diagonal). She cannot capture the Rook on c7 because her own pawn on c5 is blocking the straight path!\n\n### 🔴 Challenge (Hard)\n\n**Question:** The White Queen wants to get to the square a2. How many turns will it take her to get there? (Hint: Can she get there in 1 turn?)\n**Answer:** It takes 2 turns! She cannot reach a2 in a straight line from h1. She must move somewhere else first (like h2, or a1) and then move to a2 on the next turn.",
+        "diagram_id": "DGM-105-06",
+        "diagram_url": "assets/DGM-105-06.svg",
+        "position_id": "POS-QUEEN-MOVEMENT-006",
+        "position_version": 1,
+        "position_title": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)",
+        "diagram_alt": "![DGM-105-06: White Queen on h1. Target is a2. How many turns does it take to get there?](../../assets/diagrams/TOP-105/DGM-105-06.svg)"
+      },
+      {
+        "id": "LES-017-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-105#19#B1",
+        "parent_prompt_trace": "KB-105#19#B1",
+        "text": "- **Lichess Practice:** [The Pieces - Queen](https://lichess.org/learn#/4) (Interactive drills for kids)."
+      },
+      {
+        "id": "LES-017-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-105#20#B1",
+        "parent_prompt_trace": "KB-105#20#B1",
+        "text": "- **Prerequisites:** TOP-104 King Movement, TOP-009 Queen (Recognition)\n- **Next Steps:** TOP-106 Rook Movement, TOP-014 Piece Values"
+      },
+      {
+        "id": "LES-017-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check ✅",
+        "source_trace": "KB-105#21#B1",
+        "parent_prompt_trace": "KB-105#21#B1",
+        "text": "- [ ] Do I understand that the Queen moves on ranks, files, and diagonals?\n- [ ] Do I understand that the Queen cannot jump over pieces?\n- [ ] Do I understand that the Queen cannot capture and keep moving on the same turn?\n- [ ] Did we complete the \"Star Grabber\" activity?\n- [ ] Can my child trace the Queen's path with their finger?"
+      }
+    ]
+  }
+}

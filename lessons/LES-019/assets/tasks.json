@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-019",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-019-01",
+      "kb_id": "KB-107",
+      "lesson_id": "LES-019",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Show the basic movement pattern for the Bishop.",
+      "hint": "Criss-cross, same color.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Moves the Bishop only diagonally."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-019.yaml",
+        "source_sha256": "1a6b89f7b302c115d6d558e20f1f5d6f55f0e6768ea5ec443440413ae991cf45",
+        "field": "exercises",
+        "anchor": "EX-019-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-019-02",
+      "kb_id": "KB-107",
+      "lesson_id": "LES-019",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Demonstrate a legal capture.",
+      "hint": "Capture only according to the movement rule.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Identifies light-square and dark-square Bishops."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-019.yaml",
+        "source_sha256": "1a6b89f7b302c115d6d558e20f1f5d6f55f0e6768ea5ec443440413ae991cf45",
+        "field": "exercises",
+        "anchor": "EX-019-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-019-03",
+      "kb_id": "KB-107",
+      "lesson_id": "LES-019",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Identify an illegal move in the challenge position.",
+      "hint": "Check the path and landing square.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Captures diagonally without jumping."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-019.yaml",
+        "source_sha256": "1a6b89f7b302c115d6d558e20f1f5d6f55f0e6768ea5ec443440413ae991cf45",
+        "field": "exercises",
+        "anchor": "EX-019-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-019-04",
+      "kb_id": "KB-107",
+      "lesson_id": "LES-019",
+      "task_type": "EXPLAIN_POSITION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Explain the movement rule in your own words.",
+      "hint": "The Bishop glides on diagonal color roads and never changes color.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Criss-cross, same color."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-019.yaml",
+        "source_sha256": "1a6b89f7b302c115d6d558e20f1f5d6f55f0e6768ea5ec443440413ae991cf45",
+        "field": "exercises",
+        "anchor": "EX-019-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

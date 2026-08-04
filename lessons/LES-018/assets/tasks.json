@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-018",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-018-01",
+      "kb_id": "KB-106",
+      "lesson_id": "LES-018",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Show the basic movement pattern for the Rook.",
+      "hint": "Straight roads only.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Moves the Rook horizontally or vertically."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-018.yaml",
+        "source_sha256": "9eae13f3c974bf93bead57f340af48e75b0b279577122524678b9842e34e8623",
+        "field": "exercises",
+        "anchor": "EX-018-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-018-02",
+      "kb_id": "KB-106",
+      "lesson_id": "LES-018",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Demonstrate a legal capture.",
+      "hint": "Capture only according to the movement rule.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Captures along an unobstructed rank or file."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-018.yaml",
+        "source_sha256": "9eae13f3c974bf93bead57f340af48e75b0b279577122524678b9842e34e8623",
+        "field": "exercises",
+        "anchor": "EX-018-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-018-03",
+      "kb_id": "KB-106",
+      "lesson_id": "LES-018",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Identify an illegal move in the challenge position.",
+      "hint": "Check the path and landing square.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Rejects diagonal moves and blocked paths."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-018.yaml",
+        "source_sha256": "9eae13f3c974bf93bead57f340af48e75b0b279577122524678b9842e34e8623",
+        "field": "exercises",
+        "anchor": "EX-018-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-018-04",
+      "kb_id": "KB-106",
+      "lesson_id": "LES-018",
+      "task_type": "EXPLAIN_POSITION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Explain the movement rule in your own words.",
+      "hint": "The Rook travels on straight roads: up, down, left, and right.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Straight roads only."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-018.yaml",
+        "source_sha256": "9eae13f3c974bf93bead57f340af48e75b0b279577122524678b9842e34e8623",
+        "field": "exercises",
+        "anchor": "EX-018-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

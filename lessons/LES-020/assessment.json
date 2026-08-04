@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-020",
+  "assessment_id": "ASM-020",
+  "rubric": {
+    "criteria": "- [ ] Do I understand the \"Two straight, one sideways\" movement?\n- [ ] Do I understand that jumping over a piece does not capture it?\n- [ ] Do I understand the Knight only captures on its landing square?\n- [ ] Did we practice the \"Gallop, gallop, turn\" chant?\n- [ ] Did my child successfully avoid capturing a piece they jumped over?",
+    "source_trace": "KB-108#21#B1"
+  },
+  "task_references": [
+    "PZL-020-01",
+    "PZL-020-02",
+    "PZL-020-03",
+    "PZL-020-04"
+  ]
+}
