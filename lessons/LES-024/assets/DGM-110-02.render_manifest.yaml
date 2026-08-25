@@ -1,0 +1,25 @@
+schema_version: 1
+diagram_id: DGM-110-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-BISHOP-ENEMY-BLOCKER-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: BISHOP
+    square: b1
+  - color: BLACK
+    piece_type: PAWN
+    square: e4
+position_sha256: 246fc7f7e27e1de87326ff436da4a02427f35f2a58f1d9acb91f29cfefd94107
+presentation_sha256: 7c29af9bb1d047ffb20be992249f2c40bb0281708a91c086d80b1872571b81c6
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-110#11#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 61704af462bb0842fbb400e583d10187d7b9f1987f59fdc8db66ceaf76d99737
+output_svg_sha256: 61704af462bb0842fbb400e583d10187d7b9f1987f59fdc8db66ceaf76d99737

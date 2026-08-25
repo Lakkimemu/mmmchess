@@ -1,0 +1,1191 @@
+{
+  "lesson_id": "LES-025",
+  "kb_id": "KB-111",
+  "topic_id": "TOP-111",
+  "unit_id": "UNT-001",
+  "sequence": 25,
+  "objective": "- **Today's goal:** Your child can point to every square attacked by a displayed piece.\n- **Prerequisites:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Success:** Your child explains the answer and demonstrates it on a physical board.",
+  "success_criteria": "- **Today's goal:** Your child can point to every square attacked by a displayed piece.\n- **Prerequisites:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Success:** Your child explains the answer and demonstrates it on a physical board.",
+  "source_traces": {
+    "objective": "KB-111#1#B1",
+    "success_criteria": "KB-111#1#B1"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-111#1",
+      "content": "- **Today's goal:** Your child can point to every square attacked by a displayed piece.\n- **Prerequisites:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-111#2",
+      "content": "A piece attacks a square when it could capture an opponent placed there according to its movement rules. Attack describes control of a square; it does not say that a capture is required or wise."
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-111#3",
+      "content": "Attacked-square vision tells a child where a king may move, whether a king is in check, and whether castling squares are safe. Without it, legal play becomes guesswork."
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-111#4",
+      "content": "- **Requires:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Unlocks:** TOP-112 through TOP-115.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-111#5",
+      "content": "Most pieces attack with the same shape they use to capture. Pawns are the important exception: they move straight but attack diagonally forward. Sliding attacks stop at blockers and knights jump. For king safety, FIDE also counts a square as attacked when the attacker is constrained from moving because moving it would expose its own king.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-111#6",
+      "content": "1. Place one piece in the center.\n2. Ask your child to touch every square it watches.\n3. Add blockers for sliding pieces.\n4. Teach white and black pawn attacks separately.\n5. Mix two enemy pieces and map their combined danger squares.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-111#7",
+      "content": "Imagine every piece carrying a flashlight shaped like its capture pattern. Lit squares are attacked. A blocker stops a sliding flashlight; a knight's light jumps. Say: Show what the piece can take."
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know?",
+      "source_trace": "KB-111#8",
+      "content": "An empty square can be attacked. The board's attack map exists before either player chooses a move."
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-111#9",
+      "content": "**Future reviewed visual requirement:** One rook on d4 with its open attacked rank and file marked.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication."
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-111#10",
+      "content": "Find the piece, apply its capture shape, and respect blockers. For pawns, establish color and forward direction first. For a king destination, imagine the king there and recompute opponent attacks."
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-111#11",
+      "content": "**Future reviewed visual requirement:** A bishop line stopped by a friendly pawn on one side and ending on a capturable enemy on the other.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram."
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-111#12",
+      "content": "Before castling, a player must inspect the king's starting, transit, and destination squares. That decision depends directly on attacked-square recognition."
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-111#13",
+      "content": "- Calling the square in front of a pawn attacked.\n- Looking through a blocker.\n- Forgetting knight attacks.\n- Confusing attacked with a good capture.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-111#14",
+      "content": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-111#15",
+      "content": "**Can an empty square be attacked?**  \nYes.\n\n**Does a pawn attack straight ahead?**  \nNo, it attacks diagonally forward.\n\n**Must an attacking piece capture?**  \nNo. Attack only describes control."
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-111#16",
+      "content": "Play Flashlight Map. Cover every attacked square with a coin, change one blocker, and map again. Finish by adding a king and finding unsafe neighboring squares.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge",
+      "source_trace": "KB-111#17",
+      "content": "Use a pawn, knight, and slider together. Ask your child to mark all their attacked squares, including overlaps.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-111#18",
+      "content": "### Recognition\n**Question:** Map a knight's attacked squares from the center.  \n**Answer:** All legal L-shaped destinations.\n\n### Application\n**Question:** Does a pawn attack the square directly ahead?  \n**Answer:** No.\n\n### Challenge\n**Question:** Accept or reject a proposed king move after recomputing attacks.  \n**Answer:** The answer matches the resulting attack map."
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-111#19",
+      "content": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-111#20",
+      "content": "- **Prerequisites:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Unlocks:** TOP-112 through TOP-115.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#ATTACKED_SQUARES`."
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check",
+      "source_trace": "KB-111#21",
+      "content": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts.\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  canonical_sections: 21\n  diagrams_required: 2\n  mini_puzzles: 3\n  coach_challenges: 1\n  practice_activities: 1\n  parent_faq: 3\n  evidence_source: BOARD-LEGAL-PLAY-01\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-025-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-111#1#B1",
+      "parent_prompt_trace": "KB-111#1#B1",
+      "text": "- **Today's goal:** Your child can point to every square attacked by a displayed piece.\n- **Prerequisites:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "id": "LES-025-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-111#2#B1",
+      "parent_prompt_trace": "KB-111#2#B1",
+      "text": "A piece attacks a square when it could capture an opponent placed there according to its movement rules. Attack describes control of a square; it does not say that a capture is required or wise."
+    },
+    {
+      "id": "LES-025-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-111#3#B1",
+      "parent_prompt_trace": "KB-111#3#B1",
+      "text": "Attacked-square vision tells a child where a king may move, whether a king is in check, and whether castling squares are safe. Without it, legal play becomes guesswork."
+    },
+    {
+      "id": "LES-025-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-111#4#B1",
+      "parent_prompt_trace": "KB-111#4#B1",
+      "text": "- **Requires:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Unlocks:** TOP-112 through TOP-115.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "id": "LES-025-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-111#5#B1",
+      "parent_prompt_trace": "KB-111#5#B1",
+      "text": "Most pieces attack with the same shape they use to capture. Pawns are the important exception: they move straight but attack diagonally forward. Sliding attacks stop at blockers and knights jump. For king safety, FIDE also counts a square as attacked when the attacker is constrained from moving because moving it would expose its own king.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "id": "LES-025-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-111#6#B1",
+      "parent_prompt_trace": "KB-111#6#B1",
+      "text": "1. Place one piece in the center.\n2. Ask your child to touch every square it watches.\n3. Add blockers for sliding pieces.\n4. Teach white and black pawn attacks separately.\n5. Mix two enemy pieces and map their combined danger squares.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "id": "LES-025-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-111#7#B1",
+      "parent_prompt_trace": "KB-111#7#B1",
+      "text": "Imagine every piece carrying a flashlight shaped like its capture pattern. Lit squares are attacked. A blocker stops a sliding flashlight; a knight's light jumps. Say: Show what the piece can take."
+    },
+    {
+      "id": "LES-025-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know?",
+      "source_trace": "KB-111#8#B1",
+      "parent_prompt_trace": "KB-111#8#B1",
+      "text": "An empty square can be attacked. The board's attack map exists before either player chooses a move."
+    },
+    {
+      "id": "LES-025-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-111#9#B1",
+      "parent_prompt_trace": "KB-111#9#B1",
+      "text": "**Future reviewed visual requirement:** One rook on d4 with its open attacked rank and file marked.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+      "diagram_id": "DGM-111-01",
+      "diagram_url": "assets/DGM-111-01.svg",
+      "position_id": "POS-ATTACKED-SQUARES-ROOK-001",
+      "position_version": 1,
+      "position_title": "Open rook attack map from d4",
+      "diagram_alt": "Open rook attack map from d4"
+    },
+    {
+      "id": "LES-025-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-111#10#B1",
+      "parent_prompt_trace": "KB-111#10#B1",
+      "text": "Find the piece, apply its capture shape, and respect blockers. For pawns, establish color and forward direction first. For a king destination, imagine the king there and recompute opponent attacks."
+    },
+    {
+      "id": "LES-025-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-111#11#B1",
+      "parent_prompt_trace": "KB-111#11#B1",
+      "text": "**Future reviewed visual requirement:** A bishop line stopped by a friendly pawn on one side and ending on a capturable enemy on the other.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+      "diagram_id": "DGM-111-02",
+      "diagram_url": "assets/DGM-111-02.svg",
+      "position_id": "POS-ATTACKED-SQUARES-BISHOP-BLOCKERS-001",
+      "position_version": 1,
+      "position_title": "Bishop attack line with two blocker types",
+      "diagram_alt": "Bishop attack line with two blocker types"
+    },
+    {
+      "id": "LES-025-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-111#12#B1",
+      "parent_prompt_trace": "KB-111#12#B1",
+      "text": "Before castling, a player must inspect the king's starting, transit, and destination squares. That decision depends directly on attacked-square recognition."
+    },
+    {
+      "id": "LES-025-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-111#13#B1",
+      "parent_prompt_trace": "KB-111#13#B1",
+      "text": "- Calling the square in front of a pawn attacked.\n- Looking through a blocker.\n- Forgetting knight attacks.\n- Confusing attacked with a good capture.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "id": "LES-025-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-111#14#B1",
+      "parent_prompt_trace": "KB-111#14#B1",
+      "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "id": "LES-025-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-111#15#B1",
+      "parent_prompt_trace": "KB-111#15#B1",
+      "text": "**Can an empty square be attacked?**  \nYes.\n\n**Does a pawn attack straight ahead?**  \nNo, it attacks diagonally forward.\n\n**Must an attacking piece capture?**  \nNo. Attack only describes control."
+    },
+    {
+      "id": "LES-025-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-111#16#B1",
+      "parent_prompt_trace": "KB-111#16#B1",
+      "text": "Play Flashlight Map. Cover every attacked square with a coin, change one blocker, and map again. Finish by adding a king and finding unsafe neighboring squares.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "id": "LES-025-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge",
+      "source_trace": "KB-111#17#B1",
+      "parent_prompt_trace": "KB-111#17#B1",
+      "text": "Use a pawn, knight, and slider together. Ask your child to mark all their attacked squares, including overlaps.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "id": "LES-025-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-111#18#B1",
+      "parent_prompt_trace": "KB-111#18#B1",
+      "text": "### Recognition\n**Question:** Map a knight's attacked squares from the center.  \n**Answer:** All legal L-shaped destinations.\n\n### Application\n**Question:** Does a pawn attack the square directly ahead?  \n**Answer:** No.\n\n### Challenge\n**Question:** Accept or reject a proposed king move after recomputing attacks.  \n**Answer:** The answer matches the resulting attack map."
+    },
+    {
+      "id": "LES-025-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-111#19#B1",
+      "parent_prompt_trace": "KB-111#19#B1",
+      "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "id": "LES-025-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-111#20#B1",
+      "parent_prompt_trace": "KB-111#20#B1",
+      "text": "- **Prerequisites:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Unlocks:** TOP-112 through TOP-115.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#ATTACKED_SQUARES`."
+    },
+    {
+      "id": "LES-025-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check",
+      "source_trace": "KB-111#21#B1",
+      "parent_prompt_trace": "KB-111#21#B1",
+      "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+    }
+  ],
+  "task_references": [
+    "PZL-025-01",
+    "PZL-025-02",
+    "PZL-025-03",
+    "PZL-025-04"
+  ],
+  "diagram_references": [
+    "DGM-111-01",
+    "DGM-111-02"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-025",
+  "deferred_topics": [
+    {
+      "topic": "Defended squares",
+      "defer_to": "TOP-112"
+    },
+    {
+      "topic": "Legal and illegal moves",
+      "defer_to": "TOP-113"
+    },
+    {
+      "topic": "Illegal king moves",
+      "defer_to": "TOP-114"
+    }
+  ],
+  "teach_slides": [
+    {
+      "id": "LES-025-S01",
+      "type": "INTRO",
+      "title": "Chess flashlights",
+      "text": "An attacked square is controlled even when it is empty.",
+      "parent_prompt": "Introduce each piece's capture pattern as a flashlight that lights controlled squares.",
+      "diagram_id": "DGM-111-01",
+      "diagram_url": "assets/DGM-111-01.svg",
+      "visual": {
+        "diagram_id": "DGM-111-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ATTACKED-SQUARES-ROOK-001",
+      "position_version": 1,
+      "position_title": "Open rook attack map from d4",
+      "diagram_alt": "Open rook attack map from d4"
+    },
+    {
+      "id": "LES-025-S02",
+      "type": "DIAGRAM",
+      "title": "The rook's attack map",
+      "text": "With no blockers the rook attacks along the whole rank and file.",
+      "parent_prompt": "Start at d4 and trace each rook ray to the edge.",
+      "diagram_id": "DGM-111-01",
+      "diagram_url": "assets/DGM-111-01.svg",
+      "visual": {
+        "diagram_id": "DGM-111-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ATTACKED-SQUARES-ROOK-001",
+      "position_version": 1,
+      "position_title": "Open rook attack map from d4",
+      "diagram_alt": "Open rook attack map from d4"
+    },
+    {
+      "id": "LES-025-S03",
+      "type": "DIAGRAM",
+      "title": "Attacks stop at blockers",
+      "text": "A slider cannot attack through a blocker but it can attack an enemy on the endpoint.",
+      "parent_prompt": "Trace from d4 and stop at the first piece in each marked direction.",
+      "diagram_id": "DGM-111-02",
+      "diagram_url": "assets/DGM-111-02.svg",
+      "visual": {
+        "diagram_id": "DGM-111-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ATTACKED-SQUARES-BISHOP-BLOCKERS-001",
+      "position_version": 1,
+      "position_title": "Bishop attack line with two blocker types",
+      "diagram_alt": "Bishop attack line with two blocker types"
+    },
+    {
+      "id": "LES-025-S04",
+      "type": "PHYSICAL_ACTIVITY",
+      "title": "Flashlight Map",
+      "text": "Point first explain second then move the blocker and map again.",
+      "parent_prompt": "Play Flashlight Map by covering every attacked square with a coin and changing one blocker.",
+      "visual": {
+        "sticker": "detective",
+        "layout": "TEXT_ONLY",
+        "sticker_url": "assets/detective.svg",
+        "sticker_alt": "Chess detective searching for setup clues"
+      }
+    },
+    {
+      "id": "LES-025-S05",
+      "type": "QUESTION",
+      "title": "Knight lights",
+      "text": "Which squares does the knight attack?",
+      "parent_prompt": "Place a knight centrally and ask the child to point to every L-shaped attacked square.",
+      "reveal": "Every legal L-shaped destination; blockers do not stop the knight.",
+      "diagram_id": "DGM-111-02",
+      "diagram_url": "assets/DGM-111-02.svg",
+      "visual": {
+        "diagram_id": "DGM-111-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ATTACKED-SQUARES-BISHOP-BLOCKERS-001",
+      "position_version": 1,
+      "position_title": "Bishop attack line with two blocker types",
+      "diagram_alt": "Bishop attack line with two blocker types"
+    },
+    {
+      "id": "LES-025-S06",
+      "type": "QUESTION",
+      "title": "The pawn exception",
+      "text": "Does a pawn attack straight ahead?",
+      "parent_prompt": "Place a White pawn and ask whether it attacks the square directly ahead.",
+      "reveal": "No. A White pawn attacks one square diagonally forward on each side.",
+      "diagram_id": "DGM-111-02",
+      "diagram_url": "assets/DGM-111-02.svg",
+      "visual": {
+        "diagram_id": "DGM-111-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ATTACKED-SQUARES-BISHOP-BLOCKERS-001",
+      "position_version": 1,
+      "position_title": "Bishop attack line with two blocker types",
+      "diagram_alt": "Bishop attack line with two blocker types"
+    },
+    {
+      "id": "LES-025-S07",
+      "type": "ASSESSMENT",
+      "title": "Check your attack vision",
+      "text": "Map the controlled squares and explain where each ray stops.",
+      "parent_prompt": "Check a one-piece attack map then add a blocker and ask the child to explain what changed.",
+      "diagram_id": "DGM-111-02",
+      "diagram_url": "assets/DGM-111-02.svg",
+      "visual": {
+        "diagram_id": "DGM-111-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ATTACKED-SQUARES-BISHOP-BLOCKERS-001",
+      "position_version": 1,
+      "position_title": "Bishop attack line with two blocker types",
+      "diagram_alt": "Bishop attack line with two blocker types"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-025-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-111#1#B1",
+      "parent_prompt_trace": "KB-111#1#B1",
+      "text": "- **Today's goal:** Your child can point to every square attacked by a displayed piece.\n- **Prerequisites:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "id": "LES-025-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-111#2#B1",
+      "parent_prompt_trace": "KB-111#2#B1",
+      "text": "A piece attacks a square when it could capture an opponent placed there according to its movement rules. Attack describes control of a square; it does not say that a capture is required or wise."
+    },
+    {
+      "id": "LES-025-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-111#3#B1",
+      "parent_prompt_trace": "KB-111#3#B1",
+      "text": "Attacked-square vision tells a child where a king may move, whether a king is in check, and whether castling squares are safe. Without it, legal play becomes guesswork."
+    },
+    {
+      "id": "LES-025-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-111#4#B1",
+      "parent_prompt_trace": "KB-111#4#B1",
+      "text": "- **Requires:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Unlocks:** TOP-112 through TOP-115.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "id": "LES-025-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-111#5#B1",
+      "parent_prompt_trace": "KB-111#5#B1",
+      "text": "Most pieces attack with the same shape they use to capture. Pawns are the important exception: they move straight but attack diagonally forward. Sliding attacks stop at blockers and knights jump. For king safety, FIDE also counts a square as attacked when the attacker is constrained from moving because moving it would expose its own king.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "id": "LES-025-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-111#6#B1",
+      "parent_prompt_trace": "KB-111#6#B1",
+      "text": "1. Place one piece in the center.\n2. Ask your child to touch every square it watches.\n3. Add blockers for sliding pieces.\n4. Teach white and black pawn attacks separately.\n5. Mix two enemy pieces and map their combined danger squares.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "id": "LES-025-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-111#7#B1",
+      "parent_prompt_trace": "KB-111#7#B1",
+      "text": "Imagine every piece carrying a flashlight shaped like its capture pattern. Lit squares are attacked. A blocker stops a sliding flashlight; a knight's light jumps. Say: Show what the piece can take."
+    },
+    {
+      "id": "LES-025-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know?",
+      "source_trace": "KB-111#8#B1",
+      "parent_prompt_trace": "KB-111#8#B1",
+      "text": "An empty square can be attacked. The board's attack map exists before either player chooses a move."
+    },
+    {
+      "id": "LES-025-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-111#9#B1",
+      "parent_prompt_trace": "KB-111#9#B1",
+      "text": "**Future reviewed visual requirement:** One rook on d4 with its open attacked rank and file marked.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+      "diagram_id": "DGM-111-01",
+      "diagram_url": "assets/DGM-111-01.svg",
+      "position_id": "POS-ATTACKED-SQUARES-ROOK-001",
+      "position_version": 1,
+      "position_title": "Open rook attack map from d4",
+      "diagram_alt": "Open rook attack map from d4"
+    },
+    {
+      "id": "LES-025-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-111#10#B1",
+      "parent_prompt_trace": "KB-111#10#B1",
+      "text": "Find the piece, apply its capture shape, and respect blockers. For pawns, establish color and forward direction first. For a king destination, imagine the king there and recompute opponent attacks."
+    },
+    {
+      "id": "LES-025-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-111#11#B1",
+      "parent_prompt_trace": "KB-111#11#B1",
+      "text": "**Future reviewed visual requirement:** A bishop line stopped by a friendly pawn on one side and ending on a capturable enemy on the other.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+      "diagram_id": "DGM-111-02",
+      "diagram_url": "assets/DGM-111-02.svg",
+      "position_id": "POS-ATTACKED-SQUARES-BISHOP-BLOCKERS-001",
+      "position_version": 1,
+      "position_title": "Bishop attack line with two blocker types",
+      "diagram_alt": "Bishop attack line with two blocker types"
+    },
+    {
+      "id": "LES-025-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-111#12#B1",
+      "parent_prompt_trace": "KB-111#12#B1",
+      "text": "Before castling, a player must inspect the king's starting, transit, and destination squares. That decision depends directly on attacked-square recognition."
+    },
+    {
+      "id": "LES-025-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-111#13#B1",
+      "parent_prompt_trace": "KB-111#13#B1",
+      "text": "- Calling the square in front of a pawn attacked.\n- Looking through a blocker.\n- Forgetting knight attacks.\n- Confusing attacked with a good capture.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "id": "LES-025-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-111#14#B1",
+      "parent_prompt_trace": "KB-111#14#B1",
+      "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "id": "LES-025-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-111#15#B1",
+      "parent_prompt_trace": "KB-111#15#B1",
+      "text": "**Can an empty square be attacked?**  \nYes.\n\n**Does a pawn attack straight ahead?**  \nNo, it attacks diagonally forward.\n\n**Must an attacking piece capture?**  \nNo. Attack only describes control."
+    },
+    {
+      "id": "LES-025-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-111#16#B1",
+      "parent_prompt_trace": "KB-111#16#B1",
+      "text": "Play Flashlight Map. Cover every attacked square with a coin, change one blocker, and map again. Finish by adding a king and finding unsafe neighboring squares.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "id": "LES-025-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge",
+      "source_trace": "KB-111#17#B1",
+      "parent_prompt_trace": "KB-111#17#B1",
+      "text": "Use a pawn, knight, and slider together. Ask your child to mark all their attacked squares, including overlaps.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "id": "LES-025-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-111#18#B1",
+      "parent_prompt_trace": "KB-111#18#B1",
+      "text": "### Recognition\n**Question:** Map a knight's attacked squares from the center.  \n**Answer:** All legal L-shaped destinations.\n\n### Application\n**Question:** Does a pawn attack the square directly ahead?  \n**Answer:** No.\n\n### Challenge\n**Question:** Accept or reject a proposed king move after recomputing attacks.  \n**Answer:** The answer matches the resulting attack map."
+    },
+    {
+      "id": "LES-025-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-111#19#B1",
+      "parent_prompt_trace": "KB-111#19#B1",
+      "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "id": "LES-025-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-111#20#B1",
+      "parent_prompt_trace": "KB-111#20#B1",
+      "text": "- **Prerequisites:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Unlocks:** TOP-112 through TOP-115.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#ATTACKED_SQUARES`."
+    },
+    {
+      "id": "LES-025-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check",
+      "source_trace": "KB-111#21#B1",
+      "parent_prompt_trace": "KB-111#21#B1",
+      "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+    }
+  ],
+  "title": "Attacked Squares",
+  "duration_minutes": 20,
+  "memory_phrase": "Show what the piece can take.",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 20,
+    "slides": [
+      {
+        "id": "LES-025-S01",
+        "type": "INTRO",
+        "title": "Chess flashlights",
+        "text": "An attacked square is controlled even when it is empty.",
+        "parent_prompt": "Introduce each piece's capture pattern as a flashlight that lights controlled squares.",
+        "diagram_id": "DGM-111-01",
+        "diagram_url": "assets/DGM-111-01.svg",
+        "visual": {
+          "diagram_id": "DGM-111-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ATTACKED-SQUARES-ROOK-001",
+        "position_version": 1,
+        "position_title": "Open rook attack map from d4",
+        "diagram_alt": "Open rook attack map from d4"
+      },
+      {
+        "id": "LES-025-S02",
+        "type": "DIAGRAM",
+        "title": "The rook's attack map",
+        "text": "With no blockers the rook attacks along the whole rank and file.",
+        "parent_prompt": "Start at d4 and trace each rook ray to the edge.",
+        "diagram_id": "DGM-111-01",
+        "diagram_url": "assets/DGM-111-01.svg",
+        "visual": {
+          "diagram_id": "DGM-111-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ATTACKED-SQUARES-ROOK-001",
+        "position_version": 1,
+        "position_title": "Open rook attack map from d4",
+        "diagram_alt": "Open rook attack map from d4"
+      },
+      {
+        "id": "LES-025-S03",
+        "type": "DIAGRAM",
+        "title": "Attacks stop at blockers",
+        "text": "A slider cannot attack through a blocker but it can attack an enemy on the endpoint.",
+        "parent_prompt": "Trace from d4 and stop at the first piece in each marked direction.",
+        "diagram_id": "DGM-111-02",
+        "diagram_url": "assets/DGM-111-02.svg",
+        "visual": {
+          "diagram_id": "DGM-111-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ATTACKED-SQUARES-BISHOP-BLOCKERS-001",
+        "position_version": 1,
+        "position_title": "Bishop attack line with two blocker types",
+        "diagram_alt": "Bishop attack line with two blocker types"
+      },
+      {
+        "id": "LES-025-S04",
+        "type": "PHYSICAL_ACTIVITY",
+        "title": "Flashlight Map",
+        "text": "Point first explain second then move the blocker and map again.",
+        "parent_prompt": "Play Flashlight Map by covering every attacked square with a coin and changing one blocker.",
+        "visual": {
+          "sticker": "detective",
+          "layout": "TEXT_ONLY",
+          "sticker_url": "assets/detective.svg",
+          "sticker_alt": "Chess detective searching for setup clues"
+        }
+      },
+      {
+        "id": "LES-025-S05",
+        "type": "QUESTION",
+        "title": "Knight lights",
+        "text": "Which squares does the knight attack?",
+        "parent_prompt": "Place a knight centrally and ask the child to point to every L-shaped attacked square.",
+        "reveal": "Every legal L-shaped destination; blockers do not stop the knight.",
+        "diagram_id": "DGM-111-02",
+        "diagram_url": "assets/DGM-111-02.svg",
+        "visual": {
+          "diagram_id": "DGM-111-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ATTACKED-SQUARES-BISHOP-BLOCKERS-001",
+        "position_version": 1,
+        "position_title": "Bishop attack line with two blocker types",
+        "diagram_alt": "Bishop attack line with two blocker types"
+      },
+      {
+        "id": "LES-025-S06",
+        "type": "QUESTION",
+        "title": "The pawn exception",
+        "text": "Does a pawn attack straight ahead?",
+        "parent_prompt": "Place a White pawn and ask whether it attacks the square directly ahead.",
+        "reveal": "No. A White pawn attacks one square diagonally forward on each side.",
+        "diagram_id": "DGM-111-02",
+        "diagram_url": "assets/DGM-111-02.svg",
+        "visual": {
+          "diagram_id": "DGM-111-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ATTACKED-SQUARES-BISHOP-BLOCKERS-001",
+        "position_version": 1,
+        "position_title": "Bishop attack line with two blocker types",
+        "diagram_alt": "Bishop attack line with two blocker types"
+      },
+      {
+        "id": "LES-025-S07",
+        "type": "ASSESSMENT",
+        "title": "Check your attack vision",
+        "text": "Map the controlled squares and explain where each ray stops.",
+        "parent_prompt": "Check a one-piece attack map then add a blocker and ask the child to explain what changed.",
+        "diagram_id": "DGM-111-02",
+        "diagram_url": "assets/DGM-111-02.svg",
+        "visual": {
+          "diagram_id": "DGM-111-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ATTACKED-SQUARES-BISHOP-BLOCKERS-001",
+        "position_version": 1,
+        "position_title": "Bishop attack line with two blocker types",
+        "diagram_alt": "Bishop attack line with two blocker types"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-025-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-111#1#B1",
+        "parent_prompt_trace": "KB-111#1#B1",
+        "text": "- **Today's goal:** Your child can point to every square attacked by a displayed piece.\n- **Prerequisites:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+      },
+      {
+        "id": "LES-025-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-111#2#B1",
+        "parent_prompt_trace": "KB-111#2#B1",
+        "text": "A piece attacks a square when it could capture an opponent placed there according to its movement rules. Attack describes control of a square; it does not say that a capture is required or wise."
+      },
+      {
+        "id": "LES-025-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-111#3#B1",
+        "parent_prompt_trace": "KB-111#3#B1",
+        "text": "Attacked-square vision tells a child where a king may move, whether a king is in check, and whether castling squares are safe. Without it, legal play becomes guesswork."
+      },
+      {
+        "id": "LES-025-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-111#4#B1",
+        "parent_prompt_trace": "KB-111#4#B1",
+        "text": "- **Requires:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Unlocks:** TOP-112 through TOP-115.\n- Start with an uncluttered physical board and add complexity gradually."
+      },
+      {
+        "id": "LES-025-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-111#5#B1",
+        "parent_prompt_trace": "KB-111#5#B1",
+        "text": "Most pieces attack with the same shape they use to capture. Pawns are the important exception: they move straight but attack diagonally forward. Sliding attacks stop at blockers and knights jump. For king safety, FIDE also counts a square as attacked when the attacker is constrained from moving because moving it would expose its own king.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+      },
+      {
+        "id": "LES-025-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-111#6#B1",
+        "parent_prompt_trace": "KB-111#6#B1",
+        "text": "1. Place one piece in the center.\n2. Ask your child to touch every square it watches.\n3. Add blockers for sliding pieces.\n4. Teach white and black pawn attacks separately.\n5. Mix two enemy pieces and map their combined danger squares.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+      },
+      {
+        "id": "LES-025-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-111#7#B1",
+        "parent_prompt_trace": "KB-111#7#B1",
+        "text": "Imagine every piece carrying a flashlight shaped like its capture pattern. Lit squares are attacked. A blocker stops a sliding flashlight; a knight's light jumps. Say: Show what the piece can take."
+      },
+      {
+        "id": "LES-025-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know?",
+        "source_trace": "KB-111#8#B1",
+        "parent_prompt_trace": "KB-111#8#B1",
+        "text": "An empty square can be attacked. The board's attack map exists before either player chooses a move."
+      },
+      {
+        "id": "LES-025-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-111#9#B1",
+        "parent_prompt_trace": "KB-111#9#B1",
+        "text": "**Future reviewed visual requirement:** One rook on d4 with its open attacked rank and file marked.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+        "diagram_id": "DGM-111-01",
+        "diagram_url": "assets/DGM-111-01.svg",
+        "position_id": "POS-ATTACKED-SQUARES-ROOK-001",
+        "position_version": 1,
+        "position_title": "Open rook attack map from d4",
+        "diagram_alt": "Open rook attack map from d4"
+      },
+      {
+        "id": "LES-025-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-111#10#B1",
+        "parent_prompt_trace": "KB-111#10#B1",
+        "text": "Find the piece, apply its capture shape, and respect blockers. For pawns, establish color and forward direction first. For a king destination, imagine the king there and recompute opponent attacks."
+      },
+      {
+        "id": "LES-025-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-111#11#B1",
+        "parent_prompt_trace": "KB-111#11#B1",
+        "text": "**Future reviewed visual requirement:** A bishop line stopped by a friendly pawn on one side and ending on a capturable enemy on the other.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+        "diagram_id": "DGM-111-02",
+        "diagram_url": "assets/DGM-111-02.svg",
+        "position_id": "POS-ATTACKED-SQUARES-BISHOP-BLOCKERS-001",
+        "position_version": 1,
+        "position_title": "Bishop attack line with two blocker types",
+        "diagram_alt": "Bishop attack line with two blocker types"
+      },
+      {
+        "id": "LES-025-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-111#12#B1",
+        "parent_prompt_trace": "KB-111#12#B1",
+        "text": "Before castling, a player must inspect the king's starting, transit, and destination squares. That decision depends directly on attacked-square recognition."
+      },
+      {
+        "id": "LES-025-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-111#13#B1",
+        "parent_prompt_trace": "KB-111#13#B1",
+        "text": "- Calling the square in front of a pawn attacked.\n- Looking through a blocker.\n- Forgetting knight attacks.\n- Confusing attacked with a good capture.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+      },
+      {
+        "id": "LES-025-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-111#14#B1",
+        "parent_prompt_trace": "KB-111#14#B1",
+        "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+      },
+      {
+        "id": "LES-025-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-111#15#B1",
+        "parent_prompt_trace": "KB-111#15#B1",
+        "text": "**Can an empty square be attacked?**  \nYes.\n\n**Does a pawn attack straight ahead?**  \nNo, it attacks diagonally forward.\n\n**Must an attacking piece capture?**  \nNo. Attack only describes control."
+      },
+      {
+        "id": "LES-025-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-111#16#B1",
+        "parent_prompt_trace": "KB-111#16#B1",
+        "text": "Play Flashlight Map. Cover every attacked square with a coin, change one blocker, and map again. Finish by adding a king and finding unsafe neighboring squares.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+      },
+      {
+        "id": "LES-025-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge",
+        "source_trace": "KB-111#17#B1",
+        "parent_prompt_trace": "KB-111#17#B1",
+        "text": "Use a pawn, knight, and slider together. Ask your child to mark all their attacked squares, including overlaps.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+      },
+      {
+        "id": "LES-025-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-111#18#B1",
+        "parent_prompt_trace": "KB-111#18#B1",
+        "text": "### Recognition\n**Question:** Map a knight's attacked squares from the center.  \n**Answer:** All legal L-shaped destinations.\n\n### Application\n**Question:** Does a pawn attack the square directly ahead?  \n**Answer:** No.\n\n### Challenge\n**Question:** Accept or reject a proposed king move after recomputing attacks.  \n**Answer:** The answer matches the resulting attack map."
+      },
+      {
+        "id": "LES-025-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-111#19#B1",
+        "parent_prompt_trace": "KB-111#19#B1",
+        "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+      },
+      {
+        "id": "LES-025-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-111#20#B1",
+        "parent_prompt_trace": "KB-111#20#B1",
+        "text": "- **Prerequisites:** piece movement, capturing, and TOP-110 Blocked and Unblocked Movement Lines.\n- **Unlocks:** TOP-112 through TOP-115.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#ATTACKED_SQUARES`."
+      },
+      {
+        "id": "LES-025-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check",
+        "source_trace": "KB-111#21#B1",
+        "parent_prompt_trace": "KB-111#21#B1",
+        "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+      }
+    ]
+  }
+}

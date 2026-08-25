@@ -1,0 +1,28 @@
+schema_version: 1
+diagram_id: DGM-111-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-ATTACKED-SQUARES-BISHOP-BLOCKERS-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: BISHOP
+    square: d4
+  - color: WHITE
+    piece_type: PAWN
+    square: b2
+  - color: BLACK
+    piece_type: KNIGHT
+    square: g7
+position_sha256: 91393d99837fe64726b0081061f8763e32a72d2c9b673c677343bca59137b81b
+presentation_sha256: 240002e9722a9a1e342945f62b931fd102cbe790242b50af4d7ae6908e921758
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-111#11#B1
+review_status: APPROVED
+reviewed_artifact_sha256: aeaff4e368fdfe4fc133574bd7bea8774154a563a7baa333b1f99a1f7e07445b
+output_svg_sha256: aeaff4e368fdfe4fc133574bd7bea8774154a563a7baa333b1f99a1f7e07445b

@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-025",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-025-01",
+      "kb_id": "KB-111",
+      "lesson_id": "LES-025",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Can an empty square be attacked?",
+      "hint": "Imagine an opponent piece appearing there.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Yes. Attack describes control and does not require a piece to be present."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-025.yaml",
+        "source_sha256": "d3de60ba97c1380aabf07676a1b5afc0e0767323419217f029b383747711740c",
+        "field": "exercises",
+        "anchor": "EX-025-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-025-02",
+      "kb_id": "KB-111",
+      "lesson_id": "LES-025",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What happens to a bishop's attack ray when it reaches a blocker?",
+      "hint": "The flashlight cannot shine through a piece.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The ray stops at the first blocker and does not continue beyond it."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-025.yaml",
+        "source_sha256": "d3de60ba97c1380aabf07676a1b5afc0e0767323419217f029b383747711740c",
+        "field": "exercises",
+        "anchor": "EX-025-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-025-03",
+      "kb_id": "KB-111",
+      "lesson_id": "LES-025",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Does a pawn attack the square directly in front of it?",
+      "hint": "Movement and capture shapes differ for pawns.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. A pawn moves forward but attacks diagonally forward."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-025.yaml",
+        "source_sha256": "d3de60ba97c1380aabf07676a1b5afc0e0767323419217f029b383747711740c",
+        "field": "exercises",
+        "anchor": "EX-025-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-025-04",
+      "kb_id": "KB-111",
+      "lesson_id": "LES-025",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Can a knight attack a square beyond another piece?",
+      "hint": "Think of the L-shaped jump.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Yes. Knights jump"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-025.yaml",
+        "source_sha256": "d3de60ba97c1380aabf07676a1b5afc0e0767323419217f029b383747711740c",
+        "field": "exercises",
+        "anchor": "EX-025-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

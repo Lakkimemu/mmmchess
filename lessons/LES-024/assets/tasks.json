@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-024",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-024-01",
+      "kb_id": "KB-110",
+      "lesson_id": "LES-024",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "A rook has a friendly pawn ahead. Where does its road end?",
+      "hint": "A teammate is a red light.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "On the last empty square before the pawn."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-024.yaml",
+        "source_sha256": "b4703b24aa3f6e8765e127827cc6a0a3dbcd7e8d2ac1b1e76dfa524f01873261",
+        "field": "exercises",
+        "anchor": "EX-024-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-024-02",
+      "kb_id": "KB-110",
+      "lesson_id": "LES-024",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "A bishop meets an enemy knight first on its diagonal. May it capture?",
+      "hint": "An enemy is a capture-and-stop light.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Yes. It may capture the knight and stops on that square."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-024.yaml",
+        "source_sha256": "b4703b24aa3f6e8765e127827cc6a0a3dbcd7e8d2ac1b1e76dfa524f01873261",
+        "field": "exercises",
+        "anchor": "EX-024-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-024-03",
+      "kb_id": "KB-110",
+      "lesson_id": "LES-024",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Can a queen jump over the first piece on one of its lines?",
+      "hint": "First piece final stop.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. A queen is a sliding piece and the first occupied square ends its line."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-024.yaml",
+        "source_sha256": "b4703b24aa3f6e8765e127827cc6a0a3dbcd7e8d2ac1b1e76dfa524f01873261",
+        "field": "exercises",
+        "anchor": "EX-024-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-024-04",
+      "kb_id": "KB-110",
+      "lesson_id": "LES-024",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Does this blocker rule apply to a knight?",
+      "hint": "Knights are different.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. A knight jumps although it still cannot land on a friendly piece."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-024.yaml",
+        "source_sha256": "b4703b24aa3f6e8765e127827cc6a0a3dbcd7e8d2ac1b1e76dfa524f01873261",
+        "field": "exercises",
+        "anchor": "EX-024-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,1161 @@
+{
+  "lesson_id": "LES-024",
+  "kb_id": "KB-110",
+  "topic_id": "TOP-110",
+  "unit_id": "UNT-001",
+  "sequence": 24,
+  "objective": "- **Today's goal:** Your child can show exactly where a bishop, rook, or queen line stops.\n- **Prerequisites:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Success:** Your child explains the answer and demonstrates it on a physical board.",
+  "success_criteria": "- **Today's goal:** Your child can show exactly where a bishop, rook, or queen line stops.\n- **Prerequisites:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Success:** Your child explains the answer and demonstrates it on a physical board.",
+  "source_traces": {
+    "objective": "KB-110#1#B1",
+    "success_criteria": "KB-110#1#B1"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-110#1",
+      "content": "- **Today's goal:** Your child can show exactly where a bishop, rook, or queen line stops.\n- **Prerequisites:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-110#2",
+      "content": "Bishops, rooks, and queens are sliding pieces. They may travel across open squares allowed by their movement pattern, but they cannot jump. The first occupied square ends the line."
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-110#3",
+      "content": "A child who looks through blockers will make illegal moves and misunderstand captures, checks, and protection. This small rule supports almost every later board-reading skill."
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-110#4",
+      "content": "- **Requires:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Unlocks:** TOP-111 Attacked Squares.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-110#5",
+      "content": "There are two blocker cases. If your own piece is first on the road, stop before it because you cannot capture a teammate. If an opponent's piece is first, you may capture it and stop on its square. In both cases, squares beyond that first piece are unavailable on this move. Knights are different because they jump.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-110#6",
+      "content": "1. Put a rook on an empty board and trace one open road.\n2. Add a friendly pawn and ask where the rook must stop.\n3. Replace it with an enemy pawn and show capture-and-stop.\n4. Repeat on a diagonal with a bishop.\n5. Finish with a queen and inspect several roads.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-110#7",
+      "content": "Call each sliding line a road. A friendly piece is a red light: stop before it. An enemy piece is a capture-and-stop light. Use the phrase: First piece, final stop."
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know?",
+      "source_trace": "KB-110#8",
+      "content": "One move can open a blocked line or close an open line. Good players therefore recheck long roads after every move."
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-110#9",
+      "content": "**Future reviewed visual requirement:** A white rook on a1 with a friendly pawn on a4; mark reachable squares only through a3.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication."
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-110#10",
+      "content": "Start beside the slider and inspect one square at a time. Empty squares remain available. Stop at the first occupied square. Its color tells you whether to stop before it or capture and stop on it."
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-110#11",
+      "content": "**Future reviewed visual requirement:** A white bishop on b1 with a black pawn on e4; show that e4 is capturable and squares beyond it are not yet reachable.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram."
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-110#12",
+      "content": "In the starting position, both rooks are blocked by their own pieces. Their movement power exists, but no road is open yet."
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-110#13",
+      "content": "- Jumping a blocker with a queen.\n- Stopping before an enemy instead of seeing the capture.\n- Continuing beyond a captured piece.\n- Applying the rule to a knight.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-110#14",
+      "content": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-110#15",
+      "content": "**Can a slider capture two pieces on one line?**  \nNo. Capturing the first enemy ends the move.\n\n**Does piece value change the movement rule?**  \nNo. Value affects whether a capture is wise, not whether the line is open.\n\n**Can a knight jump both colors?**  \nYes, but it may not land on a friendly piece."
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-110#16",
+      "content": "Play Traffic Lights. Put a slider in the center and add one friendly or enemy blocker. Your child marks the final reachable square with a coin. Change one blocker each round.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge",
+      "source_trace": "KB-110#17",
+      "content": "Give the queen several roads: one open, one friendly-blocked, and one enemy-blocked. Ask for every final square without moving the queen.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-110#18",
+      "content": "### Recognition\n**Question:** A rook has a friendly pawn ahead. Where does its road end?  \n**Answer:** Before the pawn.\n\n### Application\n**Question:** A bishop meets an enemy knight first on its diagonal. May it capture?  \n**Answer:** Yes, and it stops on that square.\n\n### Challenge\n**Question:** Mark the final square on every queen line in a mixed position.  \n**Answer:** Every open and blocked line is marked correctly."
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-110#19",
+      "content": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-110#20",
+      "content": "- **Prerequisites:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Unlocks:** TOP-111 Attacked Squares.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#BLOCKED_UNBLOCKED_LINES`."
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check",
+      "source_trace": "KB-110#21",
+      "content": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts.\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  canonical_sections: 21\n  diagrams_required: 2\n  mini_puzzles: 3\n  coach_challenges: 1\n  practice_activities: 1\n  parent_faq: 3\n  evidence_source: BOARD-LEGAL-PLAY-01\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-024-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-110#1#B1",
+      "parent_prompt_trace": "KB-110#1#B1",
+      "text": "- **Today's goal:** Your child can show exactly where a bishop, rook, or queen line stops.\n- **Prerequisites:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "id": "LES-024-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-110#2#B1",
+      "parent_prompt_trace": "KB-110#2#B1",
+      "text": "Bishops, rooks, and queens are sliding pieces. They may travel across open squares allowed by their movement pattern, but they cannot jump. The first occupied square ends the line."
+    },
+    {
+      "id": "LES-024-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-110#3#B1",
+      "parent_prompt_trace": "KB-110#3#B1",
+      "text": "A child who looks through blockers will make illegal moves and misunderstand captures, checks, and protection. This small rule supports almost every later board-reading skill."
+    },
+    {
+      "id": "LES-024-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-110#4#B1",
+      "parent_prompt_trace": "KB-110#4#B1",
+      "text": "- **Requires:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Unlocks:** TOP-111 Attacked Squares.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "id": "LES-024-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-110#5#B1",
+      "parent_prompt_trace": "KB-110#5#B1",
+      "text": "There are two blocker cases. If your own piece is first on the road, stop before it because you cannot capture a teammate. If an opponent's piece is first, you may capture it and stop on its square. In both cases, squares beyond that first piece are unavailable on this move. Knights are different because they jump.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "id": "LES-024-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-110#6#B1",
+      "parent_prompt_trace": "KB-110#6#B1",
+      "text": "1. Put a rook on an empty board and trace one open road.\n2. Add a friendly pawn and ask where the rook must stop.\n3. Replace it with an enemy pawn and show capture-and-stop.\n4. Repeat on a diagonal with a bishop.\n5. Finish with a queen and inspect several roads.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "id": "LES-024-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-110#7#B1",
+      "parent_prompt_trace": "KB-110#7#B1",
+      "text": "Call each sliding line a road. A friendly piece is a red light: stop before it. An enemy piece is a capture-and-stop light. Use the phrase: First piece, final stop."
+    },
+    {
+      "id": "LES-024-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know?",
+      "source_trace": "KB-110#8#B1",
+      "parent_prompt_trace": "KB-110#8#B1",
+      "text": "One move can open a blocked line or close an open line. Good players therefore recheck long roads after every move."
+    },
+    {
+      "id": "LES-024-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-110#9#B1",
+      "parent_prompt_trace": "KB-110#9#B1",
+      "text": "**Future reviewed visual requirement:** A white rook on a1 with a friendly pawn on a4; mark reachable squares only through a3.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+      "diagram_id": "DGM-110-01",
+      "diagram_url": "assets/DGM-110-01.svg",
+      "position_id": "POS-ROOK-FRIENDLY-BLOCKER-001",
+      "position_version": 1,
+      "position_title": "Rook road stopped by a friendly pawn",
+      "diagram_alt": "Rook road stopped by a friendly pawn"
+    },
+    {
+      "id": "LES-024-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-110#10#B1",
+      "parent_prompt_trace": "KB-110#10#B1",
+      "text": "Start beside the slider and inspect one square at a time. Empty squares remain available. Stop at the first occupied square. Its color tells you whether to stop before it or capture and stop on it."
+    },
+    {
+      "id": "LES-024-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-110#11#B1",
+      "parent_prompt_trace": "KB-110#11#B1",
+      "text": "**Future reviewed visual requirement:** A white bishop on b1 with a black pawn on e4; show that e4 is capturable and squares beyond it are not yet reachable.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+      "diagram_id": "DGM-110-02",
+      "diagram_url": "assets/DGM-110-02.svg",
+      "position_id": "POS-BISHOP-ENEMY-BLOCKER-001",
+      "position_version": 1,
+      "position_title": "Bishop captures and stops at the first enemy",
+      "diagram_alt": "Bishop captures and stops at the first enemy"
+    },
+    {
+      "id": "LES-024-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-110#12#B1",
+      "parent_prompt_trace": "KB-110#12#B1",
+      "text": "In the starting position, both rooks are blocked by their own pieces. Their movement power exists, but no road is open yet."
+    },
+    {
+      "id": "LES-024-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-110#13#B1",
+      "parent_prompt_trace": "KB-110#13#B1",
+      "text": "- Jumping a blocker with a queen.\n- Stopping before an enemy instead of seeing the capture.\n- Continuing beyond a captured piece.\n- Applying the rule to a knight.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "id": "LES-024-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-110#14#B1",
+      "parent_prompt_trace": "KB-110#14#B1",
+      "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "id": "LES-024-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-110#15#B1",
+      "parent_prompt_trace": "KB-110#15#B1",
+      "text": "**Can a slider capture two pieces on one line?**  \nNo. Capturing the first enemy ends the move.\n\n**Does piece value change the movement rule?**  \nNo. Value affects whether a capture is wise, not whether the line is open.\n\n**Can a knight jump both colors?**  \nYes, but it may not land on a friendly piece."
+    },
+    {
+      "id": "LES-024-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-110#16#B1",
+      "parent_prompt_trace": "KB-110#16#B1",
+      "text": "Play Traffic Lights. Put a slider in the center and add one friendly or enemy blocker. Your child marks the final reachable square with a coin. Change one blocker each round.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "id": "LES-024-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge",
+      "source_trace": "KB-110#17#B1",
+      "parent_prompt_trace": "KB-110#17#B1",
+      "text": "Give the queen several roads: one open, one friendly-blocked, and one enemy-blocked. Ask for every final square without moving the queen.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "id": "LES-024-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-110#18#B1",
+      "parent_prompt_trace": "KB-110#18#B1",
+      "text": "### Recognition\n**Question:** A rook has a friendly pawn ahead. Where does its road end?  \n**Answer:** Before the pawn.\n\n### Application\n**Question:** A bishop meets an enemy knight first on its diagonal. May it capture?  \n**Answer:** Yes, and it stops on that square.\n\n### Challenge\n**Question:** Mark the final square on every queen line in a mixed position.  \n**Answer:** Every open and blocked line is marked correctly."
+    },
+    {
+      "id": "LES-024-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-110#19#B1",
+      "parent_prompt_trace": "KB-110#19#B1",
+      "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "id": "LES-024-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-110#20#B1",
+      "parent_prompt_trace": "KB-110#20#B1",
+      "text": "- **Prerequisites:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Unlocks:** TOP-111 Attacked Squares.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#BLOCKED_UNBLOCKED_LINES`."
+    },
+    {
+      "id": "LES-024-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check",
+      "source_trace": "KB-110#21#B1",
+      "parent_prompt_trace": "KB-110#21#B1",
+      "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+    }
+  ],
+  "task_references": [
+    "PZL-024-01",
+    "PZL-024-02",
+    "PZL-024-03",
+    "PZL-024-04"
+  ],
+  "diagram_references": [
+    "DGM-110-01",
+    "DGM-110-02"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-024",
+  "deferred_topics": [
+    {
+      "topic": "Attacked squares",
+      "defer_to": "TOP-111"
+    },
+    {
+      "topic": "Check and protection",
+      "defer_to": "TOP-118"
+    }
+  ],
+  "teach_slides": [
+    {
+      "id": "LES-024-S01",
+      "type": "INTRO",
+      "title": "Chess roads",
+      "text": "First piece final stop.",
+      "parent_prompt": "Explain that bishops rooks and queens travel on roads but cannot jump.",
+      "diagram_id": "DGM-110-01",
+      "diagram_url": "assets/DGM-110-01.svg",
+      "visual": {
+        "diagram_id": "DGM-110-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ROOK-FRIENDLY-BLOCKER-001",
+      "position_version": 1,
+      "position_title": "Rook road stopped by a friendly pawn",
+      "diagram_alt": "Rook road stopped by a friendly pawn"
+    },
+    {
+      "id": "LES-024-S02",
+      "type": "DIAGRAM",
+      "title": "Friendly red light",
+      "text": "The rook can reach a2 and a3 but must stop before its teammate on a4.",
+      "parent_prompt": "Trace from a1 and ask for the last reachable square before the friendly pawn.",
+      "diagram_id": "DGM-110-01",
+      "diagram_url": "assets/DGM-110-01.svg",
+      "visual": {
+        "diagram_id": "DGM-110-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ROOK-FRIENDLY-BLOCKER-001",
+      "position_version": 1,
+      "position_title": "Rook road stopped by a friendly pawn",
+      "diagram_alt": "Rook road stopped by a friendly pawn"
+    },
+    {
+      "id": "LES-024-S03",
+      "type": "DIAGRAM",
+      "title": "Capture and stop",
+      "text": "The bishop may capture the pawn on e4 and then the move ends.",
+      "parent_prompt": "Trace the bishop diagonal and ask whether it may land on the enemy pawn.",
+      "diagram_id": "DGM-110-02",
+      "diagram_url": "assets/DGM-110-02.svg",
+      "visual": {
+        "diagram_id": "DGM-110-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-BISHOP-ENEMY-BLOCKER-001",
+      "position_version": 1,
+      "position_title": "Bishop captures and stops at the first enemy",
+      "diagram_alt": "Bishop captures and stops at the first enemy"
+    },
+    {
+      "id": "LES-024-S04",
+      "type": "QUESTION",
+      "title": "Where does the rook stop?",
+      "text": "A friendly pawn is first on the road. What is the final reachable square?",
+      "parent_prompt": "Ask where the rook road ends and why.",
+      "reveal": "a3 because the rook cannot capture its teammate on a4.",
+      "diagram_id": "DGM-110-01",
+      "diagram_url": "assets/DGM-110-01.svg",
+      "visual": {
+        "diagram_id": "DGM-110-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ROOK-FRIENDLY-BLOCKER-001",
+      "position_version": 1,
+      "position_title": "Rook road stopped by a friendly pawn",
+      "diagram_alt": "Rook road stopped by a friendly pawn"
+    },
+    {
+      "id": "LES-024-S05",
+      "type": "QUESTION",
+      "title": "Where does the bishop stop?",
+      "text": "The enemy pawn is first on the road. May the bishop capture it?",
+      "parent_prompt": "Ask for the bishop's final reachable square on the marked diagonal.",
+      "reveal": "Yes. The bishop may capture on e4 but cannot continue beyond it.",
+      "diagram_id": "DGM-110-02",
+      "diagram_url": "assets/DGM-110-02.svg",
+      "visual": {
+        "diagram_id": "DGM-110-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-BISHOP-ENEMY-BLOCKER-001",
+      "position_version": 1,
+      "position_title": "Bishop captures and stops at the first enemy",
+      "diagram_alt": "Bishop captures and stops at the first enemy"
+    },
+    {
+      "id": "LES-024-S06",
+      "type": "ASSESSMENT",
+      "title": "Check your roads",
+      "text": "Trace each road and say whether it ends before or on the first piece.",
+      "parent_prompt": "Mix one friendly and one enemy blocker and ask the child to explain every final stop.",
+      "diagram_id": "DGM-110-02",
+      "diagram_url": "assets/DGM-110-02.svg",
+      "visual": {
+        "diagram_id": "DGM-110-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-BISHOP-ENEMY-BLOCKER-001",
+      "position_version": 1,
+      "position_title": "Bishop captures and stops at the first enemy",
+      "diagram_alt": "Bishop captures and stops at the first enemy"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-024-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-110#1#B1",
+      "parent_prompt_trace": "KB-110#1#B1",
+      "text": "- **Today's goal:** Your child can show exactly where a bishop, rook, or queen line stops.\n- **Prerequisites:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "id": "LES-024-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-110#2#B1",
+      "parent_prompt_trace": "KB-110#2#B1",
+      "text": "Bishops, rooks, and queens are sliding pieces. They may travel across open squares allowed by their movement pattern, but they cannot jump. The first occupied square ends the line."
+    },
+    {
+      "id": "LES-024-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-110#3#B1",
+      "parent_prompt_trace": "KB-110#3#B1",
+      "text": "A child who looks through blockers will make illegal moves and misunderstand captures, checks, and protection. This small rule supports almost every later board-reading skill."
+    },
+    {
+      "id": "LES-024-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-110#4#B1",
+      "parent_prompt_trace": "KB-110#4#B1",
+      "text": "- **Requires:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Unlocks:** TOP-111 Attacked Squares.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "id": "LES-024-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-110#5#B1",
+      "parent_prompt_trace": "KB-110#5#B1",
+      "text": "There are two blocker cases. If your own piece is first on the road, stop before it because you cannot capture a teammate. If an opponent's piece is first, you may capture it and stop on its square. In both cases, squares beyond that first piece are unavailable on this move. Knights are different because they jump.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "id": "LES-024-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-110#6#B1",
+      "parent_prompt_trace": "KB-110#6#B1",
+      "text": "1. Put a rook on an empty board and trace one open road.\n2. Add a friendly pawn and ask where the rook must stop.\n3. Replace it with an enemy pawn and show capture-and-stop.\n4. Repeat on a diagonal with a bishop.\n5. Finish with a queen and inspect several roads.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "id": "LES-024-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-110#7#B1",
+      "parent_prompt_trace": "KB-110#7#B1",
+      "text": "Call each sliding line a road. A friendly piece is a red light: stop before it. An enemy piece is a capture-and-stop light. Use the phrase: First piece, final stop."
+    },
+    {
+      "id": "LES-024-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know?",
+      "source_trace": "KB-110#8#B1",
+      "parent_prompt_trace": "KB-110#8#B1",
+      "text": "One move can open a blocked line or close an open line. Good players therefore recheck long roads after every move."
+    },
+    {
+      "id": "LES-024-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-110#9#B1",
+      "parent_prompt_trace": "KB-110#9#B1",
+      "text": "**Future reviewed visual requirement:** A white rook on a1 with a friendly pawn on a4; mark reachable squares only through a3.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+      "diagram_id": "DGM-110-01",
+      "diagram_url": "assets/DGM-110-01.svg",
+      "position_id": "POS-ROOK-FRIENDLY-BLOCKER-001",
+      "position_version": 1,
+      "position_title": "Rook road stopped by a friendly pawn",
+      "diagram_alt": "Rook road stopped by a friendly pawn"
+    },
+    {
+      "id": "LES-024-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-110#10#B1",
+      "parent_prompt_trace": "KB-110#10#B1",
+      "text": "Start beside the slider and inspect one square at a time. Empty squares remain available. Stop at the first occupied square. Its color tells you whether to stop before it or capture and stop on it."
+    },
+    {
+      "id": "LES-024-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-110#11#B1",
+      "parent_prompt_trace": "KB-110#11#B1",
+      "text": "**Future reviewed visual requirement:** A white bishop on b1 with a black pawn on e4; show that e4 is capturable and squares beyond it are not yet reachable.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+      "diagram_id": "DGM-110-02",
+      "diagram_url": "assets/DGM-110-02.svg",
+      "position_id": "POS-BISHOP-ENEMY-BLOCKER-001",
+      "position_version": 1,
+      "position_title": "Bishop captures and stops at the first enemy",
+      "diagram_alt": "Bishop captures and stops at the first enemy"
+    },
+    {
+      "id": "LES-024-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-110#12#B1",
+      "parent_prompt_trace": "KB-110#12#B1",
+      "text": "In the starting position, both rooks are blocked by their own pieces. Their movement power exists, but no road is open yet."
+    },
+    {
+      "id": "LES-024-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-110#13#B1",
+      "parent_prompt_trace": "KB-110#13#B1",
+      "text": "- Jumping a blocker with a queen.\n- Stopping before an enemy instead of seeing the capture.\n- Continuing beyond a captured piece.\n- Applying the rule to a knight.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "id": "LES-024-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-110#14#B1",
+      "parent_prompt_trace": "KB-110#14#B1",
+      "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "id": "LES-024-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-110#15#B1",
+      "parent_prompt_trace": "KB-110#15#B1",
+      "text": "**Can a slider capture two pieces on one line?**  \nNo. Capturing the first enemy ends the move.\n\n**Does piece value change the movement rule?**  \nNo. Value affects whether a capture is wise, not whether the line is open.\n\n**Can a knight jump both colors?**  \nYes, but it may not land on a friendly piece."
+    },
+    {
+      "id": "LES-024-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-110#16#B1",
+      "parent_prompt_trace": "KB-110#16#B1",
+      "text": "Play Traffic Lights. Put a slider in the center and add one friendly or enemy blocker. Your child marks the final reachable square with a coin. Change one blocker each round.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "id": "LES-024-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge",
+      "source_trace": "KB-110#17#B1",
+      "parent_prompt_trace": "KB-110#17#B1",
+      "text": "Give the queen several roads: one open, one friendly-blocked, and one enemy-blocked. Ask for every final square without moving the queen.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "id": "LES-024-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-110#18#B1",
+      "parent_prompt_trace": "KB-110#18#B1",
+      "text": "### Recognition\n**Question:** A rook has a friendly pawn ahead. Where does its road end?  \n**Answer:** Before the pawn.\n\n### Application\n**Question:** A bishop meets an enemy knight first on its diagonal. May it capture?  \n**Answer:** Yes, and it stops on that square.\n\n### Challenge\n**Question:** Mark the final square on every queen line in a mixed position.  \n**Answer:** Every open and blocked line is marked correctly."
+    },
+    {
+      "id": "LES-024-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-110#19#B1",
+      "parent_prompt_trace": "KB-110#19#B1",
+      "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "id": "LES-024-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-110#20#B1",
+      "parent_prompt_trace": "KB-110#20#B1",
+      "text": "- **Prerequisites:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Unlocks:** TOP-111 Attacked Squares.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#BLOCKED_UNBLOCKED_LINES`."
+    },
+    {
+      "id": "LES-024-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check",
+      "source_trace": "KB-110#21#B1",
+      "parent_prompt_trace": "KB-110#21#B1",
+      "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+    }
+  ],
+  "title": "Blocked and Unblocked Movement Lines",
+  "duration_minutes": 15,
+  "memory_phrase": "First piece final stop.",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 15,
+    "slides": [
+      {
+        "id": "LES-024-S01",
+        "type": "INTRO",
+        "title": "Chess roads",
+        "text": "First piece final stop.",
+        "parent_prompt": "Explain that bishops rooks and queens travel on roads but cannot jump.",
+        "diagram_id": "DGM-110-01",
+        "diagram_url": "assets/DGM-110-01.svg",
+        "visual": {
+          "diagram_id": "DGM-110-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ROOK-FRIENDLY-BLOCKER-001",
+        "position_version": 1,
+        "position_title": "Rook road stopped by a friendly pawn",
+        "diagram_alt": "Rook road stopped by a friendly pawn"
+      },
+      {
+        "id": "LES-024-S02",
+        "type": "DIAGRAM",
+        "title": "Friendly red light",
+        "text": "The rook can reach a2 and a3 but must stop before its teammate on a4.",
+        "parent_prompt": "Trace from a1 and ask for the last reachable square before the friendly pawn.",
+        "diagram_id": "DGM-110-01",
+        "diagram_url": "assets/DGM-110-01.svg",
+        "visual": {
+          "diagram_id": "DGM-110-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ROOK-FRIENDLY-BLOCKER-001",
+        "position_version": 1,
+        "position_title": "Rook road stopped by a friendly pawn",
+        "diagram_alt": "Rook road stopped by a friendly pawn"
+      },
+      {
+        "id": "LES-024-S03",
+        "type": "DIAGRAM",
+        "title": "Capture and stop",
+        "text": "The bishop may capture the pawn on e4 and then the move ends.",
+        "parent_prompt": "Trace the bishop diagonal and ask whether it may land on the enemy pawn.",
+        "diagram_id": "DGM-110-02",
+        "diagram_url": "assets/DGM-110-02.svg",
+        "visual": {
+          "diagram_id": "DGM-110-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-BISHOP-ENEMY-BLOCKER-001",
+        "position_version": 1,
+        "position_title": "Bishop captures and stops at the first enemy",
+        "diagram_alt": "Bishop captures and stops at the first enemy"
+      },
+      {
+        "id": "LES-024-S04",
+        "type": "QUESTION",
+        "title": "Where does the rook stop?",
+        "text": "A friendly pawn is first on the road. What is the final reachable square?",
+        "parent_prompt": "Ask where the rook road ends and why.",
+        "reveal": "a3 because the rook cannot capture its teammate on a4.",
+        "diagram_id": "DGM-110-01",
+        "diagram_url": "assets/DGM-110-01.svg",
+        "visual": {
+          "diagram_id": "DGM-110-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ROOK-FRIENDLY-BLOCKER-001",
+        "position_version": 1,
+        "position_title": "Rook road stopped by a friendly pawn",
+        "diagram_alt": "Rook road stopped by a friendly pawn"
+      },
+      {
+        "id": "LES-024-S05",
+        "type": "QUESTION",
+        "title": "Where does the bishop stop?",
+        "text": "The enemy pawn is first on the road. May the bishop capture it?",
+        "parent_prompt": "Ask for the bishop's final reachable square on the marked diagonal.",
+        "reveal": "Yes. The bishop may capture on e4 but cannot continue beyond it.",
+        "diagram_id": "DGM-110-02",
+        "diagram_url": "assets/DGM-110-02.svg",
+        "visual": {
+          "diagram_id": "DGM-110-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-BISHOP-ENEMY-BLOCKER-001",
+        "position_version": 1,
+        "position_title": "Bishop captures and stops at the first enemy",
+        "diagram_alt": "Bishop captures and stops at the first enemy"
+      },
+      {
+        "id": "LES-024-S06",
+        "type": "ASSESSMENT",
+        "title": "Check your roads",
+        "text": "Trace each road and say whether it ends before or on the first piece.",
+        "parent_prompt": "Mix one friendly and one enemy blocker and ask the child to explain every final stop.",
+        "diagram_id": "DGM-110-02",
+        "diagram_url": "assets/DGM-110-02.svg",
+        "visual": {
+          "diagram_id": "DGM-110-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-BISHOP-ENEMY-BLOCKER-001",
+        "position_version": 1,
+        "position_title": "Bishop captures and stops at the first enemy",
+        "diagram_alt": "Bishop captures and stops at the first enemy"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-024-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-110#1#B1",
+        "parent_prompt_trace": "KB-110#1#B1",
+        "text": "- **Today's goal:** Your child can show exactly where a bishop, rook, or queen line stops.\n- **Prerequisites:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+      },
+      {
+        "id": "LES-024-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-110#2#B1",
+        "parent_prompt_trace": "KB-110#2#B1",
+        "text": "Bishops, rooks, and queens are sliding pieces. They may travel across open squares allowed by their movement pattern, but they cannot jump. The first occupied square ends the line."
+      },
+      {
+        "id": "LES-024-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-110#3#B1",
+        "parent_prompt_trace": "KB-110#3#B1",
+        "text": "A child who looks through blockers will make illegal moves and misunderstand captures, checks, and protection. This small rule supports almost every later board-reading skill."
+      },
+      {
+        "id": "LES-024-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-110#4#B1",
+        "parent_prompt_trace": "KB-110#4#B1",
+        "text": "- **Requires:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Unlocks:** TOP-111 Attacked Squares.\n- Start with an uncluttered physical board and add complexity gradually."
+      },
+      {
+        "id": "LES-024-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-110#5#B1",
+        "parent_prompt_trace": "KB-110#5#B1",
+        "text": "There are two blocker cases. If your own piece is first on the road, stop before it because you cannot capture a teammate. If an opponent's piece is first, you may capture it and stop on its square. In both cases, squares beyond that first piece are unavailable on this move. Knights are different because they jump.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+      },
+      {
+        "id": "LES-024-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-110#6#B1",
+        "parent_prompt_trace": "KB-110#6#B1",
+        "text": "1. Put a rook on an empty board and trace one open road.\n2. Add a friendly pawn and ask where the rook must stop.\n3. Replace it with an enemy pawn and show capture-and-stop.\n4. Repeat on a diagonal with a bishop.\n5. Finish with a queen and inspect several roads.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+      },
+      {
+        "id": "LES-024-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-110#7#B1",
+        "parent_prompt_trace": "KB-110#7#B1",
+        "text": "Call each sliding line a road. A friendly piece is a red light: stop before it. An enemy piece is a capture-and-stop light. Use the phrase: First piece, final stop."
+      },
+      {
+        "id": "LES-024-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know?",
+        "source_trace": "KB-110#8#B1",
+        "parent_prompt_trace": "KB-110#8#B1",
+        "text": "One move can open a blocked line or close an open line. Good players therefore recheck long roads after every move."
+      },
+      {
+        "id": "LES-024-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-110#9#B1",
+        "parent_prompt_trace": "KB-110#9#B1",
+        "text": "**Future reviewed visual requirement:** A white rook on a1 with a friendly pawn on a4; mark reachable squares only through a3.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+        "diagram_id": "DGM-110-01",
+        "diagram_url": "assets/DGM-110-01.svg",
+        "position_id": "POS-ROOK-FRIENDLY-BLOCKER-001",
+        "position_version": 1,
+        "position_title": "Rook road stopped by a friendly pawn",
+        "diagram_alt": "Rook road stopped by a friendly pawn"
+      },
+      {
+        "id": "LES-024-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-110#10#B1",
+        "parent_prompt_trace": "KB-110#10#B1",
+        "text": "Start beside the slider and inspect one square at a time. Empty squares remain available. Stop at the first occupied square. Its color tells you whether to stop before it or capture and stop on it."
+      },
+      {
+        "id": "LES-024-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-110#11#B1",
+        "parent_prompt_trace": "KB-110#11#B1",
+        "text": "**Future reviewed visual requirement:** A white bishop on b1 with a black pawn on e4; show that e4 is capturable and squares beyond it are not yet reachable.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+        "diagram_id": "DGM-110-02",
+        "diagram_url": "assets/DGM-110-02.svg",
+        "position_id": "POS-BISHOP-ENEMY-BLOCKER-001",
+        "position_version": 1,
+        "position_title": "Bishop captures and stops at the first enemy",
+        "diagram_alt": "Bishop captures and stops at the first enemy"
+      },
+      {
+        "id": "LES-024-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-110#12#B1",
+        "parent_prompt_trace": "KB-110#12#B1",
+        "text": "In the starting position, both rooks are blocked by their own pieces. Their movement power exists, but no road is open yet."
+      },
+      {
+        "id": "LES-024-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-110#13#B1",
+        "parent_prompt_trace": "KB-110#13#B1",
+        "text": "- Jumping a blocker with a queen.\n- Stopping before an enemy instead of seeing the capture.\n- Continuing beyond a captured piece.\n- Applying the rule to a knight.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+      },
+      {
+        "id": "LES-024-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-110#14#B1",
+        "parent_prompt_trace": "KB-110#14#B1",
+        "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+      },
+      {
+        "id": "LES-024-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-110#15#B1",
+        "parent_prompt_trace": "KB-110#15#B1",
+        "text": "**Can a slider capture two pieces on one line?**  \nNo. Capturing the first enemy ends the move.\n\n**Does piece value change the movement rule?**  \nNo. Value affects whether a capture is wise, not whether the line is open.\n\n**Can a knight jump both colors?**  \nYes, but it may not land on a friendly piece."
+      },
+      {
+        "id": "LES-024-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-110#16#B1",
+        "parent_prompt_trace": "KB-110#16#B1",
+        "text": "Play Traffic Lights. Put a slider in the center and add one friendly or enemy blocker. Your child marks the final reachable square with a coin. Change one blocker each round.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+      },
+      {
+        "id": "LES-024-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge",
+        "source_trace": "KB-110#17#B1",
+        "parent_prompt_trace": "KB-110#17#B1",
+        "text": "Give the queen several roads: one open, one friendly-blocked, and one enemy-blocked. Ask for every final square without moving the queen.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+      },
+      {
+        "id": "LES-024-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-110#18#B1",
+        "parent_prompt_trace": "KB-110#18#B1",
+        "text": "### Recognition\n**Question:** A rook has a friendly pawn ahead. Where does its road end?  \n**Answer:** Before the pawn.\n\n### Application\n**Question:** A bishop meets an enemy knight first on its diagonal. May it capture?  \n**Answer:** Yes, and it stops on that square.\n\n### Challenge\n**Question:** Mark the final square on every queen line in a mixed position.  \n**Answer:** Every open and blocked line is marked correctly."
+      },
+      {
+        "id": "LES-024-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-110#19#B1",
+        "parent_prompt_trace": "KB-110#19#B1",
+        "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+      },
+      {
+        "id": "LES-024-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-110#20#B1",
+        "parent_prompt_trace": "KB-110#20#B1",
+        "text": "- **Prerequisites:** TOP-105 Queen Movement, TOP-106 Rook Movement, and TOP-107 Bishop Movement.\n- **Unlocks:** TOP-111 Attacked Squares.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#BLOCKED_UNBLOCKED_LINES`."
+      },
+      {
+        "id": "LES-024-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check",
+        "source_trace": "KB-110#21#B1",
+        "parent_prompt_trace": "KB-110#21#B1",
+        "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+      }
+    ]
+  }
+}

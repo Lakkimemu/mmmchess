@@ -1,0 +1,25 @@
+schema_version: 1
+diagram_id: DGM-110-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-ROOK-FRIENDLY-BLOCKER-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: ROOK
+    square: a1
+  - color: WHITE
+    piece_type: PAWN
+    square: a4
+position_sha256: f0b312e983f1167c1b6c7b13ff9b930e4bd37dfd4ef99877680dc27af0e38016
+presentation_sha256: 59e70b33d99a41022dee82a5654ba265926729171663983b01ec96e3729c8bd4
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-110#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 79d9a5b84e5a4fa3c23eb89e38e221b37164f75e6443bf9b71b5016c57da7777
+output_svg_sha256: 79d9a5b84e5a4fa3c23eb89e38e221b37164f75e6443bf9b71b5016c57da7777

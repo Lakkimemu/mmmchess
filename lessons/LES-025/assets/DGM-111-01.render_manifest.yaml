@@ -1,0 +1,22 @@
+schema_version: 1
+diagram_id: DGM-111-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-ATTACKED-SQUARES-ROOK-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: ROOK
+    square: d4
+position_sha256: 6a3ea80d8b9afd7c1ef6eebe89c7a4d7c7ec5388dc1771a4347f56102d859fdf
+presentation_sha256: 2ec9c91531053fbbfd242cd212d09a0be3b39641050c7c11df1662fc4675b38a
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-111#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 72b2bc855ea4b8ac668be74faa0b8c079f0cc478772f190ce4a24ae237a5696f
+output_svg_sha256: 72b2bc855ea4b8ac668be74faa0b8c079f0cc478772f190ce4a24ae237a5696f

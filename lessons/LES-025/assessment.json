@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-025",
+  "assessment_id": "ASM-025",
+  "rubric": {
+    "criteria": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts.",
+    "source_trace": "KB-111#21#B1"
+  },
+  "task_references": [
+    "PZL-025-01",
+    "PZL-025-02",
+    "PZL-025-03",
+    "PZL-025-04"
+  ]
+}
