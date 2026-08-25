@@ -1,0 +1,31 @@
+schema_version: 1
+diagram_id: DGM-014-03
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-ROOK-MINOR-TWO-PAWNS-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: ROOK
+    square: c4
+  - color: BLACK
+    piece_type: KNIGHT
+    square: f4
+  - color: BLACK
+    piece_type: PAWN
+    square: e3
+  - color: BLACK
+    piece_type: PAWN
+    square: g3
+position_sha256: 5d5d14f1a1e9ad7759d3c35408ffb7a70c36256675193520bbbc1b15d0e87575
+presentation_sha256: 25a8e1e7fda8671816449d6a6973d4f7bdba0aad7d8ecca3c284060c21c30535
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-014#12#B1
+review_status: APPROVED
+reviewed_artifact_sha256: c2950b7536551a3ef14f260b57bc920b297385f7d85824745828b6a68a2364b0
+output_svg_sha256: c2950b7536551a3ef14f260b57bc920b297385f7d85824745828b6a68a2364b0

@@ -1,0 +1,28 @@
+schema_version: 1
+diagram_id: DGM-014-05
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-TWO-KNIGHTS-ROOK-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KNIGHT
+    square: c4
+  - color: WHITE
+    piece_type: KNIGHT
+    square: d4
+  - color: BLACK
+    piece_type: ROOK
+    square: f4
+position_sha256: b13b44482d626fbe39dea17744bd7ec67552be5bc172381836063db501122d58
+presentation_sha256: 298b02f70de3561d04867b2e5e3c2dfa796ba4b8284868b0293da93c2f3977aa
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-014#18#B2
+review_status: APPROVED
+reviewed_artifact_sha256: 01416b733b503ad72e57faa5ec71ecbbba728bfa49f98e9aad0cc8628042d1d3
+output_svg_sha256: 01416b733b503ad72e57faa5ec71ecbbba728bfa49f98e9aad0cc8628042d1d3

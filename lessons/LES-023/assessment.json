@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-023",
+  "assessment_id": "ASM-023",
+  "rubric": {
+    "criteria": "- [ ] Can my child name the value of all 5 combat pieces?\n- [ ] Does my child understand the King is priceless?\n- [ ] Did we play the \"Math Matcher\" game?\n- [ ] Does my child understand that points don't win the game?",
+    "source_trace": "KB-014#21#B1"
+  },
+  "task_references": [
+    "PZL-023-01",
+    "PZL-023-02",
+    "PZL-023-03",
+    "PZL-023-04"
+  ]
+}

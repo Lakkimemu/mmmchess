@@ -1,0 +1,49 @@
+schema_version: 1
+diagram_id: DGM-014-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-QUEEN-NINE-PAWNS-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: QUEEN
+    square: b4
+  - color: BLACK
+    piece_type: PAWN
+    square: e2
+  - color: BLACK
+    piece_type: PAWN
+    square: f2
+  - color: BLACK
+    piece_type: PAWN
+    square: g2
+  - color: BLACK
+    piece_type: PAWN
+    square: e3
+  - color: BLACK
+    piece_type: PAWN
+    square: f3
+  - color: BLACK
+    piece_type: PAWN
+    square: g3
+  - color: BLACK
+    piece_type: PAWN
+    square: e4
+  - color: BLACK
+    piece_type: PAWN
+    square: f4
+  - color: BLACK
+    piece_type: PAWN
+    square: g4
+position_sha256: 89e0f2627a96a064b32b3fea9f23031067b87731002fd161bab76eacf784565e
+presentation_sha256: 45b810b95b6d895b8057ba68a06abeb0aaf728b908413da37ec0832ecc9c19fd
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-014#11#B1
+review_status: APPROVED
+reviewed_artifact_sha256: f216594e7795c15566479938694a76b050e73486c83b84655e3160865e69740b
+output_svg_sha256: f216594e7795c15566479938694a76b050e73486c83b84655e3160865e69740b

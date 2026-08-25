@@ -1,0 +1,37 @@
+schema_version: 1
+diagram_id: DGM-014-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-PIECE-VALUES-CHART-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: PAWN
+    square: b4
+  - color: WHITE
+    piece_type: KNIGHT
+    square: c4
+  - color: WHITE
+    piece_type: BISHOP
+    square: d4
+  - color: WHITE
+    piece_type: ROOK
+    square: e4
+  - color: WHITE
+    piece_type: QUEEN
+    square: f4
+  - color: WHITE
+    piece_type: KING
+    square: g4
+position_sha256: fb30e738c078aa13e591096a631cf9c857319a99a331612e53617c28bf748ca9
+presentation_sha256: 2b01eab916a4e6195b87b5462ab76153fef6d2a22f27949416a895d164d3e953
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-014#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 5c0dd85d2a1158371a1006ab04221af14709f4372e9d7057b5a23f35109f80ff
+output_svg_sha256: 5c0dd85d2a1158371a1006ab04221af14709f4372e9d7057b5a23f35109f80ff

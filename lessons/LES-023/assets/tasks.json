@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-023",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-023-01",
+      "kb_id": "KB-014",
+      "lesson_id": "LES-023",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Name the value of every combat piece.",
+      "hint": "One three three five nine.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Pawn 1 Knight 3 Bishop 3 Rook 5 Queen 9."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-023.yaml",
+        "source_sha256": "2dea6ce8388c86362754e2cd5027001249de8d876a3a3d3d6532c2d62a8acb80",
+        "field": "exercises",
+        "anchor": "EX-023-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-023-02",
+      "kb_id": "KB-014",
+      "lesson_id": "LES-023",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What is the King's value?",
+      "hint": "You cannot buy the King.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The King is priceless because losing the King ends the game."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-023.yaml",
+        "source_sha256": "2dea6ce8388c86362754e2cd5027001249de8d876a3a3d3d6532c2d62a8acb80",
+        "field": "exercises",
+        "anchor": "EX-023-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-023-03",
+      "kb_id": "KB-014",
+      "lesson_id": "LES-023",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Add a Rook and a Pawn.",
+      "hint": "Five plus one.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Six points."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-023.yaml",
+        "source_sha256": "2dea6ce8388c86362754e2cd5027001249de8d876a3a3d3d6532c2d62a8acb80",
+        "field": "exercises",
+        "anchor": "EX-023-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-023-04",
+      "kb_id": "KB-014",
+      "lesson_id": "LES-023",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Do piece points decide who wins?",
+      "hint": "Points are a measuring tool.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. Checkmate decides the game; points only measure material."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-023.yaml",
+        "source_sha256": "2dea6ce8388c86362754e2cd5027001249de8d876a3a3d3d6532c2d62a8acb80",
+        "field": "exercises",
+        "anchor": "EX-023-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}
