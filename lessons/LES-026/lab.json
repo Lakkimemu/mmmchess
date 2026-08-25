@@ -1,0 +1,829 @@
+{
+  "policy": {
+    "schema_version": 1,
+    "lab_id": "LAB-LINES-ATTACKS-001",
+    "lesson_id": "LES-026",
+    "title": "Lines and Attacks Micro Lab",
+    "covers_lessons": [
+      "LES-024",
+      "LES-025"
+    ],
+    "taught_topics": [
+      "board",
+      "orientation",
+      "files",
+      "ranks",
+      "squares",
+      "coordinates",
+      "piece_recognition",
+      "movement",
+      "capturing",
+      "blocked_lines",
+      "attacked_squares"
+    ],
+    "source_type": "LICHESS_CC0",
+    "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+    "selection": {
+      "bank_size": 25,
+      "session_size": 10,
+      "maximum_piece_count": 20,
+      "exclude_in_check": true,
+      "deterministic_seed": "PCA-LAB-LINES-ATTACKS-001-V1"
+    },
+    "question_buckets": [
+      {
+        "type": "LINE_CLEAR_CHECK",
+        "count": 12
+      },
+      {
+        "type": "ATTACKED_SQUARE_CHECK",
+        "count": 13
+      }
+    ],
+    "boolean_balance": {
+      "LINE_CLEAR_CHECK": {
+        "true": 6,
+        "false": 6
+      },
+      "ATTACKED_SQUARE_CHECK": {
+        "true": 7,
+        "false": 6
+      }
+    }
+  },
+  "sessions": {
+    "set_1": {
+      "schema_version": 1,
+      "lab_id": "LAB-LINES-ATTACKS-001",
+      "session_number": 1,
+      "session_seed": "5ecb26969504103ac4c2b605102df7687db92a037e90bfea7b6ee85075b7f6cd",
+      "retry_task_ids": [],
+      "tasks": [
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "h4",
+            "rule": "SLIDING_LINE_CLEAR",
+            "to": "h1"
+          },
+          "diversity_key": "ROOK:BLOCKED:h4:h1",
+          "presented_fen": "3r4/6p1/1p4R1/4k3/1P2N2r/P4P1n/5PKP/7R b - - 0 32",
+          "prompt": "Is the Black rook on h4 line to h1 clear of blockers?",
+          "puzzle_id": "Z2PVU",
+          "requires_topics": [
+            "movement",
+            "blocked_lines"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/xRu2M7Rr#63",
+            "play_count": 13099,
+            "popularity": 100,
+            "rating": 1145,
+            "themes": [
+              "advantage",
+              "endgame",
+              "fork",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-Z2PVU-LINE_CLEAR_CHECK-45CD3D7BE7",
+          "task_type": "LINE_CLEAR_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "f3",
+            "rule": "PIECE_ATTACKS_SQUARE",
+            "to": "h4"
+          },
+          "diversity_key": "PAWN:NO_ATTACK:f3:h4",
+          "presented_fen": "3r1k2/pp2Rn2/5r1p/4B1p1/4K3/P4PP1/1P5P/8 w - - 2 41",
+          "prompt": "Does the White pawn on f3 attack h4?",
+          "puzzle_id": "Rtjif",
+          "requires_topics": [
+            "movement",
+            "attacked_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/1npzOHpZ/black#80",
+            "play_count": 6276,
+            "popularity": 100,
+            "rating": 1095,
+            "themes": [
+              "advantage",
+              "endgame",
+              "hangingPiece",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-Rtjif-ATTACKED_SQUARE_CHECK-9DC4585676",
+          "task_type": "ATTACKED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "f2",
+            "rule": "SLIDING_LINE_CLEAR",
+            "to": "f1"
+          },
+          "diversity_key": "ROOK:CLEAR:f2:f1",
+          "presented_fen": "6k1/p4N2/1p3KP1/8/8/5P2/5r2/8 w - - 1 57",
+          "prompt": "Is the Black rook on f2 line to f1 clear of blockers?",
+          "puzzle_id": "EyqYa",
+          "requires_topics": [
+            "movement",
+            "blocked_lines"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/oi8tSM6O/black#112",
+            "play_count": 16098,
+            "popularity": 100,
+            "rating": 915,
+            "themes": [
+              "advancedPawn",
+              "crushing",
+              "endgame",
+              "master",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-EyqYa-LINE_CLEAR_CHECK-DAE066F43B",
+          "task_type": "LINE_CLEAR_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "c7",
+            "rule": "PIECE_ATTACKS_SQUARE",
+            "to": "g5"
+          },
+          "diversity_key": "KING:NO_ATTACK:c7:g5",
+          "presented_fen": "8/2k2pp1/4p2p/3pP3/1p1P1P2/6K1/1P1RQP1P/r1q5 w - - 3 45",
+          "prompt": "Does the Black king on c7 attack g5?",
+          "puzzle_id": "zzpft",
+          "requires_topics": [
+            "movement",
+            "attacked_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/qhNkD99V/black#88",
+            "play_count": 241,
+            "popularity": 100,
+            "rating": 913,
+            "themes": [
+              "crushing",
+              "endgame",
+              "fork",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-zzpft-ATTACKED_SQUARE_CHECK-7C5B067FB5",
+          "task_type": "ATTACKED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "g6",
+            "rule": "PIECE_ATTACKS_SQUARE",
+            "to": "f5"
+          },
+          "diversity_key": "PAWN:ATTACKS:g6:f5",
+          "presented_fen": "2K4B/7p/3P2p1/pk6/7R/1p6/8/5r2 b - - 1 49",
+          "prompt": "Does the Black pawn on g6 attack f5?",
+          "puzzle_id": "rRpT1",
+          "requires_topics": [
+            "movement",
+            "attacked_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/VZLweMwu#97",
+            "play_count": 11752,
+            "popularity": 100,
+            "rating": 1072,
+            "themes": [
+              "crushing",
+              "endgame",
+              "fork",
+              "master",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-rRpT1-ATTACKED_SQUARE_CHECK-3CE5DDC444",
+          "task_type": "ATTACKED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "b8",
+            "rule": "SLIDING_LINE_CLEAR",
+            "to": "b1"
+          },
+          "diversity_key": "QUEEN:BLOCKED:b8:b1",
+          "presented_fen": "1q5r/Rp1k1pp1/1Pn5/1B1p4/3P1n2/1Q5P/8/5R1K b - - 2 33",
+          "prompt": "Is the Black queen on b8 line to b1 clear of blockers?",
+          "puzzle_id": "Byh1y",
+          "requires_topics": [
+            "movement",
+            "blocked_lines"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/dFg5XY0T#65",
+            "play_count": 15430,
+            "popularity": 100,
+            "rating": 921,
+            "themes": [
+              "advantage",
+              "fork",
+              "middlegame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-Byh1y-LINE_CLEAR_CHECK-646A52A773",
+          "task_type": "LINE_CLEAR_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "c1",
+            "rule": "SLIDING_LINE_CLEAR",
+            "to": "a1"
+          },
+          "diversity_key": "ROOK:CLEAR:c1:a1",
+          "presented_fen": "2r1r1k1/p6p/bp4pP/3q4/P1n3N1/4N3/4QPP1/2R3K1 w - - 0 29",
+          "prompt": "Is the White rook on c1 line to a1 clear of blockers?",
+          "puzzle_id": "134eC",
+          "requires_topics": [
+            "movement",
+            "blocked_lines"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/7LOvO73y/black#56",
+            "play_count": 18090,
+            "popularity": 100,
+            "rating": 1132,
+            "themes": [
+              "advantage",
+              "fork",
+              "master",
+              "middlegame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-134eC-LINE_CLEAR_CHECK-D1EF7AAE7D",
+          "task_type": "LINE_CLEAR_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "g3",
+            "rule": "SLIDING_LINE_CLEAR",
+            "to": "e1"
+          },
+          "diversity_key": "QUEEN:BLOCKED:g3:e1",
+          "presented_fen": "r3r3/p1p4k/1p1p3p/3P1p2/2P1p3/6q1/PP2QN2/R5RK b - - 1 28",
+          "prompt": "Is the Black queen on g3 line to e1 clear of blockers?",
+          "puzzle_id": "BCrvj",
+          "requires_topics": [
+            "movement",
+            "blocked_lines"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/1nIzlet3#55",
+            "play_count": 13071,
+            "popularity": 100,
+            "rating": 1121,
+            "themes": [
+              "crushing",
+              "kingsideAttack",
+              "master",
+              "middlegame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-BCrvj-LINE_CLEAR_CHECK-B39DD4E6DA",
+          "task_type": "LINE_CLEAR_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "a4",
+            "rule": "PIECE_ATTACKS_SQUARE",
+            "to": "b3"
+          },
+          "diversity_key": "PAWN:ATTACKS:a4:b3",
+          "presented_fen": "8/7p/1N2k3/2Kb1pp1/p7/4P1P1/5P1P/8 b - - 3 43",
+          "prompt": "Does the Black pawn on a4 attack b3?",
+          "puzzle_id": "hMBSh",
+          "requires_topics": [
+            "movement",
+            "attacked_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/eZ5IlpDU#85",
+            "play_count": 9219,
+            "popularity": 100,
+            "rating": 867,
+            "themes": [
+              "advancedPawn",
+              "crushing",
+              "endgame",
+              "sacrifice",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-hMBSh-ATTACKED_SQUARE_CHECK-07A77E2EBC",
+          "task_type": "ATTACKED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "d1",
+            "rule": "SLIDING_LINE_CLEAR",
+            "to": "a1"
+          },
+          "diversity_key": "ROOK:CLEAR:d1:a1",
+          "presented_fen": "2Q5/5ppk/1q2p2p/1P6/5P2/6P1/1R4KP/3r4 w - - 3 32",
+          "prompt": "Is the Black rook on d1 line to a1 clear of blockers?",
+          "puzzle_id": "fWuNy",
+          "requires_topics": [
+            "movement",
+            "blocked_lines"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/lczfMgqC/black#62",
+            "play_count": 15541,
+            "popularity": 100,
+            "rating": 1040,
+            "themes": [
+              "crushing",
+              "endgame",
+              "fork",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-fWuNy-LINE_CLEAR_CHECK-0C57CC2B48",
+          "task_type": "LINE_CLEAR_CHECK"
+        }
+      ]
+    },
+    "set_2": {
+      "schema_version": 1,
+      "lab_id": "LAB-LINES-ATTACKS-001",
+      "session_number": 2,
+      "session_seed": "1a6b2d116612d0b41d84c71530df54eb0b44101bb62c056d9eef5fbaa9b058f6",
+      "retry_task_ids": [],
+      "tasks": [
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "b2",
+            "rule": "SLIDING_LINE_CLEAR",
+            "to": "b1"
+          },
+          "diversity_key": "ROOK:CLEAR:b2:b1",
+          "presented_fen": "8/8/6p1/8/4k2P/1prp2P1/1R1K1P2/8 b - - 1 46",
+          "prompt": "Is the White rook on b2 line to b1 clear of blockers?",
+          "puzzle_id": "ALGsV",
+          "requires_topics": [
+            "movement",
+            "blocked_lines"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/rnIKS0cq#91",
+            "play_count": 15860,
+            "popularity": 100,
+            "rating": 1061,
+            "themes": [
+              "advancedPawn",
+              "crushing",
+              "endgame",
+              "rookEndgame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-ALGsV-LINE_CLEAR_CHECK-B7AB2D62BF",
+          "task_type": "LINE_CLEAR_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "e5",
+            "rule": "PIECE_ATTACKS_SQUARE",
+            "to": "d4"
+          },
+          "diversity_key": "KING:ATTACKS:e5:d4",
+          "presented_fen": "8/8/1P6/4k3/2K4p/5p2/7P/8 w - - 0 49",
+          "prompt": "Does the Black king on e5 attack d4?",
+          "puzzle_id": "KM0Nq",
+          "requires_topics": [
+            "movement",
+            "attacked_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/tmccnY9c/black#96",
+            "play_count": 15788,
+            "popularity": 100,
+            "rating": 624,
+            "themes": [
+              "advancedPawn",
+              "crushing",
+              "endgame",
+              "master",
+              "pawnEndgame",
+              "promotion",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-KM0Nq-ATTACKED_SQUARE_CHECK-589EA8FD22",
+          "task_type": "ATTACKED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "a4",
+            "rule": "PIECE_ATTACKS_SQUARE",
+            "to": "b3"
+          },
+          "diversity_key": "PAWN:ATTACKS:a4:b3",
+          "presented_fen": "8/7p/1N2k3/2Kb1pp1/p7/4P1P1/5P1P/8 b - - 3 43",
+          "prompt": "Does the Black pawn on a4 attack b3?",
+          "puzzle_id": "hMBSh",
+          "requires_topics": [
+            "movement",
+            "attacked_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/eZ5IlpDU#85",
+            "play_count": 9219,
+            "popularity": 100,
+            "rating": 867,
+            "themes": [
+              "advancedPawn",
+              "crushing",
+              "endgame",
+              "sacrifice",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-hMBSh-ATTACKED_SQUARE_CHECK-07A77E2EBC",
+          "task_type": "ATTACKED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "a4",
+            "rule": "PIECE_ATTACKS_SQUARE",
+            "to": "e6"
+          },
+          "diversity_key": "PAWN:NO_ATTACK:a4:e6",
+          "presented_fen": "8/p4ppk/1p2p2p/4nq2/P7/1P1r3P/2Q2PP1/3R1R1K b - - 10 30",
+          "prompt": "Does the White pawn on a4 attack e6?",
+          "puzzle_id": "y16z9",
+          "requires_topics": [
+            "movement",
+            "attacked_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/S97yqGQR#59",
+            "play_count": 7546,
+            "popularity": 100,
+            "rating": 1066,
+            "themes": [
+              "crushing",
+              "discoveredAttack",
+              "endgame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-y16z9-ATTACKED_SQUARE_CHECK-B6E2001017",
+          "task_type": "ATTACKED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "b6",
+            "rule": "PIECE_ATTACKS_SQUARE",
+            "to": "c4"
+          },
+          "diversity_key": "PAWN:NO_ATTACK:b6:c4",
+          "presented_fen": "8/p3n2p/1p2k3/7P/1P3K2/P1B5/8/8 b - - 2 52",
+          "prompt": "Does the Black pawn on b6 attack c4?",
+          "puzzle_id": "zzlpE",
+          "requires_topics": [
+            "movement",
+            "attacked_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/AHTqbkCk#103",
+            "play_count": 200,
+            "popularity": 100,
+            "rating": 821,
+            "themes": [
+              "crushing",
+              "endgame",
+              "fork",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-zzlpE-ATTACKED_SQUARE_CHECK-1E1C5E709A",
+          "task_type": "ATTACKED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "e6",
+            "rule": "PIECE_ATTACKS_SQUARE",
+            "to": "d3"
+          },
+          "diversity_key": "ROOK:NO_ATTACK:e6:d3",
+          "presented_fen": "8/7k/4r1qp/3Q2p1/4nP2/3Bb2P/6PB/4R2K b - - 0 46",
+          "prompt": "Does the Black rook on e6 attack d3?",
+          "puzzle_id": "MAN9U",
+          "requires_topics": [
+            "movement",
+            "attacked_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/e8lnnxlx#91",
+            "play_count": 6891,
+            "popularity": 100,
+            "rating": 1125,
+            "themes": [
+              "advantage",
+              "discoveredAttack",
+              "discoveredCheck",
+              "master",
+              "middlegame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-MAN9U-ATTACKED_SQUARE_CHECK-59DC4477EF",
+          "task_type": "ATTACKED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "g6",
+            "rule": "PIECE_ATTACKS_SQUARE",
+            "to": "f5"
+          },
+          "diversity_key": "PAWN:ATTACKS:g6:f5",
+          "presented_fen": "2K4B/7p/3P2p1/pk6/7R/1p6/8/5r2 b - - 1 49",
+          "prompt": "Does the Black pawn on g6 attack f5?",
+          "puzzle_id": "rRpT1",
+          "requires_topics": [
+            "movement",
+            "attacked_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/VZLweMwu#97",
+            "play_count": 11752,
+            "popularity": 100,
+            "rating": 1072,
+            "themes": [
+              "crushing",
+              "endgame",
+              "fork",
+              "master",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-rRpT1-ATTACKED_SQUARE_CHECK-3CE5DDC444",
+          "task_type": "ATTACKED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "h4",
+            "rule": "SLIDING_LINE_CLEAR",
+            "to": "h1"
+          },
+          "diversity_key": "ROOK:BLOCKED:h4:h1",
+          "presented_fen": "3r4/6p1/1p4R1/4k3/1P2N2r/P4P1n/5PKP/7R b - - 0 32",
+          "prompt": "Is the Black rook on h4 line to h1 clear of blockers?",
+          "puzzle_id": "Z2PVU",
+          "requires_topics": [
+            "movement",
+            "blocked_lines"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/xRu2M7Rr#63",
+            "play_count": 13099,
+            "popularity": 100,
+            "rating": 1145,
+            "themes": [
+              "advantage",
+              "endgame",
+              "fork",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-Z2PVU-LINE_CLEAR_CHECK-45CD3D7BE7",
+          "task_type": "LINE_CLEAR_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "b2",
+            "rule": "PIECE_ATTACKS_SQUARE",
+            "to": "b1"
+          },
+          "diversity_key": "ROOK:ATTACKS:b2:b1",
+          "presented_fen": "8/1p3kpp/4pp2/2Np4/2nPP1P1/7P/1rn1RP2/R5K1 b - - 2 30",
+          "prompt": "Does the Black rook on b2 attack b1?",
+          "puzzle_id": "5D1WZ",
+          "requires_topics": [
+            "movement",
+            "attacked_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/Oxo0wTCc#59",
+            "play_count": 12499,
+            "popularity": 100,
+            "rating": 883,
+            "themes": [
+              "advantage",
+              "endgame",
+              "hangingPiece",
+              "master",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-5D1WZ-ATTACKED_SQUARE_CHECK-A6CA745795",
+          "task_type": "ATTACKED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "a2",
+            "rule": "PIECE_ATTACKS_SQUARE",
+            "to": "a1"
+          },
+          "diversity_key": "ROOK:ATTACKS:a2:a1",
+          "presented_fen": "8/2q3k1/6pp/3p4/3PnNQ1/4PNP1/r7/5K2 w - - 8 41",
+          "prompt": "Does the Black rook on a2 attack a1?",
+          "puzzle_id": "zpfTo",
+          "requires_topics": [
+            "movement",
+            "attacked_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/9dQ5UIBy/black#80",
+            "play_count": 8502,
+            "popularity": 100,
+            "rating": 1124,
+            "themes": [
+              "crushing",
+              "endgame",
+              "fork",
+              "master",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-zpfTo-ATTACKED_SQUARE_CHECK-4527C007FB",
+          "task_type": "ATTACKED_SQUARE_CHECK"
+        }
+      ]
+    }
+  }
+}

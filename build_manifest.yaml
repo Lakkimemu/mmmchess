@@ -27,6 +27,7 @@ lesson_ids:
 - LES-023
 - LES-024
 - LES-025
+- LES-026
 routes:
 - lessons/LES-001/index.html#teach-1
 - lessons/LES-001/index.html#guide-1
@@ -98,9 +99,10 @@ routes:
 - lessons/LES-025/index.html#teach-1
 - lessons/LES-025/index.html#guide-1
 - lessons/LES-025/index.html#practice-1
+- lessons/LES-026/index.html
 assets:
   assets/app.css: fc209cfd63cf7571d52f20e90a365d52954a5cea915be2f28d1cfe97243af837
-  index.html: 256f6fa074481a28c33e5220c59d76cf2864779bc4e99ea6de55c018e06731a9
+  index.html: c7567836fbb74ba104d61956e40b953728fec7fb617a2f848f310ade5e986297
   lessons/LES-001/assessment.json: 7008063b1cda0538d2e0314caa49c4ba6e75412df8c63181f0793da9af4bf7c6
   lessons/LES-001/assets/DGM-001-01.render_manifest.yaml: e2e61c71c9cf16cd8ac0e263addae1125622050c2d1097df925fa63b0e21001b
   lessons/LES-001/assets/DGM-001-01.svg: e0a6c07f8a203e1e22c19ab929f9522630454835505b241ae429c71ea9d03ec1
@@ -500,3 +502,8 @@ assets:
   lessons/LES-025/index.html: f4747435b4bd156bc58ba2c633ffc1f7f44623b66d5c3cd021f78bbdf91f8f56
   lessons/LES-025/lesson.json: c03b2079f11ee84561a7c1385a5181b23b5c757ec312e5c94c0d48d901cc6a2e
   lessons/LES-025/lesson_manifest.yaml: d2ac23199d6204290f7727e366f807b9d5dcba7975c56190ab52788831e2cb6f
+  lessons/LES-026/assets/puzzle_lab.css: 633cec901de2524d2057433120621284cfb7391f56954eaaa0042c9f763da0f1
+  lessons/LES-026/assets/puzzle_lab.js: 5989331ad61fd1c0336a74bbcc55c95be58de37680c0436b5f3ef9c672351fee
+  lessons/LES-026/index.html: cf1e6b910c2f1a6c5cbc3e8f369a9d88ee8d4e5ae212046e798c38ca010f1cd5
+  lessons/LES-026/lab.json: 150d00f30c3ce10db514f344cf81612a4d21f09461c9d4d4ccf92f5ffdd74534
+  lessons/LES-026/lab_manifest.yaml: b54416ea00b98492f6fd643bd26b8fb2ecc5438f491b30719ff8b8cabae48808

@@ -1,0 +1,20 @@
+schema_version: 1
+lab_id: LAB-LINES-ATTACKS-001
+lesson_id: LES-026
+compiler_version: puzzle-lab-1
+inputs:
+  classroom/scripts/puzzle_lab.js: 5989331ad61fd1c0336a74bbcc55c95be58de37680c0436b5f3ef9c672351fee
+  classroom/styles/puzzle_lab.css: 633cec901de2524d2057433120621284cfb7391f56954eaaa0042c9f763da0f1
+  classroom/templates/puzzle_lab.html: fa524705ce56023eb23325e11309b4d8d5bcb3a946e7f108c32cb520f5f73af1
+  curriculum/CURRICULUM_INDEX.yaml: 28e0072cee12f6e687e25714bfae703fd689863bd13a65fc93cc11e7121925e6
+  pipeline/puzzle_lab.py: 87011515c241fdbe1a74b18c8ae21306b148dbc925b1b1a311e90cbf88761649
+  puzzles/policies/labs/LAB-LINES-ATTACKS-001.yaml: 01149d81c0b5179a4e2c71851df0c1bdd9c270a76b13084b35e436acc847799f
+  puzzles/reviews/LAB-LINES-ATTACKS-001.yaml: 1cd36f03aec28d9ca31c68fd750c1a15bf2197f06873fe7e8f30fc98eb89fd55
+  puzzles/snapshots/LAB-LINES-ATTACKS-001.selected.json: 39470565843ff18cd7bbc352da6eec621214d1ca12e0765f174df32bc02bda44
+outputs:
+  assets/puzzle_lab.css: 633cec901de2524d2057433120621284cfb7391f56954eaaa0042c9f763da0f1
+  assets/puzzle_lab.js: 5989331ad61fd1c0336a74bbcc55c95be58de37680c0436b5f3ef9c672351fee
+  index.html: cf1e6b910c2f1a6c5cbc3e8f369a9d88ee8d4e5ae212046e798c38ca010f1cd5
+  lab.json: 150d00f30c3ce10db514f344cf81612a4d21f09461c9d4d4ccf92f5ffdd74534
+build_id: 1f65479b8b4f574fe80efe80313fdd4e6df13d867710aa84b81e195e557a5931
+validation_decision: VALID
