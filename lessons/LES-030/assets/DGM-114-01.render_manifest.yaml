@@ -1,0 +1,31 @@
+schema_version: 1
+diagram_id: DGM-114-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-KING-DESTINATIONS-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: d4
+  - color: WHITE
+    piece_type: PAWN
+    square: c4
+  - color: BLACK
+    piece_type: KING
+    square: h8
+  - color: BLACK
+    piece_type: ROOK
+    square: e8
+position_sha256: 24830442aa4dc3a06f9a8186cc56337bd3694f731f1cde2cea1746eaeb77edd5
+presentation_sha256: a32d069a812227ccc33244ea86fb2a0ba79bfe3427f44ba7683588b89b4c7c6e
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-114#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 246669a6e1c6eee364778d1e7f7119fe95674b8e7d425c8809d69786b8668be2
+output_svg_sha256: 246669a6e1c6eee364778d1e7f7119fe95674b8e7d425c8809d69786b8668be2

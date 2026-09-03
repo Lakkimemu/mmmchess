@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-030",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-030-01",
+      "kb_id": "KB-114",
+      "lesson_id": "LES-030",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "May the king move onto a friendly piece?",
+      "hint": "Check the landing place.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. A friendly-occupied destination is unavailable."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-030.yaml",
+        "source_sha256": "421ac452bb997f1b507dfdee9d580d805567cc68a0b2d24f9b2b8aefb8b598e8",
+        "field": "exercises",
+        "anchor": "EX-030-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-030-02",
+      "kb_id": "KB-114",
+      "lesson_id": "LES-030",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "May the king move onto an empty attacked square?",
+      "hint": "Empty does not mean safe.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. The king would be attacked after moving."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-030.yaml",
+        "source_sha256": "421ac452bb997f1b507dfdee9d580d805567cc68a0b2d24f9b2b8aefb8b598e8",
+        "field": "exercises",
+        "anchor": "EX-030-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-030-03",
+      "kb_id": "KB-114",
+      "lesson_id": "LES-030",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "May two kings stand next to each other?",
+      "hint": "Each king controls its neighboring squares.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. Kings attack all adjacent squares."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-030.yaml",
+        "source_sha256": "421ac452bb997f1b507dfdee9d580d805567cc68a0b2d24f9b2b8aefb8b598e8",
+        "field": "exercises",
+        "anchor": "EX-030-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-030-04",
+      "kb_id": "KB-114",
+      "lesson_id": "LES-030",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "When may a king capture an enemy piece?",
+      "hint": "Imagine the final board.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Only when the destination is safe after removing the captured piece and recomputing attacks."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-030.yaml",
+        "source_sha256": "421ac452bb997f1b507dfdee9d580d805567cc68a0b2d24f9b2b8aefb8b598e8",
+        "field": "exercises",
+        "anchor": "EX-030-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

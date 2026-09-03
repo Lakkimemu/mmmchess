@@ -1,0 +1,25 @@
+schema_version: 1
+diagram_id: DGM-112-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-DEFENDED-KNIGHT-PAWN-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KNIGHT
+    square: c3
+  - color: WHITE
+    piece_type: PAWN
+    square: d5
+position_sha256: 14808172d9f5ca3a34411a447ec1804d32c9168a87354448e8259d2478135c98
+presentation_sha256: 338cf9551c748bec1c0f1d244f924ab0c5f6e73077fd07703083f450887c7c5a
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-112#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 33d4481e1fea56fe1e7de6265ee45cdc142f97f801b1552c88fce74c0635d268
+output_svg_sha256: 33d4481e1fea56fe1e7de6265ee45cdc142f97f801b1552c88fce74c0635d268

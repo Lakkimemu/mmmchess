@@ -1,0 +1,28 @@
+schema_version: 1
+diagram_id: DGM-112-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-DEFENDED-ROOK-BLOCKED-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: ROOK
+    square: a1
+  - color: WHITE
+    piece_type: PAWN
+    square: a3
+  - color: WHITE
+    piece_type: KNIGHT
+    square: a5
+position_sha256: e2fb066e4ecb4a294392c73490fd7b275faee41cf3ce66a32bcb4c687893c6b7
+presentation_sha256: 59089624fedb1febf682066aae60d30235ea9dcab1be9577d494d272eb8de451
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-112#11#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 8fc3a249931801635ce43f81910ee8dc613618558c87d0af278e3fb697b8cc73
+output_svg_sha256: 8fc3a249931801635ce43f81910ee8dc613618558c87d0af278e3fb697b8cc73

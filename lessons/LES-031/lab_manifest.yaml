@@ -1,0 +1,20 @@
+schema_version: 1
+lab_id: LAB-LEGAL-PLAY-001
+lesson_id: LES-031
+compiler_version: puzzle-lab-1
+inputs:
+  classroom/scripts/puzzle_lab.js: 5989331ad61fd1c0336a74bbcc55c95be58de37680c0436b5f3ef9c672351fee
+  classroom/styles/puzzle_lab.css: 633cec901de2524d2057433120621284cfb7391f56954eaaa0042c9f763da0f1
+  classroom/templates/puzzle_lab.html: fa524705ce56023eb23325e11309b4d8d5bcb3a946e7f108c32cb520f5f73af1
+  curriculum/CURRICULUM_INDEX.yaml: d7a18ffb9673273235fab8b230a0b0feb54650973634e739c0f95c32d25d3aaa
+  pipeline/puzzle_lab.py: 87011515c241fdbe1a74b18c8ae21306b148dbc925b1b1a311e90cbf88761649
+  puzzles/policies/labs/LAB-LEGAL-PLAY-001.yaml: 63cd56a7ebe633df5cad456b2bc53a371fb66b053fa30a87abb7485d3fa295f9
+  puzzles/reviews/LAB-LEGAL-PLAY-001.yaml: 0f644c3cf6740a7d3b2d55874fb85d0e648c46515b157bf7e6183dab1d592e1f
+  puzzles/snapshots/LAB-LEGAL-PLAY-001.selected.json: be0373e4ba3e1168fa78b524e1e16c7f03da38bd68e467e9856dce77b8416b2a
+outputs:
+  assets/puzzle_lab.css: 633cec901de2524d2057433120621284cfb7391f56954eaaa0042c9f763da0f1
+  assets/puzzle_lab.js: 5989331ad61fd1c0336a74bbcc55c95be58de37680c0436b5f3ef9c672351fee
+  index.html: 463c78c1d0e0209f40705b325ac3ea724c8f191849361dbbc91d33d16f3eda3b
+  lab.json: 1ceb2de97f93ebc1772cfc23f2669930c46ef21cea3162083856cb120abd2f55
+build_id: 8090009ba64c4756473d9cb2858f8ff10246dcaad30e502f52f732a7ce8106d9
+validation_decision: VALID

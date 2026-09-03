@@ -1,0 +1,1187 @@
+{
+  "lesson_id": "LES-029",
+  "kb_id": "KB-113",
+  "topic_id": "TOP-113",
+  "unit_id": "UNT-001",
+  "sequence": 29,
+  "objective": "- **Today's goal:** Your child can decide whether a proposed move obeys every relevant chess rule.\n- **Prerequisites:** piece movement, capturing, TOP-110, and TOP-111.\n- **Success:** Your child explains the answer and demonstrates it on a physical board.",
+  "success_criteria": "- **Today's goal:** Your child can decide whether a proposed move obeys every relevant chess rule.\n- **Prerequisites:** piece movement, capturing, TOP-110, and TOP-111.\n- **Success:** Your child explains the answer and demonstrates it on a physical board.",
+  "source_traces": {
+    "objective": "KB-113#1#B1",
+    "success_criteria": "KB-113#1#B1"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-113#1",
+      "content": "- **Today's goal:** Your child can decide whether a proposed move obeys every relevant chess rule.\n- **Prerequisites:** piece movement, capturing, TOP-110, and TOP-111.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-113#2",
+      "content": "A legal move satisfies the relevant movement, occupancy, special-move, and king-safety requirements. An illegal move fails at least one. A move that follows a piece's shape but leaves the player's own king attacked is illegal."
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-113#3",
+      "content": "A child may know how each piece moves yet still play illegal moves because of blockers, friendly occupancy, or king exposure. A repeatable legality routine creates independent tournament play."
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-113#4",
+      "content": "- **Requires:** piece movement, capturing, TOP-110, and TOP-111.\n- **Unlocks:** TOP-114 Illegal King Moves and TOP-115 Escaping Check.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-113#5",
+      "content": "Legality and move quality are different. A legal move may be a poor choice, while an attractive move is unusable if it breaks a rule. Penalties and restoration after an illegal tournament move depend on the applicable competition rules and are not part of this atomic KB.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-113#6",
+      "content": "1. Ask whether the piece moves that way.\n2. Check whether the path is clear or the piece may jump.\n3. Check whether the destination is empty or occupied by an opponent.\n4. Imagine the move completed.\n5. Confirm that the player's own king is safe afterward.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-113#7",
+      "content": "Use a four-door safety check: shape, road, landing place, king safety. Every door must open before the move may enter the game."
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know?",
+      "source_trace": "KB-113#8",
+      "content": "A move can look completely normal and still be illegal because it uncovers an attack on the player's own king."
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-113#9",
+      "content": "**Future reviewed visual requirement:** A proposed rook move blocked by a friendly pawn, labelled as illegal because the road is closed.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication."
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-113#10",
+      "content": "Test movement shape, path, destination, and resulting king safety in that order. Special moves add conditions, but they never bypass king safety."
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-113#11",
+      "content": "**Future reviewed visual requirement:** A pinned piece moving away and exposing its own king, contrasting pseudo-legal shape with full legality.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram."
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-113#12",
+      "content": "In tournament play, a child should not argue about a disputed irregularity. They should call the arbiter and explain what happened. The arbiter applies the event's procedure."
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-113#13",
+      "content": "- Calling every bad move illegal.\n- Checking only movement shape.\n- Forgetting the resulting king position.\n- Confusing legality with an arbiter's penalty.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-113#14",
+      "content": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-113#15",
+      "content": "**Is a blunder illegal?**  \nNo, if it follows all rules.\n\n**May I move a pinned piece?**  \nOnly if the move does not expose or leave your king attacked.\n\n**What should my child do in a dispute?**  \nPause appropriately and call the arbiter rather than negotiate with the opponent."
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-113#16",
+      "content": "Play Move Detective. Offer a mixture of legal and illegal moves. Your child must name the first failed door instead of only saying yes or no.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge",
+      "source_trace": "KB-113#17",
+      "content": "Show a move with correct shape and clear path that exposes the king. Ask your child to prove why it is illegal after imagining the result.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-113#18",
+      "content": "### Recognition\n**Question:** Can a bishop jump a pawn?  \n**Answer:** No.\n\n### Application\n**Question:** Classify a move onto a friendly piece.  \n**Answer:** Illegal destination.\n\n### Challenge\n**Question:** Classify a pinned-piece move.  \n**Answer:** Legal only if the resulting king is not attacked."
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-113#19",
+      "content": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-113#20",
+      "content": "- **Prerequisites:** piece movement, capturing, TOP-110, and TOP-111.\n- **Unlocks:** TOP-114 Illegal King Moves and TOP-115 Escaping Check.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#LEGAL_ILLEGAL_MOVES`."
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check",
+      "source_trace": "KB-113#21",
+      "content": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts.\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  canonical_sections: 21\n  diagrams_required: 2\n  mini_puzzles: 3\n  coach_challenges: 1\n  practice_activities: 1\n  parent_faq: 3\n  evidence_source: BOARD-LEGAL-PLAY-01\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-029-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-113#1#B1",
+      "parent_prompt_trace": "KB-113#1#B1",
+      "text": "- **Today's goal:** Your child can decide whether a proposed move obeys every relevant chess rule.\n- **Prerequisites:** piece movement, capturing, TOP-110, and TOP-111.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "id": "LES-029-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-113#2#B1",
+      "parent_prompt_trace": "KB-113#2#B1",
+      "text": "A legal move satisfies the relevant movement, occupancy, special-move, and king-safety requirements. An illegal move fails at least one. A move that follows a piece's shape but leaves the player's own king attacked is illegal."
+    },
+    {
+      "id": "LES-029-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-113#3#B1",
+      "parent_prompt_trace": "KB-113#3#B1",
+      "text": "A child may know how each piece moves yet still play illegal moves because of blockers, friendly occupancy, or king exposure. A repeatable legality routine creates independent tournament play."
+    },
+    {
+      "id": "LES-029-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-113#4#B1",
+      "parent_prompt_trace": "KB-113#4#B1",
+      "text": "- **Requires:** piece movement, capturing, TOP-110, and TOP-111.\n- **Unlocks:** TOP-114 Illegal King Moves and TOP-115 Escaping Check.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "id": "LES-029-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-113#5#B1",
+      "parent_prompt_trace": "KB-113#5#B1",
+      "text": "Legality and move quality are different. A legal move may be a poor choice, while an attractive move is unusable if it breaks a rule. Penalties and restoration after an illegal tournament move depend on the applicable competition rules and are not part of this atomic KB.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "id": "LES-029-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-113#6#B1",
+      "parent_prompt_trace": "KB-113#6#B1",
+      "text": "1. Ask whether the piece moves that way.\n2. Check whether the path is clear or the piece may jump.\n3. Check whether the destination is empty or occupied by an opponent.\n4. Imagine the move completed.\n5. Confirm that the player's own king is safe afterward.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "id": "LES-029-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-113#7#B1",
+      "parent_prompt_trace": "KB-113#7#B1",
+      "text": "Use a four-door safety check: shape, road, landing place, king safety. Every door must open before the move may enter the game."
+    },
+    {
+      "id": "LES-029-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know?",
+      "source_trace": "KB-113#8#B1",
+      "parent_prompt_trace": "KB-113#8#B1",
+      "text": "A move can look completely normal and still be illegal because it uncovers an attack on the player's own king."
+    },
+    {
+      "id": "LES-029-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-113#9#B1",
+      "parent_prompt_trace": "KB-113#9#B1",
+      "text": "**Future reviewed visual requirement:** A proposed rook move blocked by a friendly pawn, labelled as illegal because the road is closed.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+      "diagram_id": "DGM-113-01",
+      "diagram_url": "assets/DGM-113-01.svg",
+      "position_id": "POS-ILLEGAL-ROOK-BLOCKED-001",
+      "position_version": 1,
+      "position_title": "Rook road closed by its pawn",
+      "diagram_alt": "Rook road closed by its pawn"
+    },
+    {
+      "id": "LES-029-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-113#10#B1",
+      "parent_prompt_trace": "KB-113#10#B1",
+      "text": "Test movement shape, path, destination, and resulting king safety in that order. Special moves add conditions, but they never bypass king safety."
+    },
+    {
+      "id": "LES-029-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-113#11#B1",
+      "parent_prompt_trace": "KB-113#11#B1",
+      "text": "**Future reviewed visual requirement:** A pinned piece moving away and exposing its own king, contrasting pseudo-legal shape with full legality.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+      "diagram_id": "DGM-113-02",
+      "diagram_url": "assets/DGM-113-02.svg",
+      "position_id": "POS-ILLEGAL-PINNED-ROOK-001",
+      "position_version": 1,
+      "position_title": "Sideways rook move exposes its king",
+      "diagram_alt": "Sideways rook move exposes its king"
+    },
+    {
+      "id": "LES-029-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-113#12#B1",
+      "parent_prompt_trace": "KB-113#12#B1",
+      "text": "In tournament play, a child should not argue about a disputed irregularity. They should call the arbiter and explain what happened. The arbiter applies the event's procedure."
+    },
+    {
+      "id": "LES-029-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-113#13#B1",
+      "parent_prompt_trace": "KB-113#13#B1",
+      "text": "- Calling every bad move illegal.\n- Checking only movement shape.\n- Forgetting the resulting king position.\n- Confusing legality with an arbiter's penalty.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "id": "LES-029-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-113#14#B1",
+      "parent_prompt_trace": "KB-113#14#B1",
+      "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "id": "LES-029-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-113#15#B1",
+      "parent_prompt_trace": "KB-113#15#B1",
+      "text": "**Is a blunder illegal?**  \nNo, if it follows all rules.\n\n**May I move a pinned piece?**  \nOnly if the move does not expose or leave your king attacked.\n\n**What should my child do in a dispute?**  \nPause appropriately and call the arbiter rather than negotiate with the opponent."
+    },
+    {
+      "id": "LES-029-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-113#16#B1",
+      "parent_prompt_trace": "KB-113#16#B1",
+      "text": "Play Move Detective. Offer a mixture of legal and illegal moves. Your child must name the first failed door instead of only saying yes or no.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "id": "LES-029-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge",
+      "source_trace": "KB-113#17#B1",
+      "parent_prompt_trace": "KB-113#17#B1",
+      "text": "Show a move with correct shape and clear path that exposes the king. Ask your child to prove why it is illegal after imagining the result.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "id": "LES-029-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-113#18#B1",
+      "parent_prompt_trace": "KB-113#18#B1",
+      "text": "### Recognition\n**Question:** Can a bishop jump a pawn?  \n**Answer:** No.\n\n### Application\n**Question:** Classify a move onto a friendly piece.  \n**Answer:** Illegal destination.\n\n### Challenge\n**Question:** Classify a pinned-piece move.  \n**Answer:** Legal only if the resulting king is not attacked."
+    },
+    {
+      "id": "LES-029-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-113#19#B1",
+      "parent_prompt_trace": "KB-113#19#B1",
+      "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "id": "LES-029-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-113#20#B1",
+      "parent_prompt_trace": "KB-113#20#B1",
+      "text": "- **Prerequisites:** piece movement, capturing, TOP-110, and TOP-111.\n- **Unlocks:** TOP-114 Illegal King Moves and TOP-115 Escaping Check.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#LEGAL_ILLEGAL_MOVES`."
+    },
+    {
+      "id": "LES-029-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check",
+      "source_trace": "KB-113#21#B1",
+      "parent_prompt_trace": "KB-113#21#B1",
+      "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+    }
+  ],
+  "task_references": [
+    "PZL-029-01",
+    "PZL-029-02",
+    "PZL-029-03",
+    "PZL-029-04"
+  ],
+  "diagram_references": [
+    "DGM-113-01",
+    "DGM-113-02"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-029",
+  "deferred_topics": [
+    {
+      "topic": "Illegal-move tournament penalties",
+      "defer_to": "FUTURE"
+    },
+    {
+      "topic": "Special moves",
+      "defer_to": "FUTURE"
+    }
+  ],
+  "teach_slides": [
+    {
+      "id": "LES-029-S01",
+      "type": "INTRO",
+      "title": "Four doors for every move",
+      "text": "Shape road landing king. Every door must open.",
+      "parent_prompt": "Teach the four-door check in a fixed order.",
+      "diagram_id": "DGM-113-01",
+      "diagram_url": "assets/DGM-113-01.svg",
+      "visual": {
+        "diagram_id": "DGM-113-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ILLEGAL-ROOK-BLOCKED-001",
+      "position_version": 1,
+      "position_title": "Rook road closed by its pawn",
+      "diagram_alt": "Rook road closed by its pawn"
+    },
+    {
+      "id": "LES-029-S02",
+      "type": "DIAGRAM",
+      "title": "The road is closed",
+      "text": "Correct rook shape is not enough when a pawn blocks the path.",
+      "parent_prompt": "Test the proposed rook move and stop at the closed road.",
+      "diagram_id": "DGM-113-01",
+      "diagram_url": "assets/DGM-113-01.svg",
+      "visual": {
+        "diagram_id": "DGM-113-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ILLEGAL-ROOK-BLOCKED-001",
+      "position_version": 1,
+      "position_title": "Rook road closed by its pawn",
+      "diagram_alt": "Rook road closed by its pawn"
+    },
+    {
+      "id": "LES-029-S03",
+      "type": "DIAGRAM",
+      "title": "Look after the move",
+      "text": "Moving the pinned rook exposes its own king.",
+      "parent_prompt": "Imagine the rook on d2 then inspect the open e-file toward the White king.",
+      "diagram_id": "DGM-113-02",
+      "diagram_url": "assets/DGM-113-02.svg",
+      "visual": {
+        "diagram_id": "DGM-113-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ILLEGAL-PINNED-ROOK-001",
+      "position_version": 1,
+      "position_title": "Sideways rook move exposes its king",
+      "diagram_alt": "Sideways rook move exposes its king"
+    },
+    {
+      "id": "LES-029-S04",
+      "type": "PHYSICAL_ACTIVITY",
+      "title": "Move Detective",
+      "text": "Do not only say illegal. Name the first failed rule.",
+      "parent_prompt": "Play Move Detective and ask the child to name the first failed door for each proposal.",
+      "visual": {
+        "sticker": "detective",
+        "layout": "TEXT_ONLY",
+        "sticker_url": "assets/detective.svg",
+        "sticker_alt": "Chess detective searching for setup clues"
+      }
+    },
+    {
+      "id": "LES-029-S05",
+      "type": "QUESTION",
+      "title": "Check the road",
+      "text": "Can a bishop jump a pawn?",
+      "parent_prompt": "Ask whether a bishop may jump over its own pawn.",
+      "reveal": "No. A bishop is a sliding piece and its road must be clear.",
+      "diagram_id": "DGM-113-02",
+      "diagram_url": "assets/DGM-113-02.svg",
+      "visual": {
+        "diagram_id": "DGM-113-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ILLEGAL-PINNED-ROOK-001",
+      "position_version": 1,
+      "position_title": "Sideways rook move exposes its king",
+      "diagram_alt": "Sideways rook move exposes its king"
+    },
+    {
+      "id": "LES-029-S06",
+      "type": "QUESTION",
+      "title": "Check the landing",
+      "text": "May your piece land on a friendly piece?",
+      "parent_prompt": "Ask whether a move onto a friendly piece has a valid landing place.",
+      "reveal": "No. A friendly-occupied destination makes the move illegal.",
+      "diagram_id": "DGM-113-02",
+      "diagram_url": "assets/DGM-113-02.svg",
+      "visual": {
+        "diagram_id": "DGM-113-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ILLEGAL-PINNED-ROOK-001",
+      "position_version": 1,
+      "position_title": "Sideways rook move exposes its king",
+      "diagram_alt": "Sideways rook move exposes its king"
+    },
+    {
+      "id": "LES-029-S07",
+      "type": "ASSESSMENT",
+      "title": "Pass every door",
+      "text": "Check shape road landing and king safety.",
+      "parent_prompt": "Offer one legal and three illegal moves and require the first failed door for each.",
+      "diagram_id": "DGM-113-02",
+      "diagram_url": "assets/DGM-113-02.svg",
+      "visual": {
+        "diagram_id": "DGM-113-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ILLEGAL-PINNED-ROOK-001",
+      "position_version": 1,
+      "position_title": "Sideways rook move exposes its king",
+      "diagram_alt": "Sideways rook move exposes its king"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-029-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-113#1#B1",
+      "parent_prompt_trace": "KB-113#1#B1",
+      "text": "- **Today's goal:** Your child can decide whether a proposed move obeys every relevant chess rule.\n- **Prerequisites:** piece movement, capturing, TOP-110, and TOP-111.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "id": "LES-029-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-113#2#B1",
+      "parent_prompt_trace": "KB-113#2#B1",
+      "text": "A legal move satisfies the relevant movement, occupancy, special-move, and king-safety requirements. An illegal move fails at least one. A move that follows a piece's shape but leaves the player's own king attacked is illegal."
+    },
+    {
+      "id": "LES-029-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-113#3#B1",
+      "parent_prompt_trace": "KB-113#3#B1",
+      "text": "A child may know how each piece moves yet still play illegal moves because of blockers, friendly occupancy, or king exposure. A repeatable legality routine creates independent tournament play."
+    },
+    {
+      "id": "LES-029-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-113#4#B1",
+      "parent_prompt_trace": "KB-113#4#B1",
+      "text": "- **Requires:** piece movement, capturing, TOP-110, and TOP-111.\n- **Unlocks:** TOP-114 Illegal King Moves and TOP-115 Escaping Check.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "id": "LES-029-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-113#5#B1",
+      "parent_prompt_trace": "KB-113#5#B1",
+      "text": "Legality and move quality are different. A legal move may be a poor choice, while an attractive move is unusable if it breaks a rule. Penalties and restoration after an illegal tournament move depend on the applicable competition rules and are not part of this atomic KB.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "id": "LES-029-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-113#6#B1",
+      "parent_prompt_trace": "KB-113#6#B1",
+      "text": "1. Ask whether the piece moves that way.\n2. Check whether the path is clear or the piece may jump.\n3. Check whether the destination is empty or occupied by an opponent.\n4. Imagine the move completed.\n5. Confirm that the player's own king is safe afterward.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "id": "LES-029-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-113#7#B1",
+      "parent_prompt_trace": "KB-113#7#B1",
+      "text": "Use a four-door safety check: shape, road, landing place, king safety. Every door must open before the move may enter the game."
+    },
+    {
+      "id": "LES-029-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know?",
+      "source_trace": "KB-113#8#B1",
+      "parent_prompt_trace": "KB-113#8#B1",
+      "text": "A move can look completely normal and still be illegal because it uncovers an attack on the player's own king."
+    },
+    {
+      "id": "LES-029-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-113#9#B1",
+      "parent_prompt_trace": "KB-113#9#B1",
+      "text": "**Future reviewed visual requirement:** A proposed rook move blocked by a friendly pawn, labelled as illegal because the road is closed.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+      "diagram_id": "DGM-113-01",
+      "diagram_url": "assets/DGM-113-01.svg",
+      "position_id": "POS-ILLEGAL-ROOK-BLOCKED-001",
+      "position_version": 1,
+      "position_title": "Rook road closed by its pawn",
+      "diagram_alt": "Rook road closed by its pawn"
+    },
+    {
+      "id": "LES-029-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-113#10#B1",
+      "parent_prompt_trace": "KB-113#10#B1",
+      "text": "Test movement shape, path, destination, and resulting king safety in that order. Special moves add conditions, but they never bypass king safety."
+    },
+    {
+      "id": "LES-029-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-113#11#B1",
+      "parent_prompt_trace": "KB-113#11#B1",
+      "text": "**Future reviewed visual requirement:** A pinned piece moving away and exposing its own king, contrasting pseudo-legal shape with full legality.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+      "diagram_id": "DGM-113-02",
+      "diagram_url": "assets/DGM-113-02.svg",
+      "position_id": "POS-ILLEGAL-PINNED-ROOK-001",
+      "position_version": 1,
+      "position_title": "Sideways rook move exposes its king",
+      "diagram_alt": "Sideways rook move exposes its king"
+    },
+    {
+      "id": "LES-029-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-113#12#B1",
+      "parent_prompt_trace": "KB-113#12#B1",
+      "text": "In tournament play, a child should not argue about a disputed irregularity. They should call the arbiter and explain what happened. The arbiter applies the event's procedure."
+    },
+    {
+      "id": "LES-029-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-113#13#B1",
+      "parent_prompt_trace": "KB-113#13#B1",
+      "text": "- Calling every bad move illegal.\n- Checking only movement shape.\n- Forgetting the resulting king position.\n- Confusing legality with an arbiter's penalty.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "id": "LES-029-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-113#14#B1",
+      "parent_prompt_trace": "KB-113#14#B1",
+      "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "id": "LES-029-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-113#15#B1",
+      "parent_prompt_trace": "KB-113#15#B1",
+      "text": "**Is a blunder illegal?**  \nNo, if it follows all rules.\n\n**May I move a pinned piece?**  \nOnly if the move does not expose or leave your king attacked.\n\n**What should my child do in a dispute?**  \nPause appropriately and call the arbiter rather than negotiate with the opponent."
+    },
+    {
+      "id": "LES-029-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-113#16#B1",
+      "parent_prompt_trace": "KB-113#16#B1",
+      "text": "Play Move Detective. Offer a mixture of legal and illegal moves. Your child must name the first failed door instead of only saying yes or no.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "id": "LES-029-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge",
+      "source_trace": "KB-113#17#B1",
+      "parent_prompt_trace": "KB-113#17#B1",
+      "text": "Show a move with correct shape and clear path that exposes the king. Ask your child to prove why it is illegal after imagining the result.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "id": "LES-029-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-113#18#B1",
+      "parent_prompt_trace": "KB-113#18#B1",
+      "text": "### Recognition\n**Question:** Can a bishop jump a pawn?  \n**Answer:** No.\n\n### Application\n**Question:** Classify a move onto a friendly piece.  \n**Answer:** Illegal destination.\n\n### Challenge\n**Question:** Classify a pinned-piece move.  \n**Answer:** Legal only if the resulting king is not attacked."
+    },
+    {
+      "id": "LES-029-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-113#19#B1",
+      "parent_prompt_trace": "KB-113#19#B1",
+      "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "id": "LES-029-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-113#20#B1",
+      "parent_prompt_trace": "KB-113#20#B1",
+      "text": "- **Prerequisites:** piece movement, capturing, TOP-110, and TOP-111.\n- **Unlocks:** TOP-114 Illegal King Moves and TOP-115 Escaping Check.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#LEGAL_ILLEGAL_MOVES`."
+    },
+    {
+      "id": "LES-029-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check",
+      "source_trace": "KB-113#21#B1",
+      "parent_prompt_trace": "KB-113#21#B1",
+      "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+    }
+  ],
+  "title": "Legal and Illegal Moves",
+  "duration_minutes": 20,
+  "memory_phrase": "Shape, road, landing, king.",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 20,
+    "slides": [
+      {
+        "id": "LES-029-S01",
+        "type": "INTRO",
+        "title": "Four doors for every move",
+        "text": "Shape road landing king. Every door must open.",
+        "parent_prompt": "Teach the four-door check in a fixed order.",
+        "diagram_id": "DGM-113-01",
+        "diagram_url": "assets/DGM-113-01.svg",
+        "visual": {
+          "diagram_id": "DGM-113-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ILLEGAL-ROOK-BLOCKED-001",
+        "position_version": 1,
+        "position_title": "Rook road closed by its pawn",
+        "diagram_alt": "Rook road closed by its pawn"
+      },
+      {
+        "id": "LES-029-S02",
+        "type": "DIAGRAM",
+        "title": "The road is closed",
+        "text": "Correct rook shape is not enough when a pawn blocks the path.",
+        "parent_prompt": "Test the proposed rook move and stop at the closed road.",
+        "diagram_id": "DGM-113-01",
+        "diagram_url": "assets/DGM-113-01.svg",
+        "visual": {
+          "diagram_id": "DGM-113-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ILLEGAL-ROOK-BLOCKED-001",
+        "position_version": 1,
+        "position_title": "Rook road closed by its pawn",
+        "diagram_alt": "Rook road closed by its pawn"
+      },
+      {
+        "id": "LES-029-S03",
+        "type": "DIAGRAM",
+        "title": "Look after the move",
+        "text": "Moving the pinned rook exposes its own king.",
+        "parent_prompt": "Imagine the rook on d2 then inspect the open e-file toward the White king.",
+        "diagram_id": "DGM-113-02",
+        "diagram_url": "assets/DGM-113-02.svg",
+        "visual": {
+          "diagram_id": "DGM-113-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ILLEGAL-PINNED-ROOK-001",
+        "position_version": 1,
+        "position_title": "Sideways rook move exposes its king",
+        "diagram_alt": "Sideways rook move exposes its king"
+      },
+      {
+        "id": "LES-029-S04",
+        "type": "PHYSICAL_ACTIVITY",
+        "title": "Move Detective",
+        "text": "Do not only say illegal. Name the first failed rule.",
+        "parent_prompt": "Play Move Detective and ask the child to name the first failed door for each proposal.",
+        "visual": {
+          "sticker": "detective",
+          "layout": "TEXT_ONLY",
+          "sticker_url": "assets/detective.svg",
+          "sticker_alt": "Chess detective searching for setup clues"
+        }
+      },
+      {
+        "id": "LES-029-S05",
+        "type": "QUESTION",
+        "title": "Check the road",
+        "text": "Can a bishop jump a pawn?",
+        "parent_prompt": "Ask whether a bishop may jump over its own pawn.",
+        "reveal": "No. A bishop is a sliding piece and its road must be clear.",
+        "diagram_id": "DGM-113-02",
+        "diagram_url": "assets/DGM-113-02.svg",
+        "visual": {
+          "diagram_id": "DGM-113-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ILLEGAL-PINNED-ROOK-001",
+        "position_version": 1,
+        "position_title": "Sideways rook move exposes its king",
+        "diagram_alt": "Sideways rook move exposes its king"
+      },
+      {
+        "id": "LES-029-S06",
+        "type": "QUESTION",
+        "title": "Check the landing",
+        "text": "May your piece land on a friendly piece?",
+        "parent_prompt": "Ask whether a move onto a friendly piece has a valid landing place.",
+        "reveal": "No. A friendly-occupied destination makes the move illegal.",
+        "diagram_id": "DGM-113-02",
+        "diagram_url": "assets/DGM-113-02.svg",
+        "visual": {
+          "diagram_id": "DGM-113-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ILLEGAL-PINNED-ROOK-001",
+        "position_version": 1,
+        "position_title": "Sideways rook move exposes its king",
+        "diagram_alt": "Sideways rook move exposes its king"
+      },
+      {
+        "id": "LES-029-S07",
+        "type": "ASSESSMENT",
+        "title": "Pass every door",
+        "text": "Check shape road landing and king safety.",
+        "parent_prompt": "Offer one legal and three illegal moves and require the first failed door for each.",
+        "diagram_id": "DGM-113-02",
+        "diagram_url": "assets/DGM-113-02.svg",
+        "visual": {
+          "diagram_id": "DGM-113-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ILLEGAL-PINNED-ROOK-001",
+        "position_version": 1,
+        "position_title": "Sideways rook move exposes its king",
+        "diagram_alt": "Sideways rook move exposes its king"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-029-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-113#1#B1",
+        "parent_prompt_trace": "KB-113#1#B1",
+        "text": "- **Today's goal:** Your child can decide whether a proposed move obeys every relevant chess rule.\n- **Prerequisites:** piece movement, capturing, TOP-110, and TOP-111.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+      },
+      {
+        "id": "LES-029-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-113#2#B1",
+        "parent_prompt_trace": "KB-113#2#B1",
+        "text": "A legal move satisfies the relevant movement, occupancy, special-move, and king-safety requirements. An illegal move fails at least one. A move that follows a piece's shape but leaves the player's own king attacked is illegal."
+      },
+      {
+        "id": "LES-029-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-113#3#B1",
+        "parent_prompt_trace": "KB-113#3#B1",
+        "text": "A child may know how each piece moves yet still play illegal moves because of blockers, friendly occupancy, or king exposure. A repeatable legality routine creates independent tournament play."
+      },
+      {
+        "id": "LES-029-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-113#4#B1",
+        "parent_prompt_trace": "KB-113#4#B1",
+        "text": "- **Requires:** piece movement, capturing, TOP-110, and TOP-111.\n- **Unlocks:** TOP-114 Illegal King Moves and TOP-115 Escaping Check.\n- Start with an uncluttered physical board and add complexity gradually."
+      },
+      {
+        "id": "LES-029-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-113#5#B1",
+        "parent_prompt_trace": "KB-113#5#B1",
+        "text": "Legality and move quality are different. A legal move may be a poor choice, while an attractive move is unusable if it breaks a rule. Penalties and restoration after an illegal tournament move depend on the applicable competition rules and are not part of this atomic KB.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+      },
+      {
+        "id": "LES-029-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-113#6#B1",
+        "parent_prompt_trace": "KB-113#6#B1",
+        "text": "1. Ask whether the piece moves that way.\n2. Check whether the path is clear or the piece may jump.\n3. Check whether the destination is empty or occupied by an opponent.\n4. Imagine the move completed.\n5. Confirm that the player's own king is safe afterward.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+      },
+      {
+        "id": "LES-029-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-113#7#B1",
+        "parent_prompt_trace": "KB-113#7#B1",
+        "text": "Use a four-door safety check: shape, road, landing place, king safety. Every door must open before the move may enter the game."
+      },
+      {
+        "id": "LES-029-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know?",
+        "source_trace": "KB-113#8#B1",
+        "parent_prompt_trace": "KB-113#8#B1",
+        "text": "A move can look completely normal and still be illegal because it uncovers an attack on the player's own king."
+      },
+      {
+        "id": "LES-029-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-113#9#B1",
+        "parent_prompt_trace": "KB-113#9#B1",
+        "text": "**Future reviewed visual requirement:** A proposed rook move blocked by a friendly pawn, labelled as illegal because the road is closed.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+        "diagram_id": "DGM-113-01",
+        "diagram_url": "assets/DGM-113-01.svg",
+        "position_id": "POS-ILLEGAL-ROOK-BLOCKED-001",
+        "position_version": 1,
+        "position_title": "Rook road closed by its pawn",
+        "diagram_alt": "Rook road closed by its pawn"
+      },
+      {
+        "id": "LES-029-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-113#10#B1",
+        "parent_prompt_trace": "KB-113#10#B1",
+        "text": "Test movement shape, path, destination, and resulting king safety in that order. Special moves add conditions, but they never bypass king safety."
+      },
+      {
+        "id": "LES-029-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-113#11#B1",
+        "parent_prompt_trace": "KB-113#11#B1",
+        "text": "**Future reviewed visual requirement:** A pinned piece moving away and exposing its own king, contrasting pseudo-legal shape with full legality.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+        "diagram_id": "DGM-113-02",
+        "diagram_url": "assets/DGM-113-02.svg",
+        "position_id": "POS-ILLEGAL-PINNED-ROOK-001",
+        "position_version": 1,
+        "position_title": "Sideways rook move exposes its king",
+        "diagram_alt": "Sideways rook move exposes its king"
+      },
+      {
+        "id": "LES-029-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-113#12#B1",
+        "parent_prompt_trace": "KB-113#12#B1",
+        "text": "In tournament play, a child should not argue about a disputed irregularity. They should call the arbiter and explain what happened. The arbiter applies the event's procedure."
+      },
+      {
+        "id": "LES-029-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-113#13#B1",
+        "parent_prompt_trace": "KB-113#13#B1",
+        "text": "- Calling every bad move illegal.\n- Checking only movement shape.\n- Forgetting the resulting king position.\n- Confusing legality with an arbiter's penalty.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+      },
+      {
+        "id": "LES-029-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-113#14#B1",
+        "parent_prompt_trace": "KB-113#14#B1",
+        "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+      },
+      {
+        "id": "LES-029-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-113#15#B1",
+        "parent_prompt_trace": "KB-113#15#B1",
+        "text": "**Is a blunder illegal?**  \nNo, if it follows all rules.\n\n**May I move a pinned piece?**  \nOnly if the move does not expose or leave your king attacked.\n\n**What should my child do in a dispute?**  \nPause appropriately and call the arbiter rather than negotiate with the opponent."
+      },
+      {
+        "id": "LES-029-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-113#16#B1",
+        "parent_prompt_trace": "KB-113#16#B1",
+        "text": "Play Move Detective. Offer a mixture of legal and illegal moves. Your child must name the first failed door instead of only saying yes or no.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+      },
+      {
+        "id": "LES-029-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge",
+        "source_trace": "KB-113#17#B1",
+        "parent_prompt_trace": "KB-113#17#B1",
+        "text": "Show a move with correct shape and clear path that exposes the king. Ask your child to prove why it is illegal after imagining the result.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+      },
+      {
+        "id": "LES-029-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-113#18#B1",
+        "parent_prompt_trace": "KB-113#18#B1",
+        "text": "### Recognition\n**Question:** Can a bishop jump a pawn?  \n**Answer:** No.\n\n### Application\n**Question:** Classify a move onto a friendly piece.  \n**Answer:** Illegal destination.\n\n### Challenge\n**Question:** Classify a pinned-piece move.  \n**Answer:** Legal only if the resulting king is not attacked."
+      },
+      {
+        "id": "LES-029-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-113#19#B1",
+        "parent_prompt_trace": "KB-113#19#B1",
+        "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+      },
+      {
+        "id": "LES-029-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-113#20#B1",
+        "parent_prompt_trace": "KB-113#20#B1",
+        "text": "- **Prerequisites:** piece movement, capturing, TOP-110, and TOP-111.\n- **Unlocks:** TOP-114 Illegal King Moves and TOP-115 Escaping Check.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#LEGAL_ILLEGAL_MOVES`."
+      },
+      {
+        "id": "LES-029-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check",
+        "source_trace": "KB-113#21#B1",
+        "parent_prompt_trace": "KB-113#21#B1",
+        "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+      }
+    ]
+  }
+}

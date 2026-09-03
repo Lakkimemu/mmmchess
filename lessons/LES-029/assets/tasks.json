@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-029",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-029-01",
+      "kb_id": "KB-113",
+      "lesson_id": "LES-029",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Is every bad move illegal?",
+      "hint": "Legality and quality are different.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. A poor move can still follow every chess rule."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-029.yaml",
+        "source_sha256": "bd8f3be346f4a5716eb911f2fa3cf67fc1bce79f49b11a1c6e04a3a7aa37568b",
+        "field": "exercises",
+        "anchor": "EX-029-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-029-02",
+      "kb_id": "KB-113",
+      "lesson_id": "LES-029",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Is a rook move legal when a piece blocks its path?",
+      "hint": "Check the road.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. Sliding pieces cannot move through blockers."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-029.yaml",
+        "source_sha256": "bd8f3be346f4a5716eb911f2fa3cf67fc1bce79f49b11a1c6e04a3a7aa37568b",
+        "field": "exercises",
+        "anchor": "EX-029-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-029-03",
+      "kb_id": "KB-113",
+      "lesson_id": "LES-029",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "May a piece land on a friendly piece?",
+      "hint": "Check the landing place.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. The destination is not available."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-029.yaml",
+        "source_sha256": "bd8f3be346f4a5716eb911f2fa3cf67fc1bce79f49b11a1c6e04a3a7aa37568b",
+        "field": "exercises",
+        "anchor": "EX-029-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-029-04",
+      "kb_id": "KB-113",
+      "lesson_id": "LES-029",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "May a pinned piece move away if that exposes its king?",
+      "hint": "Imagine the completed move.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. The resulting position leaves its own king attacked."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-029.yaml",
+        "source_sha256": "bd8f3be346f4a5716eb911f2fa3cf67fc1bce79f49b11a1c6e04a3a7aa37568b",
+        "field": "exercises",
+        "anchor": "EX-029-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

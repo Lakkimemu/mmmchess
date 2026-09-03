@@ -1,0 +1,31 @@
+schema_version: 1
+diagram_id: DGM-113-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-ILLEGAL-ROOK-BLOCKED-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: ROOK
+    square: a1
+  - color: WHITE
+    piece_type: PAWN
+    square: a3
+  - color: WHITE
+    piece_type: KING
+    square: h1
+  - color: BLACK
+    piece_type: KING
+    square: h8
+position_sha256: 0ba07a860af967bf27f544a464ea6ca0f02e2c8f5663c150ea5ce3bdedd4c828
+presentation_sha256: 9a36cf562ea09f1f3ba6705bdc50a4375a3288134724d10e49f5b81f24f87183
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-113#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: d7e854b68f086abf4176bd8a3bc8fadc8ed591d0ae9896aa8df3a3a9d4624067
+output_svg_sha256: d7e854b68f086abf4176bd8a3bc8fadc8ed591d0ae9896aa8df3a3a9d4624067

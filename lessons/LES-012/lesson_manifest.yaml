@@ -25,7 +25,7 @@ inputs:
   pipeline/validate_learning_tasks.py: 0c4d2b1ebb784912f25d70b13d5564b34f923fb81c557b399d06576d5be42214
   pipeline/validate_lesson_package.py: 4fb10cca27fca19b4c800a14b25571d57cc2f2ec590600f6123a531d93b801b2
   pipeline/validate_position_registry.py: 3301db07a7a46af5dd06bd06fd34e57b68367dc5f219d71f1abaddedb4e81395
-  positions/POSITION_INDEX.yaml: 634f1dcacfac8b676f078dcb1d1cc0c3bf4d608dc6a660d66a92a5f01f311b3a
+  positions/POSITION_INDEX.yaml: de7192c094e0c16a145baa28d8ae7414afbf7aff4d544259b38cfae29c950fa7
   positions/presentations/KB-011.yaml: c010ce3d960988a1541dbb88a29b38bba0fab300f501864d3df0ac6752169c3f
   positions/registry/bishop_positions.yaml: dd4e381557f19d80db8215b76eb1b66004acd17e0bc051dd97dacd672d4575fa
   positions/schemas/POSITION_ENTRY_SCHEMA.yaml: 8a05ad140dd048ee962b895a8fbeee01886d145f557e579273260a476ba470f6
@@ -33,7 +33,6 @@ inputs:
   puzzles/policies/FOUNDATION_TASK_POLICY.yaml: 0066d278aed3d77a77a57890c939fa1e4ad37f4593d8984741d2ca07d9c0b399
   puzzles/policies/LESSON_PUZZLE_POLICY.yaml: ca144f662e39b9077326f9d48e4779294f033c4cdfba27ba00c72b1be6d162ed
   puzzles/schemas/LEARNING_TASK_SCHEMA.yaml: bb71adbd9fa3f5c6a8338c9acbfdf42028c15bfa1b20e2076a6f220a4eca462c
-  puzzles/snapshots/LICHESS_PUZZLES_2026-07-05.selected.json: 6cdd41f3ae8fd5c114e18bbb0021a3151e3c778f888fe2d17c5741cc0d835070
 scoped_inputs:
   curriculum/source_mapping/KB-011: 2eb6ace5b368eee1eb9cf5a411681b28290a5dc1236257aaf74d5989e4e0dda3
 selected_ids:
@@ -61,5 +60,5 @@ outputs:
   assets/tasks.json: 6a25706ea6e620f8c2725f97bf378c4561b4b81d56d215834c15a2b8bebaf4b0
   index.html: 3cc90100218afcf1c60f835b7f9442c0ef3e9f5f753feb37d33fd453b5fa6696
   lesson.json: 3b05f3439d53563e12ce75e2d7cbb38b0f67ab9525055edab41da2ce88122b6e
-build_id: 209982963d92580c414511feb0ec21e3bc42fe3a3a9569cf41559cb535be7268
+build_id: 6324bf727b675355cca327d42cdd0efbf966cc9fc10d49d43523d512977a8b8e
 validation_decision: VALID

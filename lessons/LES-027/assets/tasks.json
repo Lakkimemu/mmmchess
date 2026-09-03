@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-027",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-027-01",
+      "kb_id": "KB-112",
+      "lesson_id": "LES-027",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Can a knight defend a friendly piece by jumping over another piece?",
+      "hint": "Knights jump.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Yes. Knight attack geometry is not blocked by intervening pieces."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-027.yaml",
+        "source_sha256": "c727b49323bd769e4e7f5b4d245f92410973d7aab161fa4b1ce423cb6e8a14dc",
+        "field": "exercises",
+        "anchor": "EX-027-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-027-02",
+      "kb_id": "KB-112",
+      "lesson_id": "LES-027",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Can a rook defend through a friendly blocker?",
+      "hint": "Trace one square at a time.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. A rook's ray stops at the first occupied square."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-027.yaml",
+        "source_sha256": "c727b49323bd769e4e7f5b4d245f92410973d7aab161fa4b1ce423cb6e8a14dc",
+        "field": "exercises",
+        "anchor": "EX-027-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-027-03",
+      "kb_id": "KB-112",
+      "lesson_id": "LES-027",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Does defended mean the piece cannot be captured?",
+      "hint": "Watched is not invulnerable.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. Defence identifies protection but does not decide the result of an exchange."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-027.yaml",
+        "source_sha256": "c727b49323bd769e4e7f5b4d245f92410973d7aab161fa4b1ce423cb6e8a14dc",
+        "field": "exercises",
+        "anchor": "EX-027-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-027-04",
+      "kb_id": "KB-112",
+      "lesson_id": "LES-027",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "How do you find defenders of a selected piece?",
+      "hint": "Ask which teammate watches this square.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Work backward and find friendly pieces that attack its square using normal geometry."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-027.yaml",
+        "source_sha256": "c727b49323bd769e4e7f5b4d245f92410973d7aab161fa4b1ce423cb6e8a14dc",
+        "field": "exercises",
+        "anchor": "EX-027-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

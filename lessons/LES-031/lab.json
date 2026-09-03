@@ -1,0 +1,877 @@
+{
+  "policy": {
+    "schema_version": 1,
+    "lab_id": "LAB-LEGAL-PLAY-001",
+    "lesson_id": "LES-031",
+    "title": "Legal Play Puzzle Lab",
+    "covers_lessons": [
+      "LES-027",
+      "LES-029",
+      "LES-030"
+    ],
+    "taught_topics": [
+      "board",
+      "orientation",
+      "files",
+      "ranks",
+      "squares",
+      "coordinates",
+      "piece_recognition",
+      "movement",
+      "capturing",
+      "blocked_lines",
+      "attacked_squares",
+      "defended_squares",
+      "king_movement",
+      "legal_moves",
+      "king_safety"
+    ],
+    "source_type": "LICHESS_CC0",
+    "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+    "selection": {
+      "bank_size": 25,
+      "session_size": 10,
+      "maximum_piece_count": 20,
+      "exclude_in_check": true,
+      "deterministic_seed": "PCA-LAB-LEGAL-PLAY-001-V1"
+    },
+    "question_buckets": [
+      {
+        "type": "DEFENDED_SQUARE_CHECK",
+        "count": 7
+      },
+      {
+        "type": "LEGAL_MOVE_CHECK",
+        "count": 6
+      },
+      {
+        "type": "KING_LEGAL_MOVE_CHECK",
+        "count": 6
+      },
+      {
+        "type": "KING_LEGAL_CAPTURE_CHECK",
+        "count": 6
+      }
+    ],
+    "boolean_balance": {
+      "DEFENDED_SQUARE_CHECK": {
+        "true": 4,
+        "false": 3
+      },
+      "LEGAL_MOVE_CHECK": {
+        "true": 3,
+        "false": 3
+      },
+      "KING_LEGAL_MOVE_CHECK": {
+        "true": 3,
+        "false": 3
+      },
+      "KING_LEGAL_CAPTURE_CHECK": {
+        "true": 3,
+        "false": 3
+      }
+    }
+  },
+  "sessions": {
+    "set_1": {
+      "schema_version": 1,
+      "lab_id": "LAB-LEGAL-PLAY-001",
+      "session_number": 1,
+      "session_seed": "cbc3b04abc2e135a28196410fd4e3cc271d7966febb476b7298dcc8fbc9fd48b",
+      "retry_task_ids": [],
+      "tasks": [
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "f6",
+            "rule": "PIECE_DEFENDS_FRIENDLY_SQUARE",
+            "to": "g6"
+          },
+          "diversity_key": "KING:DEFENDS:f6:g6",
+          "presented_fen": "6k1/p4N2/1p3KP1/8/8/5P2/5r2/8 w - - 1 57",
+          "prompt": "Does the White king on f6 defend the friendly piece on g6?",
+          "puzzle_id": "EyqYa",
+          "requires_topics": [
+            "movement",
+            "defended_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/oi8tSM6O/black#112",
+            "play_count": 16098,
+            "popularity": 100,
+            "rating": 915,
+            "themes": [
+              "advancedPawn",
+              "crushing",
+              "endgame",
+              "master",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-EyqYa-DEFENDED_SQUARE_CHECK-32C1CE2F68",
+          "task_type": "DEFENDED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "capture_required": false,
+            "from": "b2",
+            "rule": "MOVE_LEGALITY",
+            "to": "a2"
+          },
+          "diversity_key": "ROOK:LEGAL:b2:a2",
+          "presented_fen": "8/2p4p/3kb1p1/p4p2/P1P1p3/1B6/1rP1KPPP/R7 b - - 2 24",
+          "prompt": "Can the Black rook on b2 legally move to a2?",
+          "puzzle_id": "p2eAy",
+          "requires_topics": [
+            "movement"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/bjYkfzyg#47",
+            "play_count": 15509,
+            "popularity": 100,
+            "rating": 1173,
+            "themes": [
+              "advantage",
+              "deflection",
+              "endgame",
+              "master",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-p2eAy-LEGAL_MOVE_CHECK-37E443BDD2",
+          "task_type": "LEGAL_MOVE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "capture_required": false,
+            "from": "f7",
+            "rule": "MOVE_LEGALITY",
+            "to": "e7"
+          },
+          "diversity_key": "KING:LEGAL:f7:e7",
+          "presented_fen": "8/1p3kpp/4pp2/2Np4/2nPP1P1/7P/1rn1RP2/R5K1 b - - 2 30",
+          "prompt": "Can the Black king on f7 legally move to e7?",
+          "puzzle_id": "5D1WZ",
+          "requires_topics": [
+            "king_movement",
+            "legal_moves",
+            "king_safety"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/Oxo0wTCc#59",
+            "play_count": 12499,
+            "popularity": 100,
+            "rating": 883,
+            "themes": [
+              "advantage",
+              "endgame",
+              "hangingPiece",
+              "master",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-5D1WZ-KING_LEGAL_MOVE_CHECK-08F23935BC",
+          "task_type": "KING_LEGAL_MOVE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "capture_required": true,
+            "from": "d4",
+            "rule": "MOVE_LEGALITY",
+            "to": "c1"
+          },
+          "diversity_key": "KING:NO_CAPTURE:d4:c1",
+          "presented_fen": "8/8/2r2pp1/4p2p/K1PkP3/5P1P/6P1/2R5 b - - 0 49",
+          "prompt": "Can the Black king on d4 legally capture on c1?",
+          "puzzle_id": "baIaG",
+          "requires_topics": [
+            "king_movement",
+            "capturing",
+            "legal_moves",
+            "king_safety"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/ElF9NcPA#97",
+            "play_count": 7720,
+            "popularity": 100,
+            "rating": 1141,
+            "themes": [
+              "crushing",
+              "endgame",
+              "rookEndgame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-baIaG-KING_LEGAL_CAPTURE_CHECK-A87A7BC420",
+          "task_type": "KING_LEGAL_CAPTURE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "capture_required": false,
+            "from": "g2",
+            "rule": "MOVE_LEGALITY",
+            "to": "a1"
+          },
+          "diversity_key": "KING:ILLEGAL:g2:a1",
+          "presented_fen": "8/1p6/p2p4/3Pn3/P1p4r/4k1NP/1P4K1/7R w - - 4 40",
+          "prompt": "Can the White king on g2 legally move to a1?",
+          "puzzle_id": "4pI19",
+          "requires_topics": [
+            "king_movement",
+            "legal_moves",
+            "king_safety"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/NWDtdlRA/black#78",
+            "play_count": 8555,
+            "popularity": 100,
+            "rating": 1014,
+            "themes": [
+              "advantage",
+              "endgame",
+              "fork",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-4pI19-KING_LEGAL_MOVE_CHECK-8BF6378B18",
+          "task_type": "KING_LEGAL_MOVE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "capture_required": false,
+            "from": "e6",
+            "rule": "MOVE_LEGALITY",
+            "to": "a1"
+          },
+          "diversity_key": "KING:ILLEGAL:e6:a1",
+          "presented_fen": "8/7p/1N2k3/2Kb1pp1/p7/4P1P1/5P1P/8 b - - 3 43",
+          "prompt": "Can the Black king on e6 legally move to a1?",
+          "puzzle_id": "hMBSh",
+          "requires_topics": [
+            "king_movement",
+            "legal_moves",
+            "king_safety"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/eZ5IlpDU#85",
+            "play_count": 9219,
+            "popularity": 100,
+            "rating": 867,
+            "themes": [
+              "advancedPawn",
+              "crushing",
+              "endgame",
+              "sacrifice",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-hMBSh-KING_LEGAL_MOVE_CHECK-F644D02984",
+          "task_type": "KING_LEGAL_MOVE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "capture_required": false,
+            "from": "b5",
+            "rule": "MOVE_LEGALITY",
+            "to": "a6"
+          },
+          "diversity_key": "KING:LEGAL:b5:a6",
+          "presented_fen": "2K4B/7p/3P2p1/pk6/7R/1p6/8/5r2 b - - 1 49",
+          "prompt": "Can the Black king on b5 legally move to a6?",
+          "puzzle_id": "rRpT1",
+          "requires_topics": [
+            "king_movement",
+            "legal_moves",
+            "king_safety"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/VZLweMwu#97",
+            "play_count": 11752,
+            "popularity": 100,
+            "rating": 1072,
+            "themes": [
+              "crushing",
+              "endgame",
+              "fork",
+              "master",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-rRpT1-KING_LEGAL_MOVE_CHECK-3B404FA825",
+          "task_type": "KING_LEGAL_MOVE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "b5",
+            "rule": "PIECE_DEFENDS_FRIENDLY_SQUARE",
+            "to": "b2"
+          },
+          "diversity_key": "PAWN:NO_DEFENCE:b5:b2",
+          "presented_fen": "2Q5/5ppk/1q2p2p/1P6/5P2/6P1/1R4KP/3r4 w - - 3 32",
+          "prompt": "Does the White pawn on b5 defend the friendly piece on b2?",
+          "puzzle_id": "fWuNy",
+          "requires_topics": [
+            "movement",
+            "defended_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/lczfMgqC/black#62",
+            "play_count": 15541,
+            "popularity": 100,
+            "rating": 1040,
+            "themes": [
+              "crushing",
+              "endgame",
+              "fork",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-fWuNy-DEFENDED_SQUARE_CHECK-4131CD0EB8",
+          "task_type": "DEFENDED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "h2",
+            "rule": "PIECE_DEFENDS_FRIENDLY_SQUARE",
+            "to": "c4"
+          },
+          "diversity_key": "PAWN:NO_DEFENCE:h2:c4",
+          "presented_fen": "8/8/1P6/4k3/2K4p/5p2/7P/8 w - - 0 49",
+          "prompt": "Does the White pawn on h2 defend the friendly piece on c4?",
+          "puzzle_id": "KM0Nq",
+          "requires_topics": [
+            "movement",
+            "defended_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/tmccnY9c/black#96",
+            "play_count": 15788,
+            "popularity": 100,
+            "rating": 624,
+            "themes": [
+              "advancedPawn",
+              "crushing",
+              "endgame",
+              "master",
+              "pawnEndgame",
+              "promotion",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-KM0Nq-DEFENDED_SQUARE_CHECK-507FEDA916",
+          "task_type": "DEFENDED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "capture_required": true,
+            "from": "h7",
+            "rule": "MOVE_LEGALITY",
+            "to": "d1"
+          },
+          "diversity_key": "KING:NO_CAPTURE:h7:d1",
+          "presented_fen": "8/p4ppk/1p2p2p/4nq2/P7/1P1r3P/2Q2PP1/3R1R1K b - - 10 30",
+          "prompt": "Can the Black king on h7 legally capture on d1?",
+          "puzzle_id": "y16z9",
+          "requires_topics": [
+            "king_movement",
+            "capturing",
+            "legal_moves",
+            "king_safety"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/S97yqGQR#59",
+            "play_count": 7546,
+            "popularity": 100,
+            "rating": 1066,
+            "themes": [
+              "crushing",
+              "discoveredAttack",
+              "endgame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-y16z9-KING_LEGAL_CAPTURE_CHECK-4856A6D102",
+          "task_type": "KING_LEGAL_CAPTURE_CHECK"
+        }
+      ]
+    },
+    "set_2": {
+      "schema_version": 1,
+      "lab_id": "LAB-LEGAL-PLAY-001",
+      "session_number": 2,
+      "session_seed": "4ed41d10ea57df7355bc3048972cfb5d11892819ffec0839dbae8cc8406565e5",
+      "retry_task_ids": [],
+      "tasks": [
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "a5",
+            "rule": "PIECE_DEFENDS_FRIENDLY_SQUARE",
+            "to": "h2"
+          },
+          "diversity_key": "PAWN:NO_DEFENCE:a5:h2",
+          "presented_fen": "8/3B4/5p2/p7/8/7p/4KP1k/8 b - - 1 45",
+          "prompt": "Does the Black pawn on a5 defend the friendly piece on h2?",
+          "puzzle_id": "NHH1j",
+          "requires_topics": [
+            "movement",
+            "defended_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/4lwkvJlA#89",
+            "play_count": 15687,
+            "popularity": 100,
+            "rating": 1127,
+            "themes": [
+              "advancedPawn",
+              "bishopEndgame",
+              "crushing",
+              "endgame",
+              "master",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-NHH1j-DEFENDED_SQUARE_CHECK-2009D90618",
+          "task_type": "DEFENDED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "capture_required": false,
+            "from": "f7",
+            "rule": "MOVE_LEGALITY",
+            "to": "a1"
+          },
+          "diversity_key": "PAWN:ILLEGAL:f7:a1",
+          "presented_fen": "5r2/R4P2/p2k2P1/r2p4/5K2/4P3/8/8 w - - 3 54",
+          "prompt": "Can the White pawn on f7 legally move to a1?",
+          "puzzle_id": "XTJuF",
+          "requires_topics": [
+            "movement"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/ZJ6mzMeF/black#106",
+            "play_count": 13494,
+            "popularity": 100,
+            "rating": 1167,
+            "themes": [
+              "advancedPawn",
+              "crushing",
+              "endgame",
+              "rookEndgame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-XTJuF-LEGAL_MOVE_CHECK-D4CF8E6294",
+          "task_type": "LEGAL_MOVE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "capture_required": false,
+            "from": "g2",
+            "rule": "MOVE_LEGALITY",
+            "to": "a1"
+          },
+          "diversity_key": "KING:ILLEGAL:g2:a1",
+          "presented_fen": "8/1p6/p2p4/3Pn3/P1p4r/4k1NP/1P4K1/7R w - - 4 40",
+          "prompt": "Can the White king on g2 legally move to a1?",
+          "puzzle_id": "4pI19",
+          "requires_topics": [
+            "king_movement",
+            "legal_moves",
+            "king_safety"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/NWDtdlRA/black#78",
+            "play_count": 8555,
+            "popularity": 100,
+            "rating": 1014,
+            "themes": [
+              "advantage",
+              "endgame",
+              "fork",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-4pI19-KING_LEGAL_MOVE_CHECK-8BF6378B18",
+          "task_type": "KING_LEGAL_MOVE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "capture_required": true,
+            "from": "d4",
+            "rule": "MOVE_LEGALITY",
+            "to": "c1"
+          },
+          "diversity_key": "KING:NO_CAPTURE:d4:c1",
+          "presented_fen": "8/8/2r2pp1/4p2p/K1PkP3/5P1P/6P1/2R5 b - - 0 49",
+          "prompt": "Can the Black king on d4 legally capture on c1?",
+          "puzzle_id": "baIaG",
+          "requires_topics": [
+            "king_movement",
+            "capturing",
+            "legal_moves",
+            "king_safety"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/ElF9NcPA#97",
+            "play_count": 7720,
+            "popularity": 100,
+            "rating": 1141,
+            "themes": [
+              "crushing",
+              "endgame",
+              "rookEndgame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-baIaG-KING_LEGAL_CAPTURE_CHECK-A87A7BC420",
+          "task_type": "KING_LEGAL_CAPTURE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "capture_required": false,
+            "from": "d7",
+            "rule": "MOVE_LEGALITY",
+            "to": "c8"
+          },
+          "diversity_key": "KING:LEGAL:d7:c8",
+          "presented_fen": "1q5r/Rp1k1pp1/1Pn5/1B1p4/3P1n2/1Q5P/8/5R1K b - - 2 33",
+          "prompt": "Can the Black king on d7 legally move to c8?",
+          "puzzle_id": "Byh1y",
+          "requires_topics": [
+            "movement"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/dFg5XY0T#65",
+            "play_count": 15430,
+            "popularity": 100,
+            "rating": 921,
+            "themes": [
+              "advantage",
+              "fork",
+              "middlegame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-Byh1y-LEGAL_MOVE_CHECK-15CCA9BA70",
+          "task_type": "LEGAL_MOVE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "b5",
+            "rule": "PIECE_DEFENDS_FRIENDLY_SQUARE",
+            "to": "b2"
+          },
+          "diversity_key": "PAWN:NO_DEFENCE:b5:b2",
+          "presented_fen": "2Q5/5ppk/1q2p2p/1P6/5P2/6P1/1R4KP/3r4 w - - 3 32",
+          "prompt": "Does the White pawn on b5 defend the friendly piece on b2?",
+          "puzzle_id": "fWuNy",
+          "requires_topics": [
+            "movement",
+            "defended_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/lczfMgqC/black#62",
+            "play_count": 15541,
+            "popularity": 100,
+            "rating": 1040,
+            "themes": [
+              "crushing",
+              "endgame",
+              "fork",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-fWuNy-DEFENDED_SQUARE_CHECK-4131CD0EB8",
+          "task_type": "DEFENDED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "from": "h2",
+            "rule": "PIECE_DEFENDS_FRIENDLY_SQUARE",
+            "to": "c4"
+          },
+          "diversity_key": "PAWN:NO_DEFENCE:h2:c4",
+          "presented_fen": "8/8/1P6/4k3/2K4p/5p2/7P/8 w - - 0 49",
+          "prompt": "Does the White pawn on h2 defend the friendly piece on c4?",
+          "puzzle_id": "KM0Nq",
+          "requires_topics": [
+            "movement",
+            "defended_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/tmccnY9c/black#96",
+            "play_count": 15788,
+            "popularity": 100,
+            "rating": 624,
+            "themes": [
+              "advancedPawn",
+              "crushing",
+              "endgame",
+              "master",
+              "pawnEndgame",
+              "promotion",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-KM0Nq-DEFENDED_SQUARE_CHECK-507FEDA916",
+          "task_type": "DEFENDED_SQUARE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "capture_required": true,
+            "from": "h7",
+            "rule": "MOVE_LEGALITY",
+            "to": "d1"
+          },
+          "diversity_key": "KING:NO_CAPTURE:h7:d1",
+          "presented_fen": "8/p4ppk/1p2p2p/4nq2/P7/1P1r3P/2Q2PP1/3R1R1K b - - 10 30",
+          "prompt": "Can the Black king on h7 legally capture on d1?",
+          "puzzle_id": "y16z9",
+          "requires_topics": [
+            "king_movement",
+            "capturing",
+            "legal_moves",
+            "king_safety"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/S97yqGQR#59",
+            "play_count": 7546,
+            "popularity": 100,
+            "rating": 1066,
+            "themes": [
+              "crushing",
+              "discoveredAttack",
+              "endgame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-y16z9-KING_LEGAL_CAPTURE_CHECK-4856A6D102",
+          "task_type": "KING_LEGAL_CAPTURE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": false
+          },
+          "answer_derivation": {
+            "capture_required": true,
+            "from": "h7",
+            "rule": "MOVE_LEGALITY",
+            "to": "e1"
+          },
+          "diversity_key": "KING:NO_CAPTURE:h7:e1",
+          "presented_fen": "8/7k/4r1qp/3Q2p1/4nP2/3Bb2P/6PB/4R2K b - - 0 46",
+          "prompt": "Can the Black king on h7 legally capture on e1?",
+          "puzzle_id": "MAN9U",
+          "requires_topics": [
+            "king_movement",
+            "capturing",
+            "legal_moves",
+            "king_safety"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/e8lnnxlx#91",
+            "play_count": 6891,
+            "popularity": 100,
+            "rating": 1125,
+            "themes": [
+              "advantage",
+              "discoveredAttack",
+              "discoveredCheck",
+              "master",
+              "middlegame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-MAN9U-KING_LEGAL_CAPTURE_CHECK-A15C929E92",
+          "task_type": "KING_LEGAL_CAPTURE_CHECK"
+        },
+        {
+          "answer": {
+            "kind": "BOOLEAN",
+            "value": true
+          },
+          "answer_derivation": {
+            "from": "g1",
+            "rule": "PIECE_DEFENDS_FRIENDLY_SQUARE",
+            "to": "f2"
+          },
+          "diversity_key": "KING:DEFENDS:g1:f2",
+          "presented_fen": "2r1r1k1/p6p/bp4pP/3q4/P1n3N1/4N3/4QPP1/2R3K1 w - - 0 29",
+          "prompt": "Does the White king on g1 defend the friendly piece on f2?",
+          "puzzle_id": "134eC",
+          "requires_topics": [
+            "movement",
+            "defended_squares"
+          ],
+          "schema_version": 1,
+          "snapshot_id": "lichess-puzzles-2026-07-05-sha256-5503bfaf5534518f",
+          "solution_exposed": false,
+          "source": {
+            "game_url": "https://lichess.org/7LOvO73y/black#56",
+            "play_count": 18090,
+            "popularity": 100,
+            "rating": 1132,
+            "themes": [
+              "advantage",
+              "fork",
+              "master",
+              "middlegame",
+              "short"
+            ]
+          },
+          "source_type": "LICHESS_CC0",
+          "task_id": "FND-134eC-DEFENDED_SQUARE_CHECK-F2A3F253E0",
+          "task_type": "DEFENDED_SQUARE_CHECK"
+        }
+      ]
+    }
+  }
+}

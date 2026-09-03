@@ -1,0 +1,1187 @@
+{
+  "lesson_id": "LES-030",
+  "kb_id": "KB-114",
+  "topic_id": "TOP-114",
+  "unit_id": "UNT-001",
+  "sequence": 30,
+  "objective": "- **Today's goal:** Your child can select every legal king destination and reject every dangerous one.\n- **Prerequisites:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Success:** Your child explains the answer and demonstrates it on a physical board.",
+  "success_criteria": "- **Today's goal:** Your child can select every legal king destination and reject every dangerous one.\n- **Prerequisites:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Success:** Your child explains the answer and demonstrates it on a physical board.",
+  "source_traces": {
+    "objective": "KB-114#1#B1",
+    "success_criteria": "KB-114#1#B1"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-114#1",
+      "content": "- **Today's goal:** Your child can select every legal king destination and reject every dangerous one.\n- **Prerequisites:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-114#2",
+      "content": "Except when castling, a king moves to an adjoining square. The move is illegal if the destination contains a friendly piece or is attacked by an opponent after the move. A king may capture only when its resulting square is safe."
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-114#3",
+      "content": "The king's one-square shape is simple, but its safety restriction causes many beginner errors. Reliable destination checking prevents illegal king moves and king captures."
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-114#4",
+      "content": "- **Requires:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Unlocks:** TOP-115 Escaping Check.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-114#5",
+      "content": "Always evaluate the position after the king moves. If the king captures, remove the captured piece before recomputing attacks. Kings cannot stand adjacent because each attacks the other's square. Legal chess ends at checkmate; the king is never physically captured.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-114#6",
+      "content": "1. List every adjacent on-board square.\n2. Remove squares occupied by friendly pieces.\n3. Imagine the king on each remaining square.\n4. Recompute every opponent attack.\n5. Keep only destinations that are safe in the resulting position.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-114#7",
+      "content": "The king takes one careful step, then checks every lookout tower. The memory phrase is: Step, look again, stay safe."
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know?",
+      "source_trace": "KB-114#8",
+      "content": "Capturing can open or close attack lines. That is why the safety check must use the position after the captured piece is removed."
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-114#9",
+      "content": "**Future reviewed visual requirement:** A king in the center with legal adjacent destinations separated from friendly-occupied and attacked squares.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication."
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-114#10",
+      "content": "For each neighboring square, check board edge, friendly occupancy, and opponent attacks in the imagined resulting position. Opponent king attacks count, so kings remain separated."
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-114#11",
+      "content": "**Future reviewed visual requirement:** A tempting king capture of a protected piece, showing the defender that makes the capture illegal.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram."
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-114#12",
+      "content": "Reduced-material endings make kings active. Accurate destination checking lets a child use the king confidently without stepping into attack."
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-114#13",
+      "content": "- Checking attacks before removing the captured piece.\n- Capturing a protected piece with the king.\n- Allowing diagonal king adjacency.\n- Playing until a king is captured.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-114#14",
+      "content": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-114#15",
+      "content": "**Can a king capture an attacking piece?**  \nYes, only if the destination is safe afterward.\n\n**Can kings touch diagonally?**  \nNo.\n\n**Who captures the king?**  \nNobody; checkmate ends the legal game first."
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-114#16",
+      "content": "Play Safe Islands. Put a king in the center and use coins to mark every legal destination. Add one enemy piece at a time and update the islands.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge",
+      "source_trace": "KB-114#17",
+      "content": "Offer a protected capture that changes a sliding line when the target is removed. Ask the child to rebuild the attack map before deciding.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-114#18",
+      "content": "### Recognition\n**Question:** May two kings stand next to each other?  \n**Answer:** No.\n\n### Application\n**Question:** May the king capture this unprotected adjacent piece?  \n**Answer:** Yes if no resulting attack remains.\n\n### Challenge\n**Question:** Find all legal king moves in a reduced position.  \n**Answer:** Every destination is recomputed correctly."
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-114#19",
+      "content": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-114#20",
+      "content": "- **Prerequisites:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Unlocks:** TOP-115 Escaping Check.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#ILLEGAL_KING_MOVES`."
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check",
+      "source_trace": "KB-114#21",
+      "content": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts.\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  canonical_sections: 21\n  diagrams_required: 2\n  mini_puzzles: 3\n  coach_challenges: 1\n  practice_activities: 1\n  parent_faq: 3\n  evidence_source: BOARD-LEGAL-PLAY-01\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-030-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-114#1#B1",
+      "parent_prompt_trace": "KB-114#1#B1",
+      "text": "- **Today's goal:** Your child can select every legal king destination and reject every dangerous one.\n- **Prerequisites:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "id": "LES-030-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-114#2#B1",
+      "parent_prompt_trace": "KB-114#2#B1",
+      "text": "Except when castling, a king moves to an adjoining square. The move is illegal if the destination contains a friendly piece or is attacked by an opponent after the move. A king may capture only when its resulting square is safe."
+    },
+    {
+      "id": "LES-030-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-114#3#B1",
+      "parent_prompt_trace": "KB-114#3#B1",
+      "text": "The king's one-square shape is simple, but its safety restriction causes many beginner errors. Reliable destination checking prevents illegal king moves and king captures."
+    },
+    {
+      "id": "LES-030-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-114#4#B1",
+      "parent_prompt_trace": "KB-114#4#B1",
+      "text": "- **Requires:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Unlocks:** TOP-115 Escaping Check.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "id": "LES-030-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-114#5#B1",
+      "parent_prompt_trace": "KB-114#5#B1",
+      "text": "Always evaluate the position after the king moves. If the king captures, remove the captured piece before recomputing attacks. Kings cannot stand adjacent because each attacks the other's square. Legal chess ends at checkmate; the king is never physically captured.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "id": "LES-030-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-114#6#B1",
+      "parent_prompt_trace": "KB-114#6#B1",
+      "text": "1. List every adjacent on-board square.\n2. Remove squares occupied by friendly pieces.\n3. Imagine the king on each remaining square.\n4. Recompute every opponent attack.\n5. Keep only destinations that are safe in the resulting position.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "id": "LES-030-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-114#7#B1",
+      "parent_prompt_trace": "KB-114#7#B1",
+      "text": "The king takes one careful step, then checks every lookout tower. The memory phrase is: Step, look again, stay safe."
+    },
+    {
+      "id": "LES-030-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know?",
+      "source_trace": "KB-114#8#B1",
+      "parent_prompt_trace": "KB-114#8#B1",
+      "text": "Capturing can open or close attack lines. That is why the safety check must use the position after the captured piece is removed."
+    },
+    {
+      "id": "LES-030-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-114#9#B1",
+      "parent_prompt_trace": "KB-114#9#B1",
+      "text": "**Future reviewed visual requirement:** A king in the center with legal adjacent destinations separated from friendly-occupied and attacked squares.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+      "diagram_id": "DGM-114-01",
+      "diagram_url": "assets/DGM-114-01.svg",
+      "position_id": "POS-KING-DESTINATIONS-001",
+      "position_version": 1,
+      "position_title": "Safe and unsafe king destinations",
+      "diagram_alt": "Safe and unsafe king destinations"
+    },
+    {
+      "id": "LES-030-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-114#10#B1",
+      "parent_prompt_trace": "KB-114#10#B1",
+      "text": "For each neighboring square, check board edge, friendly occupancy, and opponent attacks in the imagined resulting position. Opponent king attacks count, so kings remain separated."
+    },
+    {
+      "id": "LES-030-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-114#11#B1",
+      "parent_prompt_trace": "KB-114#11#B1",
+      "text": "**Future reviewed visual requirement:** A tempting king capture of a protected piece, showing the defender that makes the capture illegal.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+      "diagram_id": "DGM-114-02",
+      "diagram_url": "assets/DGM-114-02.svg",
+      "position_id": "POS-KING-PROTECTED-CAPTURE-001",
+      "position_version": 1,
+      "position_title": "Protected pawn is unsafe for the king",
+      "diagram_alt": "Protected pawn is unsafe for the king"
+    },
+    {
+      "id": "LES-030-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-114#12#B1",
+      "parent_prompt_trace": "KB-114#12#B1",
+      "text": "Reduced-material endings make kings active. Accurate destination checking lets a child use the king confidently without stepping into attack."
+    },
+    {
+      "id": "LES-030-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-114#13#B1",
+      "parent_prompt_trace": "KB-114#13#B1",
+      "text": "- Checking attacks before removing the captured piece.\n- Capturing a protected piece with the king.\n- Allowing diagonal king adjacency.\n- Playing until a king is captured.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "id": "LES-030-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-114#14#B1",
+      "parent_prompt_trace": "KB-114#14#B1",
+      "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "id": "LES-030-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-114#15#B1",
+      "parent_prompt_trace": "KB-114#15#B1",
+      "text": "**Can a king capture an attacking piece?**  \nYes, only if the destination is safe afterward.\n\n**Can kings touch diagonally?**  \nNo.\n\n**Who captures the king?**  \nNobody; checkmate ends the legal game first."
+    },
+    {
+      "id": "LES-030-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-114#16#B1",
+      "parent_prompt_trace": "KB-114#16#B1",
+      "text": "Play Safe Islands. Put a king in the center and use coins to mark every legal destination. Add one enemy piece at a time and update the islands.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "id": "LES-030-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge",
+      "source_trace": "KB-114#17#B1",
+      "parent_prompt_trace": "KB-114#17#B1",
+      "text": "Offer a protected capture that changes a sliding line when the target is removed. Ask the child to rebuild the attack map before deciding.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "id": "LES-030-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-114#18#B1",
+      "parent_prompt_trace": "KB-114#18#B1",
+      "text": "### Recognition\n**Question:** May two kings stand next to each other?  \n**Answer:** No.\n\n### Application\n**Question:** May the king capture this unprotected adjacent piece?  \n**Answer:** Yes if no resulting attack remains.\n\n### Challenge\n**Question:** Find all legal king moves in a reduced position.  \n**Answer:** Every destination is recomputed correctly."
+    },
+    {
+      "id": "LES-030-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-114#19#B1",
+      "parent_prompt_trace": "KB-114#19#B1",
+      "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "id": "LES-030-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-114#20#B1",
+      "parent_prompt_trace": "KB-114#20#B1",
+      "text": "- **Prerequisites:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Unlocks:** TOP-115 Escaping Check.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#ILLEGAL_KING_MOVES`."
+    },
+    {
+      "id": "LES-030-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check",
+      "source_trace": "KB-114#21#B1",
+      "parent_prompt_trace": "KB-114#21#B1",
+      "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+    }
+  ],
+  "task_references": [
+    "PZL-030-01",
+    "PZL-030-02",
+    "PZL-030-03",
+    "PZL-030-04"
+  ],
+  "diagram_references": [
+    "DGM-114-01",
+    "DGM-114-02"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-030",
+  "deferred_topics": [
+    {
+      "topic": "Escaping check",
+      "defer_to": "TOP-115"
+    },
+    {
+      "topic": "Castling",
+      "defer_to": "FUTURE"
+    }
+  ],
+  "teach_slides": [
+    {
+      "id": "LES-030-S01",
+      "type": "INTRO",
+      "title": "One careful step",
+      "text": "Step look again stay safe.",
+      "parent_prompt": "List adjacent squares then test occupancy and attacks after each imagined move.",
+      "diagram_id": "DGM-114-01",
+      "diagram_url": "assets/DGM-114-01.svg",
+      "visual": {
+        "diagram_id": "DGM-114-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-KING-DESTINATIONS-001",
+      "position_version": 1,
+      "position_title": "Safe and unsafe king destinations",
+      "diagram_alt": "Safe and unsafe king destinations"
+    },
+    {
+      "id": "LES-030-S02",
+      "type": "DIAGRAM",
+      "title": "Safe islands",
+      "text": "The king cannot use a friendly square or an attacked square.",
+      "parent_prompt": "Sort the highlighted neighbors into friendly occupied attacked and safe.",
+      "diagram_id": "DGM-114-01",
+      "diagram_url": "assets/DGM-114-01.svg",
+      "visual": {
+        "diagram_id": "DGM-114-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-KING-DESTINATIONS-001",
+      "position_version": 1,
+      "position_title": "Safe and unsafe king destinations",
+      "diagram_alt": "Safe and unsafe king destinations"
+    },
+    {
+      "id": "LES-030-S03",
+      "type": "DIAGRAM",
+      "title": "A protected capture",
+      "text": "The king cannot capture onto a square the rook attacks afterward.",
+      "parent_prompt": "Remove the pawn in imagination and trace the rook's newly open file to f5.",
+      "diagram_id": "DGM-114-02",
+      "diagram_url": "assets/DGM-114-02.svg",
+      "visual": {
+        "diagram_id": "DGM-114-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-KING-PROTECTED-CAPTURE-001",
+      "position_version": 1,
+      "position_title": "Protected pawn is unsafe for the king",
+      "diagram_alt": "Protected pawn is unsafe for the king"
+    },
+    {
+      "id": "LES-030-S04",
+      "type": "PHYSICAL_ACTIVITY",
+      "title": "Safe Islands",
+      "text": "Mark every safe destination then change the attack map.",
+      "parent_prompt": "Play Safe Islands and update coin markers after adding one enemy piece.",
+      "visual": {
+        "sticker": "detective",
+        "layout": "TEXT_ONLY",
+        "sticker_url": "assets/detective.svg",
+        "sticker_alt": "Chess detective searching for setup clues"
+      }
+    },
+    {
+      "id": "LES-030-S05",
+      "type": "QUESTION",
+      "title": "Kings need space",
+      "text": "May two kings stand next to each other?",
+      "parent_prompt": "Ask whether two kings may stand on adjacent squares.",
+      "reveal": "No. Each king attacks every adjacent square.",
+      "diagram_id": "DGM-114-02",
+      "diagram_url": "assets/DGM-114-02.svg",
+      "visual": {
+        "diagram_id": "DGM-114-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-KING-PROTECTED-CAPTURE-001",
+      "position_version": 1,
+      "position_title": "Protected pawn is unsafe for the king",
+      "diagram_alt": "Protected pawn is unsafe for the king"
+    },
+    {
+      "id": "LES-030-S06",
+      "type": "QUESTION",
+      "title": "Capture and look again",
+      "text": "When may the king capture this piece?",
+      "parent_prompt": "Ask when a king may capture an adjacent enemy piece.",
+      "reveal": "Only when the destination is not attacked after the captured piece is removed.",
+      "diagram_id": "DGM-114-02",
+      "diagram_url": "assets/DGM-114-02.svg",
+      "visual": {
+        "diagram_id": "DGM-114-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-KING-PROTECTED-CAPTURE-001",
+      "position_version": 1,
+      "position_title": "Protected pawn is unsafe for the king",
+      "diagram_alt": "Protected pawn is unsafe for the king"
+    },
+    {
+      "id": "LES-030-S07",
+      "type": "ASSESSMENT",
+      "title": "Find every safe step",
+      "text": "Check edge friends and enemy attacks after every move.",
+      "parent_prompt": "Ask for every legal king move in a reduced position and require a reason for each rejected square.",
+      "diagram_id": "DGM-114-02",
+      "diagram_url": "assets/DGM-114-02.svg",
+      "visual": {
+        "diagram_id": "DGM-114-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-KING-PROTECTED-CAPTURE-001",
+      "position_version": 1,
+      "position_title": "Protected pawn is unsafe for the king",
+      "diagram_alt": "Protected pawn is unsafe for the king"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-030-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-114#1#B1",
+      "parent_prompt_trace": "KB-114#1#B1",
+      "text": "- **Today's goal:** Your child can select every legal king destination and reject every dangerous one.\n- **Prerequisites:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "id": "LES-030-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-114#2#B1",
+      "parent_prompt_trace": "KB-114#2#B1",
+      "text": "Except when castling, a king moves to an adjoining square. The move is illegal if the destination contains a friendly piece or is attacked by an opponent after the move. A king may capture only when its resulting square is safe."
+    },
+    {
+      "id": "LES-030-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-114#3#B1",
+      "parent_prompt_trace": "KB-114#3#B1",
+      "text": "The king's one-square shape is simple, but its safety restriction causes many beginner errors. Reliable destination checking prevents illegal king moves and king captures."
+    },
+    {
+      "id": "LES-030-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-114#4#B1",
+      "parent_prompt_trace": "KB-114#4#B1",
+      "text": "- **Requires:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Unlocks:** TOP-115 Escaping Check.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "id": "LES-030-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-114#5#B1",
+      "parent_prompt_trace": "KB-114#5#B1",
+      "text": "Always evaluate the position after the king moves. If the king captures, remove the captured piece before recomputing attacks. Kings cannot stand adjacent because each attacks the other's square. Legal chess ends at checkmate; the king is never physically captured.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "id": "LES-030-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-114#6#B1",
+      "parent_prompt_trace": "KB-114#6#B1",
+      "text": "1. List every adjacent on-board square.\n2. Remove squares occupied by friendly pieces.\n3. Imagine the king on each remaining square.\n4. Recompute every opponent attack.\n5. Keep only destinations that are safe in the resulting position.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "id": "LES-030-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-114#7#B1",
+      "parent_prompt_trace": "KB-114#7#B1",
+      "text": "The king takes one careful step, then checks every lookout tower. The memory phrase is: Step, look again, stay safe."
+    },
+    {
+      "id": "LES-030-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know?",
+      "source_trace": "KB-114#8#B1",
+      "parent_prompt_trace": "KB-114#8#B1",
+      "text": "Capturing can open or close attack lines. That is why the safety check must use the position after the captured piece is removed."
+    },
+    {
+      "id": "LES-030-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-114#9#B1",
+      "parent_prompt_trace": "KB-114#9#B1",
+      "text": "**Future reviewed visual requirement:** A king in the center with legal adjacent destinations separated from friendly-occupied and attacked squares.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+      "diagram_id": "DGM-114-01",
+      "diagram_url": "assets/DGM-114-01.svg",
+      "position_id": "POS-KING-DESTINATIONS-001",
+      "position_version": 1,
+      "position_title": "Safe and unsafe king destinations",
+      "diagram_alt": "Safe and unsafe king destinations"
+    },
+    {
+      "id": "LES-030-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-114#10#B1",
+      "parent_prompt_trace": "KB-114#10#B1",
+      "text": "For each neighboring square, check board edge, friendly occupancy, and opponent attacks in the imagined resulting position. Opponent king attacks count, so kings remain separated."
+    },
+    {
+      "id": "LES-030-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-114#11#B1",
+      "parent_prompt_trace": "KB-114#11#B1",
+      "text": "**Future reviewed visual requirement:** A tempting king capture of a protected piece, showing the defender that makes the capture illegal.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+      "diagram_id": "DGM-114-02",
+      "diagram_url": "assets/DGM-114-02.svg",
+      "position_id": "POS-KING-PROTECTED-CAPTURE-001",
+      "position_version": 1,
+      "position_title": "Protected pawn is unsafe for the king",
+      "diagram_alt": "Protected pawn is unsafe for the king"
+    },
+    {
+      "id": "LES-030-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-114#12#B1",
+      "parent_prompt_trace": "KB-114#12#B1",
+      "text": "Reduced-material endings make kings active. Accurate destination checking lets a child use the king confidently without stepping into attack."
+    },
+    {
+      "id": "LES-030-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-114#13#B1",
+      "parent_prompt_trace": "KB-114#13#B1",
+      "text": "- Checking attacks before removing the captured piece.\n- Capturing a protected piece with the king.\n- Allowing diagonal king adjacency.\n- Playing until a king is captured.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "id": "LES-030-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-114#14#B1",
+      "parent_prompt_trace": "KB-114#14#B1",
+      "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "id": "LES-030-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-114#15#B1",
+      "parent_prompt_trace": "KB-114#15#B1",
+      "text": "**Can a king capture an attacking piece?**  \nYes, only if the destination is safe afterward.\n\n**Can kings touch diagonally?**  \nNo.\n\n**Who captures the king?**  \nNobody; checkmate ends the legal game first."
+    },
+    {
+      "id": "LES-030-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-114#16#B1",
+      "parent_prompt_trace": "KB-114#16#B1",
+      "text": "Play Safe Islands. Put a king in the center and use coins to mark every legal destination. Add one enemy piece at a time and update the islands.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "id": "LES-030-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge",
+      "source_trace": "KB-114#17#B1",
+      "parent_prompt_trace": "KB-114#17#B1",
+      "text": "Offer a protected capture that changes a sliding line when the target is removed. Ask the child to rebuild the attack map before deciding.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "id": "LES-030-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-114#18#B1",
+      "parent_prompt_trace": "KB-114#18#B1",
+      "text": "### Recognition\n**Question:** May two kings stand next to each other?  \n**Answer:** No.\n\n### Application\n**Question:** May the king capture this unprotected adjacent piece?  \n**Answer:** Yes if no resulting attack remains.\n\n### Challenge\n**Question:** Find all legal king moves in a reduced position.  \n**Answer:** Every destination is recomputed correctly."
+    },
+    {
+      "id": "LES-030-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-114#19#B1",
+      "parent_prompt_trace": "KB-114#19#B1",
+      "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "id": "LES-030-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-114#20#B1",
+      "parent_prompt_trace": "KB-114#20#B1",
+      "text": "- **Prerequisites:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Unlocks:** TOP-115 Escaping Check.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#ILLEGAL_KING_MOVES`."
+    },
+    {
+      "id": "LES-030-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check",
+      "source_trace": "KB-114#21#B1",
+      "parent_prompt_trace": "KB-114#21#B1",
+      "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+    }
+  ],
+  "title": "Illegal King Moves",
+  "duration_minutes": 15,
+  "memory_phrase": "Step, look again, stay safe.",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 15,
+    "slides": [
+      {
+        "id": "LES-030-S01",
+        "type": "INTRO",
+        "title": "One careful step",
+        "text": "Step look again stay safe.",
+        "parent_prompt": "List adjacent squares then test occupancy and attacks after each imagined move.",
+        "diagram_id": "DGM-114-01",
+        "diagram_url": "assets/DGM-114-01.svg",
+        "visual": {
+          "diagram_id": "DGM-114-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-KING-DESTINATIONS-001",
+        "position_version": 1,
+        "position_title": "Safe and unsafe king destinations",
+        "diagram_alt": "Safe and unsafe king destinations"
+      },
+      {
+        "id": "LES-030-S02",
+        "type": "DIAGRAM",
+        "title": "Safe islands",
+        "text": "The king cannot use a friendly square or an attacked square.",
+        "parent_prompt": "Sort the highlighted neighbors into friendly occupied attacked and safe.",
+        "diagram_id": "DGM-114-01",
+        "diagram_url": "assets/DGM-114-01.svg",
+        "visual": {
+          "diagram_id": "DGM-114-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-KING-DESTINATIONS-001",
+        "position_version": 1,
+        "position_title": "Safe and unsafe king destinations",
+        "diagram_alt": "Safe and unsafe king destinations"
+      },
+      {
+        "id": "LES-030-S03",
+        "type": "DIAGRAM",
+        "title": "A protected capture",
+        "text": "The king cannot capture onto a square the rook attacks afterward.",
+        "parent_prompt": "Remove the pawn in imagination and trace the rook's newly open file to f5.",
+        "diagram_id": "DGM-114-02",
+        "diagram_url": "assets/DGM-114-02.svg",
+        "visual": {
+          "diagram_id": "DGM-114-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-KING-PROTECTED-CAPTURE-001",
+        "position_version": 1,
+        "position_title": "Protected pawn is unsafe for the king",
+        "diagram_alt": "Protected pawn is unsafe for the king"
+      },
+      {
+        "id": "LES-030-S04",
+        "type": "PHYSICAL_ACTIVITY",
+        "title": "Safe Islands",
+        "text": "Mark every safe destination then change the attack map.",
+        "parent_prompt": "Play Safe Islands and update coin markers after adding one enemy piece.",
+        "visual": {
+          "sticker": "detective",
+          "layout": "TEXT_ONLY",
+          "sticker_url": "assets/detective.svg",
+          "sticker_alt": "Chess detective searching for setup clues"
+        }
+      },
+      {
+        "id": "LES-030-S05",
+        "type": "QUESTION",
+        "title": "Kings need space",
+        "text": "May two kings stand next to each other?",
+        "parent_prompt": "Ask whether two kings may stand on adjacent squares.",
+        "reveal": "No. Each king attacks every adjacent square.",
+        "diagram_id": "DGM-114-02",
+        "diagram_url": "assets/DGM-114-02.svg",
+        "visual": {
+          "diagram_id": "DGM-114-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-KING-PROTECTED-CAPTURE-001",
+        "position_version": 1,
+        "position_title": "Protected pawn is unsafe for the king",
+        "diagram_alt": "Protected pawn is unsafe for the king"
+      },
+      {
+        "id": "LES-030-S06",
+        "type": "QUESTION",
+        "title": "Capture and look again",
+        "text": "When may the king capture this piece?",
+        "parent_prompt": "Ask when a king may capture an adjacent enemy piece.",
+        "reveal": "Only when the destination is not attacked after the captured piece is removed.",
+        "diagram_id": "DGM-114-02",
+        "diagram_url": "assets/DGM-114-02.svg",
+        "visual": {
+          "diagram_id": "DGM-114-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-KING-PROTECTED-CAPTURE-001",
+        "position_version": 1,
+        "position_title": "Protected pawn is unsafe for the king",
+        "diagram_alt": "Protected pawn is unsafe for the king"
+      },
+      {
+        "id": "LES-030-S07",
+        "type": "ASSESSMENT",
+        "title": "Find every safe step",
+        "text": "Check edge friends and enemy attacks after every move.",
+        "parent_prompt": "Ask for every legal king move in a reduced position and require a reason for each rejected square.",
+        "diagram_id": "DGM-114-02",
+        "diagram_url": "assets/DGM-114-02.svg",
+        "visual": {
+          "diagram_id": "DGM-114-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-KING-PROTECTED-CAPTURE-001",
+        "position_version": 1,
+        "position_title": "Protected pawn is unsafe for the king",
+        "diagram_alt": "Protected pawn is unsafe for the king"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-030-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-114#1#B1",
+        "parent_prompt_trace": "KB-114#1#B1",
+        "text": "- **Today's goal:** Your child can select every legal king destination and reject every dangerous one.\n- **Prerequisites:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+      },
+      {
+        "id": "LES-030-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-114#2#B1",
+        "parent_prompt_trace": "KB-114#2#B1",
+        "text": "Except when castling, a king moves to an adjoining square. The move is illegal if the destination contains a friendly piece or is attacked by an opponent after the move. A king may capture only when its resulting square is safe."
+      },
+      {
+        "id": "LES-030-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-114#3#B1",
+        "parent_prompt_trace": "KB-114#3#B1",
+        "text": "The king's one-square shape is simple, but its safety restriction causes many beginner errors. Reliable destination checking prevents illegal king moves and king captures."
+      },
+      {
+        "id": "LES-030-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-114#4#B1",
+        "parent_prompt_trace": "KB-114#4#B1",
+        "text": "- **Requires:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Unlocks:** TOP-115 Escaping Check.\n- Start with an uncluttered physical board and add complexity gradually."
+      },
+      {
+        "id": "LES-030-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-114#5#B1",
+        "parent_prompt_trace": "KB-114#5#B1",
+        "text": "Always evaluate the position after the king moves. If the king captures, remove the captured piece before recomputing attacks. Kings cannot stand adjacent because each attacks the other's square. Legal chess ends at checkmate; the king is never physically captured.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+      },
+      {
+        "id": "LES-030-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-114#6#B1",
+        "parent_prompt_trace": "KB-114#6#B1",
+        "text": "1. List every adjacent on-board square.\n2. Remove squares occupied by friendly pieces.\n3. Imagine the king on each remaining square.\n4. Recompute every opponent attack.\n5. Keep only destinations that are safe in the resulting position.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+      },
+      {
+        "id": "LES-030-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-114#7#B1",
+        "parent_prompt_trace": "KB-114#7#B1",
+        "text": "The king takes one careful step, then checks every lookout tower. The memory phrase is: Step, look again, stay safe."
+      },
+      {
+        "id": "LES-030-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know?",
+        "source_trace": "KB-114#8#B1",
+        "parent_prompt_trace": "KB-114#8#B1",
+        "text": "Capturing can open or close attack lines. That is why the safety check must use the position after the captured piece is removed."
+      },
+      {
+        "id": "LES-030-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-114#9#B1",
+        "parent_prompt_trace": "KB-114#9#B1",
+        "text": "**Future reviewed visual requirement:** A king in the center with legal adjacent destinations separated from friendly-occupied and attacked squares.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+        "diagram_id": "DGM-114-01",
+        "diagram_url": "assets/DGM-114-01.svg",
+        "position_id": "POS-KING-DESTINATIONS-001",
+        "position_version": 1,
+        "position_title": "Safe and unsafe king destinations",
+        "diagram_alt": "Safe and unsafe king destinations"
+      },
+      {
+        "id": "LES-030-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-114#10#B1",
+        "parent_prompt_trace": "KB-114#10#B1",
+        "text": "For each neighboring square, check board edge, friendly occupancy, and opponent attacks in the imagined resulting position. Opponent king attacks count, so kings remain separated."
+      },
+      {
+        "id": "LES-030-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-114#11#B1",
+        "parent_prompt_trace": "KB-114#11#B1",
+        "text": "**Future reviewed visual requirement:** A tempting king capture of a protected piece, showing the defender that makes the capture illegal.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+        "diagram_id": "DGM-114-02",
+        "diagram_url": "assets/DGM-114-02.svg",
+        "position_id": "POS-KING-PROTECTED-CAPTURE-001",
+        "position_version": 1,
+        "position_title": "Protected pawn is unsafe for the king",
+        "diagram_alt": "Protected pawn is unsafe for the king"
+      },
+      {
+        "id": "LES-030-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-114#12#B1",
+        "parent_prompt_trace": "KB-114#12#B1",
+        "text": "Reduced-material endings make kings active. Accurate destination checking lets a child use the king confidently without stepping into attack."
+      },
+      {
+        "id": "LES-030-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-114#13#B1",
+        "parent_prompt_trace": "KB-114#13#B1",
+        "text": "- Checking attacks before removing the captured piece.\n- Capturing a protected piece with the king.\n- Allowing diagonal king adjacency.\n- Playing until a king is captured.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+      },
+      {
+        "id": "LES-030-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-114#14#B1",
+        "parent_prompt_trace": "KB-114#14#B1",
+        "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+      },
+      {
+        "id": "LES-030-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-114#15#B1",
+        "parent_prompt_trace": "KB-114#15#B1",
+        "text": "**Can a king capture an attacking piece?**  \nYes, only if the destination is safe afterward.\n\n**Can kings touch diagonally?**  \nNo.\n\n**Who captures the king?**  \nNobody; checkmate ends the legal game first."
+      },
+      {
+        "id": "LES-030-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-114#16#B1",
+        "parent_prompt_trace": "KB-114#16#B1",
+        "text": "Play Safe Islands. Put a king in the center and use coins to mark every legal destination. Add one enemy piece at a time and update the islands.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+      },
+      {
+        "id": "LES-030-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge",
+        "source_trace": "KB-114#17#B1",
+        "parent_prompt_trace": "KB-114#17#B1",
+        "text": "Offer a protected capture that changes a sliding line when the target is removed. Ask the child to rebuild the attack map before deciding.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+      },
+      {
+        "id": "LES-030-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-114#18#B1",
+        "parent_prompt_trace": "KB-114#18#B1",
+        "text": "### Recognition\n**Question:** May two kings stand next to each other?  \n**Answer:** No.\n\n### Application\n**Question:** May the king capture this unprotected adjacent piece?  \n**Answer:** Yes if no resulting attack remains.\n\n### Challenge\n**Question:** Find all legal king moves in a reduced position.  \n**Answer:** Every destination is recomputed correctly."
+      },
+      {
+        "id": "LES-030-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-114#19#B1",
+        "parent_prompt_trace": "KB-114#19#B1",
+        "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+      },
+      {
+        "id": "LES-030-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-114#20#B1",
+        "parent_prompt_trace": "KB-114#20#B1",
+        "text": "- **Prerequisites:** TOP-104 King Movement, TOP-111 Attacked Squares, and TOP-113 Legal and Illegal Moves.\n- **Unlocks:** TOP-115 Escaping Check.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#ILLEGAL_KING_MOVES`."
+      },
+      {
+        "id": "LES-030-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check",
+        "source_trace": "KB-114#21#B1",
+        "parent_prompt_trace": "KB-114#21#B1",
+        "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+      }
+    ]
+  }
+}

@@ -29,7 +29,7 @@ inputs:
   pipeline/validate_learning_tasks.py: 0c4d2b1ebb784912f25d70b13d5564b34f923fb81c557b399d06576d5be42214
   pipeline/validate_lesson_package.py: 4fb10cca27fca19b4c800a14b25571d57cc2f2ec590600f6123a531d93b801b2
   pipeline/validate_position_registry.py: 3301db07a7a46af5dd06bd06fd34e57b68367dc5f219d71f1abaddedb4e81395
-  positions/POSITION_INDEX.yaml: 634f1dcacfac8b676f078dcb1d1cc0c3bf4d608dc6a660d66a92a5f01f311b3a
+  positions/POSITION_INDEX.yaml: de7192c094e0c16a145baa28d8ae7414afbf7aff4d544259b38cfae29c950fa7
   positions/presentations/KB-001.yaml: af96ec208d792a296e2354444476fe668077a0114eff3f03e27ca504eaf8b50a
   positions/presentations/KB-002.yaml: f8d96744cbc0a7179c7c3b0ecd7caa104c955a18b959b43479d41fa749985b27
   positions/presentations/KB-003.yaml: e3a6970094fd6249f84c7f291dbd236949bdcd37ea8def72543b15edbd09144f
@@ -88,5 +88,5 @@ outputs:
   assets/tasks.json: c9918e6ee920913affcbf8bebe4689f3f97324f827607ce3fd0fdda3e634e790
   index.html: d60cb179d05177a85354739d85e17dcb2e990281b2386cb9d581d6dd68cf9a8f
   lesson.json: 1d5351b9bfed7caf55184a9857a442682b45af29e2898d51ef0c6ee21f2bc58f
-build_id: 00b6931890db338ea6a9b3cec4bf9ab73f5e2136e481e89d3295a9ec7d323a57
+build_id: b6118e8cd75949c385432cfabb05467255ebb12c5fb98902b6508f67188c8097
 validation_decision: VALID

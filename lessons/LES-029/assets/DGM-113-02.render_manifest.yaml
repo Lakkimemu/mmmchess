@@ -1,0 +1,31 @@
+schema_version: 1
+diagram_id: DGM-113-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-ILLEGAL-PINNED-ROOK-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: e1
+  - color: WHITE
+    piece_type: ROOK
+    square: e2
+  - color: BLACK
+    piece_type: KING
+    square: a8
+  - color: BLACK
+    piece_type: ROOK
+    square: e8
+position_sha256: 32c6cfcdbe3627acda82ab9217f1d9f3f3c84e7a2cdd1412ca8e771845e89a65
+presentation_sha256: 57527125aafbbde5e2a47dbdf7d146780b37b6e80bc3c0a63191e5fd2706fcc2
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-113#11#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 636f122606f6d49c9eb8cb17b65c0b8f2bbe087a7467371540238691b0d07743
+output_svg_sha256: 636f122606f6d49c9eb8cb17b65c0b8f2bbe087a7467371540238691b0d07743

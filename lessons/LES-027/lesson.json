@@ -1,0 +1,1187 @@
+{
+  "lesson_id": "LES-027",
+  "kb_id": "KB-112",
+  "topic_id": "TOP-112",
+  "unit_id": "UNT-001",
+  "sequence": 27,
+  "objective": "- **Today's goal:** Your child can identify which friendly pieces protect a selected square or piece.\n- **Prerequisites:** TOP-111 Attacked Squares.\n- **Success:** Your child explains the answer and demonstrates it on a physical board.",
+  "success_criteria": "- **Today's goal:** Your child can identify which friendly pieces protect a selected square or piece.\n- **Prerequisites:** TOP-111 Attacked Squares.\n- **Success:** Your child explains the answer and demonstrates it on a physical board.",
+  "source_traces": {
+    "objective": "KB-112#1#B1",
+    "success_criteria": "KB-112#1#B1"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-112#1",
+      "content": "- **Today's goal:** Your child can identify which friendly pieces protect a selected square or piece.\n- **Prerequisites:** TOP-111 Attacked Squares.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-112#2",
+      "content": "In teaching language, a friendly square or piece is defended when another friendly piece controls that square through its normal attack geometry. The defender may be able to capture an opponent that arrives there."
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-112#3",
+      "content": "Children often see an attacked piece but overlook the teammate behind it. Recognizing defenders is the first step toward safer captures and better teamwork between pieces."
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-112#4",
+      "content": "- **Requires:** TOP-111 Attacked Squares.\n- **Unlocks:** Undefended Piece, Hanging Piece, Counting Attackers and Defenders, and Safe Capture.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-112#5",
+      "content": "Defended-square language is a teaching extension of attack geometry. FIDE defines attack through possible capture of an opponent; coaches use the same geometry to say one friendly piece protects another. Defended does not mean invulnerable. Piece values, several attackers, pins, and exchange order are separate later questions.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-112#6",
+      "content": "1. Place one white piece and one white helper.\n2. Ask which helper could capture an enemy arriving on the selected square.\n3. Trace the helper's movement line.\n4. Add a blocker and ask again.\n5. Include a pawn so direction is checked carefully.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-112#7",
+      "content": "A defender is a teammate watching your square. The teammate is not a magic shield; it may answer if an opponent arrives. Say: Watched by a teammate."
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know?",
+      "source_trace": "KB-112#8",
+      "content": "A piece can have several defenders, one defender, or none. This topic only identifies them; it does not yet calculate an exchange."
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-112#9",
+      "content": "**Future reviewed visual requirement:** A white knight protecting a white pawn, with only the protecting relationship highlighted.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication."
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-112#10",
+      "content": "Select the friendly square, then work backward: which friendly pieces attack that square using their normal geometry? Check pawn direction and slider blockers. List defenders without deciding whether a trade is favorable."
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-112#11",
+      "content": "**Future reviewed visual requirement:** A rook that appears aligned with a friendly piece but is separated by a blocker, so it is not a defender.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram."
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-112#12",
+      "content": "When an opponent attacks a developed piece, a child can first ask whether a teammate already protects it. That observation helps, but it does not replace calculation."
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-112#13",
+      "content": "- Believing a defended piece cannot be captured.\n- Counting a blocked slider as a defender.\n- Using a pawn's movement square instead of its attack square.\n- Starting exchange calculation before identifying defenders.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-112#14",
+      "content": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-112#15",
+      "content": "**Can a defended piece still be lost?**  \nYes.\n\n**Can an occupied friendly square be described as defended?**  \nYes, as standard teaching language.\n\n**Do we count defenders now?**  \nIdentify all of them, but save exchange arithmetic for a later KB."
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-112#16",
+      "content": "Play Teammate Watch. Point to one friendly piece and ask your child to place a coin beside every teammate defending it. Move one blocker and repeat.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge",
+      "source_trace": "KB-112#17",
+      "content": "Build a position in which one visible line is blocked and a different piece truly defends the target. Ask the child to explain both relationships.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-112#18",
+      "content": "### Recognition\n**Question:** Is this pawn defended by the knight?  \n**Answer:** Answer from the knight's attack geometry.\n\n### Application\n**Question:** List every defender of one piece.  \n**Answer:** All and only legal defenders.\n\n### Challenge\n**Question:** Explain why defended does not mean safe.  \n**Answer:** Protection and exchange outcome are correctly separated."
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-112#19",
+      "content": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-112#20",
+      "content": "- **Prerequisites:** TOP-111 Attacked Squares.\n- **Unlocks:** Undefended Piece, Hanging Piece, Counting Attackers and Defenders, and Safe Capture.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#DEFENDED_SQUARES`."
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check",
+      "source_trace": "KB-112#21",
+      "content": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts.\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  canonical_sections: 21\n  diagrams_required: 2\n  mini_puzzles: 3\n  coach_challenges: 1\n  practice_activities: 1\n  parent_faq: 3\n  evidence_source: BOARD-LEGAL-PLAY-01\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-027-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-112#1#B1",
+      "parent_prompt_trace": "KB-112#1#B1",
+      "text": "- **Today's goal:** Your child can identify which friendly pieces protect a selected square or piece.\n- **Prerequisites:** TOP-111 Attacked Squares.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "id": "LES-027-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-112#2#B1",
+      "parent_prompt_trace": "KB-112#2#B1",
+      "text": "In teaching language, a friendly square or piece is defended when another friendly piece controls that square through its normal attack geometry. The defender may be able to capture an opponent that arrives there."
+    },
+    {
+      "id": "LES-027-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-112#3#B1",
+      "parent_prompt_trace": "KB-112#3#B1",
+      "text": "Children often see an attacked piece but overlook the teammate behind it. Recognizing defenders is the first step toward safer captures and better teamwork between pieces."
+    },
+    {
+      "id": "LES-027-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-112#4#B1",
+      "parent_prompt_trace": "KB-112#4#B1",
+      "text": "- **Requires:** TOP-111 Attacked Squares.\n- **Unlocks:** Undefended Piece, Hanging Piece, Counting Attackers and Defenders, and Safe Capture.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "id": "LES-027-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-112#5#B1",
+      "parent_prompt_trace": "KB-112#5#B1",
+      "text": "Defended-square language is a teaching extension of attack geometry. FIDE defines attack through possible capture of an opponent; coaches use the same geometry to say one friendly piece protects another. Defended does not mean invulnerable. Piece values, several attackers, pins, and exchange order are separate later questions.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "id": "LES-027-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-112#6#B1",
+      "parent_prompt_trace": "KB-112#6#B1",
+      "text": "1. Place one white piece and one white helper.\n2. Ask which helper could capture an enemy arriving on the selected square.\n3. Trace the helper's movement line.\n4. Add a blocker and ask again.\n5. Include a pawn so direction is checked carefully.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "id": "LES-027-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-112#7#B1",
+      "parent_prompt_trace": "KB-112#7#B1",
+      "text": "A defender is a teammate watching your square. The teammate is not a magic shield; it may answer if an opponent arrives. Say: Watched by a teammate."
+    },
+    {
+      "id": "LES-027-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know?",
+      "source_trace": "KB-112#8#B1",
+      "parent_prompt_trace": "KB-112#8#B1",
+      "text": "A piece can have several defenders, one defender, or none. This topic only identifies them; it does not yet calculate an exchange."
+    },
+    {
+      "id": "LES-027-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-112#9#B1",
+      "parent_prompt_trace": "KB-112#9#B1",
+      "text": "**Future reviewed visual requirement:** A white knight protecting a white pawn, with only the protecting relationship highlighted.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+      "diagram_id": "DGM-112-01",
+      "diagram_url": "assets/DGM-112-01.svg",
+      "position_id": "POS-DEFENDED-KNIGHT-PAWN-001",
+      "position_version": 1,
+      "position_title": "Knight teammate watches a pawn",
+      "diagram_alt": "Knight teammate watches a pawn"
+    },
+    {
+      "id": "LES-027-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-112#10#B1",
+      "parent_prompt_trace": "KB-112#10#B1",
+      "text": "Select the friendly square, then work backward: which friendly pieces attack that square using their normal geometry? Check pawn direction and slider blockers. List defenders without deciding whether a trade is favorable."
+    },
+    {
+      "id": "LES-027-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-112#11#B1",
+      "parent_prompt_trace": "KB-112#11#B1",
+      "text": "**Future reviewed visual requirement:** A rook that appears aligned with a friendly piece but is separated by a blocker, so it is not a defender.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+      "diagram_id": "DGM-112-02",
+      "diagram_url": "assets/DGM-112-02.svg",
+      "position_id": "POS-DEFENDED-ROOK-BLOCKED-001",
+      "position_version": 1,
+      "position_title": "Blocker breaks a rook defence",
+      "diagram_alt": "Blocker breaks a rook defence"
+    },
+    {
+      "id": "LES-027-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-112#12#B1",
+      "parent_prompt_trace": "KB-112#12#B1",
+      "text": "When an opponent attacks a developed piece, a child can first ask whether a teammate already protects it. That observation helps, but it does not replace calculation."
+    },
+    {
+      "id": "LES-027-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-112#13#B1",
+      "parent_prompt_trace": "KB-112#13#B1",
+      "text": "- Believing a defended piece cannot be captured.\n- Counting a blocked slider as a defender.\n- Using a pawn's movement square instead of its attack square.\n- Starting exchange calculation before identifying defenders.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "id": "LES-027-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-112#14#B1",
+      "parent_prompt_trace": "KB-112#14#B1",
+      "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "id": "LES-027-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-112#15#B1",
+      "parent_prompt_trace": "KB-112#15#B1",
+      "text": "**Can a defended piece still be lost?**  \nYes.\n\n**Can an occupied friendly square be described as defended?**  \nYes, as standard teaching language.\n\n**Do we count defenders now?**  \nIdentify all of them, but save exchange arithmetic for a later KB."
+    },
+    {
+      "id": "LES-027-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-112#16#B1",
+      "parent_prompt_trace": "KB-112#16#B1",
+      "text": "Play Teammate Watch. Point to one friendly piece and ask your child to place a coin beside every teammate defending it. Move one blocker and repeat.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "id": "LES-027-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge",
+      "source_trace": "KB-112#17#B1",
+      "parent_prompt_trace": "KB-112#17#B1",
+      "text": "Build a position in which one visible line is blocked and a different piece truly defends the target. Ask the child to explain both relationships.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "id": "LES-027-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-112#18#B1",
+      "parent_prompt_trace": "KB-112#18#B1",
+      "text": "### Recognition\n**Question:** Is this pawn defended by the knight?  \n**Answer:** Answer from the knight's attack geometry.\n\n### Application\n**Question:** List every defender of one piece.  \n**Answer:** All and only legal defenders.\n\n### Challenge\n**Question:** Explain why defended does not mean safe.  \n**Answer:** Protection and exchange outcome are correctly separated."
+    },
+    {
+      "id": "LES-027-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-112#19#B1",
+      "parent_prompt_trace": "KB-112#19#B1",
+      "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "id": "LES-027-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-112#20#B1",
+      "parent_prompt_trace": "KB-112#20#B1",
+      "text": "- **Prerequisites:** TOP-111 Attacked Squares.\n- **Unlocks:** Undefended Piece, Hanging Piece, Counting Attackers and Defenders, and Safe Capture.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#DEFENDED_SQUARES`."
+    },
+    {
+      "id": "LES-027-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check",
+      "source_trace": "KB-112#21#B1",
+      "parent_prompt_trace": "KB-112#21#B1",
+      "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+    }
+  ],
+  "task_references": [
+    "PZL-027-01",
+    "PZL-027-02",
+    "PZL-027-03",
+    "PZL-027-04"
+  ],
+  "diagram_references": [
+    "DGM-112-01",
+    "DGM-112-02"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-027",
+  "deferred_topics": [
+    {
+      "topic": "Exchange arithmetic",
+      "defer_to": "FUTURE"
+    },
+    {
+      "topic": "Hanging pieces",
+      "defer_to": "FUTURE"
+    }
+  ],
+  "teach_slides": [
+    {
+      "id": "LES-027-S01",
+      "type": "INTRO",
+      "title": "Teammates watch squares",
+      "text": "A defender controls the square where its teammate stands.",
+      "parent_prompt": "Introduce a defender as a teammate watching a friendly square.",
+      "diagram_id": "DGM-112-01",
+      "diagram_url": "assets/DGM-112-01.svg",
+      "visual": {
+        "diagram_id": "DGM-112-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-DEFENDED-KNIGHT-PAWN-001",
+      "position_version": 1,
+      "position_title": "Knight teammate watches a pawn",
+      "diagram_alt": "Knight teammate watches a pawn"
+    },
+    {
+      "id": "LES-027-S02",
+      "type": "DIAGRAM",
+      "title": "The knight defends",
+      "text": "The knight watches the pawn's square.",
+      "parent_prompt": "Trace the knight's L-shape from c3 to the pawn on d5.",
+      "diagram_id": "DGM-112-01",
+      "diagram_url": "assets/DGM-112-01.svg",
+      "visual": {
+        "diagram_id": "DGM-112-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-DEFENDED-KNIGHT-PAWN-001",
+      "position_version": 1,
+      "position_title": "Knight teammate watches a pawn",
+      "diagram_alt": "Knight teammate watches a pawn"
+    },
+    {
+      "id": "LES-027-S03",
+      "type": "DIAGRAM",
+      "title": "A blocker breaks defence",
+      "text": "The rook cannot defend through the first blocker.",
+      "parent_prompt": "Trace the rook ray and stop at the pawn on a3 before reaching a5.",
+      "diagram_id": "DGM-112-02",
+      "diagram_url": "assets/DGM-112-02.svg",
+      "visual": {
+        "diagram_id": "DGM-112-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-DEFENDED-ROOK-BLOCKED-001",
+      "position_version": 1,
+      "position_title": "Blocker breaks a rook defence",
+      "diagram_alt": "Blocker breaks a rook defence"
+    },
+    {
+      "id": "LES-027-S04",
+      "type": "PHYSICAL_ACTIVITY",
+      "title": "Teammate Watch",
+      "text": "Point to the target then find every teammate watching it.",
+      "parent_prompt": "Play Teammate Watch and mark every friendly defender of one selected piece.",
+      "visual": {
+        "sticker": "detective",
+        "layout": "TEXT_ONLY",
+        "sticker_url": "assets/detective.svg",
+        "sticker_alt": "Chess detective searching for setup clues"
+      }
+    },
+    {
+      "id": "LES-027-S05",
+      "type": "QUESTION",
+      "title": "Is the pawn defended",
+      "text": "Does the knight on c3 defend d5?",
+      "parent_prompt": "Ask whether the knight on c3 defends the pawn on d5 and request the movement shape.",
+      "reveal": "Yes. The knight attacks d5 with an L-shaped jump.",
+      "diagram_id": "DGM-112-02",
+      "diagram_url": "assets/DGM-112-02.svg",
+      "visual": {
+        "diagram_id": "DGM-112-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-DEFENDED-ROOK-BLOCKED-001",
+      "position_version": 1,
+      "position_title": "Blocker breaks a rook defence",
+      "diagram_alt": "Blocker breaks a rook defence"
+    },
+    {
+      "id": "LES-027-S06",
+      "type": "QUESTION",
+      "title": "Does the rook help",
+      "text": "Can the rook defend through the pawn on a3?",
+      "parent_prompt": "Ask whether the rook on a1 defends the knight on a5 when a pawn stands on a3.",
+      "reveal": "No. The rook's line stops at the pawn.",
+      "diagram_id": "DGM-112-02",
+      "diagram_url": "assets/DGM-112-02.svg",
+      "visual": {
+        "diagram_id": "DGM-112-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-DEFENDED-ROOK-BLOCKED-001",
+      "position_version": 1,
+      "position_title": "Blocker breaks a rook defence",
+      "diagram_alt": "Blocker breaks a rook defence"
+    },
+    {
+      "id": "LES-027-S07",
+      "type": "ASSESSMENT",
+      "title": "Find the teammates",
+      "text": "List all defenders and prove each one.",
+      "parent_prompt": "Select one friendly piece and ask the child to list every defender and explain each line.",
+      "diagram_id": "DGM-112-02",
+      "diagram_url": "assets/DGM-112-02.svg",
+      "visual": {
+        "diagram_id": "DGM-112-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-DEFENDED-ROOK-BLOCKED-001",
+      "position_version": 1,
+      "position_title": "Blocker breaks a rook defence",
+      "diagram_alt": "Blocker breaks a rook defence"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-027-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-112#1#B1",
+      "parent_prompt_trace": "KB-112#1#B1",
+      "text": "- **Today's goal:** Your child can identify which friendly pieces protect a selected square or piece.\n- **Prerequisites:** TOP-111 Attacked Squares.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "id": "LES-027-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-112#2#B1",
+      "parent_prompt_trace": "KB-112#2#B1",
+      "text": "In teaching language, a friendly square or piece is defended when another friendly piece controls that square through its normal attack geometry. The defender may be able to capture an opponent that arrives there."
+    },
+    {
+      "id": "LES-027-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-112#3#B1",
+      "parent_prompt_trace": "KB-112#3#B1",
+      "text": "Children often see an attacked piece but overlook the teammate behind it. Recognizing defenders is the first step toward safer captures and better teamwork between pieces."
+    },
+    {
+      "id": "LES-027-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-112#4#B1",
+      "parent_prompt_trace": "KB-112#4#B1",
+      "text": "- **Requires:** TOP-111 Attacked Squares.\n- **Unlocks:** Undefended Piece, Hanging Piece, Counting Attackers and Defenders, and Safe Capture.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "id": "LES-027-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-112#5#B1",
+      "parent_prompt_trace": "KB-112#5#B1",
+      "text": "Defended-square language is a teaching extension of attack geometry. FIDE defines attack through possible capture of an opponent; coaches use the same geometry to say one friendly piece protects another. Defended does not mean invulnerable. Piece values, several attackers, pins, and exchange order are separate later questions.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "id": "LES-027-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-112#6#B1",
+      "parent_prompt_trace": "KB-112#6#B1",
+      "text": "1. Place one white piece and one white helper.\n2. Ask which helper could capture an enemy arriving on the selected square.\n3. Trace the helper's movement line.\n4. Add a blocker and ask again.\n5. Include a pawn so direction is checked carefully.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "id": "LES-027-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-112#7#B1",
+      "parent_prompt_trace": "KB-112#7#B1",
+      "text": "A defender is a teammate watching your square. The teammate is not a magic shield; it may answer if an opponent arrives. Say: Watched by a teammate."
+    },
+    {
+      "id": "LES-027-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know?",
+      "source_trace": "KB-112#8#B1",
+      "parent_prompt_trace": "KB-112#8#B1",
+      "text": "A piece can have several defenders, one defender, or none. This topic only identifies them; it does not yet calculate an exchange."
+    },
+    {
+      "id": "LES-027-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-112#9#B1",
+      "parent_prompt_trace": "KB-112#9#B1",
+      "text": "**Future reviewed visual requirement:** A white knight protecting a white pawn, with only the protecting relationship highlighted.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+      "diagram_id": "DGM-112-01",
+      "diagram_url": "assets/DGM-112-01.svg",
+      "position_id": "POS-DEFENDED-KNIGHT-PAWN-001",
+      "position_version": 1,
+      "position_title": "Knight teammate watches a pawn",
+      "diagram_alt": "Knight teammate watches a pawn"
+    },
+    {
+      "id": "LES-027-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-112#10#B1",
+      "parent_prompt_trace": "KB-112#10#B1",
+      "text": "Select the friendly square, then work backward: which friendly pieces attack that square using their normal geometry? Check pawn direction and slider blockers. List defenders without deciding whether a trade is favorable."
+    },
+    {
+      "id": "LES-027-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-112#11#B1",
+      "parent_prompt_trace": "KB-112#11#B1",
+      "text": "**Future reviewed visual requirement:** A rook that appears aligned with a friendly piece but is separated by a blocker, so it is not a defender.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+      "diagram_id": "DGM-112-02",
+      "diagram_url": "assets/DGM-112-02.svg",
+      "position_id": "POS-DEFENDED-ROOK-BLOCKED-001",
+      "position_version": 1,
+      "position_title": "Blocker breaks a rook defence",
+      "diagram_alt": "Blocker breaks a rook defence"
+    },
+    {
+      "id": "LES-027-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-112#12#B1",
+      "parent_prompt_trace": "KB-112#12#B1",
+      "text": "When an opponent attacks a developed piece, a child can first ask whether a teammate already protects it. That observation helps, but it does not replace calculation."
+    },
+    {
+      "id": "LES-027-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-112#13#B1",
+      "parent_prompt_trace": "KB-112#13#B1",
+      "text": "- Believing a defended piece cannot be captured.\n- Counting a blocked slider as a defender.\n- Using a pawn's movement square instead of its attack square.\n- Starting exchange calculation before identifying defenders.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "id": "LES-027-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-112#14#B1",
+      "parent_prompt_trace": "KB-112#14#B1",
+      "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "id": "LES-027-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-112#15#B1",
+      "parent_prompt_trace": "KB-112#15#B1",
+      "text": "**Can a defended piece still be lost?**  \nYes.\n\n**Can an occupied friendly square be described as defended?**  \nYes, as standard teaching language.\n\n**Do we count defenders now?**  \nIdentify all of them, but save exchange arithmetic for a later KB."
+    },
+    {
+      "id": "LES-027-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-112#16#B1",
+      "parent_prompt_trace": "KB-112#16#B1",
+      "text": "Play Teammate Watch. Point to one friendly piece and ask your child to place a coin beside every teammate defending it. Move one blocker and repeat.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "id": "LES-027-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge",
+      "source_trace": "KB-112#17#B1",
+      "parent_prompt_trace": "KB-112#17#B1",
+      "text": "Build a position in which one visible line is blocked and a different piece truly defends the target. Ask the child to explain both relationships.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "id": "LES-027-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-112#18#B1",
+      "parent_prompt_trace": "KB-112#18#B1",
+      "text": "### Recognition\n**Question:** Is this pawn defended by the knight?  \n**Answer:** Answer from the knight's attack geometry.\n\n### Application\n**Question:** List every defender of one piece.  \n**Answer:** All and only legal defenders.\n\n### Challenge\n**Question:** Explain why defended does not mean safe.  \n**Answer:** Protection and exchange outcome are correctly separated."
+    },
+    {
+      "id": "LES-027-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-112#19#B1",
+      "parent_prompt_trace": "KB-112#19#B1",
+      "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "id": "LES-027-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-112#20#B1",
+      "parent_prompt_trace": "KB-112#20#B1",
+      "text": "- **Prerequisites:** TOP-111 Attacked Squares.\n- **Unlocks:** Undefended Piece, Hanging Piece, Counting Attackers and Defenders, and Safe Capture.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#DEFENDED_SQUARES`."
+    },
+    {
+      "id": "LES-027-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check",
+      "source_trace": "KB-112#21#B1",
+      "parent_prompt_trace": "KB-112#21#B1",
+      "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+    }
+  ],
+  "title": "Defended Squares",
+  "duration_minutes": 15,
+  "memory_phrase": "Watched by a teammate.",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 15,
+    "slides": [
+      {
+        "id": "LES-027-S01",
+        "type": "INTRO",
+        "title": "Teammates watch squares",
+        "text": "A defender controls the square where its teammate stands.",
+        "parent_prompt": "Introduce a defender as a teammate watching a friendly square.",
+        "diagram_id": "DGM-112-01",
+        "diagram_url": "assets/DGM-112-01.svg",
+        "visual": {
+          "diagram_id": "DGM-112-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-DEFENDED-KNIGHT-PAWN-001",
+        "position_version": 1,
+        "position_title": "Knight teammate watches a pawn",
+        "diagram_alt": "Knight teammate watches a pawn"
+      },
+      {
+        "id": "LES-027-S02",
+        "type": "DIAGRAM",
+        "title": "The knight defends",
+        "text": "The knight watches the pawn's square.",
+        "parent_prompt": "Trace the knight's L-shape from c3 to the pawn on d5.",
+        "diagram_id": "DGM-112-01",
+        "diagram_url": "assets/DGM-112-01.svg",
+        "visual": {
+          "diagram_id": "DGM-112-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-DEFENDED-KNIGHT-PAWN-001",
+        "position_version": 1,
+        "position_title": "Knight teammate watches a pawn",
+        "diagram_alt": "Knight teammate watches a pawn"
+      },
+      {
+        "id": "LES-027-S03",
+        "type": "DIAGRAM",
+        "title": "A blocker breaks defence",
+        "text": "The rook cannot defend through the first blocker.",
+        "parent_prompt": "Trace the rook ray and stop at the pawn on a3 before reaching a5.",
+        "diagram_id": "DGM-112-02",
+        "diagram_url": "assets/DGM-112-02.svg",
+        "visual": {
+          "diagram_id": "DGM-112-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-DEFENDED-ROOK-BLOCKED-001",
+        "position_version": 1,
+        "position_title": "Blocker breaks a rook defence",
+        "diagram_alt": "Blocker breaks a rook defence"
+      },
+      {
+        "id": "LES-027-S04",
+        "type": "PHYSICAL_ACTIVITY",
+        "title": "Teammate Watch",
+        "text": "Point to the target then find every teammate watching it.",
+        "parent_prompt": "Play Teammate Watch and mark every friendly defender of one selected piece.",
+        "visual": {
+          "sticker": "detective",
+          "layout": "TEXT_ONLY",
+          "sticker_url": "assets/detective.svg",
+          "sticker_alt": "Chess detective searching for setup clues"
+        }
+      },
+      {
+        "id": "LES-027-S05",
+        "type": "QUESTION",
+        "title": "Is the pawn defended",
+        "text": "Does the knight on c3 defend d5?",
+        "parent_prompt": "Ask whether the knight on c3 defends the pawn on d5 and request the movement shape.",
+        "reveal": "Yes. The knight attacks d5 with an L-shaped jump.",
+        "diagram_id": "DGM-112-02",
+        "diagram_url": "assets/DGM-112-02.svg",
+        "visual": {
+          "diagram_id": "DGM-112-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-DEFENDED-ROOK-BLOCKED-001",
+        "position_version": 1,
+        "position_title": "Blocker breaks a rook defence",
+        "diagram_alt": "Blocker breaks a rook defence"
+      },
+      {
+        "id": "LES-027-S06",
+        "type": "QUESTION",
+        "title": "Does the rook help",
+        "text": "Can the rook defend through the pawn on a3?",
+        "parent_prompt": "Ask whether the rook on a1 defends the knight on a5 when a pawn stands on a3.",
+        "reveal": "No. The rook's line stops at the pawn.",
+        "diagram_id": "DGM-112-02",
+        "diagram_url": "assets/DGM-112-02.svg",
+        "visual": {
+          "diagram_id": "DGM-112-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-DEFENDED-ROOK-BLOCKED-001",
+        "position_version": 1,
+        "position_title": "Blocker breaks a rook defence",
+        "diagram_alt": "Blocker breaks a rook defence"
+      },
+      {
+        "id": "LES-027-S07",
+        "type": "ASSESSMENT",
+        "title": "Find the teammates",
+        "text": "List all defenders and prove each one.",
+        "parent_prompt": "Select one friendly piece and ask the child to list every defender and explain each line.",
+        "diagram_id": "DGM-112-02",
+        "diagram_url": "assets/DGM-112-02.svg",
+        "visual": {
+          "diagram_id": "DGM-112-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-DEFENDED-ROOK-BLOCKED-001",
+        "position_version": 1,
+        "position_title": "Blocker breaks a rook defence",
+        "diagram_alt": "Blocker breaks a rook defence"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-027-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-112#1#B1",
+        "parent_prompt_trace": "KB-112#1#B1",
+        "text": "- **Today's goal:** Your child can identify which friendly pieces protect a selected square or piece.\n- **Prerequisites:** TOP-111 Attacked Squares.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+      },
+      {
+        "id": "LES-027-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-112#2#B1",
+        "parent_prompt_trace": "KB-112#2#B1",
+        "text": "In teaching language, a friendly square or piece is defended when another friendly piece controls that square through its normal attack geometry. The defender may be able to capture an opponent that arrives there."
+      },
+      {
+        "id": "LES-027-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-112#3#B1",
+        "parent_prompt_trace": "KB-112#3#B1",
+        "text": "Children often see an attacked piece but overlook the teammate behind it. Recognizing defenders is the first step toward safer captures and better teamwork between pieces."
+      },
+      {
+        "id": "LES-027-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-112#4#B1",
+        "parent_prompt_trace": "KB-112#4#B1",
+        "text": "- **Requires:** TOP-111 Attacked Squares.\n- **Unlocks:** Undefended Piece, Hanging Piece, Counting Attackers and Defenders, and Safe Capture.\n- Start with an uncluttered physical board and add complexity gradually."
+      },
+      {
+        "id": "LES-027-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-112#5#B1",
+        "parent_prompt_trace": "KB-112#5#B1",
+        "text": "Defended-square language is a teaching extension of attack geometry. FIDE defines attack through possible capture of an opponent; coaches use the same geometry to say one friendly piece protects another. Defended does not mean invulnerable. Piece values, several attackers, pins, and exchange order are separate later questions.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+      },
+      {
+        "id": "LES-027-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-112#6#B1",
+        "parent_prompt_trace": "KB-112#6#B1",
+        "text": "1. Place one white piece and one white helper.\n2. Ask which helper could capture an enemy arriving on the selected square.\n3. Trace the helper's movement line.\n4. Add a blocker and ask again.\n5. Include a pawn so direction is checked carefully.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+      },
+      {
+        "id": "LES-027-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-112#7#B1",
+        "parent_prompt_trace": "KB-112#7#B1",
+        "text": "A defender is a teammate watching your square. The teammate is not a magic shield; it may answer if an opponent arrives. Say: Watched by a teammate."
+      },
+      {
+        "id": "LES-027-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know?",
+        "source_trace": "KB-112#8#B1",
+        "parent_prompt_trace": "KB-112#8#B1",
+        "text": "A piece can have several defenders, one defender, or none. This topic only identifies them; it does not yet calculate an exchange."
+      },
+      {
+        "id": "LES-027-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-112#9#B1",
+        "parent_prompt_trace": "KB-112#9#B1",
+        "text": "**Future reviewed visual requirement:** A white knight protecting a white pawn, with only the protecting relationship highlighted.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+        "diagram_id": "DGM-112-01",
+        "diagram_url": "assets/DGM-112-01.svg",
+        "position_id": "POS-DEFENDED-KNIGHT-PAWN-001",
+        "position_version": 1,
+        "position_title": "Knight teammate watches a pawn",
+        "diagram_alt": "Knight teammate watches a pawn"
+      },
+      {
+        "id": "LES-027-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-112#10#B1",
+        "parent_prompt_trace": "KB-112#10#B1",
+        "text": "Select the friendly square, then work backward: which friendly pieces attack that square using their normal geometry? Check pawn direction and slider blockers. List defenders without deciding whether a trade is favorable."
+      },
+      {
+        "id": "LES-027-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-112#11#B1",
+        "parent_prompt_trace": "KB-112#11#B1",
+        "text": "**Future reviewed visual requirement:** A rook that appears aligned with a friendly piece but is separated by a blocker, so it is not a defender.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+        "diagram_id": "DGM-112-02",
+        "diagram_url": "assets/DGM-112-02.svg",
+        "position_id": "POS-DEFENDED-ROOK-BLOCKED-001",
+        "position_version": 1,
+        "position_title": "Blocker breaks a rook defence",
+        "diagram_alt": "Blocker breaks a rook defence"
+      },
+      {
+        "id": "LES-027-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-112#12#B1",
+        "parent_prompt_trace": "KB-112#12#B1",
+        "text": "When an opponent attacks a developed piece, a child can first ask whether a teammate already protects it. That observation helps, but it does not replace calculation."
+      },
+      {
+        "id": "LES-027-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-112#13#B1",
+        "parent_prompt_trace": "KB-112#13#B1",
+        "text": "- Believing a defended piece cannot be captured.\n- Counting a blocked slider as a defender.\n- Using a pawn's movement square instead of its attack square.\n- Starting exchange calculation before identifying defenders.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+      },
+      {
+        "id": "LES-027-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-112#14#B1",
+        "parent_prompt_trace": "KB-112#14#B1",
+        "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+      },
+      {
+        "id": "LES-027-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-112#15#B1",
+        "parent_prompt_trace": "KB-112#15#B1",
+        "text": "**Can a defended piece still be lost?**  \nYes.\n\n**Can an occupied friendly square be described as defended?**  \nYes, as standard teaching language.\n\n**Do we count defenders now?**  \nIdentify all of them, but save exchange arithmetic for a later KB."
+      },
+      {
+        "id": "LES-027-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-112#16#B1",
+        "parent_prompt_trace": "KB-112#16#B1",
+        "text": "Play Teammate Watch. Point to one friendly piece and ask your child to place a coin beside every teammate defending it. Move one blocker and repeat.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+      },
+      {
+        "id": "LES-027-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge",
+        "source_trace": "KB-112#17#B1",
+        "parent_prompt_trace": "KB-112#17#B1",
+        "text": "Build a position in which one visible line is blocked and a different piece truly defends the target. Ask the child to explain both relationships.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+      },
+      {
+        "id": "LES-027-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-112#18#B1",
+        "parent_prompt_trace": "KB-112#18#B1",
+        "text": "### Recognition\n**Question:** Is this pawn defended by the knight?  \n**Answer:** Answer from the knight's attack geometry.\n\n### Application\n**Question:** List every defender of one piece.  \n**Answer:** All and only legal defenders.\n\n### Challenge\n**Question:** Explain why defended does not mean safe.  \n**Answer:** Protection and exchange outcome are correctly separated."
+      },
+      {
+        "id": "LES-027-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-112#19#B1",
+        "parent_prompt_trace": "KB-112#19#B1",
+        "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+      },
+      {
+        "id": "LES-027-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-112#20#B1",
+        "parent_prompt_trace": "KB-112#20#B1",
+        "text": "- **Prerequisites:** TOP-111 Attacked Squares.\n- **Unlocks:** Undefended Piece, Hanging Piece, Counting Attackers and Defenders, and Safe Capture.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#DEFENDED_SQUARES`."
+      },
+      {
+        "id": "LES-027-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check",
+        "source_trace": "KB-112#21#B1",
+        "parent_prompt_trace": "KB-112#21#B1",
+        "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+      }
+    ]
+  }
+}
