@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-033",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-033-01",
+      "kb_id": "KB-017",
+      "lesson_id": "LES-033",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What is the piece letter for a Knight?",
+      "hint": "Listen to the word kNight.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "N. The King took K so the Knight uses N for kNight."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-033.yaml",
+        "source_sha256": "810baf50d31a86aefdc74d84539bb153b4eeb56d4798f41a6f48f142beaf1331",
+        "field": "exercises",
+        "anchor": "EX-033-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-033-02",
+      "kb_id": "KB-017",
+      "lesson_id": "LES-033",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Write the notation for a Rook moving to e4.",
+      "hint": "Capital R for Rook plus the destination square.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Re4."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-033.yaml",
+        "source_sha256": "810baf50d31a86aefdc74d84539bb153b4eeb56d4798f41a6f48f142beaf1331",
+        "field": "exercises",
+        "anchor": "EX-033-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-033-03",
+      "kb_id": "KB-017",
+      "lesson_id": "LES-033",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Write the notation for a pawn moving to d4.",
+      "hint": "Pawns are silent ninjas.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "d4. Pawns carry no letter."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-033.yaml",
+        "source_sha256": "810baf50d31a86aefdc74d84539bb153b4eeb56d4798f41a6f48f142beaf1331",
+        "field": "exercises",
+        "anchor": "EX-033-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-033-04",
+      "kb_id": "KB-017",
+      "lesson_id": "LES-033",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Write the notation for a Queen capturing on h7.",
+      "hint": "Use an x for captures.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Qxh7."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-033.yaml",
+        "source_sha256": "810baf50d31a86aefdc74d84539bb153b4eeb56d4798f41a6f48f142beaf1331",
+        "field": "exercises",
+        "anchor": "EX-033-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

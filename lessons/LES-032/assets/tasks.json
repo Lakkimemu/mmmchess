@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-032",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-032-01",
+      "kb_id": "KB-015",
+      "lesson_id": "LES-032",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Which corner must be a light square?",
+      "hint": "Light on right.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The bottom right corner nearest to each player must always be a light square."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-032.yaml",
+        "source_sha256": "1ebb6c074bf2bc1a5ff7716c6c307cdf0c67bdcfacd238a6c7304e0856604555",
+        "field": "exercises",
+        "anchor": "EX-032-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-032-02",
+      "kb_id": "KB-015",
+      "lesson_id": "LES-032",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "How do you remember where to put the Queen?",
+      "hint": "Queen on her own color.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The Queen stands on the square that matches her own color. White Queen on a light square; Black Queen on a dark square."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-032.yaml",
+        "source_sha256": "1ebb6c074bf2bc1a5ff7716c6c307cdf0c67bdcfacd238a6c7304e0856604555",
+        "field": "exercises",
+        "anchor": "EX-032-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-032-03",
+      "kb_id": "KB-015",
+      "lesson_id": "LES-032",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Where do the Rooks go?",
+      "hint": "Castles in the corners.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Rooks go in the four corners — a1"
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-032.yaml",
+        "source_sha256": "1ebb6c074bf2bc1a5ff7716c6c307cdf0c67bdcfacd238a6c7304e0856604555",
+        "field": "exercises",
+        "anchor": "EX-032-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-032-04",
+      "kb_id": "KB-015",
+      "lesson_id": "LES-032",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What piece goes on b1 in the correct setup?",
+      "hint": "Knight lives next to the Rook.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The Knight."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-032.yaml",
+        "source_sha256": "1ebb6c074bf2bc1a5ff7716c6c307cdf0c67bdcfacd238a6c7304e0856604555",
+        "field": "exercises",
+        "anchor": "EX-032-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

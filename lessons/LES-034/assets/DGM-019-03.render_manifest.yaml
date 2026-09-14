@@ -1,0 +1,30 @@
+schema_version: 1
+diagram_id: DGM-019-03
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-CHECK-ESCAPE-BLOCK-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: e1
+  - color: BLACK
+    piece_type: QUEEN
+    square: e8
+  - color: WHITE
+    piece_type: PAWN
+    square: d2
+position_sha256: 4da0ec2ff4599f489c09bf22be087c7cba15e5a88c0a93b91bc86c298dc85bdd
+presentation_sha256: 902b4615b3489155036b7d38e81ec89154ba7ff2d319f352643a0ce570343ec5
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-019#12#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 63379f06ce3cf197e069fde68ce702555de07b16836c0e768e09598c50c27b9f
+output_svg_sha256: 63379f06ce3cf197e069fde68ce702555de07b16836c0e768e09598c50c27b9f

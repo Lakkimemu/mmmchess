@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-032",
+  "assessment_id": "ASM-032",
+  "rubric": {
+    "criteria": "- [ ] Do I know the rule \"Light on right\"?\n- [ ] Do I know the rule \"Queen on her own color\"?\n- [ ] Can my child set up the board without asking for help?\n- [ ] Did we play the \"Setup Race\" game?",
+    "source_trace": "KB-015#21#B1"
+  },
+  "task_references": [
+    "PZL-032-01",
+    "PZL-032-02",
+    "PZL-032-03",
+    "PZL-032-04"
+  ]
+}

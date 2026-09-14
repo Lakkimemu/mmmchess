@@ -1,0 +1,27 @@
+schema_version: 1
+diagram_id: DGM-017-03
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-NOTATION-BISHOP-CAPTURE-F6-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: BISHOP
+    square: c3
+  - color: BLACK
+    piece_type: KNIGHT
+    square: f6
+position_sha256: de6c527f0b8998e194fce8ae0291c6435436365ac7c19f3ac9ead568d7dfa868
+presentation_sha256: 28faad26caee20555aedad512d868eb0e3f25f58e170b13986353c1e4ecb868e
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-017#12#B1
+review_status: APPROVED
+reviewed_artifact_sha256: c3262cb77daba8c19c56bd37ea04544d5aba9785c86fc8ffffde3cf903a8eb16
+output_svg_sha256: c3262cb77daba8c19c56bd37ea04544d5aba9785c86fc8ffffde3cf903a8eb16

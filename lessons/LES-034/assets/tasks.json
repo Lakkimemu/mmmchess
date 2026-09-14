@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-034",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-034-01",
+      "kb_id": "KB-019",
+      "lesson_id": "LES-034",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What does Check mean?",
+      "hint": "The fire alarm is ringing.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The King is directly attacked by an enemy piece and must be saved on the very next move."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-034.yaml",
+        "source_sha256": "28c87d5511bdab27dfb65aa4832af20ba041603847d502c6e88ade4222c9e067",
+        "field": "exercises",
+        "anchor": "EX-034-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-034-02",
+      "kb_id": "KB-019",
+      "lesson_id": "LES-034",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Name the three ways to escape Check.",
+      "hint": "Run, Block, Capture.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Run (move the King to a safe square), Block (put a friendly piece between the King and the attacker), Capture (take the attacking piece)."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-034.yaml",
+        "source_sha256": "28c87d5511bdab27dfb65aa4832af20ba041603847d502c6e88ade4222c9e067",
+        "field": "exercises",
+        "anchor": "EX-034-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-034-03",
+      "kb_id": "KB-019",
+      "lesson_id": "LES-034",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Can you block a Knight check?",
+      "hint": "What do Knights do when they move?",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. Knights jump over other pieces so there is no way to interpose a blocker."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-034.yaml",
+        "source_sha256": "28c87d5511bdab27dfb65aa4832af20ba041603847d502c6e88ade4222c9e067",
+        "field": "exercises",
+        "anchor": "EX-034-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-034-04",
+      "kb_id": "KB-019",
+      "lesson_id": "LES-034",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Can you choose to ignore a Check and make a different move?",
+      "hint": "The fire alarm must be turned off.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No. Escaping Check is mandatory. Any move that does not save the King is illegal."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-034.yaml",
+        "source_sha256": "28c87d5511bdab27dfb65aa4832af20ba041603847d502c6e88ade4222c9e067",
+        "field": "exercises",
+        "anchor": "EX-034-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

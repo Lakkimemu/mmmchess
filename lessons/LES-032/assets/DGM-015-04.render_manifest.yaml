@@ -1,0 +1,19 @@
+schema_version: 1
+diagram_id: DGM-015-04
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-INITIAL-WRONG-ORIENT-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces: []
+position_sha256: f8dda5fae02d73c7dcecd16db2c7ef0c0247d9956d1025fc372ef37375b6f423
+presentation_sha256: d7c51084e888bde322e6262a01abec6c725c8c92272e286710af1028b9e328af
+presentation_theme: PCA_GREEN_IVORY_INVERTED_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-015#18#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 84f042cbf5f88cb8ef3fccb10a5c18ce8f2a41463bc591a588384e338c9ab7ab
+output_svg_sha256: 84f042cbf5f88cb8ef3fccb10a5c18ce8f2a41463bc591a588384e338c9ab7ab

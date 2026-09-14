@@ -1,0 +1,30 @@
+schema_version: 1
+diagram_id: DGM-019-05
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-CHECK-KNIGHT-NO-BLOCK-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: e4
+  - color: BLACK
+    piece_type: KNIGHT
+    square: d6
+  - color: WHITE
+    piece_type: BISHOP
+    square: b8
+position_sha256: f7204dc9e255b0fb25a2434734e31300521efc2c3e7c76db7d1c8a6b1f7f2d01
+presentation_sha256: 3d9a06375858384ddb46d91653d0cffbb4fc54e3b5c4e0cbe3bf064914892145
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-019#18#B2
+review_status: APPROVED
+reviewed_artifact_sha256: 5b820446449e4f5425a27747ea56fcf48ffafa1ea15d171bf0ecc28874550bf7
+output_svg_sha256: 5b820446449e4f5425a27747ea56fcf48ffafa1ea15d171bf0ecc28874550bf7

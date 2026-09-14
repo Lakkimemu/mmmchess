@@ -1,0 +1,23 @@
+schema_version: 1
+diagram_id: DGM-017-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-NOTATION-PAWN-E2-E4-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: PAWN
+    square: e2
+position_sha256: d12ce6ae1d917ce16630afc479ffc412c3e7b9045a14f64714663b23faa06274
+presentation_sha256: 3cadb9e6842369d068038cdbb3b7e406be4625ea13fa8780d0d14cdb62f1c5fb
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-017#11#B1
+review_status: APPROVED
+reviewed_artifact_sha256: bbc86a353a286c780061ab8133b22e3114e6a440931ee4c21904e1066b3c634f
+output_svg_sha256: bbc86a353a286c780061ab8133b22e3114e6a440931ee4c21904e1066b3c634f

@@ -1,0 +1,22 @@
+schema_version: 1
+diagram_id: DGM-015-03
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-INITIAL-FULL-POSITION-001
+position_version: 1
+position_type: LEGAL_FEN
+display_state: PRESENTED
+displayed_state: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+position_sha256: 32e6475c7cd5d1422e44a59ec2eb8644398d5840886e5995226c5acb5beaad6e
+presentation_sha256: 65282c5b70950171868a93090575c7d15f8360c8775ce73fc4e0ae1ec2b8c97a
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-015#12#B1
+review_status: APPROVED
+reviewed_artifact_sha256: e38a5e5e0a5ec7078767d93a3e1197f4293ed2b6171a38aa87a1e83252d97729
+output_svg_sha256: e38a5e5e0a5ec7078767d93a3e1197f4293ed2b6171a38aa87a1e83252d97729

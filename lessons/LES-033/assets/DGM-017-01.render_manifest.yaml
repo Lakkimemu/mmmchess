@@ -1,0 +1,23 @@
+schema_version: 1
+diagram_id: DGM-017-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-NOTATION-KNIGHT-F3-D4-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KNIGHT
+    square: f3
+position_sha256: 6c365946fe6aa48da6c5675edacf6c57a5898181b30b69f5f06316739dfb2dc0
+presentation_sha256: 920954749c3b69648e718a57ded4cd8f15d605514cd66707ae1b7ec0e664c2ea
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-017#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: ffc7a7345713f1cb50505e739b6532c0b997d74edf2d0d6bf6656136e58bdcca
+output_svg_sha256: ffc7a7345713f1cb50505e739b6532c0b997d74edf2d0d6bf6656136e58bdcca

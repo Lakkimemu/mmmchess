@@ -1,0 +1,30 @@
+schema_version: 1
+diagram_id: DGM-019-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-CHECK-ESCAPE-CAPTURE-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: e1
+  - color: BLACK
+    piece_type: BISHOP
+    square: c3
+  - color: WHITE
+    piece_type: KNIGHT
+    square: b1
+position_sha256: 2ec6753f3ba1bb0f8c827ec456e96a4be60070668b89e9e979725e1185b26e83
+presentation_sha256: c27712fe6d08ead270bed0ad0f3531dfd381407c14f9cdb82cde1420f368f429
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-019#11#B1
+review_status: APPROVED
+reviewed_artifact_sha256: b54f8e2e8d29747d3bd383e4c96719c71458a2b15bb815d3b3ceb85113896f45
+output_svg_sha256: b54f8e2e8d29747d3bd383e4c96719c71458a2b15bb815d3b3ceb85113896f45

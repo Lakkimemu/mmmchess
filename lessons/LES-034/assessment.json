@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-034",
+  "assessment_id": "ASM-034",
+  "rubric": {
+    "criteria": "- [ ] Do I understand what Check means?\n- [ ] Do I know the rule that you MUST escape Check?\n- [ ] Can my child name the 3 ways out of Check (Run, Block, Capture)?\n- [ ] Did we practice the \"Firefighter Drill\"?",
+    "source_trace": "KB-019#21#B1"
+  },
+  "task_references": [
+    "PZL-034-01",
+    "PZL-034-02",
+    "PZL-034-03",
+    "PZL-034-04"
+  ]
+}

@@ -1,0 +1,19 @@
+schema_version: 1
+diagram_id: DGM-015-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-INITIAL-LIGHT-CORNER-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces: []
+position_sha256: f93face7ede3e1a522eeec8f833639bd588f4dad646df6eb7a4f6277df75c680
+presentation_sha256: 3e04e6a01449735dc0e80ef67aa731bb3da995b4fc7caed615dce216276dcd19
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-015#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 37d3f1244464a4497a03e6d1cce12af4f296742b2181eb59b95ce75534787068
+output_svg_sha256: 37d3f1244464a4497a03e6d1cce12af4f296742b2181eb59b95ce75534787068

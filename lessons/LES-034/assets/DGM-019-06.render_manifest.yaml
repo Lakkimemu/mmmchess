@@ -1,0 +1,31 @@
+schema_version: 1
+diagram_id: DGM-019-06
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-CHECK-CORNER-BLOCK-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: h1
+  - color: BLACK
+    piece_type: QUEEN
+    square: h5
+  - color: WHITE
+    piece_type: ROOK
+    square: c5
+position_sha256: 67d2edd625fca59512f0c7724a54cc753af99369dfe4d02aa6e352cc147208da
+presentation_sha256: ac41001ede15075690e486a48bcbd910f234bbc0ef6c66303f1543145885cc2f
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-019#18#B3
+review_status: APPROVED
+reviewed_artifact_sha256: 27002f3cfcf28243a697ab58d064d34f957f6a45c75bf9d402d724375049930f
+output_svg_sha256: 27002f3cfcf28243a697ab58d064d34f957f6a45c75bf9d402d724375049930f

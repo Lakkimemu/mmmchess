@@ -1,0 +1,45 @@
+schema_version: 1
+diagram_id: DGM-015-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-INITIAL-BACK-RANK-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: ROOK
+    square: a1
+  - color: WHITE
+    piece_type: KNIGHT
+    square: b1
+  - color: WHITE
+    piece_type: BISHOP
+    square: c1
+  - color: WHITE
+    piece_type: QUEEN
+    square: d1
+  - color: WHITE
+    piece_type: KING
+    square: e1
+  - color: WHITE
+    piece_type: BISHOP
+    square: f1
+  - color: WHITE
+    piece_type: KNIGHT
+    square: g1
+  - color: WHITE
+    piece_type: ROOK
+    square: h1
+position_sha256: 4376cc06cdeb1a985cdde7265bea09b33cecfde20773a0efd17e31c4940b5fc8
+presentation_sha256: 1c4da11a0bfb9e474aa39914fe68ecf9c473a7504286d7e6da2ed24b01bcc740
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-015#11#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 0432a66403c4f5c1883d4d25dd3e368b06d1fa930d78307d502c5dde2416fab5
+output_svg_sha256: 0432a66403c4f5c1883d4d25dd3e368b06d1fa930d78307d502c5dde2416fab5

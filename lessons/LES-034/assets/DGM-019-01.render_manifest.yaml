@@ -1,0 +1,27 @@
+schema_version: 1
+diagram_id: DGM-019-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-CHECK-ROOK-FILE-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: e1
+  - color: BLACK
+    piece_type: ROOK
+    square: e8
+position_sha256: 6c7cfc59ea20245925ea46d95d227f76fd6ee28c43ad587d39be4363b8d6f913
+presentation_sha256: 720524fae5f9d304641b6ce1e7710735ac98fc1309588f82bf99f78868f119b0
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-019#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 548984c4729f2e8429c04901fc5eccb6f84fb0663c194734f6b98842dac68715
+output_svg_sha256: 548984c4729f2e8429c04901fc5eccb6f84fb0663c194734f6b98842dac68715

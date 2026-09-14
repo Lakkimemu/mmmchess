@@ -1,0 +1,28 @@
+schema_version: 1
+diagram_id: DGM-017-04
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-NOTATION-PIECE-LETTERS-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KNIGHT
+    square: c4
+  - color: WHITE
+    piece_type: BISHOP
+    square: e4
+  - color: WHITE
+    piece_type: QUEEN
+    square: g4
+position_sha256: 91413fb3fa1064797b3b99235c6a84191cbb6c9654dc4b501a830a386cf73c52
+presentation_sha256: e6f51adf63d5c4e3babc1576983173bac4832c895369f391f5a49d23167928a8
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-017#18#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 409ecf544d039d812a491bdacf37b6f497236cc0cd219f5a1dc204db1488e36e
+output_svg_sha256: 409ecf544d039d812a491bdacf37b6f497236cc0cd219f5a1dc204db1488e36e

@@ -1,0 +1,31 @@
+schema_version: 1
+diagram_id: DGM-019-04
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-CHECK-BLOCKED-BISHOP-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: KING
+    square: g1
+  - color: BLACK
+    piece_type: BISHOP
+    square: d4
+  - color: WHITE
+    piece_type: PAWN
+    square: f2
+position_sha256: 0e5cd4772396bfb457cbdc08c87db76f922521807e14df1c05944e20bab3d266
+presentation_sha256: 31608c7c594f70092e8d5473c183d46167300b126debab680681d2c33f771bce
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-019#18#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 24c9bbfea658c958e664ce8925d3b1048d7a08c2fa8b9dffe7cb32ea3716b000
+output_svg_sha256: 24c9bbfea658c958e664ce8925d3b1048d7a08c2fa8b9dffe7cb32ea3716b000

@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-033",
+  "assessment_id": "ASM-033",
+  "rubric": {
+    "criteria": "- [ ] Do I know all the piece letters (K, Q, R, B, N)?\n- [ ] Do I understand that Pawns don't get a letter?\n- [ ] Can my child write a simple move like `Bc4`?\n- [ ] Did we play the \"Robot Commander\" game?",
+    "source_trace": "KB-017#21#B1"
+  },
+  "task_references": [
+    "PZL-033-01",
+    "PZL-033-02",
+    "PZL-033-03",
+    "PZL-033-04"
+  ]
+}

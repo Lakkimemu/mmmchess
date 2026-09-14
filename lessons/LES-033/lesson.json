@@ -1,0 +1,1307 @@
+{
+  "lesson_id": "LES-033",
+  "kb_id": "KB-017",
+  "topic_id": "TOP-017",
+  "unit_id": "UNT-001",
+  "sequence": 33,
+  "objective": "- **Topic**: Algebraic Notation\n- **Difficulty**: Advanced\n- **Typical age**: 7+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-015 Initial Position, TOP-006 Coordinates",
+  "success_criteria": "**🎯 Today's Goal:**\nYour child will learn how to read and write chess moves like a secret code, using piece letters and square names.",
+  "source_traces": {
+    "objective": "KB-017#1#B1",
+    "success_criteria": "KB-017#1#B2"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-017#1",
+      "content": "- **Topic**: Algebraic Notation\n- **Difficulty**: Advanced\n- **Typical age**: 7+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-015 Initial Position, TOP-006 Coordinates\n\n**🎯 Today's Goal:**\nYour child will learn how to read and write chess moves like a secret code, using piece letters and square names.\n\n**✅ Lesson Success Criteria:**\n- The child knows the single-letter abbreviation for every piece.\n- The child can correctly write a simple move like `Bc4`.\n- The child knows that pawn moves do not use a capital letter.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-017#2",
+      "content": "Algebraic Notation is the universal language of chess. It allows players to write down the moves of a game so it can be replayed later. A standard move is written by combining the Capital Letter of the piece moving with the coordinate of the square it lands on (e.g., `Nf3` means the Knight moved to the f3 square). When a piece captures another piece, an 'x' is placed in the middle (e.g., `Rxd4` means the Rook captured whatever was on d4). Pawns are special; they do not get a capital letter. A pawn moving to e4 is simply written as `e4`."
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-017#3",
+      "content": "Without notation, a chess game vanishes into thin air the moment it ends. Learning notation allows children to read chess books, review their mistakes with a coach, and feel like \"professional\" tournament players. It bridges the gap between playing a game and studying the game."
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-017#4",
+      "content": "- **Requires:** TOP-006 (Coordinates), TOP-015 (Initial Position)\n- **Unlocks:** TOP-036 (Opening Principles)"
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-017#5",
+      "content": "This is exactly like the game Battleship, mixed with a tiny bit of shorthand. \n**The Pieces:** King = K, Queen = Q, Rook = R, Bishop = B. Because King already took 'K', the k**N**ight uses **N**. Pawns get nothing (blank).\n**The Structure:** [Piece Letter] + [Destination Square]. \nIf a Bishop moves to c4, you write `Bc4`.\nIf a Pawn moves to e4, you write `e4` (NOT Pe4).\n**Captures:** Add an 'x' before the destination. If a Queen captures on h7, you write `Qxh7`."
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-017#6",
+      "content": "1. **The Secret Alphabet:** Ask the child to guess the letter for each piece. They will guess K, Q, R, B. Then ask for the Knight. When they say \"K!\", remind them the King already stole it. \"Listen to the word: nnn-ight. What letter does it sound like?\" (N).\n2. **The Destination:** Show them a square, like `d4`. Tell them, \"This is the address of a house.\"\n3. **The Sentence:** Move a Knight to `d4`. Say, \"We are writing a tiny sentence. Who moved? N. Where did he go? d4. Put them together!\" Write `Nd4` on a piece of paper.\n4. **The Silent Pawns:** Move a pawn to `e4`. Explain that pawns are sneaky foot-soldiers. They don't wear name tags. So we just write the address of the house they walk into: `e4`.\n5. **The Sword Cross:** Show a capture. Explain that when swords clash, they make an 'X'. So a Rook capturing on d5 is written `Rxd5` (Rook crosses swords on d5)."
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-017#7",
+      "content": "**The Mailman's Code:** \nImagine the chess pieces are mailmen delivering letters. To write down a delivery, you write the name of the mailman (Capital letter) and the address of the house they walked to (e.g., c4). But the pawns are tiny stealth ninjas! They don't want anyone to know their names, so they just write down the house address and disappear!"
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know? 🎓",
+      "source_trace": "KB-017#8",
+      "content": "In the old days, people used a crazy system called \"Descriptive Notation\" where they would write things like `P-K4` (Pawn to King's Four). It was so confusing that the entire world agreed to switch to Algebraic Notation because it is much faster and easier to read!"
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-017#9",
+      "content": "![DGM-017-01: A Knight moving from f3 to d4. The text Nd4 is displayed in large letters next to it.](../../assets/diagrams/TOP-017/DGM-017-01.svg)\n*Who moved? N. Where did they land? d4. = Nd4.*"
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-017#10",
+      "content": "Always use a CAPITAL letter for the piece, and lowercase letters for the square coordinates. This makes it easy to read. `Bc4` is correct. `bc4` or `BC4` is incorrect. The 'x' for capture is always lowercase."
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-017#11",
+      "content": "![DGM-017-02: A White pawn moving from e2 to e4. The text e4 is displayed.](../../assets/diagrams/TOP-017/DGM-017-02.svg)\n*Pawns do not use a capital 'P'. You just write the square they landed on.*"
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-017#12",
+      "content": "![DGM-017-03: A Bishop capturing a Knight on f6. The text Bxf6 is displayed with crossed swords.](../../assets/diagrams/TOP-017/DGM-017-03.svg)\n*The 'x' means \"captures\". Bishop captures whatever was sitting on f6.*"
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-017#13",
+      "content": "- **Using 'K' for Knight:** This is the most common error. The resulting notation looks like a King move, causing massive confusion when replaying the game.\n- **Writing 'P' for Pawn:** E.g., writing `Pe4` instead of `e4`.\n- **Writing the starting square:** E.g., writing `Nd2d4`. We don't care where he came from, only where he landed!\n\n> **🧑‍🏫 Coach Tip:**\n> If your child uses a 'K' for a Knight move, dramatically pick up their King and try to jump it over a wall of pawns. \"Wait, you wrote Kd4! The heavy King is trying to jump! Ahhh!\" They will quickly remember to use 'N'."
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-017#14",
+      "content": "This is an abstract concept. Do not expect 6-year-olds to keep a flawless score sheet during a real game. The physical act of writing distracts from playing. The goal right now is simply for them to be able to *read* a move if you write it down.\n\n> **🧑‍🏫 Coach Tip:**\n> To make it fun, leave secret messages on the fridge. Write \"1. e4\" on a sticky note. When they come home from school, have them move the piece on a physical board in the living room to decode your message!"
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-017#15",
+      "content": "**Q: What if two different Knights can jump to the exact same square? How do I write that?**\nA: That is an advanced rule called \"Disambiguation.\" If two Knights can jump to d4, you add the file they came from (e.g., `Nbd4`). But don't teach this yet! Wait until it naturally happens in a game.\n\n**Q: I see '+' and '#' symbols in chess books. What are those?**\nA: `+` means \"Check\" and `#` means \"Checkmate\". We will learn those symbols in the lessons about Check and Checkmate."
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-017#16",
+      "content": "**The Robot Commander:**\nYou (the parent) sit at the board like a robot. You are not allowed to look at the pieces, you just stare straight ahead. Your child holds a secret piece of paper with 3 moves written on it (e.g., 1. e4, 2. Nf3, 3. Bc4). The child must read the code out loud, and you move the pieces exactly as they command. If they command it perfectly, the robot powers up!"
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge ⭐",
+      "source_trace": "KB-017#17",
+      "content": "**Codebreaker:**\nWrite down this sequence on a piece of paper: \n1. e4\n2. d4\n3. exd5\nAsk your child to trace these moves on a physical board. The tricky part is the third move: `exd5`. Can they figure out what it means? (It means the pawn on the 'e' file captured something on the 'd5' square!). Let them struggle with the 'x' for a moment before helping."
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-017#18",
+      "content": "### 🟢 Recognition (Easy)\n![DGM-017-04: A picture of a Knight, a Bishop, and a Queen with blank boxes underneath.](../../assets/diagrams/TOP-017/DGM-017-04.svg)\n**Question:** What is the secret letter for the Knight? Is it K, N, or H?\n**Answer:** It is 'N' (kNight). The King stole the 'K', and 'H' is for Horse, but we call him a Knight!\n\n### 🟡 Application (Medium)\n![DGM-017-05: A board showing a White Bishop moving to c4.](../../assets/diagrams/TOP-017/DGM-017-05.svg)\n**Question:** How would you write down this Bishop move? \n**Answer:** Bc4. (Capital B, lowercase c and 4).\n\n### 🔴 Challenge (Hard)\n![DGM-017-06: A White Rook on d1 capturing a Black Queen on d8.](../../assets/diagrams/TOP-017/DGM-017-06.svg)\n**Question:** The Rook just crashed into the Queen on d8. How do you write this capture using the 'x' symbol?\n**Answer:** Rxd8. (Rook captures on d8)."
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-017#19",
+      "content": "- **Lichess Practice:** [Coordinates](https://lichess.org/training/coordinate) (A fun game to practice finding squares fast)."
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-017#20",
+      "content": "- **Prerequisites:** TOP-015 Initial Position, TOP-006 Coordinates\n- **Next Steps:** TOP-016 Game Phases"
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check ✅",
+      "source_trace": "KB-017#21",
+      "content": "- [ ] Do I know all the piece letters (K, Q, R, B, N)?\n- [ ] Do I understand that Pawns don't get a letter?\n- [ ] Can my child write a simple move like `Bc4`?\n- [ ] Did we play the \"Robot Commander\" game?\n\n---\n\n```yaml\nkb_quality:\n  reviewed: true\n  diagrams: 6\n  mini_puzzles: 3\n  external_resources: 1\n  coach_challenges: 1\n  practice_activities: 1\n  coach_tips: 2\n  parent_faq: 2\n  estimated_read_time: 20 min\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-033-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-017#1#B1",
+      "parent_prompt_trace": "KB-017#1#B1",
+      "text": "- **Topic**: Algebraic Notation\n- **Difficulty**: Advanced\n- **Typical age**: 7+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-015 Initial Position, TOP-006 Coordinates\n\n**🎯 Today's Goal:**\nYour child will learn how to read and write chess moves like a secret code, using piece letters and square names.\n\n**✅ Lesson Success Criteria:**\n- The child knows the single-letter abbreviation for every piece.\n- The child can correctly write a simple move like `Bc4`.\n- The child knows that pawn moves do not use a capital letter.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "id": "LES-033-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-017#2#B1",
+      "parent_prompt_trace": "KB-017#2#B1",
+      "text": "Algebraic Notation is the universal language of chess. It allows players to write down the moves of a game so it can be replayed later. A standard move is written by combining the Capital Letter of the piece moving with the coordinate of the square it lands on (e.g., `Nf3` means the Knight moved to the f3 square). When a piece captures another piece, an 'x' is placed in the middle (e.g., `Rxd4` means the Rook captured whatever was on d4). Pawns are special; they do not get a capital letter. A pawn moving to e4 is simply written as `e4`."
+    },
+    {
+      "id": "LES-033-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-017#3#B1",
+      "parent_prompt_trace": "KB-017#3#B1",
+      "text": "Without notation, a chess game vanishes into thin air the moment it ends. Learning notation allows children to read chess books, review their mistakes with a coach, and feel like \"professional\" tournament players. It bridges the gap between playing a game and studying the game."
+    },
+    {
+      "id": "LES-033-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-017#4#B1",
+      "parent_prompt_trace": "KB-017#4#B1",
+      "text": "- **Requires:** TOP-006 (Coordinates), TOP-015 (Initial Position)\n- **Unlocks:** TOP-036 (Opening Principles)"
+    },
+    {
+      "id": "LES-033-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-017#5#B1",
+      "parent_prompt_trace": "KB-017#5#B1",
+      "text": "This is exactly like the game Battleship, mixed with a tiny bit of shorthand. \n**The Pieces:** King = K, Queen = Q, Rook = R, Bishop = B. Because King already took 'K', the k**N**ight uses **N**. Pawns get nothing (blank).\n**The Structure:** [Piece Letter] + [Destination Square]. \nIf a Bishop moves to c4, you write `Bc4`.\nIf a Pawn moves to e4, you write `e4` (NOT Pe4).\n**Captures:** Add an 'x' before the destination. If a Queen captures on h7, you write `Qxh7`."
+    },
+    {
+      "id": "LES-033-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-017#6#B1",
+      "parent_prompt_trace": "KB-017#6#B1",
+      "text": "1. **The Secret Alphabet:** Ask the child to guess the letter for each piece. They will guess K, Q, R, B. Then ask for the Knight. When they say \"K!\", remind them the King already stole it. \"Listen to the word: nnn-ight. What letter does it sound like?\" (N).\n2. **The Destination:** Show them a square, like `d4`. Tell them, \"This is the address of a house.\"\n3. **The Sentence:** Move a Knight to `d4`. Say, \"We are writing a tiny sentence. Who moved? N. Where did he go? d4. Put them together!\" Write `Nd4` on a piece of paper.\n4. **The Silent Pawns:** Move a pawn to `e4`. Explain that pawns are sneaky foot-soldiers. They don't wear name tags. So we just write the address of the house they walk into: `e4`.\n5. **The Sword Cross:** Show a capture. Explain that when swords clash, they make an 'X'. So a Rook capturing on d5 is written `Rxd5` (Rook crosses swords on d5)."
+    },
+    {
+      "id": "LES-033-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-017#7#B1",
+      "parent_prompt_trace": "KB-017#7#B1",
+      "text": "**The Mailman's Code:** \nImagine the chess pieces are mailmen delivering letters. To write down a delivery, you write the name of the mailman (Capital letter) and the address of the house they walked to (e.g., c4). But the pawns are tiny stealth ninjas! They don't want anyone to know their names, so they just write down the house address and disappear!"
+    },
+    {
+      "id": "LES-033-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-017#8#B1",
+      "parent_prompt_trace": "KB-017#8#B1",
+      "text": "In the old days, people used a crazy system called \"Descriptive Notation\" where they would write things like `P-K4` (Pawn to King's Four). It was so confusing that the entire world agreed to switch to Algebraic Notation because it is much faster and easier to read!"
+    },
+    {
+      "id": "LES-033-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-017#9#B1",
+      "parent_prompt_trace": "KB-017#9#B1",
+      "text": "*Who moved? N. Where did they land? d4. = Nd4.*",
+      "diagram_id": "DGM-017-01",
+      "diagram_url": "assets/DGM-017-01.svg",
+      "position_id": "POS-NOTATION-KNIGHT-F3-D4-001",
+      "position_version": 1,
+      "position_title": "Knight on f3 moves to d4 — illustrating Nd4",
+      "diagram_alt": "Knight on f3 moves to d4 — illustrating Nd4"
+    },
+    {
+      "id": "LES-033-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-017#10#B1",
+      "parent_prompt_trace": "KB-017#10#B1",
+      "text": "Always use a CAPITAL letter for the piece, and lowercase letters for the square coordinates. This makes it easy to read. `Bc4` is correct. `bc4` or `BC4` is incorrect. The 'x' for capture is always lowercase."
+    },
+    {
+      "id": "LES-033-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-017#11#B1",
+      "parent_prompt_trace": "KB-017#11#B1",
+      "text": "*Pawns do not use a capital 'P'. You just write the square they landed on.*",
+      "diagram_id": "DGM-017-02",
+      "diagram_url": "assets/DGM-017-02.svg",
+      "position_id": "POS-NOTATION-PAWN-E2-E4-001",
+      "position_version": 1,
+      "position_title": "White pawn on e2 moves to e4 — illustrating e4 notation",
+      "diagram_alt": "White pawn on e2 moves to e4 — illustrating e4 notation"
+    },
+    {
+      "id": "LES-033-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-017#12#B1",
+      "parent_prompt_trace": "KB-017#12#B1",
+      "text": "*The 'x' means \"captures\". Bishop captures whatever was sitting on f6.*",
+      "diagram_id": "DGM-017-03",
+      "diagram_url": "assets/DGM-017-03.svg",
+      "position_id": "POS-NOTATION-BISHOP-CAPTURE-F6-001",
+      "position_version": 1,
+      "position_title": "White Bishop captures Black Knight on f6 — illustrating Bxf6",
+      "diagram_alt": "White Bishop captures Black Knight on f6 — illustrating Bxf6"
+    },
+    {
+      "id": "LES-033-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-017#13#B1",
+      "parent_prompt_trace": "KB-017#13#B1",
+      "text": "- **Using 'K' for Knight:** This is the most common error. The resulting notation looks like a King move, causing massive confusion when replaying the game.\n- **Writing 'P' for Pawn:** E.g., writing `Pe4` instead of `e4`.\n- **Writing the starting square:** E.g., writing `Nd2d4`. We don't care where he came from, only where he landed!\n\n> **🧑‍🏫 Coach Tip:**\n> If your child uses a 'K' for a Knight move, dramatically pick up their King and try to jump it over a wall of pawns. \"Wait, you wrote Kd4! The heavy King is trying to jump! Ahhh!\" They will quickly remember to use 'N'."
+    },
+    {
+      "id": "LES-033-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-017#14#B1",
+      "parent_prompt_trace": "KB-017#14#B1",
+      "text": "This is an abstract concept. Do not expect 6-year-olds to keep a flawless score sheet during a real game. The physical act of writing distracts from playing. The goal right now is simply for them to be able to *read* a move if you write it down.\n\n> **🧑‍🏫 Coach Tip:**\n> To make it fun, leave secret messages on the fridge. Write \"1. e4\" on a sticky note. When they come home from school, have them move the piece on a physical board in the living room to decode your message!"
+    },
+    {
+      "id": "LES-033-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-017#15#B1",
+      "parent_prompt_trace": "KB-017#15#B1",
+      "text": "**Q: What if two different Knights can jump to the exact same square? How do I write that?**\nA: That is an advanced rule called \"Disambiguation.\" If two Knights can jump to d4, you add the file they came from (e.g., `Nbd4`). But don't teach this yet! Wait until it naturally happens in a game.\n\n**Q: I see '+' and '#' symbols in chess books. What are those?**\nA: `+` means \"Check\" and `#` means \"Checkmate\". We will learn those symbols in the lessons about Check and Checkmate."
+    },
+    {
+      "id": "LES-033-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-017#16#B1",
+      "parent_prompt_trace": "KB-017#16#B1",
+      "text": "**The Robot Commander:**\nYou (the parent) sit at the board like a robot. You are not allowed to look at the pieces, you just stare straight ahead. Your child holds a secret piece of paper with 3 moves written on it (e.g., 1. e4, 2. Nf3, 3. Bc4). The child must read the code out loud, and you move the pieces exactly as they command. If they command it perfectly, the robot powers up!"
+    },
+    {
+      "id": "LES-033-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-017#17#B1",
+      "parent_prompt_trace": "KB-017#17#B1",
+      "text": "**Codebreaker:**\nWrite down this sequence on a piece of paper: \n1. e4\n2. d4\n3. exd5\nAsk your child to trace these moves on a physical board. The tricky part is the third move: `exd5`. Can they figure out what it means? (It means the pawn on the 'e' file captured something on the 'd5' square!). Let them struggle with the 'x' for a moment before helping."
+    },
+    {
+      "id": "LES-033-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-017#18#B1",
+      "parent_prompt_trace": "KB-017#18#B1",
+      "text": "### 🟢 Recognition (Easy)\n\n**Question:** What is the secret letter for the Knight? Is it K, N, or H?\n**Answer:** It is 'N' (kNight). The King stole the 'K', and 'H' is for Horse, but we call him a Knight!\n\n### 🟡 Application (Medium)\n\n**Question:** How would you write down this Bishop move? \n**Answer:** Bc4. (Capital B, lowercase c and 4).\n\n### 🔴 Challenge (Hard)\n\n**Question:** The Rook just crashed into the Queen on d8. How do you write this capture using the 'x' symbol?\n**Answer:** Rxd8. (Rook captures on d8).",
+      "diagram_id": "DGM-017-06",
+      "diagram_url": "assets/DGM-017-06.svg",
+      "position_id": "POS-NOTATION-ROOK-CAPTURE-D8-001",
+      "position_version": 1,
+      "position_title": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8",
+      "diagram_alt": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8"
+    },
+    {
+      "id": "LES-033-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-017#19#B1",
+      "parent_prompt_trace": "KB-017#19#B1",
+      "text": "- **Lichess Practice:** [Coordinates](https://lichess.org/training/coordinate) (A fun game to practice finding squares fast)."
+    },
+    {
+      "id": "LES-033-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-017#20#B1",
+      "parent_prompt_trace": "KB-017#20#B1",
+      "text": "- **Prerequisites:** TOP-015 Initial Position, TOP-006 Coordinates\n- **Next Steps:** TOP-016 Game Phases"
+    },
+    {
+      "id": "LES-033-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-017#21#B1",
+      "parent_prompt_trace": "KB-017#21#B1",
+      "text": "- [ ] Do I know all the piece letters (K, Q, R, B, N)?\n- [ ] Do I understand that Pawns don't get a letter?\n- [ ] Can my child write a simple move like `Bc4`?\n- [ ] Did we play the \"Robot Commander\" game?"
+    }
+  ],
+  "task_references": [
+    "PZL-033-01",
+    "PZL-033-02",
+    "PZL-033-03",
+    "PZL-033-04"
+  ],
+  "diagram_references": [
+    "DGM-017-01",
+    "DGM-017-02",
+    "DGM-017-03",
+    "DGM-017-04",
+    "DGM-017-05",
+    "DGM-017-06"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-033",
+  "deferred_topics": [
+    {
+      "topic": "Descriptive notation",
+      "defer_to": "FUTURE"
+    },
+    {
+      "topic": "Annotation symbols (!",
+      "null": null,
+      "+-)": null,
+      "defer_to": "FUTURE"
+    },
+    {
+      "topic": "Disambiguation",
+      "defer_to": "FUTURE"
+    }
+  ],
+  "teach_slides": [
+    {
+      "id": "LES-033-S01",
+      "type": "INTRO",
+      "title": "The Chess Secret Code",
+      "text": "Learn to read and write chess moves like a professional player.",
+      "parent_prompt": "Tell the child that notation is a secret code that lets chess players write down every single move so the game can be replayed years later.",
+      "diagram_id": "DGM-017-01",
+      "diagram_url": "assets/DGM-017-01.svg",
+      "visual": {
+        "diagram_id": "DGM-017-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-NOTATION-KNIGHT-F3-D4-001",
+      "position_version": 1,
+      "position_title": "Knight on f3 moves to d4 — illustrating Nd4",
+      "diagram_alt": "Knight on f3 moves to d4 — illustrating Nd4"
+    },
+    {
+      "id": "LES-033-S02",
+      "type": "DIAGRAM",
+      "title": "Nd4 — The Knight Speaks",
+      "text": "Capital letter of the piece plus the landing square. Knight to d4 = Nd4.",
+      "parent_prompt": "Show the Knight moving. Say: Who moved? N. Where did he land? d4. Together: Nd4! Have the child write it.",
+      "diagram_id": "DGM-017-01",
+      "diagram_url": "assets/DGM-017-01.svg",
+      "visual": {
+        "diagram_id": "DGM-017-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-NOTATION-KNIGHT-F3-D4-001",
+      "position_version": 1,
+      "position_title": "Knight on f3 moves to d4 — illustrating Nd4",
+      "diagram_alt": "Knight on f3 moves to d4 — illustrating Nd4"
+    },
+    {
+      "id": "LES-033-S03",
+      "type": "DIAGRAM",
+      "title": "Pawns are Silent",
+      "text": "Pawns do not get a capital letter. Pawn to e4 is simply e4.",
+      "parent_prompt": "Move a pawn from e2 to e4. Remind the child that pawns are stealth ninjas — no letter. Ask: How do we write it? e4!",
+      "diagram_id": "DGM-017-02",
+      "diagram_url": "assets/DGM-017-02.svg",
+      "visual": {
+        "diagram_id": "DGM-017-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-NOTATION-PAWN-E2-E4-001",
+      "position_version": 1,
+      "position_title": "White pawn on e2 moves to e4 — illustrating e4 notation",
+      "diagram_alt": "White pawn on e2 moves to e4 — illustrating e4 notation"
+    },
+    {
+      "id": "LES-033-S04",
+      "type": "DIAGRAM",
+      "title": "The Capture Symbol",
+      "text": "Add an x for captures. Bishop captures on f6 = Bxf6.",
+      "parent_prompt": "Show the Bishop attacking the Knight on f6. Say: When pieces crash, they make an X! So Bishop captures on f6 = Bxf6.",
+      "diagram_id": "DGM-017-03",
+      "diagram_url": "assets/DGM-017-03.svg",
+      "visual": {
+        "diagram_id": "DGM-017-03",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-NOTATION-BISHOP-CAPTURE-F6-001",
+      "position_version": 1,
+      "position_title": "White Bishop captures Black Knight on f6 — illustrating Bxf6",
+      "diagram_alt": "White Bishop captures Black Knight on f6 — illustrating Bxf6"
+    },
+    {
+      "id": "LES-033-S05",
+      "type": "QUESTION",
+      "title": "Name the Letters",
+      "text": "What is the secret letter for the Knight? K, N, or H?",
+      "parent_prompt": "Point to the Knight and ask for the secret letter. When they say K tell them the King already stole K so the Knight uses N.",
+      "reveal": "The Knight uses N (kNight). The King took K!",
+      "diagram_id": "DGM-017-04",
+      "diagram_url": "assets/DGM-017-04.svg",
+      "visual": {
+        "diagram_id": "DGM-017-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-NOTATION-PIECE-LETTERS-001",
+      "position_version": 1,
+      "position_title": "Knight, Bishop, and Queen displayed for piece-letter recognition",
+      "diagram_alt": "Knight, Bishop, and Queen displayed for piece-letter recognition"
+    },
+    {
+      "id": "LES-033-S06",
+      "type": "QUESTION",
+      "title": "Write the Move",
+      "text": "The Bishop just moved to c4. How do you write that?",
+      "parent_prompt": "Ask the child how they would write down the Bishop landing on c4.",
+      "reveal": "Bc4. Capital B for Bishop, lowercase c and 4 for the square.",
+      "diagram_id": "DGM-017-05",
+      "diagram_url": "assets/DGM-017-05.svg",
+      "visual": {
+        "diagram_id": "DGM-017-05",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-NOTATION-BISHOP-C4-001",
+      "position_version": 1,
+      "position_title": "White Bishop on c4 — application of Bc4 notation",
+      "diagram_alt": "White Bishop on c4 — application of Bc4 notation"
+    },
+    {
+      "id": "LES-033-S07",
+      "type": "QUESTION",
+      "title": "Write the Capture",
+      "text": "The Rook just crashed into the Black Queen on d8. Write the capture.",
+      "parent_prompt": "Ask the child to write the Rook capturing the Black Queen on d8 using the x symbol.",
+      "reveal": "Rxd8. Rook captures on d8.",
+      "diagram_id": "DGM-017-06",
+      "diagram_url": "assets/DGM-017-06.svg",
+      "visual": {
+        "diagram_id": "DGM-017-06",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-NOTATION-ROOK-CAPTURE-D8-001",
+      "position_version": 1,
+      "position_title": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8",
+      "diagram_alt": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8"
+    },
+    {
+      "id": "LES-033-S08",
+      "type": "PHYSICAL_ACTIVITY",
+      "title": "Robot Commander",
+      "text": "Read the secret code out loud and command the robot!",
+      "parent_prompt": "Play the Robot Commander. Child reads three written moves; parent acts as a robot who moves only what the child commands.",
+      "visual": {
+        "sticker": "detective",
+        "layout": "TEXT_ONLY",
+        "sticker_url": "assets/detective.svg",
+        "sticker_alt": "Chess detective searching for setup clues"
+      }
+    },
+    {
+      "id": "LES-033-S09",
+      "type": "ASSESSMENT",
+      "title": "Code Writer",
+      "text": "Write the notation for each move the parent makes.",
+      "parent_prompt": "Dictate five moves orally and ask the child to write each one. Then make five moves on the board and ask the child to write the notation.",
+      "diagram_id": "DGM-017-06",
+      "diagram_url": "assets/DGM-017-06.svg",
+      "visual": {
+        "diagram_id": "DGM-017-06",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-NOTATION-ROOK-CAPTURE-D8-001",
+      "position_version": 1,
+      "position_title": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8",
+      "diagram_alt": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-033-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-017#1#B1",
+      "parent_prompt_trace": "KB-017#1#B1",
+      "text": "- **Topic**: Algebraic Notation\n- **Difficulty**: Advanced\n- **Typical age**: 7+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-015 Initial Position, TOP-006 Coordinates\n\n**🎯 Today's Goal:**\nYour child will learn how to read and write chess moves like a secret code, using piece letters and square names.\n\n**✅ Lesson Success Criteria:**\n- The child knows the single-letter abbreviation for every piece.\n- The child can correctly write a simple move like `Bc4`.\n- The child knows that pawn moves do not use a capital letter.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "id": "LES-033-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-017#2#B1",
+      "parent_prompt_trace": "KB-017#2#B1",
+      "text": "Algebraic Notation is the universal language of chess. It allows players to write down the moves of a game so it can be replayed later. A standard move is written by combining the Capital Letter of the piece moving with the coordinate of the square it lands on (e.g., `Nf3` means the Knight moved to the f3 square). When a piece captures another piece, an 'x' is placed in the middle (e.g., `Rxd4` means the Rook captured whatever was on d4). Pawns are special; they do not get a capital letter. A pawn moving to e4 is simply written as `e4`."
+    },
+    {
+      "id": "LES-033-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-017#3#B1",
+      "parent_prompt_trace": "KB-017#3#B1",
+      "text": "Without notation, a chess game vanishes into thin air the moment it ends. Learning notation allows children to read chess books, review their mistakes with a coach, and feel like \"professional\" tournament players. It bridges the gap between playing a game and studying the game."
+    },
+    {
+      "id": "LES-033-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-017#4#B1",
+      "parent_prompt_trace": "KB-017#4#B1",
+      "text": "- **Requires:** TOP-006 (Coordinates), TOP-015 (Initial Position)\n- **Unlocks:** TOP-036 (Opening Principles)"
+    },
+    {
+      "id": "LES-033-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-017#5#B1",
+      "parent_prompt_trace": "KB-017#5#B1",
+      "text": "This is exactly like the game Battleship, mixed with a tiny bit of shorthand. \n**The Pieces:** King = K, Queen = Q, Rook = R, Bishop = B. Because King already took 'K', the k**N**ight uses **N**. Pawns get nothing (blank).\n**The Structure:** [Piece Letter] + [Destination Square]. \nIf a Bishop moves to c4, you write `Bc4`.\nIf a Pawn moves to e4, you write `e4` (NOT Pe4).\n**Captures:** Add an 'x' before the destination. If a Queen captures on h7, you write `Qxh7`."
+    },
+    {
+      "id": "LES-033-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-017#6#B1",
+      "parent_prompt_trace": "KB-017#6#B1",
+      "text": "1. **The Secret Alphabet:** Ask the child to guess the letter for each piece. They will guess K, Q, R, B. Then ask for the Knight. When they say \"K!\", remind them the King already stole it. \"Listen to the word: nnn-ight. What letter does it sound like?\" (N).\n2. **The Destination:** Show them a square, like `d4`. Tell them, \"This is the address of a house.\"\n3. **The Sentence:** Move a Knight to `d4`. Say, \"We are writing a tiny sentence. Who moved? N. Where did he go? d4. Put them together!\" Write `Nd4` on a piece of paper.\n4. **The Silent Pawns:** Move a pawn to `e4`. Explain that pawns are sneaky foot-soldiers. They don't wear name tags. So we just write the address of the house they walk into: `e4`.\n5. **The Sword Cross:** Show a capture. Explain that when swords clash, they make an 'X'. So a Rook capturing on d5 is written `Rxd5` (Rook crosses swords on d5)."
+    },
+    {
+      "id": "LES-033-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-017#7#B1",
+      "parent_prompt_trace": "KB-017#7#B1",
+      "text": "**The Mailman's Code:** \nImagine the chess pieces are mailmen delivering letters. To write down a delivery, you write the name of the mailman (Capital letter) and the address of the house they walked to (e.g., c4). But the pawns are tiny stealth ninjas! They don't want anyone to know their names, so they just write down the house address and disappear!"
+    },
+    {
+      "id": "LES-033-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-017#8#B1",
+      "parent_prompt_trace": "KB-017#8#B1",
+      "text": "In the old days, people used a crazy system called \"Descriptive Notation\" where they would write things like `P-K4` (Pawn to King's Four). It was so confusing that the entire world agreed to switch to Algebraic Notation because it is much faster and easier to read!"
+    },
+    {
+      "id": "LES-033-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-017#9#B1",
+      "parent_prompt_trace": "KB-017#9#B1",
+      "text": "*Who moved? N. Where did they land? d4. = Nd4.*",
+      "diagram_id": "DGM-017-01",
+      "diagram_url": "assets/DGM-017-01.svg",
+      "position_id": "POS-NOTATION-KNIGHT-F3-D4-001",
+      "position_version": 1,
+      "position_title": "Knight on f3 moves to d4 — illustrating Nd4",
+      "diagram_alt": "Knight on f3 moves to d4 — illustrating Nd4"
+    },
+    {
+      "id": "LES-033-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-017#10#B1",
+      "parent_prompt_trace": "KB-017#10#B1",
+      "text": "Always use a CAPITAL letter for the piece, and lowercase letters for the square coordinates. This makes it easy to read. `Bc4` is correct. `bc4` or `BC4` is incorrect. The 'x' for capture is always lowercase."
+    },
+    {
+      "id": "LES-033-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-017#11#B1",
+      "parent_prompt_trace": "KB-017#11#B1",
+      "text": "*Pawns do not use a capital 'P'. You just write the square they landed on.*",
+      "diagram_id": "DGM-017-02",
+      "diagram_url": "assets/DGM-017-02.svg",
+      "position_id": "POS-NOTATION-PAWN-E2-E4-001",
+      "position_version": 1,
+      "position_title": "White pawn on e2 moves to e4 — illustrating e4 notation",
+      "diagram_alt": "White pawn on e2 moves to e4 — illustrating e4 notation"
+    },
+    {
+      "id": "LES-033-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-017#12#B1",
+      "parent_prompt_trace": "KB-017#12#B1",
+      "text": "*The 'x' means \"captures\". Bishop captures whatever was sitting on f6.*",
+      "diagram_id": "DGM-017-03",
+      "diagram_url": "assets/DGM-017-03.svg",
+      "position_id": "POS-NOTATION-BISHOP-CAPTURE-F6-001",
+      "position_version": 1,
+      "position_title": "White Bishop captures Black Knight on f6 — illustrating Bxf6",
+      "diagram_alt": "White Bishop captures Black Knight on f6 — illustrating Bxf6"
+    },
+    {
+      "id": "LES-033-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-017#13#B1",
+      "parent_prompt_trace": "KB-017#13#B1",
+      "text": "- **Using 'K' for Knight:** This is the most common error. The resulting notation looks like a King move, causing massive confusion when replaying the game.\n- **Writing 'P' for Pawn:** E.g., writing `Pe4` instead of `e4`.\n- **Writing the starting square:** E.g., writing `Nd2d4`. We don't care where he came from, only where he landed!\n\n> **🧑‍🏫 Coach Tip:**\n> If your child uses a 'K' for a Knight move, dramatically pick up their King and try to jump it over a wall of pawns. \"Wait, you wrote Kd4! The heavy King is trying to jump! Ahhh!\" They will quickly remember to use 'N'."
+    },
+    {
+      "id": "LES-033-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-017#14#B1",
+      "parent_prompt_trace": "KB-017#14#B1",
+      "text": "This is an abstract concept. Do not expect 6-year-olds to keep a flawless score sheet during a real game. The physical act of writing distracts from playing. The goal right now is simply for them to be able to *read* a move if you write it down.\n\n> **🧑‍🏫 Coach Tip:**\n> To make it fun, leave secret messages on the fridge. Write \"1. e4\" on a sticky note. When they come home from school, have them move the piece on a physical board in the living room to decode your message!"
+    },
+    {
+      "id": "LES-033-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-017#15#B1",
+      "parent_prompt_trace": "KB-017#15#B1",
+      "text": "**Q: What if two different Knights can jump to the exact same square? How do I write that?**\nA: That is an advanced rule called \"Disambiguation.\" If two Knights can jump to d4, you add the file they came from (e.g., `Nbd4`). But don't teach this yet! Wait until it naturally happens in a game.\n\n**Q: I see '+' and '#' symbols in chess books. What are those?**\nA: `+` means \"Check\" and `#` means \"Checkmate\". We will learn those symbols in the lessons about Check and Checkmate."
+    },
+    {
+      "id": "LES-033-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-017#16#B1",
+      "parent_prompt_trace": "KB-017#16#B1",
+      "text": "**The Robot Commander:**\nYou (the parent) sit at the board like a robot. You are not allowed to look at the pieces, you just stare straight ahead. Your child holds a secret piece of paper with 3 moves written on it (e.g., 1. e4, 2. Nf3, 3. Bc4). The child must read the code out loud, and you move the pieces exactly as they command. If they command it perfectly, the robot powers up!"
+    },
+    {
+      "id": "LES-033-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-017#17#B1",
+      "parent_prompt_trace": "KB-017#17#B1",
+      "text": "**Codebreaker:**\nWrite down this sequence on a piece of paper: \n1. e4\n2. d4\n3. exd5\nAsk your child to trace these moves on a physical board. The tricky part is the third move: `exd5`. Can they figure out what it means? (It means the pawn on the 'e' file captured something on the 'd5' square!). Let them struggle with the 'x' for a moment before helping."
+    },
+    {
+      "id": "LES-033-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-017#18#B1",
+      "parent_prompt_trace": "KB-017#18#B1",
+      "text": "### 🟢 Recognition (Easy)\n\n**Question:** What is the secret letter for the Knight? Is it K, N, or H?\n**Answer:** It is 'N' (kNight). The King stole the 'K', and 'H' is for Horse, but we call him a Knight!\n\n### 🟡 Application (Medium)\n\n**Question:** How would you write down this Bishop move? \n**Answer:** Bc4. (Capital B, lowercase c and 4).\n\n### 🔴 Challenge (Hard)\n\n**Question:** The Rook just crashed into the Queen on d8. How do you write this capture using the 'x' symbol?\n**Answer:** Rxd8. (Rook captures on d8).",
+      "diagram_id": "DGM-017-06",
+      "diagram_url": "assets/DGM-017-06.svg",
+      "position_id": "POS-NOTATION-ROOK-CAPTURE-D8-001",
+      "position_version": 1,
+      "position_title": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8",
+      "diagram_alt": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8"
+    },
+    {
+      "id": "LES-033-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-017#19#B1",
+      "parent_prompt_trace": "KB-017#19#B1",
+      "text": "- **Lichess Practice:** [Coordinates](https://lichess.org/training/coordinate) (A fun game to practice finding squares fast)."
+    },
+    {
+      "id": "LES-033-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-017#20#B1",
+      "parent_prompt_trace": "KB-017#20#B1",
+      "text": "- **Prerequisites:** TOP-015 Initial Position, TOP-006 Coordinates\n- **Next Steps:** TOP-016 Game Phases"
+    },
+    {
+      "id": "LES-033-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-017#21#B1",
+      "parent_prompt_trace": "KB-017#21#B1",
+      "text": "- [ ] Do I know all the piece letters (K, Q, R, B, N)?\n- [ ] Do I understand that Pawns don't get a letter?\n- [ ] Can my child write a simple move like `Bc4`?\n- [ ] Did we play the \"Robot Commander\" game?"
+    }
+  ],
+  "title": "Algebraic Notation",
+  "duration_minutes": 20,
+  "memory_phrase": "Capital letter for the piece, lowercase for the square. Pawns are silent.",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 20,
+    "slides": [
+      {
+        "id": "LES-033-S01",
+        "type": "INTRO",
+        "title": "The Chess Secret Code",
+        "text": "Learn to read and write chess moves like a professional player.",
+        "parent_prompt": "Tell the child that notation is a secret code that lets chess players write down every single move so the game can be replayed years later.",
+        "diagram_id": "DGM-017-01",
+        "diagram_url": "assets/DGM-017-01.svg",
+        "visual": {
+          "diagram_id": "DGM-017-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-NOTATION-KNIGHT-F3-D4-001",
+        "position_version": 1,
+        "position_title": "Knight on f3 moves to d4 — illustrating Nd4",
+        "diagram_alt": "Knight on f3 moves to d4 — illustrating Nd4"
+      },
+      {
+        "id": "LES-033-S02",
+        "type": "DIAGRAM",
+        "title": "Nd4 — The Knight Speaks",
+        "text": "Capital letter of the piece plus the landing square. Knight to d4 = Nd4.",
+        "parent_prompt": "Show the Knight moving. Say: Who moved? N. Where did he land? d4. Together: Nd4! Have the child write it.",
+        "diagram_id": "DGM-017-01",
+        "diagram_url": "assets/DGM-017-01.svg",
+        "visual": {
+          "diagram_id": "DGM-017-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-NOTATION-KNIGHT-F3-D4-001",
+        "position_version": 1,
+        "position_title": "Knight on f3 moves to d4 — illustrating Nd4",
+        "diagram_alt": "Knight on f3 moves to d4 — illustrating Nd4"
+      },
+      {
+        "id": "LES-033-S03",
+        "type": "DIAGRAM",
+        "title": "Pawns are Silent",
+        "text": "Pawns do not get a capital letter. Pawn to e4 is simply e4.",
+        "parent_prompt": "Move a pawn from e2 to e4. Remind the child that pawns are stealth ninjas — no letter. Ask: How do we write it? e4!",
+        "diagram_id": "DGM-017-02",
+        "diagram_url": "assets/DGM-017-02.svg",
+        "visual": {
+          "diagram_id": "DGM-017-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-NOTATION-PAWN-E2-E4-001",
+        "position_version": 1,
+        "position_title": "White pawn on e2 moves to e4 — illustrating e4 notation",
+        "diagram_alt": "White pawn on e2 moves to e4 — illustrating e4 notation"
+      },
+      {
+        "id": "LES-033-S04",
+        "type": "DIAGRAM",
+        "title": "The Capture Symbol",
+        "text": "Add an x for captures. Bishop captures on f6 = Bxf6.",
+        "parent_prompt": "Show the Bishop attacking the Knight on f6. Say: When pieces crash, they make an X! So Bishop captures on f6 = Bxf6.",
+        "diagram_id": "DGM-017-03",
+        "diagram_url": "assets/DGM-017-03.svg",
+        "visual": {
+          "diagram_id": "DGM-017-03",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-NOTATION-BISHOP-CAPTURE-F6-001",
+        "position_version": 1,
+        "position_title": "White Bishop captures Black Knight on f6 — illustrating Bxf6",
+        "diagram_alt": "White Bishop captures Black Knight on f6 — illustrating Bxf6"
+      },
+      {
+        "id": "LES-033-S05",
+        "type": "QUESTION",
+        "title": "Name the Letters",
+        "text": "What is the secret letter for the Knight? K, N, or H?",
+        "parent_prompt": "Point to the Knight and ask for the secret letter. When they say K tell them the King already stole K so the Knight uses N.",
+        "reveal": "The Knight uses N (kNight). The King took K!",
+        "diagram_id": "DGM-017-04",
+        "diagram_url": "assets/DGM-017-04.svg",
+        "visual": {
+          "diagram_id": "DGM-017-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-NOTATION-PIECE-LETTERS-001",
+        "position_version": 1,
+        "position_title": "Knight, Bishop, and Queen displayed for piece-letter recognition",
+        "diagram_alt": "Knight, Bishop, and Queen displayed for piece-letter recognition"
+      },
+      {
+        "id": "LES-033-S06",
+        "type": "QUESTION",
+        "title": "Write the Move",
+        "text": "The Bishop just moved to c4. How do you write that?",
+        "parent_prompt": "Ask the child how they would write down the Bishop landing on c4.",
+        "reveal": "Bc4. Capital B for Bishop, lowercase c and 4 for the square.",
+        "diagram_id": "DGM-017-05",
+        "diagram_url": "assets/DGM-017-05.svg",
+        "visual": {
+          "diagram_id": "DGM-017-05",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-NOTATION-BISHOP-C4-001",
+        "position_version": 1,
+        "position_title": "White Bishop on c4 — application of Bc4 notation",
+        "diagram_alt": "White Bishop on c4 — application of Bc4 notation"
+      },
+      {
+        "id": "LES-033-S07",
+        "type": "QUESTION",
+        "title": "Write the Capture",
+        "text": "The Rook just crashed into the Black Queen on d8. Write the capture.",
+        "parent_prompt": "Ask the child to write the Rook capturing the Black Queen on d8 using the x symbol.",
+        "reveal": "Rxd8. Rook captures on d8.",
+        "diagram_id": "DGM-017-06",
+        "diagram_url": "assets/DGM-017-06.svg",
+        "visual": {
+          "diagram_id": "DGM-017-06",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-NOTATION-ROOK-CAPTURE-D8-001",
+        "position_version": 1,
+        "position_title": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8",
+        "diagram_alt": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8"
+      },
+      {
+        "id": "LES-033-S08",
+        "type": "PHYSICAL_ACTIVITY",
+        "title": "Robot Commander",
+        "text": "Read the secret code out loud and command the robot!",
+        "parent_prompt": "Play the Robot Commander. Child reads three written moves; parent acts as a robot who moves only what the child commands.",
+        "visual": {
+          "sticker": "detective",
+          "layout": "TEXT_ONLY",
+          "sticker_url": "assets/detective.svg",
+          "sticker_alt": "Chess detective searching for setup clues"
+        }
+      },
+      {
+        "id": "LES-033-S09",
+        "type": "ASSESSMENT",
+        "title": "Code Writer",
+        "text": "Write the notation for each move the parent makes.",
+        "parent_prompt": "Dictate five moves orally and ask the child to write each one. Then make five moves on the board and ask the child to write the notation.",
+        "diagram_id": "DGM-017-06",
+        "diagram_url": "assets/DGM-017-06.svg",
+        "visual": {
+          "diagram_id": "DGM-017-06",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-NOTATION-ROOK-CAPTURE-D8-001",
+        "position_version": 1,
+        "position_title": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8",
+        "diagram_alt": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-033-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-017#1#B1",
+        "parent_prompt_trace": "KB-017#1#B1",
+        "text": "- **Topic**: Algebraic Notation\n- **Difficulty**: Advanced\n- **Typical age**: 7+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-015 Initial Position, TOP-006 Coordinates\n\n**🎯 Today's Goal:**\nYour child will learn how to read and write chess moves like a secret code, using piece letters and square names.\n\n**✅ Lesson Success Criteria:**\n- The child knows the single-letter abbreviation for every piece.\n- The child can correctly write a simple move like `Bc4`.\n- The child knows that pawn moves do not use a capital letter.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+      },
+      {
+        "id": "LES-033-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-017#2#B1",
+        "parent_prompt_trace": "KB-017#2#B1",
+        "text": "Algebraic Notation is the universal language of chess. It allows players to write down the moves of a game so it can be replayed later. A standard move is written by combining the Capital Letter of the piece moving with the coordinate of the square it lands on (e.g., `Nf3` means the Knight moved to the f3 square). When a piece captures another piece, an 'x' is placed in the middle (e.g., `Rxd4` means the Rook captured whatever was on d4). Pawns are special; they do not get a capital letter. A pawn moving to e4 is simply written as `e4`."
+      },
+      {
+        "id": "LES-033-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-017#3#B1",
+        "parent_prompt_trace": "KB-017#3#B1",
+        "text": "Without notation, a chess game vanishes into thin air the moment it ends. Learning notation allows children to read chess books, review their mistakes with a coach, and feel like \"professional\" tournament players. It bridges the gap between playing a game and studying the game."
+      },
+      {
+        "id": "LES-033-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-017#4#B1",
+        "parent_prompt_trace": "KB-017#4#B1",
+        "text": "- **Requires:** TOP-006 (Coordinates), TOP-015 (Initial Position)\n- **Unlocks:** TOP-036 (Opening Principles)"
+      },
+      {
+        "id": "LES-033-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-017#5#B1",
+        "parent_prompt_trace": "KB-017#5#B1",
+        "text": "This is exactly like the game Battleship, mixed with a tiny bit of shorthand. \n**The Pieces:** King = K, Queen = Q, Rook = R, Bishop = B. Because King already took 'K', the k**N**ight uses **N**. Pawns get nothing (blank).\n**The Structure:** [Piece Letter] + [Destination Square]. \nIf a Bishop moves to c4, you write `Bc4`.\nIf a Pawn moves to e4, you write `e4` (NOT Pe4).\n**Captures:** Add an 'x' before the destination. If a Queen captures on h7, you write `Qxh7`."
+      },
+      {
+        "id": "LES-033-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-017#6#B1",
+        "parent_prompt_trace": "KB-017#6#B1",
+        "text": "1. **The Secret Alphabet:** Ask the child to guess the letter for each piece. They will guess K, Q, R, B. Then ask for the Knight. When they say \"K!\", remind them the King already stole it. \"Listen to the word: nnn-ight. What letter does it sound like?\" (N).\n2. **The Destination:** Show them a square, like `d4`. Tell them, \"This is the address of a house.\"\n3. **The Sentence:** Move a Knight to `d4`. Say, \"We are writing a tiny sentence. Who moved? N. Where did he go? d4. Put them together!\" Write `Nd4` on a piece of paper.\n4. **The Silent Pawns:** Move a pawn to `e4`. Explain that pawns are sneaky foot-soldiers. They don't wear name tags. So we just write the address of the house they walk into: `e4`.\n5. **The Sword Cross:** Show a capture. Explain that when swords clash, they make an 'X'. So a Rook capturing on d5 is written `Rxd5` (Rook crosses swords on d5)."
+      },
+      {
+        "id": "LES-033-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-017#7#B1",
+        "parent_prompt_trace": "KB-017#7#B1",
+        "text": "**The Mailman's Code:** \nImagine the chess pieces are mailmen delivering letters. To write down a delivery, you write the name of the mailman (Capital letter) and the address of the house they walked to (e.g., c4). But the pawns are tiny stealth ninjas! They don't want anyone to know their names, so they just write down the house address and disappear!"
+      },
+      {
+        "id": "LES-033-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know? 🎓",
+        "source_trace": "KB-017#8#B1",
+        "parent_prompt_trace": "KB-017#8#B1",
+        "text": "In the old days, people used a crazy system called \"Descriptive Notation\" where they would write things like `P-K4` (Pawn to King's Four). It was so confusing that the entire world agreed to switch to Algebraic Notation because it is much faster and easier to read!"
+      },
+      {
+        "id": "LES-033-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-017#9#B1",
+        "parent_prompt_trace": "KB-017#9#B1",
+        "text": "*Who moved? N. Where did they land? d4. = Nd4.*",
+        "diagram_id": "DGM-017-01",
+        "diagram_url": "assets/DGM-017-01.svg",
+        "position_id": "POS-NOTATION-KNIGHT-F3-D4-001",
+        "position_version": 1,
+        "position_title": "Knight on f3 moves to d4 — illustrating Nd4",
+        "diagram_alt": "Knight on f3 moves to d4 — illustrating Nd4"
+      },
+      {
+        "id": "LES-033-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-017#10#B1",
+        "parent_prompt_trace": "KB-017#10#B1",
+        "text": "Always use a CAPITAL letter for the piece, and lowercase letters for the square coordinates. This makes it easy to read. `Bc4` is correct. `bc4` or `BC4` is incorrect. The 'x' for capture is always lowercase."
+      },
+      {
+        "id": "LES-033-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-017#11#B1",
+        "parent_prompt_trace": "KB-017#11#B1",
+        "text": "*Pawns do not use a capital 'P'. You just write the square they landed on.*",
+        "diagram_id": "DGM-017-02",
+        "diagram_url": "assets/DGM-017-02.svg",
+        "position_id": "POS-NOTATION-PAWN-E2-E4-001",
+        "position_version": 1,
+        "position_title": "White pawn on e2 moves to e4 — illustrating e4 notation",
+        "diagram_alt": "White pawn on e2 moves to e4 — illustrating e4 notation"
+      },
+      {
+        "id": "LES-033-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-017#12#B1",
+        "parent_prompt_trace": "KB-017#12#B1",
+        "text": "*The 'x' means \"captures\". Bishop captures whatever was sitting on f6.*",
+        "diagram_id": "DGM-017-03",
+        "diagram_url": "assets/DGM-017-03.svg",
+        "position_id": "POS-NOTATION-BISHOP-CAPTURE-F6-001",
+        "position_version": 1,
+        "position_title": "White Bishop captures Black Knight on f6 — illustrating Bxf6",
+        "diagram_alt": "White Bishop captures Black Knight on f6 — illustrating Bxf6"
+      },
+      {
+        "id": "LES-033-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-017#13#B1",
+        "parent_prompt_trace": "KB-017#13#B1",
+        "text": "- **Using 'K' for Knight:** This is the most common error. The resulting notation looks like a King move, causing massive confusion when replaying the game.\n- **Writing 'P' for Pawn:** E.g., writing `Pe4` instead of `e4`.\n- **Writing the starting square:** E.g., writing `Nd2d4`. We don't care where he came from, only where he landed!\n\n> **🧑‍🏫 Coach Tip:**\n> If your child uses a 'K' for a Knight move, dramatically pick up their King and try to jump it over a wall of pawns. \"Wait, you wrote Kd4! The heavy King is trying to jump! Ahhh!\" They will quickly remember to use 'N'."
+      },
+      {
+        "id": "LES-033-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-017#14#B1",
+        "parent_prompt_trace": "KB-017#14#B1",
+        "text": "This is an abstract concept. Do not expect 6-year-olds to keep a flawless score sheet during a real game. The physical act of writing distracts from playing. The goal right now is simply for them to be able to *read* a move if you write it down.\n\n> **🧑‍🏫 Coach Tip:**\n> To make it fun, leave secret messages on the fridge. Write \"1. e4\" on a sticky note. When they come home from school, have them move the piece on a physical board in the living room to decode your message!"
+      },
+      {
+        "id": "LES-033-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-017#15#B1",
+        "parent_prompt_trace": "KB-017#15#B1",
+        "text": "**Q: What if two different Knights can jump to the exact same square? How do I write that?**\nA: That is an advanced rule called \"Disambiguation.\" If two Knights can jump to d4, you add the file they came from (e.g., `Nbd4`). But don't teach this yet! Wait until it naturally happens in a game.\n\n**Q: I see '+' and '#' symbols in chess books. What are those?**\nA: `+` means \"Check\" and `#` means \"Checkmate\". We will learn those symbols in the lessons about Check and Checkmate."
+      },
+      {
+        "id": "LES-033-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-017#16#B1",
+        "parent_prompt_trace": "KB-017#16#B1",
+        "text": "**The Robot Commander:**\nYou (the parent) sit at the board like a robot. You are not allowed to look at the pieces, you just stare straight ahead. Your child holds a secret piece of paper with 3 moves written on it (e.g., 1. e4, 2. Nf3, 3. Bc4). The child must read the code out loud, and you move the pieces exactly as they command. If they command it perfectly, the robot powers up!"
+      },
+      {
+        "id": "LES-033-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge ⭐",
+        "source_trace": "KB-017#17#B1",
+        "parent_prompt_trace": "KB-017#17#B1",
+        "text": "**Codebreaker:**\nWrite down this sequence on a piece of paper: \n1. e4\n2. d4\n3. exd5\nAsk your child to trace these moves on a physical board. The tricky part is the third move: `exd5`. Can they figure out what it means? (It means the pawn on the 'e' file captured something on the 'd5' square!). Let them struggle with the 'x' for a moment before helping."
+      },
+      {
+        "id": "LES-033-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-017#18#B1",
+        "parent_prompt_trace": "KB-017#18#B1",
+        "text": "### 🟢 Recognition (Easy)\n\n**Question:** What is the secret letter for the Knight? Is it K, N, or H?\n**Answer:** It is 'N' (kNight). The King stole the 'K', and 'H' is for Horse, but we call him a Knight!\n\n### 🟡 Application (Medium)\n\n**Question:** How would you write down this Bishop move? \n**Answer:** Bc4. (Capital B, lowercase c and 4).\n\n### 🔴 Challenge (Hard)\n\n**Question:** The Rook just crashed into the Queen on d8. How do you write this capture using the 'x' symbol?\n**Answer:** Rxd8. (Rook captures on d8).",
+        "diagram_id": "DGM-017-06",
+        "diagram_url": "assets/DGM-017-06.svg",
+        "position_id": "POS-NOTATION-ROOK-CAPTURE-D8-001",
+        "position_version": 1,
+        "position_title": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8",
+        "diagram_alt": "White Rook on d1 captures Black Queen on d8 — illustrating Rxd8"
+      },
+      {
+        "id": "LES-033-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-017#19#B1",
+        "parent_prompt_trace": "KB-017#19#B1",
+        "text": "- **Lichess Practice:** [Coordinates](https://lichess.org/training/coordinate) (A fun game to practice finding squares fast)."
+      },
+      {
+        "id": "LES-033-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-017#20#B1",
+        "parent_prompt_trace": "KB-017#20#B1",
+        "text": "- **Prerequisites:** TOP-015 Initial Position, TOP-006 Coordinates\n- **Next Steps:** TOP-016 Game Phases"
+      },
+      {
+        "id": "LES-033-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check ✅",
+        "source_trace": "KB-017#21#B1",
+        "parent_prompt_trace": "KB-017#21#B1",
+        "text": "- [ ] Do I know all the piece letters (K, Q, R, B, N)?\n- [ ] Do I understand that Pawns don't get a letter?\n- [ ] Can my child write a simple move like `Bc4`?\n- [ ] Did we play the \"Robot Commander\" game?"
+      }
+    ]
+  }
+}

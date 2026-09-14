@@ -1,0 +1,27 @@
+schema_version: 1
+diagram_id: DGM-017-06
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-NOTATION-ROOK-CAPTURE-D8-001
+position_version: 1
+position_type: TEACHING_PLACEMENT
+display_state: TEACHING_PLACEMENT
+displayed_state:
+  pieces:
+  - color: WHITE
+    piece_type: ROOK
+    square: d1
+  - color: BLACK
+    piece_type: QUEEN
+    square: d8
+position_sha256: a188e462239cb6a43bb6131a1d746f39ad7cb13db1e105bda2309be2a79d56f2
+presentation_sha256: 5ea7186e7b9804de9b52ea828e7c48a5d42e4801d12e4249193e19714f6b8dc6
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_ON_SQUARE
+- PIECE_ON_SQUARE
+- PIECE_COUNT_AT_MOST
+source_trace: KB-017#18#B3
+review_status: APPROVED
+reviewed_artifact_sha256: 6e7f3a84ded321eaeea1e34677d20e69a0f45f6754f7c2806c3cdb3e5bd18b3d
+output_svg_sha256: 6e7f3a84ded321eaeea1e34677d20e69a0f45f6754f7c2806c3cdb3e5bd18b3d
