@@ -1,0 +1,18 @@
+schema_version: 1
+diagram_id: DGM-021-02
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-STALEMATE-002
+position_version: 1
+position_type: LEGAL_FEN
+display_state: PRESENTED
+displayed_state: 7k/5Q2/8/8/8/8/p7/5K2 b - - 0 1
+position_sha256: eb704909886030363180bf8e0873a5945116c89c141cd02854501517043dd445
+presentation_sha256: a6817722a9c6159e83506ceea798f1090998bf8db697922d4c7a614ae904653d
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-021#11#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 5fa85f65b126025e4e95b634a7d3744b038970ad0fbd31e760514385e3bae5a4
+output_svg_sha256: 5fa85f65b126025e4e95b634a7d3744b038970ad0fbd31e760514385e3bae5a4

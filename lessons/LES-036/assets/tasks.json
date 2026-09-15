@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-036",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-036-01",
+      "kb_id": "KB-115",
+      "lesson_id": "LES-036",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What are the three ways to escape?",
+      "hint": "R, B, C.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Run, block, capture."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-036.yaml",
+        "source_sha256": "bbb5355534d659bcff635c9b5ebce0a843b981b6ed0631cd0be90fdebdaedf08",
+        "field": "exercises",
+        "anchor": "EX-036-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-036-02",
+      "kb_id": "KB-115",
+      "lesson_id": "LES-036",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Can you ignore a check?",
+      "hint": "It is mandatory.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-036.yaml",
+        "source_sha256": "bbb5355534d659bcff635c9b5ebce0a843b981b6ed0631cd0be90fdebdaedf08",
+        "field": "exercises",
+        "anchor": "EX-036-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-036-03",
+      "kb_id": "KB-115",
+      "lesson_id": "LES-036",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Can you block a knight?",
+      "hint": "Knights jump.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-036.yaml",
+        "source_sha256": "bbb5355534d659bcff635c9b5ebce0a843b981b6ed0631cd0be90fdebdaedf08",
+        "field": "exercises",
+        "anchor": "EX-036-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-036-04",
+      "kb_id": "KB-115",
+      "lesson_id": "LES-036",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Is capturing always the best?",
+      "hint": "Depends on the board.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Not always, but often good."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-036.yaml",
+        "source_sha256": "bbb5355534d659bcff635c9b5ebce0a843b981b6ed0631cd0be90fdebdaedf08",
+        "field": "exercises",
+        "anchor": "EX-036-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

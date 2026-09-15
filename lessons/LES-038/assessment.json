@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-038",
+  "assessment_id": "ASM-038",
+  "rubric": {
+    "criteria": "- [ ] Do I know the difference between Checkmate and Stalemate?\n- [ ] Do I understand that Stalemate means the game is a Tie?\n- [ ] Do I know to look around the board for other pieces that can move?\n- [ ] Did we practice the \"Checkmate or Stalemate\" challenge?",
+    "source_trace": "KB-021#21#B1"
+  },
+  "task_references": [
+    "PZL-038-01",
+    "PZL-038-02",
+    "PZL-038-03",
+    "PZL-038-04"
+  ]
+}

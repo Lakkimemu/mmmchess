@@ -156,9 +156,9 @@ main { width: 95%; max-width: none; margin: 40px auto; }
   background: transparent;
   border: none;
   color: #fff;
-  font-size: 20px;
+  font-size: 24px;
   outline: none;
-  width: 300px;
+  width: 350px;
 }
 .filter-btn {
   background: transparent;
@@ -174,24 +174,25 @@ main { width: 95%; max-width: none; margin: 40px auto; }
 
 /* LIST */
 .lesson-list {
-  column-count: 2;
-  column-gap: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
 }
 @media(min-width: 1600px) {
-  .lesson-list { column-count: 3; }
+  .lesson-list { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; }
 }
 @media(max-width: 1000px) {
   .lesson-list { column-count: 1; }
 }
 .lesson-row {
   break-inside: avoid;
-  margin-bottom: 30px;
+  margin-bottom: 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
   border: 1px solid var(--line);
   border-radius: 12px;
-  padding: 24px 32px;
+  padding: 40px 48px;
   background: linear-gradient(90deg, rgba(212, 175, 55, 0.03), transparent);
   transition: background 0.2s;
 }
@@ -206,7 +207,7 @@ main { width: 95%; max-width: none; margin: 40px auto; }
 }
 .row-seq {
   font-family: 'Cinzel', serif;
-  font-size: 32px;
+  font-size: 48px;
   color: var(--gold);
 }
 .row-divider {
@@ -216,7 +217,7 @@ main { width: 95%; max-width: none; margin: 40px auto; }
 }
 .row-title {
   margin: 0;
-  font-size: 28px;
+  font-size: 40px;
   font-weight: 600;
   font-family: 'Cinzel', serif;
   color: #ffffff;
@@ -229,7 +230,7 @@ main { width: 95%; max-width: none; margin: 40px auto; }
 }
 .row-duration {
   color: var(--gold);
-  font-size: 20px;
+  font-size: 28px;
   opacity: 0.8;
 }
 .row-actions {
@@ -239,10 +240,10 @@ main { width: 95%; max-width: none; margin: 40px auto; }
 .button {
   display: inline-flex;
   align-items: center;
-  padding: 12px 24px;
+  padding: 20px 32px;
   border: 1px solid var(--gold);
-  border-radius: 8px;
-  font-size: 16px;
+  border-radius: 12px;
+  font-size: 22px;
   font-weight: 600;
   text-transform: uppercase;
   color: #ffffff;

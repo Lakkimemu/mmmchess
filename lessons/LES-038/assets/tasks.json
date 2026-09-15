@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-038",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-038-01",
+      "kb_id": "KB-021",
+      "lesson_id": "LES-038",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What is stalemate?",
+      "hint": "Trapped but safe.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Not in check, but no legal moves."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-038.yaml",
+        "source_sha256": "6bcfaa643447925e1cd86da5639c2c642bf1b356972ec282ad4c4e6de2f6225b",
+        "field": "exercises",
+        "anchor": "EX-038-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-038-02",
+      "kb_id": "KB-021",
+      "lesson_id": "LES-038",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Is stalemate a win?",
+      "hint": "Tie.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No, it is a draw (tie)."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-038.yaml",
+        "source_sha256": "6bcfaa643447925e1cd86da5639c2c642bf1b356972ec282ad4c4e6de2f6225b",
+        "field": "exercises",
+        "anchor": "EX-038-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-038-03",
+      "kb_id": "KB-021",
+      "lesson_id": "LES-038",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "If you are in check, can it be stalemate?",
+      "hint": "Must not be in check.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No, that would be checkmate."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-038.yaml",
+        "source_sha256": "6bcfaa643447925e1cd86da5639c2c642bf1b356972ec282ad4c4e6de2f6225b",
+        "field": "exercises",
+        "anchor": "EX-038-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-038-04",
+      "kb_id": "KB-021",
+      "lesson_id": "LES-038",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Can a game end in a draw if someone is winning?",
+      "hint": "Yes.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Yes, by stalemate."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-038.yaml",
+        "source_sha256": "6bcfaa643447925e1cd86da5639c2c642bf1b356972ec282ad4c4e6de2f6225b",
+        "field": "exercises",
+        "anchor": "EX-038-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

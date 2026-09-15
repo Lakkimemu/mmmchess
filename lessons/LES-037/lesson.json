@@ -1,0 +1,1266 @@
+{
+  "lesson_id": "LES-037",
+  "kb_id": "KB-020",
+  "topic_id": "TOP-020",
+  "unit_id": "UNT-001",
+  "sequence": 37,
+  "objective": "- **Topic**: Checkmate\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-019 Check",
+  "success_criteria": "- **Topic**: Checkmate\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-019 Check",
+  "source_traces": {
+    "objective": "KB-020#1#B1",
+    "success_criteria": "KB-020#1#B1"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-020#1",
+      "content": "- **Topic**: Checkmate\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-019 Check\n\n**🎯 Today's Goal:**\nYour child will understand the ultimate goal of chess: trapping the enemy King so that it is under attack and has absolutely no way to escape.\n\n**✅ Lesson Success Criteria:**\n- The child understands that Checkmate ends the game.\n- The child can check the three escapes (Run, Block, Capture) to prove a position is Checkmate.\n- The child knows that the King is never actually removed from the board.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-020#2",
+      "content": "\"Checkmate\" (often just called \"Mate\") is the way you win a game of chess. It happens when a King is in Check (under attack), and the player has zero legal moves to get out of Check. They cannot Run to a safe square, they cannot Block the attack with another piece, and they cannot Capture the attacking piece. The moment Checkmate occurs, the game is instantly over. You do not physically capture the King on the next turn."
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-020#3",
+      "content": "This is the whole point of the game! Until a child understands Checkmate, chess is just a game of capturing pieces until the board is empty. Understanding Checkmate shifts their mindset from \"eat everything\" to \"trap the King.\""
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-020#4",
+      "content": "- **Requires:** TOP-019 (Check)\n- **Unlocks:** TOP-062 (Checkmate Patterns), TOP-021 (Stalemate)"
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-020#5",
+      "content": "Checkmate is simply a Check that cannot be solved.\nIf you followed the previous lesson (TOP-019 Check), you taught the \"A.B.C.\" escapes: Avoid (Run), Block, Capture.\nTo determine if a position is Checkmate, you must ask three questions in order:\n1. Can the King run anywhere safe?\n2. Can a friendly piece block the attack?\n3. Can a friendly piece capture the attacker?\nIf the answer to ALL THREE questions is \"No,\" it is Checkmate. If the answer to even one question is \"Yes,\" the game continues."
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-020#6",
+      "content": "1. **The Trapped King:** Set up a board with the Black King on `h8`. Place a White Queen on `h7` and a White King on `g6`. Say, \"The Queen is shooting her laser at the King! The fire alarm is ringing (Check!).\"\n2. **The Checklist (Run):** \"Can the King run away?\" Have the child look at the squares around the King. The Queen is guarding all of them! No!\n3. **The Checklist (Block):** \"Is there any space between the Queen and the King to build a wall?\" No! They are right next to each other.\n4. **The Checklist (Capture):** \"Can the Black King capture the Queen?\" The King wants to! But if he steps on the Queen, the White King on `g6` is guarding her. The Black King would be stepping into the White King's force field! So, No!\n5. **The Conclusion:** \"He can't run, he can't block, he can't capture. The fire alarm won't stop! CHECKMATE! White wins!\""
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-020#7",
+      "content": "**The Burning Room:**\nWhen the King is in Check, the room is on fire! The King tries to Run out the door, but the door is locked! He tries to Block the fire with a fire blanket, but he doesn't have one! He tries to Capture the dragon blowing the fire, but the dragon is too strong! When there are no escapes left, the King has to surrender. Checkmate!"
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know? 🎓",
+      "source_trace": "KB-020#8",
+      "content": "The word \"Checkmate\" comes from a very old Persian phrase, *\"Shah Mat\"*, which translates to \"The King is helpless\" or \"The King is frozen.\" It does not mean the King is dead! Chess is a game of war, but we always treat the enemy King with respect by letting him surrender."
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-020#9",
+      "content": "![DGM-020-01: A simple Checkmate. Black King on e8. White Queen on e7, protected by a White King on e6.](../../assets/diagrams/TOP-020/DGM-020-01.svg)\n*Checkmate! The King is in check, and cannot Run, Block, or Capture.*"
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-020#10",
+      "content": "Checkmate almost always requires teamwork. A single piece (like a Queen or a Rook) can put the King in check, but they usually need a \"helper\" piece to protect them so the King cannot capture them. You cannot checkmate an opponent with just your King!"
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-020#11",
+      "content": "![DGM-020-02: A position that is NOT checkmate. Black King on e8, White Queen on e7, but a Black Knight on g8 can capture the Queen.](../../assets/diagrams/TOP-020/DGM-020-02.svg)\n*This is NOT Checkmate. The fire alarm is ringing, but the Black Knight can jump over and Capture the Queen!*"
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-020#12",
+      "content": "![DGM-020-03: The Back Rank Mate. Black King trapped behind three of his own pawns, checked by a White Rook on the back rank.](../../assets/diagrams/TOP-020/DGM-020-03.svg)\n*Sometimes the King's own pieces trap him! The pawns block the King from running away from the Rook.*"
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-020#13",
+      "content": "- **Capturing the King:** Children love to physically knock the enemy King over and take it off the board. This is technically illegal! The game ends the moment Checkmate is on the board.\n- **Calling Checkmate too early:** A child will attack the King and yell \"Checkmate!\" because the King cannot move, completely missing that the opponent has a Bishop sitting in the corner that can capture the attacker.\n\n> **🧑‍🏫 Coach Tip:**\n> When your child yells \"Checkmate!\", don't just say \"Good job.\" Say, \"Hold on! Let's do the Checklist! Prove to me that I can't Run, Block, or Capture!\""
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-020#14",
+      "content": "It is very common for beginners to play games that last 100 moves because neither child knows how to trap the King. They just aimlessly check the King, and the King runs away forever. Don't worry about teaching them *how* to build a checkmate trap right now. Just ensure they can *recognize* it when it happens.\n\n> **🧑‍🏫 Coach Tip:**\n> Celebrate Checkmate with a special handshake! Teach your child that when the game is over, we don't gloat, we shake hands and say \"Good game.\""
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-020#15",
+      "content": "**Q: What if I accidentally move my King into Checkmate?**\nA: You cannot move into Check, period. If you touch a piece and move it to a square that leaves your King in Check (or Checkmate), it is an illegal move. You must take the move back.\n\n**Q: Do I have to say 'Checkmate' out loud?**\nA: No, the game is over the moment the position appears on the board. But it is fun to say!"
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-020#16",
+      "content": "**The Checklist Inspector:**\nSet up 5 different positions on the board (use the diagrams from this lesson, or invent your own). For each position, you play the \"Confused King.\" Tell your child, \"Oh no! I'm in Check! Is this Checkmate?\" Make them physically try to Run, Block, or Capture for you. If they find an escape, they yell \"SAFE!\" If they can't, they yell \"CHECKMATE!\""
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge ⭐",
+      "source_trace": "KB-020#17",
+      "content": "**The Helper Trick:**\nSet up a board where the White Queen is directly in front of the Black King, putting him in Check. Do NOT put any other White pieces on the board. \nAsk your child: \"Is this Checkmate?\" \nIf they say yes, ask them to check the Escape List. Can the King run? No. Can he block? No. Can he capture? YES! The Queen has no helper protecting her, so the King can just eat her! This teaches them that attackers usually need a buddy."
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-020#18",
+      "content": "### 🟢 Recognition (Easy)\n![DGM-020-04: Black King on a8. White Rook on a7. White King on b6.](../../assets/diagrams/TOP-020/DGM-020-04.svg)\n**Question:** The White Rook is checking the Black King. The White King is protecting the Rook. Can the Black King run, block, or capture?\n**Answer:** No, no, and no! It is Checkmate!\n\n### 🟡 Application (Medium)\n![DGM-020-05: Black King on e8. White Queen on e7 (checking). White King on e6. Black Rook on a7.](../../assets/diagrams/TOP-020/DGM-020-05.svg)\n**Question:** White yells \"Checkmate!\" Is White correct? Look at the whole board!\n**Answer:** White is wrong! The Black King cannot move, but the Black Rook all the way over on a7 can slide across the board and CAPTURE the Queen!\n\n### 🔴 Challenge (Hard)\n![DGM-020-06: Black King on h8. White Queen on g7 (checking). White Knight on f5 protecting the Queen. Black Bishop on d4.](../../assets/diagrams/TOP-020/DGM-020-06.svg)\n**Question:** The White Queen is protected by the horse. The Black King is trapped. Look closely at the Black Bishop. Does it save the King?\n**Answer:** No! The Black Bishop is on the dark squares, but the White Queen is on a light square (g7)! The Bishop cannot capture her. It is Checkmate!"
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-020#19",
+      "content": "- **Lichess Practice:** [Checkmate](https://lichess.org/learn#/11) (Interactive checkmate puzzles)."
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-020#20",
+      "content": "- **Prerequisites:** TOP-019 Check\n- **Next Steps:** TOP-021 Stalemate, TOP-062 Checkmate Patterns"
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check ✅",
+      "source_trace": "KB-020#21",
+      "content": "- [ ] Do I understand the definition of Checkmate?\n- [ ] Do I know the \"Run, Block, Capture\" checklist?\n- [ ] Do I understand that the King is never actually captured?\n- [ ] Did we play \"The Checklist Inspector\"?\n\n---\n\n```yaml\nkb_quality:\n  reviewed: true\n  diagrams: 6\n  mini_puzzles: 3\n  external_resources: 1\n  coach_challenges: 1\n  practice_activities: 1\n  coach_tips: 2\n  parent_faq: 2\n  estimated_read_time: 20 min\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-037-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-020#1#B1",
+      "parent_prompt_trace": "KB-020#1#B1",
+      "text": "- **Topic**: Checkmate\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-019 Check\n\n**🎯 Today's Goal:**\nYour child will understand the ultimate goal of chess: trapping the enemy King so that it is under attack and has absolutely no way to escape.\n\n**✅ Lesson Success Criteria:**\n- The child understands that Checkmate ends the game.\n- The child can check the three escapes (Run, Block, Capture) to prove a position is Checkmate.\n- The child knows that the King is never actually removed from the board.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "id": "LES-037-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-020#2#B1",
+      "parent_prompt_trace": "KB-020#2#B1",
+      "text": "\"Checkmate\" (often just called \"Mate\") is the way you win a game of chess. It happens when a King is in Check (under attack), and the player has zero legal moves to get out of Check. They cannot Run to a safe square, they cannot Block the attack with another piece, and they cannot Capture the attacking piece. The moment Checkmate occurs, the game is instantly over. You do not physically capture the King on the next turn."
+    },
+    {
+      "id": "LES-037-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-020#3#B1",
+      "parent_prompt_trace": "KB-020#3#B1",
+      "text": "This is the whole point of the game! Until a child understands Checkmate, chess is just a game of capturing pieces until the board is empty. Understanding Checkmate shifts their mindset from \"eat everything\" to \"trap the King.\""
+    },
+    {
+      "id": "LES-037-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-020#4#B1",
+      "parent_prompt_trace": "KB-020#4#B1",
+      "text": "- **Requires:** TOP-019 (Check)\n- **Unlocks:** TOP-062 (Checkmate Patterns), TOP-021 (Stalemate)"
+    },
+    {
+      "id": "LES-037-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-020#5#B1",
+      "parent_prompt_trace": "KB-020#5#B1",
+      "text": "Checkmate is simply a Check that cannot be solved.\nIf you followed the previous lesson (TOP-019 Check), you taught the \"A.B.C.\" escapes: Avoid (Run), Block, Capture.\nTo determine if a position is Checkmate, you must ask three questions in order:\n1. Can the King run anywhere safe?\n2. Can a friendly piece block the attack?\n3. Can a friendly piece capture the attacker?\nIf the answer to ALL THREE questions is \"No,\" it is Checkmate. If the answer to even one question is \"Yes,\" the game continues."
+    },
+    {
+      "id": "LES-037-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-020#6#B1",
+      "parent_prompt_trace": "KB-020#6#B1",
+      "text": "1. **The Trapped King:** Set up a board with the Black King on `h8`. Place a White Queen on `h7` and a White King on `g6`. Say, \"The Queen is shooting her laser at the King! The fire alarm is ringing (Check!).\"\n2. **The Checklist (Run):** \"Can the King run away?\" Have the child look at the squares around the King. The Queen is guarding all of them! No!\n3. **The Checklist (Block):** \"Is there any space between the Queen and the King to build a wall?\" No! They are right next to each other.\n4. **The Checklist (Capture):** \"Can the Black King capture the Queen?\" The King wants to! But if he steps on the Queen, the White King on `g6` is guarding her. The Black King would be stepping into the White King's force field! So, No!\n5. **The Conclusion:** \"He can't run, he can't block, he can't capture. The fire alarm won't stop! CHECKMATE! White wins!\""
+    },
+    {
+      "id": "LES-037-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-020#7#B1",
+      "parent_prompt_trace": "KB-020#7#B1",
+      "text": "**The Burning Room:**\nWhen the King is in Check, the room is on fire! The King tries to Run out the door, but the door is locked! He tries to Block the fire with a fire blanket, but he doesn't have one! He tries to Capture the dragon blowing the fire, but the dragon is too strong! When there are no escapes left, the King has to surrender. Checkmate!"
+    },
+    {
+      "id": "LES-037-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-020#8#B1",
+      "parent_prompt_trace": "KB-020#8#B1",
+      "text": "The word \"Checkmate\" comes from a very old Persian phrase, *\"Shah Mat\"*, which translates to \"The King is helpless\" or \"The King is frozen.\" It does not mean the King is dead! Chess is a game of war, but we always treat the enemy King with respect by letting him surrender."
+    },
+    {
+      "id": "LES-037-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-020#9#B1",
+      "parent_prompt_trace": "KB-020#9#B1",
+      "text": "*Checkmate! The King is in check, and cannot Run, Block, or Capture.*",
+      "diagram_id": "DGM-020-01",
+      "diagram_url": "assets/DGM-020-01.svg",
+      "position_id": "POS-CHECKMATE-001",
+      "position_version": 1,
+      "position_title": "Basic Checkmate",
+      "diagram_alt": "Basic Checkmate"
+    },
+    {
+      "id": "LES-037-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-020#10#B1",
+      "parent_prompt_trace": "KB-020#10#B1",
+      "text": "Checkmate almost always requires teamwork. A single piece (like a Queen or a Rook) can put the King in check, but they usually need a \"helper\" piece to protect them so the King cannot capture them. You cannot checkmate an opponent with just your King!"
+    },
+    {
+      "id": "LES-037-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-020#11#B1",
+      "parent_prompt_trace": "KB-020#11#B1",
+      "text": "*This is NOT Checkmate. The fire alarm is ringing, but the Black Knight can jump over and Capture the Queen!*",
+      "diagram_id": "DGM-020-02",
+      "diagram_url": "assets/DGM-020-02.svg",
+      "position_id": "POS-CHECKMATE-002",
+      "position_version": 1,
+      "position_title": "Not checkmate (knight can capture)",
+      "diagram_alt": "Not checkmate (knight can capture)"
+    },
+    {
+      "id": "LES-037-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-020#12#B1",
+      "parent_prompt_trace": "KB-020#12#B1",
+      "text": "*Sometimes the King's own pieces trap him! The pawns block the King from running away from the Rook.*",
+      "diagram_id": "DGM-020-03",
+      "diagram_url": "assets/DGM-020-03.svg",
+      "position_id": "POS-CHECKMATE-003",
+      "position_version": 1,
+      "position_title": "Back Rank Mate",
+      "diagram_alt": "Back Rank Mate"
+    },
+    {
+      "id": "LES-037-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-020#13#B1",
+      "parent_prompt_trace": "KB-020#13#B1",
+      "text": "- **Capturing the King:** Children love to physically knock the enemy King over and take it off the board. This is technically illegal! The game ends the moment Checkmate is on the board.\n- **Calling Checkmate too early:** A child will attack the King and yell \"Checkmate!\" because the King cannot move, completely missing that the opponent has a Bishop sitting in the corner that can capture the attacker.\n\n> **🧑‍🏫 Coach Tip:**\n> When your child yells \"Checkmate!\", don't just say \"Good job.\" Say, \"Hold on! Let's do the Checklist! Prove to me that I can't Run, Block, or Capture!\""
+    },
+    {
+      "id": "LES-037-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-020#14#B1",
+      "parent_prompt_trace": "KB-020#14#B1",
+      "text": "It is very common for beginners to play games that last 100 moves because neither child knows how to trap the King. They just aimlessly check the King, and the King runs away forever. Don't worry about teaching them *how* to build a checkmate trap right now. Just ensure they can *recognize* it when it happens.\n\n> **🧑‍🏫 Coach Tip:**\n> Celebrate Checkmate with a special handshake! Teach your child that when the game is over, we don't gloat, we shake hands and say \"Good game.\""
+    },
+    {
+      "id": "LES-037-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-020#15#B1",
+      "parent_prompt_trace": "KB-020#15#B1",
+      "text": "**Q: What if I accidentally move my King into Checkmate?**\nA: You cannot move into Check, period. If you touch a piece and move it to a square that leaves your King in Check (or Checkmate), it is an illegal move. You must take the move back.\n\n**Q: Do I have to say 'Checkmate' out loud?**\nA: No, the game is over the moment the position appears on the board. But it is fun to say!"
+    },
+    {
+      "id": "LES-037-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-020#16#B1",
+      "parent_prompt_trace": "KB-020#16#B1",
+      "text": "**The Checklist Inspector:**\nSet up 5 different positions on the board (use the diagrams from this lesson, or invent your own). For each position, you play the \"Confused King.\" Tell your child, \"Oh no! I'm in Check! Is this Checkmate?\" Make them physically try to Run, Block, or Capture for you. If they find an escape, they yell \"SAFE!\" If they can't, they yell \"CHECKMATE!\""
+    },
+    {
+      "id": "LES-037-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-020#17#B1",
+      "parent_prompt_trace": "KB-020#17#B1",
+      "text": "**The Helper Trick:**\nSet up a board where the White Queen is directly in front of the Black King, putting him in Check. Do NOT put any other White pieces on the board. \nAsk your child: \"Is this Checkmate?\" \nIf they say yes, ask them to check the Escape List. Can the King run? No. Can he block? No. Can he capture? YES! The Queen has no helper protecting her, so the King can just eat her! This teaches them that attackers usually need a buddy."
+    },
+    {
+      "id": "LES-037-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-020#18#B1",
+      "parent_prompt_trace": "KB-020#18#B1",
+      "text": "### 🟢 Recognition (Easy)\n\n**Question:** The White Rook is checking the Black King. The White King is protecting the Rook. Can the Black King run, block, or capture?\n**Answer:** No, no, and no! It is Checkmate!\n\n### 🟡 Application (Medium)\n\n**Question:** White yells \"Checkmate!\" Is White correct? Look at the whole board!\n**Answer:** White is wrong! The Black King cannot move, but the Black Rook all the way over on a7 can slide across the board and CAPTURE the Queen!\n\n### 🔴 Challenge (Hard)\n\n**Question:** The White Queen is protected by the horse. The Black King is trapped. Look closely at the Black Bishop. Does it save the King?\n**Answer:** No! The Black Bishop is on the dark squares, but the White Queen is on a light square (g7)! The Bishop cannot capture her. It is Checkmate!",
+      "diagram_id": "DGM-020-06",
+      "diagram_url": "assets/DGM-020-06.svg",
+      "position_id": "POS-CHECKMATE-006",
+      "position_version": 1,
+      "position_title": "Hard Challenge",
+      "diagram_alt": "Hard Challenge"
+    },
+    {
+      "id": "LES-037-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-020#19#B1",
+      "parent_prompt_trace": "KB-020#19#B1",
+      "text": "- **Lichess Practice:** [Checkmate](https://lichess.org/learn#/11) (Interactive checkmate puzzles)."
+    },
+    {
+      "id": "LES-037-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-020#20#B1",
+      "parent_prompt_trace": "KB-020#20#B1",
+      "text": "- **Prerequisites:** TOP-019 Check\n- **Next Steps:** TOP-021 Stalemate, TOP-062 Checkmate Patterns"
+    },
+    {
+      "id": "LES-037-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-020#21#B1",
+      "parent_prompt_trace": "KB-020#21#B1",
+      "text": "- [ ] Do I understand the definition of Checkmate?\n- [ ] Do I know the \"Run, Block, Capture\" checklist?\n- [ ] Do I understand that the King is never actually captured?\n- [ ] Did we play \"The Checklist Inspector\"?"
+    }
+  ],
+  "task_references": [
+    "PZL-037-01",
+    "PZL-037-02",
+    "PZL-037-03",
+    "PZL-037-04"
+  ],
+  "diagram_references": [
+    "DGM-020-01",
+    "DGM-020-02",
+    "DGM-020-03",
+    "DGM-020-04",
+    "DGM-020-05",
+    "DGM-020-06"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-037",
+  "deferred_topics": [],
+  "teach_slides": [
+    {
+      "id": "LES-037-S01",
+      "type": "INTRO",
+      "title": "No Escape",
+      "text": "The King is trapped.",
+      "parent_prompt": "Say: What if the King cannot escape?",
+      "diagram_id": "DGM-020-01",
+      "diagram_url": "assets/DGM-020-01.svg",
+      "visual": {
+        "diagram_id": "DGM-020-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-CHECKMATE-001",
+      "position_version": 1,
+      "position_title": "Basic Checkmate",
+      "diagram_alt": "Basic Checkmate"
+    },
+    {
+      "id": "LES-037-S02",
+      "type": "DIAGRAM",
+      "title": "Checkmate!",
+      "text": "Checkmate ends the game.",
+      "parent_prompt": "Show Checkmate.",
+      "diagram_id": "DGM-020-01",
+      "diagram_url": "assets/DGM-020-01.svg",
+      "visual": {
+        "diagram_id": "DGM-020-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-CHECKMATE-001",
+      "position_version": 1,
+      "position_title": "Basic Checkmate",
+      "diagram_alt": "Basic Checkmate"
+    },
+    {
+      "id": "LES-037-S03",
+      "type": "DIAGRAM",
+      "title": "Another Checkmate",
+      "text": "Game over.",
+      "parent_prompt": "Show another Checkmate.",
+      "diagram_id": "DGM-020-02",
+      "diagram_url": "assets/DGM-020-02.svg",
+      "visual": {
+        "diagram_id": "DGM-020-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-CHECKMATE-002",
+      "position_version": 1,
+      "position_title": "Not checkmate (knight can capture)",
+      "diagram_alt": "Not checkmate (knight can capture)"
+    },
+    {
+      "id": "LES-037-S04",
+      "type": "DIAGRAM",
+      "title": "Back Rank Mate",
+      "text": "Trapped behind pawns.",
+      "parent_prompt": "Show a back rank mate.",
+      "diagram_id": "DGM-020-03",
+      "diagram_url": "assets/DGM-020-03.svg",
+      "visual": {
+        "diagram_id": "DGM-020-03",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-CHECKMATE-003",
+      "position_version": 1,
+      "position_title": "Back Rank Mate",
+      "diagram_alt": "Back Rank Mate"
+    },
+    {
+      "id": "LES-037-S05",
+      "type": "QUESTION",
+      "title": "Is it Checkmate?",
+      "text": "Can the King escape?",
+      "parent_prompt": "Ask if it is checkmate.",
+      "reveal": "Yes!",
+      "diagram_id": "DGM-020-04",
+      "diagram_url": "assets/DGM-020-04.svg",
+      "visual": {
+        "diagram_id": "DGM-020-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-CHECKMATE-004",
+      "position_version": 1,
+      "position_title": "Easy Recognition",
+      "diagram_alt": "Easy Recognition"
+    },
+    {
+      "id": "LES-037-S06",
+      "type": "QUESTION",
+      "title": "Is it Checkmate?",
+      "text": "Can the King escape?",
+      "parent_prompt": "Ask if it is checkmate.",
+      "reveal": "No, he can run.",
+      "diagram_id": "DGM-020-05",
+      "diagram_url": "assets/DGM-020-05.svg",
+      "visual": {
+        "diagram_id": "DGM-020-05",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-CHECKMATE-005",
+      "position_version": 1,
+      "position_title": "Medium Application",
+      "diagram_alt": "Medium Application"
+    },
+    {
+      "id": "LES-037-S07",
+      "type": "QUESTION",
+      "title": "Is it Checkmate?",
+      "text": "Can the King escape?",
+      "parent_prompt": "Ask if it is checkmate.",
+      "reveal": "Yes!",
+      "diagram_id": "DGM-020-06",
+      "diagram_url": "assets/DGM-020-06.svg",
+      "visual": {
+        "diagram_id": "DGM-020-06",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-CHECKMATE-006",
+      "position_version": 1,
+      "position_title": "Hard Challenge",
+      "diagram_alt": "Hard Challenge"
+    },
+    {
+      "id": "LES-037-S08",
+      "type": "ASSESSMENT",
+      "title": "Checkmate Master",
+      "text": "Find the checkmates.",
+      "parent_prompt": "Run assessment.",
+      "diagram_id": "DGM-020-06",
+      "diagram_url": "assets/DGM-020-06.svg",
+      "visual": {
+        "diagram_id": "DGM-020-06",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-CHECKMATE-006",
+      "position_version": 1,
+      "position_title": "Hard Challenge",
+      "diagram_alt": "Hard Challenge"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-037-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-020#1#B1",
+      "parent_prompt_trace": "KB-020#1#B1",
+      "text": "- **Topic**: Checkmate\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-019 Check\n\n**🎯 Today's Goal:**\nYour child will understand the ultimate goal of chess: trapping the enemy King so that it is under attack and has absolutely no way to escape.\n\n**✅ Lesson Success Criteria:**\n- The child understands that Checkmate ends the game.\n- The child can check the three escapes (Run, Block, Capture) to prove a position is Checkmate.\n- The child knows that the King is never actually removed from the board.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "id": "LES-037-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-020#2#B1",
+      "parent_prompt_trace": "KB-020#2#B1",
+      "text": "\"Checkmate\" (often just called \"Mate\") is the way you win a game of chess. It happens when a King is in Check (under attack), and the player has zero legal moves to get out of Check. They cannot Run to a safe square, they cannot Block the attack with another piece, and they cannot Capture the attacking piece. The moment Checkmate occurs, the game is instantly over. You do not physically capture the King on the next turn."
+    },
+    {
+      "id": "LES-037-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-020#3#B1",
+      "parent_prompt_trace": "KB-020#3#B1",
+      "text": "This is the whole point of the game! Until a child understands Checkmate, chess is just a game of capturing pieces until the board is empty. Understanding Checkmate shifts their mindset from \"eat everything\" to \"trap the King.\""
+    },
+    {
+      "id": "LES-037-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-020#4#B1",
+      "parent_prompt_trace": "KB-020#4#B1",
+      "text": "- **Requires:** TOP-019 (Check)\n- **Unlocks:** TOP-062 (Checkmate Patterns), TOP-021 (Stalemate)"
+    },
+    {
+      "id": "LES-037-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-020#5#B1",
+      "parent_prompt_trace": "KB-020#5#B1",
+      "text": "Checkmate is simply a Check that cannot be solved.\nIf you followed the previous lesson (TOP-019 Check), you taught the \"A.B.C.\" escapes: Avoid (Run), Block, Capture.\nTo determine if a position is Checkmate, you must ask three questions in order:\n1. Can the King run anywhere safe?\n2. Can a friendly piece block the attack?\n3. Can a friendly piece capture the attacker?\nIf the answer to ALL THREE questions is \"No,\" it is Checkmate. If the answer to even one question is \"Yes,\" the game continues."
+    },
+    {
+      "id": "LES-037-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-020#6#B1",
+      "parent_prompt_trace": "KB-020#6#B1",
+      "text": "1. **The Trapped King:** Set up a board with the Black King on `h8`. Place a White Queen on `h7` and a White King on `g6`. Say, \"The Queen is shooting her laser at the King! The fire alarm is ringing (Check!).\"\n2. **The Checklist (Run):** \"Can the King run away?\" Have the child look at the squares around the King. The Queen is guarding all of them! No!\n3. **The Checklist (Block):** \"Is there any space between the Queen and the King to build a wall?\" No! They are right next to each other.\n4. **The Checklist (Capture):** \"Can the Black King capture the Queen?\" The King wants to! But if he steps on the Queen, the White King on `g6` is guarding her. The Black King would be stepping into the White King's force field! So, No!\n5. **The Conclusion:** \"He can't run, he can't block, he can't capture. The fire alarm won't stop! CHECKMATE! White wins!\""
+    },
+    {
+      "id": "LES-037-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-020#7#B1",
+      "parent_prompt_trace": "KB-020#7#B1",
+      "text": "**The Burning Room:**\nWhen the King is in Check, the room is on fire! The King tries to Run out the door, but the door is locked! He tries to Block the fire with a fire blanket, but he doesn't have one! He tries to Capture the dragon blowing the fire, but the dragon is too strong! When there are no escapes left, the King has to surrender. Checkmate!"
+    },
+    {
+      "id": "LES-037-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-020#8#B1",
+      "parent_prompt_trace": "KB-020#8#B1",
+      "text": "The word \"Checkmate\" comes from a very old Persian phrase, *\"Shah Mat\"*, which translates to \"The King is helpless\" or \"The King is frozen.\" It does not mean the King is dead! Chess is a game of war, but we always treat the enemy King with respect by letting him surrender."
+    },
+    {
+      "id": "LES-037-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-020#9#B1",
+      "parent_prompt_trace": "KB-020#9#B1",
+      "text": "*Checkmate! The King is in check, and cannot Run, Block, or Capture.*",
+      "diagram_id": "DGM-020-01",
+      "diagram_url": "assets/DGM-020-01.svg",
+      "position_id": "POS-CHECKMATE-001",
+      "position_version": 1,
+      "position_title": "Basic Checkmate",
+      "diagram_alt": "Basic Checkmate"
+    },
+    {
+      "id": "LES-037-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-020#10#B1",
+      "parent_prompt_trace": "KB-020#10#B1",
+      "text": "Checkmate almost always requires teamwork. A single piece (like a Queen or a Rook) can put the King in check, but they usually need a \"helper\" piece to protect them so the King cannot capture them. You cannot checkmate an opponent with just your King!"
+    },
+    {
+      "id": "LES-037-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-020#11#B1",
+      "parent_prompt_trace": "KB-020#11#B1",
+      "text": "*This is NOT Checkmate. The fire alarm is ringing, but the Black Knight can jump over and Capture the Queen!*",
+      "diagram_id": "DGM-020-02",
+      "diagram_url": "assets/DGM-020-02.svg",
+      "position_id": "POS-CHECKMATE-002",
+      "position_version": 1,
+      "position_title": "Not checkmate (knight can capture)",
+      "diagram_alt": "Not checkmate (knight can capture)"
+    },
+    {
+      "id": "LES-037-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-020#12#B1",
+      "parent_prompt_trace": "KB-020#12#B1",
+      "text": "*Sometimes the King's own pieces trap him! The pawns block the King from running away from the Rook.*",
+      "diagram_id": "DGM-020-03",
+      "diagram_url": "assets/DGM-020-03.svg",
+      "position_id": "POS-CHECKMATE-003",
+      "position_version": 1,
+      "position_title": "Back Rank Mate",
+      "diagram_alt": "Back Rank Mate"
+    },
+    {
+      "id": "LES-037-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-020#13#B1",
+      "parent_prompt_trace": "KB-020#13#B1",
+      "text": "- **Capturing the King:** Children love to physically knock the enemy King over and take it off the board. This is technically illegal! The game ends the moment Checkmate is on the board.\n- **Calling Checkmate too early:** A child will attack the King and yell \"Checkmate!\" because the King cannot move, completely missing that the opponent has a Bishop sitting in the corner that can capture the attacker.\n\n> **🧑‍🏫 Coach Tip:**\n> When your child yells \"Checkmate!\", don't just say \"Good job.\" Say, \"Hold on! Let's do the Checklist! Prove to me that I can't Run, Block, or Capture!\""
+    },
+    {
+      "id": "LES-037-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-020#14#B1",
+      "parent_prompt_trace": "KB-020#14#B1",
+      "text": "It is very common for beginners to play games that last 100 moves because neither child knows how to trap the King. They just aimlessly check the King, and the King runs away forever. Don't worry about teaching them *how* to build a checkmate trap right now. Just ensure they can *recognize* it when it happens.\n\n> **🧑‍🏫 Coach Tip:**\n> Celebrate Checkmate with a special handshake! Teach your child that when the game is over, we don't gloat, we shake hands and say \"Good game.\""
+    },
+    {
+      "id": "LES-037-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-020#15#B1",
+      "parent_prompt_trace": "KB-020#15#B1",
+      "text": "**Q: What if I accidentally move my King into Checkmate?**\nA: You cannot move into Check, period. If you touch a piece and move it to a square that leaves your King in Check (or Checkmate), it is an illegal move. You must take the move back.\n\n**Q: Do I have to say 'Checkmate' out loud?**\nA: No, the game is over the moment the position appears on the board. But it is fun to say!"
+    },
+    {
+      "id": "LES-037-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-020#16#B1",
+      "parent_prompt_trace": "KB-020#16#B1",
+      "text": "**The Checklist Inspector:**\nSet up 5 different positions on the board (use the diagrams from this lesson, or invent your own). For each position, you play the \"Confused King.\" Tell your child, \"Oh no! I'm in Check! Is this Checkmate?\" Make them physically try to Run, Block, or Capture for you. If they find an escape, they yell \"SAFE!\" If they can't, they yell \"CHECKMATE!\""
+    },
+    {
+      "id": "LES-037-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-020#17#B1",
+      "parent_prompt_trace": "KB-020#17#B1",
+      "text": "**The Helper Trick:**\nSet up a board where the White Queen is directly in front of the Black King, putting him in Check. Do NOT put any other White pieces on the board. \nAsk your child: \"Is this Checkmate?\" \nIf they say yes, ask them to check the Escape List. Can the King run? No. Can he block? No. Can he capture? YES! The Queen has no helper protecting her, so the King can just eat her! This teaches them that attackers usually need a buddy."
+    },
+    {
+      "id": "LES-037-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-020#18#B1",
+      "parent_prompt_trace": "KB-020#18#B1",
+      "text": "### 🟢 Recognition (Easy)\n\n**Question:** The White Rook is checking the Black King. The White King is protecting the Rook. Can the Black King run, block, or capture?\n**Answer:** No, no, and no! It is Checkmate!\n\n### 🟡 Application (Medium)\n\n**Question:** White yells \"Checkmate!\" Is White correct? Look at the whole board!\n**Answer:** White is wrong! The Black King cannot move, but the Black Rook all the way over on a7 can slide across the board and CAPTURE the Queen!\n\n### 🔴 Challenge (Hard)\n\n**Question:** The White Queen is protected by the horse. The Black King is trapped. Look closely at the Black Bishop. Does it save the King?\n**Answer:** No! The Black Bishop is on the dark squares, but the White Queen is on a light square (g7)! The Bishop cannot capture her. It is Checkmate!",
+      "diagram_id": "DGM-020-06",
+      "diagram_url": "assets/DGM-020-06.svg",
+      "position_id": "POS-CHECKMATE-006",
+      "position_version": 1,
+      "position_title": "Hard Challenge",
+      "diagram_alt": "Hard Challenge"
+    },
+    {
+      "id": "LES-037-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-020#19#B1",
+      "parent_prompt_trace": "KB-020#19#B1",
+      "text": "- **Lichess Practice:** [Checkmate](https://lichess.org/learn#/11) (Interactive checkmate puzzles)."
+    },
+    {
+      "id": "LES-037-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-020#20#B1",
+      "parent_prompt_trace": "KB-020#20#B1",
+      "text": "- **Prerequisites:** TOP-019 Check\n- **Next Steps:** TOP-021 Stalemate, TOP-062 Checkmate Patterns"
+    },
+    {
+      "id": "LES-037-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-020#21#B1",
+      "parent_prompt_trace": "KB-020#21#B1",
+      "text": "- [ ] Do I understand the definition of Checkmate?\n- [ ] Do I know the \"Run, Block, Capture\" checklist?\n- [ ] Do I understand that the King is never actually captured?\n- [ ] Did we play \"The Checklist Inspector\"?"
+    }
+  ],
+  "title": "Checkmate",
+  "duration_minutes": 20,
+  "memory_phrase": "Checkmate ends the game!",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 20,
+    "slides": [
+      {
+        "id": "LES-037-S01",
+        "type": "INTRO",
+        "title": "No Escape",
+        "text": "The King is trapped.",
+        "parent_prompt": "Say: What if the King cannot escape?",
+        "diagram_id": "DGM-020-01",
+        "diagram_url": "assets/DGM-020-01.svg",
+        "visual": {
+          "diagram_id": "DGM-020-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-CHECKMATE-001",
+        "position_version": 1,
+        "position_title": "Basic Checkmate",
+        "diagram_alt": "Basic Checkmate"
+      },
+      {
+        "id": "LES-037-S02",
+        "type": "DIAGRAM",
+        "title": "Checkmate!",
+        "text": "Checkmate ends the game.",
+        "parent_prompt": "Show Checkmate.",
+        "diagram_id": "DGM-020-01",
+        "diagram_url": "assets/DGM-020-01.svg",
+        "visual": {
+          "diagram_id": "DGM-020-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-CHECKMATE-001",
+        "position_version": 1,
+        "position_title": "Basic Checkmate",
+        "diagram_alt": "Basic Checkmate"
+      },
+      {
+        "id": "LES-037-S03",
+        "type": "DIAGRAM",
+        "title": "Another Checkmate",
+        "text": "Game over.",
+        "parent_prompt": "Show another Checkmate.",
+        "diagram_id": "DGM-020-02",
+        "diagram_url": "assets/DGM-020-02.svg",
+        "visual": {
+          "diagram_id": "DGM-020-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-CHECKMATE-002",
+        "position_version": 1,
+        "position_title": "Not checkmate (knight can capture)",
+        "diagram_alt": "Not checkmate (knight can capture)"
+      },
+      {
+        "id": "LES-037-S04",
+        "type": "DIAGRAM",
+        "title": "Back Rank Mate",
+        "text": "Trapped behind pawns.",
+        "parent_prompt": "Show a back rank mate.",
+        "diagram_id": "DGM-020-03",
+        "diagram_url": "assets/DGM-020-03.svg",
+        "visual": {
+          "diagram_id": "DGM-020-03",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-CHECKMATE-003",
+        "position_version": 1,
+        "position_title": "Back Rank Mate",
+        "diagram_alt": "Back Rank Mate"
+      },
+      {
+        "id": "LES-037-S05",
+        "type": "QUESTION",
+        "title": "Is it Checkmate?",
+        "text": "Can the King escape?",
+        "parent_prompt": "Ask if it is checkmate.",
+        "reveal": "Yes!",
+        "diagram_id": "DGM-020-04",
+        "diagram_url": "assets/DGM-020-04.svg",
+        "visual": {
+          "diagram_id": "DGM-020-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-CHECKMATE-004",
+        "position_version": 1,
+        "position_title": "Easy Recognition",
+        "diagram_alt": "Easy Recognition"
+      },
+      {
+        "id": "LES-037-S06",
+        "type": "QUESTION",
+        "title": "Is it Checkmate?",
+        "text": "Can the King escape?",
+        "parent_prompt": "Ask if it is checkmate.",
+        "reveal": "No, he can run.",
+        "diagram_id": "DGM-020-05",
+        "diagram_url": "assets/DGM-020-05.svg",
+        "visual": {
+          "diagram_id": "DGM-020-05",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-CHECKMATE-005",
+        "position_version": 1,
+        "position_title": "Medium Application",
+        "diagram_alt": "Medium Application"
+      },
+      {
+        "id": "LES-037-S07",
+        "type": "QUESTION",
+        "title": "Is it Checkmate?",
+        "text": "Can the King escape?",
+        "parent_prompt": "Ask if it is checkmate.",
+        "reveal": "Yes!",
+        "diagram_id": "DGM-020-06",
+        "diagram_url": "assets/DGM-020-06.svg",
+        "visual": {
+          "diagram_id": "DGM-020-06",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-CHECKMATE-006",
+        "position_version": 1,
+        "position_title": "Hard Challenge",
+        "diagram_alt": "Hard Challenge"
+      },
+      {
+        "id": "LES-037-S08",
+        "type": "ASSESSMENT",
+        "title": "Checkmate Master",
+        "text": "Find the checkmates.",
+        "parent_prompt": "Run assessment.",
+        "diagram_id": "DGM-020-06",
+        "diagram_url": "assets/DGM-020-06.svg",
+        "visual": {
+          "diagram_id": "DGM-020-06",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-CHECKMATE-006",
+        "position_version": 1,
+        "position_title": "Hard Challenge",
+        "diagram_alt": "Hard Challenge"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-037-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-020#1#B1",
+        "parent_prompt_trace": "KB-020#1#B1",
+        "text": "- **Topic**: Checkmate\n- **Difficulty**: Beginner\n- **Typical age**: 6+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-019 Check\n\n**🎯 Today's Goal:**\nYour child will understand the ultimate goal of chess: trapping the enemy King so that it is under attack and has absolutely no way to escape.\n\n**✅ Lesson Success Criteria:**\n- The child understands that Checkmate ends the game.\n- The child can check the three escapes (Run, Block, Capture) to prove a position is Checkmate.\n- The child knows that the King is never actually removed from the board.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+      },
+      {
+        "id": "LES-037-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-020#2#B1",
+        "parent_prompt_trace": "KB-020#2#B1",
+        "text": "\"Checkmate\" (often just called \"Mate\") is the way you win a game of chess. It happens when a King is in Check (under attack), and the player has zero legal moves to get out of Check. They cannot Run to a safe square, they cannot Block the attack with another piece, and they cannot Capture the attacking piece. The moment Checkmate occurs, the game is instantly over. You do not physically capture the King on the next turn."
+      },
+      {
+        "id": "LES-037-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-020#3#B1",
+        "parent_prompt_trace": "KB-020#3#B1",
+        "text": "This is the whole point of the game! Until a child understands Checkmate, chess is just a game of capturing pieces until the board is empty. Understanding Checkmate shifts their mindset from \"eat everything\" to \"trap the King.\""
+      },
+      {
+        "id": "LES-037-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-020#4#B1",
+        "parent_prompt_trace": "KB-020#4#B1",
+        "text": "- **Requires:** TOP-019 (Check)\n- **Unlocks:** TOP-062 (Checkmate Patterns), TOP-021 (Stalemate)"
+      },
+      {
+        "id": "LES-037-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-020#5#B1",
+        "parent_prompt_trace": "KB-020#5#B1",
+        "text": "Checkmate is simply a Check that cannot be solved.\nIf you followed the previous lesson (TOP-019 Check), you taught the \"A.B.C.\" escapes: Avoid (Run), Block, Capture.\nTo determine if a position is Checkmate, you must ask three questions in order:\n1. Can the King run anywhere safe?\n2. Can a friendly piece block the attack?\n3. Can a friendly piece capture the attacker?\nIf the answer to ALL THREE questions is \"No,\" it is Checkmate. If the answer to even one question is \"Yes,\" the game continues."
+      },
+      {
+        "id": "LES-037-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-020#6#B1",
+        "parent_prompt_trace": "KB-020#6#B1",
+        "text": "1. **The Trapped King:** Set up a board with the Black King on `h8`. Place a White Queen on `h7` and a White King on `g6`. Say, \"The Queen is shooting her laser at the King! The fire alarm is ringing (Check!).\"\n2. **The Checklist (Run):** \"Can the King run away?\" Have the child look at the squares around the King. The Queen is guarding all of them! No!\n3. **The Checklist (Block):** \"Is there any space between the Queen and the King to build a wall?\" No! They are right next to each other.\n4. **The Checklist (Capture):** \"Can the Black King capture the Queen?\" The King wants to! But if he steps on the Queen, the White King on `g6` is guarding her. The Black King would be stepping into the White King's force field! So, No!\n5. **The Conclusion:** \"He can't run, he can't block, he can't capture. The fire alarm won't stop! CHECKMATE! White wins!\""
+      },
+      {
+        "id": "LES-037-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-020#7#B1",
+        "parent_prompt_trace": "KB-020#7#B1",
+        "text": "**The Burning Room:**\nWhen the King is in Check, the room is on fire! The King tries to Run out the door, but the door is locked! He tries to Block the fire with a fire blanket, but he doesn't have one! He tries to Capture the dragon blowing the fire, but the dragon is too strong! When there are no escapes left, the King has to surrender. Checkmate!"
+      },
+      {
+        "id": "LES-037-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know? 🎓",
+        "source_trace": "KB-020#8#B1",
+        "parent_prompt_trace": "KB-020#8#B1",
+        "text": "The word \"Checkmate\" comes from a very old Persian phrase, *\"Shah Mat\"*, which translates to \"The King is helpless\" or \"The King is frozen.\" It does not mean the King is dead! Chess is a game of war, but we always treat the enemy King with respect by letting him surrender."
+      },
+      {
+        "id": "LES-037-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-020#9#B1",
+        "parent_prompt_trace": "KB-020#9#B1",
+        "text": "*Checkmate! The King is in check, and cannot Run, Block, or Capture.*",
+        "diagram_id": "DGM-020-01",
+        "diagram_url": "assets/DGM-020-01.svg",
+        "position_id": "POS-CHECKMATE-001",
+        "position_version": 1,
+        "position_title": "Basic Checkmate",
+        "diagram_alt": "Basic Checkmate"
+      },
+      {
+        "id": "LES-037-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-020#10#B1",
+        "parent_prompt_trace": "KB-020#10#B1",
+        "text": "Checkmate almost always requires teamwork. A single piece (like a Queen or a Rook) can put the King in check, but they usually need a \"helper\" piece to protect them so the King cannot capture them. You cannot checkmate an opponent with just your King!"
+      },
+      {
+        "id": "LES-037-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-020#11#B1",
+        "parent_prompt_trace": "KB-020#11#B1",
+        "text": "*This is NOT Checkmate. The fire alarm is ringing, but the Black Knight can jump over and Capture the Queen!*",
+        "diagram_id": "DGM-020-02",
+        "diagram_url": "assets/DGM-020-02.svg",
+        "position_id": "POS-CHECKMATE-002",
+        "position_version": 1,
+        "position_title": "Not checkmate (knight can capture)",
+        "diagram_alt": "Not checkmate (knight can capture)"
+      },
+      {
+        "id": "LES-037-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-020#12#B1",
+        "parent_prompt_trace": "KB-020#12#B1",
+        "text": "*Sometimes the King's own pieces trap him! The pawns block the King from running away from the Rook.*",
+        "diagram_id": "DGM-020-03",
+        "diagram_url": "assets/DGM-020-03.svg",
+        "position_id": "POS-CHECKMATE-003",
+        "position_version": 1,
+        "position_title": "Back Rank Mate",
+        "diagram_alt": "Back Rank Mate"
+      },
+      {
+        "id": "LES-037-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-020#13#B1",
+        "parent_prompt_trace": "KB-020#13#B1",
+        "text": "- **Capturing the King:** Children love to physically knock the enemy King over and take it off the board. This is technically illegal! The game ends the moment Checkmate is on the board.\n- **Calling Checkmate too early:** A child will attack the King and yell \"Checkmate!\" because the King cannot move, completely missing that the opponent has a Bishop sitting in the corner that can capture the attacker.\n\n> **🧑‍🏫 Coach Tip:**\n> When your child yells \"Checkmate!\", don't just say \"Good job.\" Say, \"Hold on! Let's do the Checklist! Prove to me that I can't Run, Block, or Capture!\""
+      },
+      {
+        "id": "LES-037-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-020#14#B1",
+        "parent_prompt_trace": "KB-020#14#B1",
+        "text": "It is very common for beginners to play games that last 100 moves because neither child knows how to trap the King. They just aimlessly check the King, and the King runs away forever. Don't worry about teaching them *how* to build a checkmate trap right now. Just ensure they can *recognize* it when it happens.\n\n> **🧑‍🏫 Coach Tip:**\n> Celebrate Checkmate with a special handshake! Teach your child that when the game is over, we don't gloat, we shake hands and say \"Good game.\""
+      },
+      {
+        "id": "LES-037-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-020#15#B1",
+        "parent_prompt_trace": "KB-020#15#B1",
+        "text": "**Q: What if I accidentally move my King into Checkmate?**\nA: You cannot move into Check, period. If you touch a piece and move it to a square that leaves your King in Check (or Checkmate), it is an illegal move. You must take the move back.\n\n**Q: Do I have to say 'Checkmate' out loud?**\nA: No, the game is over the moment the position appears on the board. But it is fun to say!"
+      },
+      {
+        "id": "LES-037-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-020#16#B1",
+        "parent_prompt_trace": "KB-020#16#B1",
+        "text": "**The Checklist Inspector:**\nSet up 5 different positions on the board (use the diagrams from this lesson, or invent your own). For each position, you play the \"Confused King.\" Tell your child, \"Oh no! I'm in Check! Is this Checkmate?\" Make them physically try to Run, Block, or Capture for you. If they find an escape, they yell \"SAFE!\" If they can't, they yell \"CHECKMATE!\""
+      },
+      {
+        "id": "LES-037-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge ⭐",
+        "source_trace": "KB-020#17#B1",
+        "parent_prompt_trace": "KB-020#17#B1",
+        "text": "**The Helper Trick:**\nSet up a board where the White Queen is directly in front of the Black King, putting him in Check. Do NOT put any other White pieces on the board. \nAsk your child: \"Is this Checkmate?\" \nIf they say yes, ask them to check the Escape List. Can the King run? No. Can he block? No. Can he capture? YES! The Queen has no helper protecting her, so the King can just eat her! This teaches them that attackers usually need a buddy."
+      },
+      {
+        "id": "LES-037-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-020#18#B1",
+        "parent_prompt_trace": "KB-020#18#B1",
+        "text": "### 🟢 Recognition (Easy)\n\n**Question:** The White Rook is checking the Black King. The White King is protecting the Rook. Can the Black King run, block, or capture?\n**Answer:** No, no, and no! It is Checkmate!\n\n### 🟡 Application (Medium)\n\n**Question:** White yells \"Checkmate!\" Is White correct? Look at the whole board!\n**Answer:** White is wrong! The Black King cannot move, but the Black Rook all the way over on a7 can slide across the board and CAPTURE the Queen!\n\n### 🔴 Challenge (Hard)\n\n**Question:** The White Queen is protected by the horse. The Black King is trapped. Look closely at the Black Bishop. Does it save the King?\n**Answer:** No! The Black Bishop is on the dark squares, but the White Queen is on a light square (g7)! The Bishop cannot capture her. It is Checkmate!",
+        "diagram_id": "DGM-020-06",
+        "diagram_url": "assets/DGM-020-06.svg",
+        "position_id": "POS-CHECKMATE-006",
+        "position_version": 1,
+        "position_title": "Hard Challenge",
+        "diagram_alt": "Hard Challenge"
+      },
+      {
+        "id": "LES-037-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-020#19#B1",
+        "parent_prompt_trace": "KB-020#19#B1",
+        "text": "- **Lichess Practice:** [Checkmate](https://lichess.org/learn#/11) (Interactive checkmate puzzles)."
+      },
+      {
+        "id": "LES-037-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-020#20#B1",
+        "parent_prompt_trace": "KB-020#20#B1",
+        "text": "- **Prerequisites:** TOP-019 Check\n- **Next Steps:** TOP-021 Stalemate, TOP-062 Checkmate Patterns"
+      },
+      {
+        "id": "LES-037-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check ✅",
+        "source_trace": "KB-020#21#B1",
+        "parent_prompt_trace": "KB-020#21#B1",
+        "text": "- [ ] Do I understand the definition of Checkmate?\n- [ ] Do I know the \"Run, Block, Capture\" checklist?\n- [ ] Do I understand that the King is never actually captured?\n- [ ] Did we play \"The Checklist Inspector\"?"
+      }
+    ]
+  }
+}

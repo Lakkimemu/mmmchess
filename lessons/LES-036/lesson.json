@@ -1,0 +1,1138 @@
+{
+  "lesson_id": "LES-036",
+  "kb_id": "KB-115",
+  "topic_id": "TOP-115",
+  "unit_id": "UNT-001",
+  "sequence": 36,
+  "objective": "- **Today's goal:** Your child can find every legal response class when the king is checked.\n- **Prerequisites:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Success:** Your child explains the answer and demonstrates it on a physical board.",
+  "success_criteria": "- **Today's goal:** Your child can find every legal response class when the king is checked.\n- **Prerequisites:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Success:** Your child explains the answer and demonstrates it on a physical board.",
+  "source_traces": {
+    "objective": "KB-115#1#B1",
+    "success_criteria": "KB-115#1#B1"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-115#1",
+      "content": "- **Today's goal:** Your child can find every legal response class when the king is checked.\n- **Prerequisites:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-115#2",
+      "content": "When a king is in check, the player must make a legal move that removes the attack. A response succeeds only when the resulting position leaves the king safe."
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-115#3",
+      "content": "Children often panic and move the king immediately. A calm search for captures, blocks, and king moves finds more legal choices and builds tournament independence."
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-115#4",
+      "content": "- **Requires:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Unlocks:** TOP-020 Checkmate.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-115#5",
+      "content": "There are three response classes: move the king to safety, capture the checker, or interpose against a sliding check. Not every class is available every time. Knight, pawn, and adjacent checks cannot be blocked. In double check, only a king move can remove both attacks at once.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-115#6",
+      "content": "1. Identify the checking piece or pieces.\n2. Look for a legal capture of the checker.\n3. If it is a distant sliding check, inspect blocking squares.\n4. List safe king moves.\n5. Play each candidate and confirm the king is no longer attacked.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-115#7",
+      "content": "Treat check like a fire alarm. Stay calm and use C-B-M: Capture, Block, Move. The alarm stops only when the king is truly safe."
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know?",
+      "source_trace": "KB-115#8",
+      "content": "The three labels are response classes, not three guaranteed choices. Some positions offer several legal answers and others offer only one."
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-115#9",
+      "content": "**Future reviewed visual requirement:** A rook giving a distant check with one legal king move, one legal block, and one legal capture clearly separated.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication."
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-115#10",
+      "content": "Every response must change the resulting attack on the king. Moving changes the king's square; capturing removes a checker; blocking interrupts a sliding ray. Recompute the whole position because a response can uncover another attack."
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-115#11",
+      "content": "**Future reviewed visual requirement:** A knight check showing that no blocking square exists.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram."
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-115#12",
+      "content": "In a tournament, the child should pause, identify the checker, and search systematically rather than touching the king immediately. This routine reduces panic and illegal responses."
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-115#13",
+      "content": "- Moving the king before checking captures or blocks.\n- Trying to block a knight or adjacent check.\n- Capturing the checker but revealing another attack.\n- Making an unrelated threat while still checked.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-115#14",
+      "content": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-115#15",
+      "content": "**Must the king always move?**  \nNo. A legal capture or block may work.\n\n**Can a knight check be blocked?**  \nNo.\n\n**What if no response works?**  \nThat is checkmate, which is taught separately."
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-115#16",
+      "content": "Play Fire Alarm. Create one simple check at a time. Your child names the checker, says C-B-M, and finds every legal response before moving a piece.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge",
+      "source_trace": "KB-115#17",
+      "content": "Create a position with more than one legal response. Ask the child to find the complete answer set and prove the king is safe after each move.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-115#18",
+      "content": "### Recognition\n**Question:** Name the checking piece.  \n**Answer:** The actual attacker is identified.\n\n### Application\n**Question:** Can this sliding check be blocked?  \n**Answer:** Only if an intervening square exists.\n\n### Challenge\n**Question:** Find all legal responses in a simple check position.  \n**Answer:** Every and only legal response is included."
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-115#19",
+      "content": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-115#20",
+      "content": "- **Prerequisites:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Unlocks:** TOP-020 Checkmate.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#ESCAPING_CHECK`."
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check",
+      "source_trace": "KB-115#21",
+      "content": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts.\n\n---\n\n```yaml\nkb_quality:\n  reviewed: false\n  canonical_sections: 21\n  diagrams_required: 2\n  mini_puzzles: 3\n  coach_challenges: 1\n  practice_activities: 1\n  parent_faq: 3\n  evidence_source: BOARD-LEGAL-PLAY-01\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-036-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-115#1#B1",
+      "parent_prompt_trace": "KB-115#1#B1",
+      "text": "- **Today's goal:** Your child can find every legal response class when the king is checked.\n- **Prerequisites:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "id": "LES-036-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-115#2#B1",
+      "parent_prompt_trace": "KB-115#2#B1",
+      "text": "When a king is in check, the player must make a legal move that removes the attack. A response succeeds only when the resulting position leaves the king safe."
+    },
+    {
+      "id": "LES-036-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-115#3#B1",
+      "parent_prompt_trace": "KB-115#3#B1",
+      "text": "Children often panic and move the king immediately. A calm search for captures, blocks, and king moves finds more legal choices and builds tournament independence."
+    },
+    {
+      "id": "LES-036-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-115#4#B1",
+      "parent_prompt_trace": "KB-115#4#B1",
+      "text": "- **Requires:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Unlocks:** TOP-020 Checkmate.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "id": "LES-036-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-115#5#B1",
+      "parent_prompt_trace": "KB-115#5#B1",
+      "text": "There are three response classes: move the king to safety, capture the checker, or interpose against a sliding check. Not every class is available every time. Knight, pawn, and adjacent checks cannot be blocked. In double check, only a king move can remove both attacks at once.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "id": "LES-036-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-115#6#B1",
+      "parent_prompt_trace": "KB-115#6#B1",
+      "text": "1. Identify the checking piece or pieces.\n2. Look for a legal capture of the checker.\n3. If it is a distant sliding check, inspect blocking squares.\n4. List safe king moves.\n5. Play each candidate and confirm the king is no longer attacked.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "id": "LES-036-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-115#7#B1",
+      "parent_prompt_trace": "KB-115#7#B1",
+      "text": "Treat check like a fire alarm. Stay calm and use C-B-M: Capture, Block, Move. The alarm stops only when the king is truly safe."
+    },
+    {
+      "id": "LES-036-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know?",
+      "source_trace": "KB-115#8#B1",
+      "parent_prompt_trace": "KB-115#8#B1",
+      "text": "The three labels are response classes, not three guaranteed choices. Some positions offer several legal answers and others offer only one."
+    },
+    {
+      "id": "LES-036-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-115#9#B1",
+      "parent_prompt_trace": "KB-115#9#B1",
+      "text": "**Future reviewed visual requirement:** A rook giving a distant check with one legal king move, one legal block, and one legal capture clearly separated.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+      "diagram_id": "DGM-115-01",
+      "diagram_url": "assets/DGM-115-01.svg",
+      "position_id": "POS-ESCAPING-CHECK-001",
+      "position_version": 1,
+      "position_title": "Three Escapes",
+      "diagram_alt": "Three Escapes"
+    },
+    {
+      "id": "LES-036-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-115#10#B1",
+      "parent_prompt_trace": "KB-115#10#B1",
+      "text": "Every response must change the resulting attack on the king. Moving changes the king's square; capturing removes a checker; blocking interrupts a sliding ray. Recompute the whole position because a response can uncover another attack."
+    },
+    {
+      "id": "LES-036-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-115#11#B1",
+      "parent_prompt_trace": "KB-115#11#B1",
+      "text": "**Future reviewed visual requirement:** A knight check showing that no blocking square exists.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+      "diagram_id": "DGM-115-02",
+      "diagram_url": "assets/DGM-115-02.svg",
+      "position_id": "POS-ESCAPING-CHECK-002",
+      "position_version": 1,
+      "position_title": "Knight Check",
+      "diagram_alt": "Knight Check"
+    },
+    {
+      "id": "LES-036-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-115#12#B1",
+      "parent_prompt_trace": "KB-115#12#B1",
+      "text": "In a tournament, the child should pause, identify the checker, and search systematically rather than touching the king immediately. This routine reduces panic and illegal responses."
+    },
+    {
+      "id": "LES-036-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-115#13#B1",
+      "parent_prompt_trace": "KB-115#13#B1",
+      "text": "- Moving the king before checking captures or blocks.\n- Trying to block a knight or adjacent check.\n- Capturing the checker but revealing another attack.\n- Making an unrelated threat while still checked.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "id": "LES-036-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-115#14#B1",
+      "parent_prompt_trace": "KB-115#14#B1",
+      "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "id": "LES-036-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-115#15#B1",
+      "parent_prompt_trace": "KB-115#15#B1",
+      "text": "**Must the king always move?**  \nNo. A legal capture or block may work.\n\n**Can a knight check be blocked?**  \nNo.\n\n**What if no response works?**  \nThat is checkmate, which is taught separately."
+    },
+    {
+      "id": "LES-036-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-115#16#B1",
+      "parent_prompt_trace": "KB-115#16#B1",
+      "text": "Play Fire Alarm. Create one simple check at a time. Your child names the checker, says C-B-M, and finds every legal response before moving a piece.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "id": "LES-036-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge",
+      "source_trace": "KB-115#17#B1",
+      "parent_prompt_trace": "KB-115#17#B1",
+      "text": "Create a position with more than one legal response. Ask the child to find the complete answer set and prove the king is safe after each move.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "id": "LES-036-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-115#18#B1",
+      "parent_prompt_trace": "KB-115#18#B1",
+      "text": "### Recognition\n**Question:** Name the checking piece.  \n**Answer:** The actual attacker is identified.\n\n### Application\n**Question:** Can this sliding check be blocked?  \n**Answer:** Only if an intervening square exists.\n\n### Challenge\n**Question:** Find all legal responses in a simple check position.  \n**Answer:** Every and only legal response is included."
+    },
+    {
+      "id": "LES-036-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-115#19#B1",
+      "parent_prompt_trace": "KB-115#19#B1",
+      "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "id": "LES-036-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-115#20#B1",
+      "parent_prompt_trace": "KB-115#20#B1",
+      "text": "- **Prerequisites:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Unlocks:** TOP-020 Checkmate.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#ESCAPING_CHECK`."
+    },
+    {
+      "id": "LES-036-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check",
+      "source_trace": "KB-115#21#B1",
+      "parent_prompt_trace": "KB-115#21#B1",
+      "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+    }
+  ],
+  "task_references": [
+    "PZL-036-01",
+    "PZL-036-02",
+    "PZL-036-03",
+    "PZL-036-04"
+  ],
+  "diagram_references": [
+    "DGM-115-01",
+    "DGM-115-02"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-036",
+  "deferred_topics": [],
+  "teach_slides": [
+    {
+      "id": "LES-036-S01",
+      "type": "INTRO",
+      "title": "Escaping Check",
+      "text": "Run, Block, or Capture.",
+      "parent_prompt": "Say: We must escape check!",
+      "diagram_id": "DGM-115-01",
+      "diagram_url": "assets/DGM-115-01.svg",
+      "visual": {
+        "diagram_id": "DGM-115-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ESCAPING-CHECK-001",
+      "position_version": 1,
+      "position_title": "Three Escapes",
+      "diagram_alt": "Three Escapes"
+    },
+    {
+      "id": "LES-036-S02",
+      "type": "DIAGRAM",
+      "title": "Run Away",
+      "text": "Move the King to a safe square.",
+      "parent_prompt": "Show how the King can run away.",
+      "diagram_id": "DGM-115-01",
+      "diagram_url": "assets/DGM-115-01.svg",
+      "visual": {
+        "diagram_id": "DGM-115-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ESCAPING-CHECK-001",
+      "position_version": 1,
+      "position_title": "Three Escapes",
+      "diagram_alt": "Three Escapes"
+    },
+    {
+      "id": "LES-036-S03",
+      "type": "DIAGRAM",
+      "title": "Block",
+      "text": "Put a piece in the way.",
+      "parent_prompt": "Show how to block.",
+      "diagram_id": "DGM-115-02",
+      "diagram_url": "assets/DGM-115-02.svg",
+      "visual": {
+        "diagram_id": "DGM-115-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ESCAPING-CHECK-002",
+      "position_version": 1,
+      "position_title": "Knight Check",
+      "diagram_alt": "Knight Check"
+    },
+    {
+      "id": "LES-036-S04",
+      "type": "PHYSICAL_ACTIVITY",
+      "title": "Escape Drill",
+      "text": "Escape the check as fast as possible.",
+      "parent_prompt": "Play the escape game.",
+      "visual": {
+        "sticker": "detective",
+        "layout": "TEXT_ONLY",
+        "sticker_url": "assets/detective.svg",
+        "sticker_alt": "Chess detective searching for setup clues"
+      }
+    },
+    {
+      "id": "LES-036-S05",
+      "type": "QUESTION",
+      "title": "Which Escape?",
+      "text": "Which escape is best here?",
+      "parent_prompt": "Ask which escape is best.",
+      "diagram_id": "DGM-115-02",
+      "diagram_url": "assets/DGM-115-02.svg",
+      "visual": {
+        "diagram_id": "DGM-115-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ESCAPING-CHECK-002",
+      "position_version": 1,
+      "position_title": "Knight Check",
+      "diagram_alt": "Knight Check"
+    },
+    {
+      "id": "LES-036-S06",
+      "type": "ASSESSMENT",
+      "title": "Escape Challenge",
+      "text": "Demonstrate the escapes.",
+      "parent_prompt": "Run the assessment.",
+      "diagram_id": "DGM-115-02",
+      "diagram_url": "assets/DGM-115-02.svg",
+      "visual": {
+        "diagram_id": "DGM-115-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-ESCAPING-CHECK-002",
+      "position_version": 1,
+      "position_title": "Knight Check",
+      "diagram_alt": "Knight Check"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-036-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-115#1#B1",
+      "parent_prompt_trace": "KB-115#1#B1",
+      "text": "- **Today's goal:** Your child can find every legal response class when the king is checked.\n- **Prerequisites:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+    },
+    {
+      "id": "LES-036-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-115#2#B1",
+      "parent_prompt_trace": "KB-115#2#B1",
+      "text": "When a king is in check, the player must make a legal move that removes the attack. A response succeeds only when the resulting position leaves the king safe."
+    },
+    {
+      "id": "LES-036-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-115#3#B1",
+      "parent_prompt_trace": "KB-115#3#B1",
+      "text": "Children often panic and move the king immediately. A calm search for captures, blocks, and king moves finds more legal choices and builds tournament independence."
+    },
+    {
+      "id": "LES-036-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-115#4#B1",
+      "parent_prompt_trace": "KB-115#4#B1",
+      "text": "- **Requires:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Unlocks:** TOP-020 Checkmate.\n- Start with an uncluttered physical board and add complexity gradually."
+    },
+    {
+      "id": "LES-036-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-115#5#B1",
+      "parent_prompt_trace": "KB-115#5#B1",
+      "text": "There are three response classes: move the king to safety, capture the checker, or interpose against a sliding check. Not every class is available every time. Knight, pawn, and adjacent checks cannot be blocked. In double check, only a king move can remove both attacks at once.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+    },
+    {
+      "id": "LES-036-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-115#6#B1",
+      "parent_prompt_trace": "KB-115#6#B1",
+      "text": "1. Identify the checking piece or pieces.\n2. Look for a legal capture of the checker.\n3. If it is a distant sliding check, inspect blocking squares.\n4. List safe king moves.\n5. Play each candidate and confirm the king is no longer attacked.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+    },
+    {
+      "id": "LES-036-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-115#7#B1",
+      "parent_prompt_trace": "KB-115#7#B1",
+      "text": "Treat check like a fire alarm. Stay calm and use C-B-M: Capture, Block, Move. The alarm stops only when the king is truly safe."
+    },
+    {
+      "id": "LES-036-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know?",
+      "source_trace": "KB-115#8#B1",
+      "parent_prompt_trace": "KB-115#8#B1",
+      "text": "The three labels are response classes, not three guaranteed choices. Some positions offer several legal answers and others offer only one."
+    },
+    {
+      "id": "LES-036-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-115#9#B1",
+      "parent_prompt_trace": "KB-115#9#B1",
+      "text": "**Future reviewed visual requirement:** A rook giving a distant check with one legal king move, one legal block, and one legal capture clearly separated.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+      "diagram_id": "DGM-115-01",
+      "diagram_url": "assets/DGM-115-01.svg",
+      "position_id": "POS-ESCAPING-CHECK-001",
+      "position_version": 1,
+      "position_title": "Three Escapes",
+      "diagram_alt": "Three Escapes"
+    },
+    {
+      "id": "LES-036-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-115#10#B1",
+      "parent_prompt_trace": "KB-115#10#B1",
+      "text": "Every response must change the resulting attack on the king. Moving changes the king's square; capturing removes a checker; blocking interrupts a sliding ray. Recompute the whole position because a response can uncover another attack."
+    },
+    {
+      "id": "LES-036-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-115#11#B1",
+      "parent_prompt_trace": "KB-115#11#B1",
+      "text": "**Future reviewed visual requirement:** A knight check showing that no blocking square exists.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+      "diagram_id": "DGM-115-02",
+      "diagram_url": "assets/DGM-115-02.svg",
+      "position_id": "POS-ESCAPING-CHECK-002",
+      "position_version": 1,
+      "position_title": "Knight Check",
+      "diagram_alt": "Knight Check"
+    },
+    {
+      "id": "LES-036-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-115#12#B1",
+      "parent_prompt_trace": "KB-115#12#B1",
+      "text": "In a tournament, the child should pause, identify the checker, and search systematically rather than touching the king immediately. This routine reduces panic and illegal responses."
+    },
+    {
+      "id": "LES-036-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-115#13#B1",
+      "parent_prompt_trace": "KB-115#13#B1",
+      "text": "- Moving the king before checking captures or blocks.\n- Trying to block a knight or adjacent check.\n- Capturing the checker but revealing another attack.\n- Making an unrelated threat while still checked.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+    },
+    {
+      "id": "LES-036-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-115#14#B1",
+      "parent_prompt_trace": "KB-115#14#B1",
+      "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+    },
+    {
+      "id": "LES-036-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-115#15#B1",
+      "parent_prompt_trace": "KB-115#15#B1",
+      "text": "**Must the king always move?**  \nNo. A legal capture or block may work.\n\n**Can a knight check be blocked?**  \nNo.\n\n**What if no response works?**  \nThat is checkmate, which is taught separately."
+    },
+    {
+      "id": "LES-036-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-115#16#B1",
+      "parent_prompt_trace": "KB-115#16#B1",
+      "text": "Play Fire Alarm. Create one simple check at a time. Your child names the checker, says C-B-M, and finds every legal response before moving a piece.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+    },
+    {
+      "id": "LES-036-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge",
+      "source_trace": "KB-115#17#B1",
+      "parent_prompt_trace": "KB-115#17#B1",
+      "text": "Create a position with more than one legal response. Ask the child to find the complete answer set and prove the king is safe after each move.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+    },
+    {
+      "id": "LES-036-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-115#18#B1",
+      "parent_prompt_trace": "KB-115#18#B1",
+      "text": "### Recognition\n**Question:** Name the checking piece.  \n**Answer:** The actual attacker is identified.\n\n### Application\n**Question:** Can this sliding check be blocked?  \n**Answer:** Only if an intervening square exists.\n\n### Challenge\n**Question:** Find all legal responses in a simple check position.  \n**Answer:** Every and only legal response is included."
+    },
+    {
+      "id": "LES-036-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-115#19#B1",
+      "parent_prompt_trace": "KB-115#19#B1",
+      "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+    },
+    {
+      "id": "LES-036-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-115#20#B1",
+      "parent_prompt_trace": "KB-115#20#B1",
+      "text": "- **Prerequisites:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Unlocks:** TOP-020 Checkmate.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#ESCAPING_CHECK`."
+    },
+    {
+      "id": "LES-036-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check",
+      "source_trace": "KB-115#21#B1",
+      "parent_prompt_trace": "KB-115#21#B1",
+      "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+    }
+  ],
+  "title": "Escaping Check",
+  "duration_minutes": 20,
+  "memory_phrase": "Run, Block, or Capture!",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 20,
+    "slides": [
+      {
+        "id": "LES-036-S01",
+        "type": "INTRO",
+        "title": "Escaping Check",
+        "text": "Run, Block, or Capture.",
+        "parent_prompt": "Say: We must escape check!",
+        "diagram_id": "DGM-115-01",
+        "diagram_url": "assets/DGM-115-01.svg",
+        "visual": {
+          "diagram_id": "DGM-115-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ESCAPING-CHECK-001",
+        "position_version": 1,
+        "position_title": "Three Escapes",
+        "diagram_alt": "Three Escapes"
+      },
+      {
+        "id": "LES-036-S02",
+        "type": "DIAGRAM",
+        "title": "Run Away",
+        "text": "Move the King to a safe square.",
+        "parent_prompt": "Show how the King can run away.",
+        "diagram_id": "DGM-115-01",
+        "diagram_url": "assets/DGM-115-01.svg",
+        "visual": {
+          "diagram_id": "DGM-115-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ESCAPING-CHECK-001",
+        "position_version": 1,
+        "position_title": "Three Escapes",
+        "diagram_alt": "Three Escapes"
+      },
+      {
+        "id": "LES-036-S03",
+        "type": "DIAGRAM",
+        "title": "Block",
+        "text": "Put a piece in the way.",
+        "parent_prompt": "Show how to block.",
+        "diagram_id": "DGM-115-02",
+        "diagram_url": "assets/DGM-115-02.svg",
+        "visual": {
+          "diagram_id": "DGM-115-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ESCAPING-CHECK-002",
+        "position_version": 1,
+        "position_title": "Knight Check",
+        "diagram_alt": "Knight Check"
+      },
+      {
+        "id": "LES-036-S04",
+        "type": "PHYSICAL_ACTIVITY",
+        "title": "Escape Drill",
+        "text": "Escape the check as fast as possible.",
+        "parent_prompt": "Play the escape game.",
+        "visual": {
+          "sticker": "detective",
+          "layout": "TEXT_ONLY",
+          "sticker_url": "assets/detective.svg",
+          "sticker_alt": "Chess detective searching for setup clues"
+        }
+      },
+      {
+        "id": "LES-036-S05",
+        "type": "QUESTION",
+        "title": "Which Escape?",
+        "text": "Which escape is best here?",
+        "parent_prompt": "Ask which escape is best.",
+        "diagram_id": "DGM-115-02",
+        "diagram_url": "assets/DGM-115-02.svg",
+        "visual": {
+          "diagram_id": "DGM-115-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ESCAPING-CHECK-002",
+        "position_version": 1,
+        "position_title": "Knight Check",
+        "diagram_alt": "Knight Check"
+      },
+      {
+        "id": "LES-036-S06",
+        "type": "ASSESSMENT",
+        "title": "Escape Challenge",
+        "text": "Demonstrate the escapes.",
+        "parent_prompt": "Run the assessment.",
+        "diagram_id": "DGM-115-02",
+        "diagram_url": "assets/DGM-115-02.svg",
+        "visual": {
+          "diagram_id": "DGM-115-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-ESCAPING-CHECK-002",
+        "position_version": 1,
+        "position_title": "Knight Check",
+        "diagram_alt": "Knight Check"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-036-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-115#1#B1",
+        "parent_prompt_trace": "KB-115#1#B1",
+        "text": "- **Today's goal:** Your child can find every legal response class when the king is checked.\n- **Prerequisites:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Success:** Your child explains the answer and demonstrates it on a physical board."
+      },
+      {
+        "id": "LES-036-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-115#2#B1",
+        "parent_prompt_trace": "KB-115#2#B1",
+        "text": "When a king is in check, the player must make a legal move that removes the attack. A response succeeds only when the resulting position leaves the king safe."
+      },
+      {
+        "id": "LES-036-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-115#3#B1",
+        "parent_prompt_trace": "KB-115#3#B1",
+        "text": "Children often panic and move the king immediately. A calm search for captures, blocks, and king moves finds more legal choices and builds tournament independence."
+      },
+      {
+        "id": "LES-036-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-115#4#B1",
+        "parent_prompt_trace": "KB-115#4#B1",
+        "text": "- **Requires:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Unlocks:** TOP-020 Checkmate.\n- Start with an uncluttered physical board and add complexity gradually."
+      },
+      {
+        "id": "LES-036-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-115#5#B1",
+        "parent_prompt_trace": "KB-115#5#B1",
+        "text": "There are three response classes: move the king to safety, capture the checker, or interpose against a sliding check. Not every class is available every time. Knight, pawn, and adjacent checks cannot be blocked. In double check, only a king move can remove both attacks at once.\n\nThe parent should understand the full rule. The child initially needs only the observable routine in this KB. Later concepts remain outside today's lesson."
+      },
+      {
+        "id": "LES-036-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-115#6#B1",
+        "parent_prompt_trace": "KB-115#6#B1",
+        "text": "1. Identify the checking piece or pieces.\n2. Look for a legal capture of the checker.\n3. If it is a distant sliding check, inspect blocking squares.\n4. List safe king moves.\n5. Play each candidate and confirm the king is no longer attacked.\n\nKeep each attempt short. Ask your child to point and explain before moving a piece."
+      },
+      {
+        "id": "LES-036-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-115#7#B1",
+        "parent_prompt_trace": "KB-115#7#B1",
+        "text": "Treat check like a fire alarm. Stay calm and use C-B-M: Capture, Block, Move. The alarm stops only when the king is truly safe."
+      },
+      {
+        "id": "LES-036-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know?",
+        "source_trace": "KB-115#8#B1",
+        "parent_prompt_trace": "KB-115#8#B1",
+        "text": "The three labels are response classes, not three guaranteed choices. Some positions offer several legal answers and others offer only one."
+      },
+      {
+        "id": "LES-036-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-115#9#B1",
+        "parent_prompt_trace": "KB-115#9#B1",
+        "text": "**Future reviewed visual requirement:** A rook giving a distant check with one legal king move, one legal block, and one legal capture clearly separated.\n\nThis is a semantic requirement only. A candidate position must be engine-checked and human-approved before publication.",
+        "diagram_id": "DGM-115-01",
+        "diagram_url": "assets/DGM-115-01.svg",
+        "position_id": "POS-ESCAPING-CHECK-001",
+        "position_version": 1,
+        "position_title": "Three Escapes",
+        "diagram_alt": "Three Escapes"
+      },
+      {
+        "id": "LES-036-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-115#10#B1",
+        "parent_prompt_trace": "KB-115#10#B1",
+        "text": "Every response must change the resulting attack on the king. Moving changes the king's square; capturing removes a checker; blocking interrupts a sliding ray. Recompute the whole position because a response can uncover another attack."
+      },
+      {
+        "id": "LES-036-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-115#11#B1",
+        "parent_prompt_trace": "KB-115#11#B1",
+        "text": "**Future reviewed visual requirement:** A knight check showing that no blocking square exists.\n\nThe displayed state, side to move, annotations, and answer must be derived from the approved position rather than a legacy diagram.",
+        "diagram_id": "DGM-115-02",
+        "diagram_url": "assets/DGM-115-02.svg",
+        "position_id": "POS-ESCAPING-CHECK-002",
+        "position_version": 1,
+        "position_title": "Knight Check",
+        "diagram_alt": "Knight Check"
+      },
+      {
+        "id": "LES-036-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-115#12#B1",
+        "parent_prompt_trace": "KB-115#12#B1",
+        "text": "In a tournament, the child should pause, identify the checker, and search systematically rather than touching the king immediately. This routine reduces panic and illegal responses."
+      },
+      {
+        "id": "LES-036-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-115#13#B1",
+        "parent_prompt_trace": "KB-115#13#B1",
+        "text": "- Moving the king before checking captures or blocks.\n- Trying to block a knight or adjacent check.\n- Capturing the checker but revealing another attack.\n- Making an unrelated threat while still checked.\n\nTreat each mistake as useful information. Reset the position and let your child explain the corrected decision."
+      },
+      {
+        "id": "LES-036-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-115#14#B1",
+        "parent_prompt_trace": "KB-115#14#B1",
+        "text": "Accuracy comes before speed. Children aged five to seven may need one-piece positions and pointing responses. Children aged eight to ten can explain the rule using coordinates and mixed positions. Revisit the idea briefly across several sessions."
+      },
+      {
+        "id": "LES-036-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-115#15#B1",
+        "parent_prompt_trace": "KB-115#15#B1",
+        "text": "**Must the king always move?**  \nNo. A legal capture or block may work.\n\n**Can a knight check be blocked?**  \nNo.\n\n**What if no response works?**  \nThat is checkmate, which is taught separately."
+      },
+      {
+        "id": "LES-036-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-115#16#B1",
+        "parent_prompt_trace": "KB-115#16#B1",
+        "text": "Play Fire Alarm. Create one simple check at a time. Your child names the checker, says C-B-M, and finds every legal response before moving a piece.\n\nStop while the child is still engaged. A few accurate rounds are more useful than a long, tiring drill."
+      },
+      {
+        "id": "LES-036-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge",
+        "source_trace": "KB-115#17#B1",
+        "parent_prompt_trace": "KB-115#17#B1",
+        "text": "Create a position with more than one legal response. Ask the child to find the complete answer set and prove the king is safe after each move.\n\nAsk, \"How do you know?\" The explanation is part of mastery."
+      },
+      {
+        "id": "LES-036-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-115#18#B1",
+        "parent_prompt_trace": "KB-115#18#B1",
+        "text": "### Recognition\n**Question:** Name the checking piece.  \n**Answer:** The actual attacker is identified.\n\n### Application\n**Question:** Can this sliding check be blocked?  \n**Answer:** Only if an intervening square exists.\n\n### Challenge\n**Question:** Find all legal responses in a simple check position.  \n**Answer:** Every and only legal response is included."
+      },
+      {
+        "id": "LES-036-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-115#19#B1",
+        "parent_prompt_trace": "KB-115#19#B1",
+        "text": "Repeat the core skill on new boards after a short delay. Begin with single-theme retrieval, then mix it with already-taught concepts. PCA core instruction must stand alone; external practice is optional reinforcement."
+      },
+      {
+        "id": "LES-036-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-115#20#B1",
+        "parent_prompt_trace": "KB-115#20#B1",
+        "text": "- **Prerequisites:** TOP-019 Check, TOP-110, TOP-111, TOP-113, and TOP-114.\n- **Unlocks:** TOP-020 Checkmate.\n- **Evidence boundary:** `BOARD-LEGAL-PLAY-01#ESCAPING_CHECK`."
+      },
+      {
+        "id": "LES-036-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check",
+        "source_trace": "KB-115#21#B1",
+        "parent_prompt_trace": "KB-115#21#B1",
+        "text": "- [ ] I can explain the rule without relying on chess jargon.\n- [ ] I can demonstrate it on a physical board.\n- [ ] My child can answer the recognition and application tasks.\n- [ ] My child can explain why an incorrect answer fails.\n- [ ] We stopped before introducing the excluded later concepts."
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+schema_version: 1
+diagram_id: DGM-020-06
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-CHECKMATE-006
+position_version: 1
+position_type: LEGAL_FEN
+display_state: PRESENTED
+displayed_state: 7k/6Q1/8/5N2/3b4/8/K7/8 b - - 0 1
+position_sha256: 04c4066388f2c531e5f991f32bce94dcff79b1e71a43a00dcd9507e073b93a04
+presentation_sha256: 1712dd8a0423ef16716e928283cf31553dbff4a793fb40f57bbdf8cb1a992bbc
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-020#18#B3
+review_status: APPROVED
+reviewed_artifact_sha256: e7e161f2a862efce1d3e74f372271490ed69347beae8d8c2572dcc0ee9952db4
+output_svg_sha256: e7e161f2a862efce1d3e74f372271490ed69347beae8d8c2572dcc0ee9952db4

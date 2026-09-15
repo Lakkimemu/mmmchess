@@ -1,0 +1,18 @@
+schema_version: 1
+diagram_id: DGM-115-01
+renderer: python-chess.svg.board
+renderer_version: 1.11.2
+position_id: POS-ESCAPING-CHECK-001
+position_version: 1
+position_type: LEGAL_FEN
+display_state: PRESENTED
+displayed_state: 4b3/8/4n3/8/R3k3/8/8/7K b - - 0 1
+position_sha256: 98e7fe6c916700e28a94038a213f7d250bf4ebd96e721455348b99b23958f80e
+presentation_sha256: b047dcbc8d5df416492e0c0df83ca398c036f6a2a9452532c43c2bbe11249d3e
+presentation_theme: PCA_GREEN_IVORY_V1
+claims_validated:
+- PIECE_COUNT_AT_MOST
+source_trace: KB-115#9#B1
+review_status: APPROVED
+reviewed_artifact_sha256: 2261d685d0c612ead708013bd8ac73cc6fbd7ce76b6ab3fd54b15d15bc4a579e
+output_svg_sha256: 2261d685d0c612ead708013bd8ac73cc6fbd7ce76b6ab3fd54b15d15bc4a579e

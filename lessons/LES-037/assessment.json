@@ -1,0 +1,14 @@
+{
+  "lesson_id": "LES-037",
+  "assessment_id": "ASM-037",
+  "rubric": {
+    "criteria": "- [ ] Do I understand the definition of Checkmate?\n- [ ] Do I know the \"Run, Block, Capture\" checklist?\n- [ ] Do I understand that the King is never actually captured?\n- [ ] Did we play \"The Checklist Inspector\"?",
+    "source_trace": "KB-020#21#B1"
+  },
+  "task_references": [
+    "PZL-037-01",
+    "PZL-037-02",
+    "PZL-037-03",
+    "PZL-037-04"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "lesson_id": "LES-037",
+  "tasks": [
+    {
+      "schema_version": 1,
+      "task_id": "PZL-037-01",
+      "kb_id": "KB-020",
+      "lesson_id": "LES-037",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "What is checkmate?",
+      "hint": "No run, block, or capture.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Check with no escape."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-037.yaml",
+        "source_sha256": "d16952affe3c6029f1eca97058fd339fe3563097a0010bd74692bc9ef564eda5",
+        "field": "exercises",
+        "anchor": "EX-037-01"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-037-02",
+      "kb_id": "KB-020",
+      "lesson_id": "LES-037",
+      "task_type": "CHOOSE_OPTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Does checkmate end the game?",
+      "hint": "Game over.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "Yes."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-037.yaml",
+        "source_sha256": "d16952affe3c6029f1eca97058fd339fe3563097a0010bd74692bc9ef564eda5",
+        "field": "exercises",
+        "anchor": "EX-037-02"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-037-03",
+      "kb_id": "KB-020",
+      "lesson_id": "LES-037",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "If you can capture the attacker, is it checkmate?",
+      "hint": "You have an escape.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "No."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-037.yaml",
+        "source_sha256": "d16952affe3c6029f1eca97058fd339fe3563097a0010bd74692bc9ef564eda5",
+        "field": "exercises",
+        "anchor": "EX-037-03"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    },
+    {
+      "schema_version": 1,
+      "task_id": "PZL-037-04",
+      "kb_id": "KB-020",
+      "lesson_id": "LES-037",
+      "task_type": "PHYSICAL_BOARD_ACTION",
+      "source_type": "PCA_CURRICULUM",
+      "prompt": "Who wins in a checkmate?",
+      "hint": "The attacker.",
+      "answer": {
+        "kind": "TEXT_RUBRIC",
+        "text": "The player giving checkmate."
+      },
+      "difficulty": "FOUNDATION",
+      "source_trace": {
+        "source_path": "curriculum/lessons/LES-037.yaml",
+        "source_sha256": "d16952affe3c6029f1eca97058fd339fe3563097a0010bd74692bc9ef564eda5",
+        "field": "exercises",
+        "anchor": "EX-037-04"
+      },
+      "validation": {
+        "status": "VALID",
+        "validator_version": 1
+      }
+    }
+  ]
+}

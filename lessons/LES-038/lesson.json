@@ -1,0 +1,1266 @@
+{
+  "lesson_id": "LES-038",
+  "kb_id": "KB-021",
+  "topic_id": "TOP-021",
+  "unit_id": "UNT-001",
+  "sequence": 38,
+  "objective": "- **Topic**: Stalemate\n- **Difficulty**: Advanced\n- **Typical age**: 7+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-020 Checkmate",
+  "success_criteria": "- **Topic**: Stalemate\n- **Difficulty**: Advanced\n- **Typical age**: 7+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-020 Checkmate",
+  "source_traces": {
+    "objective": "KB-021#1#B1",
+    "success_criteria": "KB-021#1#B1"
+  },
+  "prerequisites": [],
+  "readiness_checks": [],
+  "parent_notes": [],
+  "parent_reference": [
+    {
+      "ordinal": 1,
+      "section_id": "AT_A_GLANCE",
+      "heading": "1. At a Glance",
+      "source_trace": "KB-021#1",
+      "content": "- **Topic**: Stalemate\n- **Difficulty**: Advanced\n- **Typical age**: 7+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-020 Checkmate\n\n**🎯 Today's Goal:**\nYour child will learn that if a player's King is completely safe (not in Check) but they have absolutely no legal moves left to play, the game is a Tie!\n\n**✅ Lesson Success Criteria:**\n- The child can visually distinguish between Checkmate (fire alarm) and Stalemate (no fire alarm).\n- The child understands that Stalemate means the game is a Draw (nobody wins).\n- The child checks for other movable pieces (like pawns) before calling Stalemate.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "ordinal": 2,
+      "section_id": "DEFINITION",
+      "heading": "2. Definition",
+      "source_trace": "KB-021#2",
+      "content": "Stalemate is a special rule that ends the game in a Draw (a Tie). It occurs when it is a player's turn to move, their King is **NOT in Check**, but they do not have a single legal move they can make anywhere on the board. Because you cannot skip your turn in chess, and you cannot make an illegal move (like stepping into danger), the game becomes \"frozen.\" Neither player wins, no matter how many extra pieces one player has!"
+    },
+    {
+      "ordinal": 3,
+      "section_id": "WHY_IT_MATTERS",
+      "heading": "3. Why It Matters",
+      "source_trace": "KB-021#3",
+      "content": "Stalemate is the ultimate \"get out of jail free\" card in chess. If your child is losing badly and has only a King left, they can try to trick their opponent into accidentally Stalemating them to steal a tie! Conversely, when your child is winning with a huge army, they must be extremely careful not to accidentally freeze the enemy King and throw away their win."
+    },
+    {
+      "ordinal": 4,
+      "section_id": "BEFORE_YOU_TEACH",
+      "heading": "4. Before You Teach (Graph)",
+      "source_trace": "KB-021#4",
+      "content": "- **Requires:** TOP-020 (Checkmate)\n- **Unlocks:** TOP-025 (Draws)"
+    },
+    {
+      "ordinal": 5,
+      "section_id": "PARENT_UNDERSTANDS",
+      "heading": "5. Parent Understands",
+      "source_trace": "KB-021#5",
+      "content": "This rule feels deeply unfair to children (and adults!) when they first learn it. If you have 2 Queens and 3 Rooks, and your opponent just has a lonely King, how can it be a tie? \nThe logic is strict: \n1. It is Black's turn. \n2. Black MUST make a legal move. \n3. Any square the Black King steps to is guarded by White's pieces (stepping there would be illegal suicide).\n4. Since Black has no other pieces, Black cannot move.\n5. But White forgot to say \"Check!\" The King is currently safe where he stands. \nSince the game cannot proceed, it is a Stalemate."
+    },
+    {
+      "ordinal": 6,
+      "section_id": "HOW_TO_TEACH_IT",
+      "heading": "6. How to Teach It",
+      "source_trace": "KB-021#6",
+      "content": "1. **The Safe King:** Set up a board with the Black King on `a8` (the corner). Place a White Queen on `c7` (a Knight's jump away from the King). \n2. **The Question:** Ask your child, \"Is the Queen pointing her laser at the King right now? Is the fire alarm ringing?\" (Have them trace the straight lines and diagonals. No! The Queen misses the King).\n3. **The Trap:** Say, \"Okay, it is Black's turn. Where can the Black King move?\" Have them touch `a7`, `b7`, and `b8`. Show that the White Queen's lasers are covering ALL of those squares. \n4. **The Frozen Kingdom:** \"The King wants to take a walk, but everywhere he steps is covered in hot lava! He can't step in lava. But he's perfectly safe where he is right now. He is frozen! This is a STALEMATE!\"\n5. **The Result:** Explain that when the kingdom freezes, nobody wins. It's a Tie!"
+    },
+    {
+      "ordinal": 7,
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "heading": "7. Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-021#7",
+      "content": "**The Floor is Lava:** \nImagine the King is standing on a safe rock. The fire alarm is NOT ringing! But when he looks around to take a step, he sees that the floor everywhere else has turned into hot lava! He can't step in the lava, because that's illegal. Since he can't move, and he's not on fire, he just sits on his rock forever. The game is frozen. Tie game!"
+    },
+    {
+      "ordinal": 8,
+      "section_id": "DID_YOU_KNOW",
+      "heading": "8. Did You Know? 🎓",
+      "source_trace": "KB-021#8",
+      "content": "In older versions of chess played hundreds of years ago, Stalemate was considered a win for the player who had the trapped King! They believed that if you trapped your opponent but forgot to attack them, you made a foolish mistake and deserved to lose. Today, we settled on it being a Tie."
+    },
+    {
+      "ordinal": 9,
+      "section_id": "BOARD_DIAGRAM_1",
+      "heading": "9. Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-021#9",
+      "content": "![DGM-021-01: Black King on h8. White Queen on f7. The White Queen is NOT checking the King, but covers g8, g7, and h7.](../../assets/diagrams/TOP-021/DGM-021-01.svg)\n*Stalemate! The King is not in Check, but every escape square is covered in \"lava.\"*"
+    },
+    {
+      "ordinal": 10,
+      "section_id": "HOW_IT_WORKS",
+      "heading": "10. How It Works",
+      "source_trace": "KB-021#10",
+      "content": "The most important word in Stalemate is **ANYWHERE**. To be a Stalemate, the player must have absolutely no legal moves *anywhere on the board*. If their King is trapped, but they have a pawn on the other side of the board that can move forward one square, it is NOT a Stalemate! They must move the pawn!"
+    },
+    {
+      "ordinal": 11,
+      "section_id": "BOARD_DIAGRAM_2",
+      "heading": "11. Board Diagram 2 — Practical Example",
+      "source_trace": "KB-021#11",
+      "content": "![DGM-021-02: Same position (Black King h8, White Queen f7). But Black has a Pawn on a2.](../../assets/diagrams/TOP-021/DGM-021-02.svg)\n*NOT Stalemate! The King is trapped, but Black can still move their pawn on a2. The game continues!*"
+    },
+    {
+      "ordinal": 12,
+      "section_id": "REAL_GAME_EXAMPLE",
+      "heading": "12. Real Game Example",
+      "source_trace": "KB-021#12",
+      "content": "![DGM-021-03: The Greedy Mistake. White has a King and Queen and Rook. Black has just a King. White moves the Queen too close and stalemates Black.](../../assets/diagrams/TOP-021/DGM-021-03.svg)\n*White got too greedy trying to trap the King and forgot to make sure the King was in Check! The game ends in a disappointing Tie.*"
+    },
+    {
+      "ordinal": 13,
+      "section_id": "COMMON_MISTAKES",
+      "heading": "13. Common Mistakes",
+      "source_trace": "KB-021#13",
+      "content": "- **Confusing Checkmate and Stalemate:** This happens constantly. The difference is entirely based on whether the King is currently under attack (Check).\n- **Forgetting about pawns:** A child will claim Stalemate because their King is trapped, completely ignoring that they have three pawns that are perfectly capable of moving.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child thinks it is a Stalemate, say: \"Okay, let's do the two tests! Test 1: Is the fire alarm ringing? Test 2: Can ANY of your pieces move?\""
+    },
+    {
+      "ordinal": 14,
+      "section_id": "TEACHING_NOTES",
+      "heading": "14. Teaching Notes",
+      "source_trace": "KB-021#14",
+      "content": "Stalemate usually happens when a beginner is winning by 20 points, gets too excited, and pushes all their Queens and Rooks right up into the enemy King's face without actually attacking him. Teach your child that when the enemy has very few pieces left, they must be EXTREMELY careful with every move.\n\n> **🧑‍🏫 Coach Tip:**\n> Teach them the \"Check Rule for Beginners.\" When you have a massive advantage (like a Queen vs a lone King), make sure that almost every move you play is a CHECK. If you are always checking the King, you can never accidentally Stalemate him!"
+    },
+    {
+      "ordinal": 15,
+      "section_id": "PARENT_FAQ",
+      "heading": "15. Parent FAQ",
+      "source_trace": "KB-021#15",
+      "content": "**Q: My child was winning with a Queen, and Stalemated me. They are crying because it's unfair. What do I do?**\nA: Welcome to chess! Every grandmaster in the world has accidentally stalemated someone and felt that exact pain. Comfort them, but hold firm to the rule. Next time, they will be much more careful. It's a great lesson in focus.\n\n**Q: Are there other ways to tie?**\nA: Yes! If neither player has enough pieces to force a checkmate (like just two Kings left on the board), it is automatically a draw."
+    },
+    {
+      "ordinal": 16,
+      "section_id": "PRACTICE_TOGETHER",
+      "heading": "16. Practice Together",
+      "source_trace": "KB-021#16",
+      "content": "**The Jail Warden:**\nTake an empty board. You place the Black King in the middle of the board. Give your child two White Rooks, two White Knights, and the White King. Their goal is to set up a position where they have successfully Stalemated the Black King in the middle of the board (no checks allowed, but all squares around the King covered!). It is harder than it looks!"
+    },
+    {
+      "ordinal": 17,
+      "section_id": "COACH_CHALLENGE",
+      "heading": "17. Coach Challenge ⭐",
+      "source_trace": "KB-021#17",
+      "content": "**Checkmate or Stalemate?**\nSet up three positions rapidly for your child. \nPosition 1: True Checkmate (King attacked, can't move).\nPosition 2: True Stalemate (King safe, can't move).\nPosition 3: Fake Stalemate (King safe, can't move, but a pawn can move).\nFor each one, yell: \"What is it?!\" This rapid-fire drill trains their eyes to instantly recognize the difference."
+    },
+    {
+      "ordinal": 18,
+      "section_id": "TRY_IT_YOURSELF",
+      "heading": "18. Try It Yourself",
+      "source_trace": "KB-021#18",
+      "content": "### 🟢 Recognition (Easy)\n![DGM-021-04: Black King on a8. White Queen on b6. (No checks, King trapped).](../../assets/diagrams/TOP-021/DGM-021-04.svg)\n**Question:** Look at the Black King. Is he in Check right now? Can he move anywhere safely?\n**Answer:** He is not in Check! But he cannot move to a7, b7, or b8 because the Queen is watching. It is a Stalemate!\n\n### 🟡 Application (Medium)\n![DGM-021-05: Black King on a8. White Queen on a7. White King on b6.](../../assets/diagrams/TOP-021/DGM-021-05.svg)\n**Question:** Is this a Stalemate?\n**Answer:** No! The White Queen is pointing her laser right at the Black King (a7 to a8). The King is in Check! Since he is in Check and trapped, this is a Checkmate!\n\n### 🔴 Challenge (Hard)\n![DGM-021-06: Black King on h8. White Queen on g6. White King on f7. Black has a pawn on h7, blocked by a White Pawn on h6.](../../assets/diagrams/TOP-021/DGM-021-06.svg)\n**Question:** The Black King is safe, but cannot move. Black has a pawn on h7. Can the pawn move? Is it a Stalemate?\n**Answer:** The pawn on h7 is blocked by the White pawn! Since the King can't move, and the pawn can't move, Black has NO legal moves. It is a Stalemate!"
+    },
+    {
+      "ordinal": 19,
+      "section_id": "CONTINUE_LEARNING",
+      "heading": "19. Continue Learning",
+      "source_trace": "KB-021#19",
+      "content": "- **Lichess Practice:** [Stalemate](https://lichess.org/learn#/12) (Interactive stalemate avoidance puzzles)."
+    },
+    {
+      "ordinal": 20,
+      "section_id": "RELATED_TOPICS",
+      "heading": "20. Related Topics",
+      "source_trace": "KB-021#20",
+      "content": "- **Prerequisites:** TOP-020 Checkmate\n- **Next Steps:** TOP-025 Draws"
+    },
+    {
+      "ordinal": 21,
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "heading": "21. Parent Confidence Check ✅",
+      "source_trace": "KB-021#21",
+      "content": "- [ ] Do I know the difference between Checkmate and Stalemate?\n- [ ] Do I understand that Stalemate means the game is a Tie?\n- [ ] Do I know to look around the board for other pieces that can move?\n- [ ] Did we practice the \"Checkmate or Stalemate\" challenge?\n\n---\n\n```yaml\nkb_quality:\n  reviewed: true\n  diagrams: 6\n  mini_puzzles: 3\n  external_resources: 1\n  coach_challenges: 1\n  practice_activities: 1\n  coach_tips: 2\n  parent_faq: 2\n  estimated_read_time: 20 min\n```"
+    }
+  ],
+  "slides": [
+    {
+      "id": "LES-038-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-021#1#B1",
+      "parent_prompt_trace": "KB-021#1#B1",
+      "text": "- **Topic**: Stalemate\n- **Difficulty**: Advanced\n- **Typical age**: 7+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-020 Checkmate\n\n**🎯 Today's Goal:**\nYour child will learn that if a player's King is completely safe (not in Check) but they have absolutely no legal moves left to play, the game is a Tie!\n\n**✅ Lesson Success Criteria:**\n- The child can visually distinguish between Checkmate (fire alarm) and Stalemate (no fire alarm).\n- The child understands that Stalemate means the game is a Draw (nobody wins).\n- The child checks for other movable pieces (like pawns) before calling Stalemate.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "id": "LES-038-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-021#2#B1",
+      "parent_prompt_trace": "KB-021#2#B1",
+      "text": "Stalemate is a special rule that ends the game in a Draw (a Tie). It occurs when it is a player's turn to move, their King is **NOT in Check**, but they do not have a single legal move they can make anywhere on the board. Because you cannot skip your turn in chess, and you cannot make an illegal move (like stepping into danger), the game becomes \"frozen.\" Neither player wins, no matter how many extra pieces one player has!"
+    },
+    {
+      "id": "LES-038-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-021#3#B1",
+      "parent_prompt_trace": "KB-021#3#B1",
+      "text": "Stalemate is the ultimate \"get out of jail free\" card in chess. If your child is losing badly and has only a King left, they can try to trick their opponent into accidentally Stalemating them to steal a tie! Conversely, when your child is winning with a huge army, they must be extremely careful not to accidentally freeze the enemy King and throw away their win."
+    },
+    {
+      "id": "LES-038-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-021#4#B1",
+      "parent_prompt_trace": "KB-021#4#B1",
+      "text": "- **Requires:** TOP-020 (Checkmate)\n- **Unlocks:** TOP-025 (Draws)"
+    },
+    {
+      "id": "LES-038-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-021#5#B1",
+      "parent_prompt_trace": "KB-021#5#B1",
+      "text": "This rule feels deeply unfair to children (and adults!) when they first learn it. If you have 2 Queens and 3 Rooks, and your opponent just has a lonely King, how can it be a tie? \nThe logic is strict: \n1. It is Black's turn. \n2. Black MUST make a legal move. \n3. Any square the Black King steps to is guarded by White's pieces (stepping there would be illegal suicide).\n4. Since Black has no other pieces, Black cannot move.\n5. But White forgot to say \"Check!\" The King is currently safe where he stands. \nSince the game cannot proceed, it is a Stalemate."
+    },
+    {
+      "id": "LES-038-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-021#6#B1",
+      "parent_prompt_trace": "KB-021#6#B1",
+      "text": "1. **The Safe King:** Set up a board with the Black King on `a8` (the corner). Place a White Queen on `c7` (a Knight's jump away from the King). \n2. **The Question:** Ask your child, \"Is the Queen pointing her laser at the King right now? Is the fire alarm ringing?\" (Have them trace the straight lines and diagonals. No! The Queen misses the King).\n3. **The Trap:** Say, \"Okay, it is Black's turn. Where can the Black King move?\" Have them touch `a7`, `b7`, and `b8`. Show that the White Queen's lasers are covering ALL of those squares. \n4. **The Frozen Kingdom:** \"The King wants to take a walk, but everywhere he steps is covered in hot lava! He can't step in lava. But he's perfectly safe where he is right now. He is frozen! This is a STALEMATE!\"\n5. **The Result:** Explain that when the kingdom freezes, nobody wins. It's a Tie!"
+    },
+    {
+      "id": "LES-038-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-021#7#B1",
+      "parent_prompt_trace": "KB-021#7#B1",
+      "text": "**The Floor is Lava:** \nImagine the King is standing on a safe rock. The fire alarm is NOT ringing! But when he looks around to take a step, he sees that the floor everywhere else has turned into hot lava! He can't step in the lava, because that's illegal. Since he can't move, and he's not on fire, he just sits on his rock forever. The game is frozen. Tie game!"
+    },
+    {
+      "id": "LES-038-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-021#8#B1",
+      "parent_prompt_trace": "KB-021#8#B1",
+      "text": "In older versions of chess played hundreds of years ago, Stalemate was considered a win for the player who had the trapped King! They believed that if you trapped your opponent but forgot to attack them, you made a foolish mistake and deserved to lose. Today, we settled on it being a Tie."
+    },
+    {
+      "id": "LES-038-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-021#9#B1",
+      "parent_prompt_trace": "KB-021#9#B1",
+      "text": "*Stalemate! The King is not in Check, but every escape square is covered in \"lava.\"*",
+      "diagram_id": "DGM-021-01",
+      "diagram_url": "assets/DGM-021-01.svg",
+      "position_id": "POS-STALEMATE-001",
+      "position_version": 1,
+      "position_title": "Basic Stalemate",
+      "diagram_alt": "Basic Stalemate"
+    },
+    {
+      "id": "LES-038-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-021#10#B1",
+      "parent_prompt_trace": "KB-021#10#B1",
+      "text": "The most important word in Stalemate is **ANYWHERE**. To be a Stalemate, the player must have absolutely no legal moves *anywhere on the board*. If their King is trapped, but they have a pawn on the other side of the board that can move forward one square, it is NOT a Stalemate! They must move the pawn!"
+    },
+    {
+      "id": "LES-038-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-021#11#B1",
+      "parent_prompt_trace": "KB-021#11#B1",
+      "text": "*NOT Stalemate! The King is trapped, but Black can still move their pawn on a2. The game continues!*",
+      "diagram_id": "DGM-021-02",
+      "diagram_url": "assets/DGM-021-02.svg",
+      "position_id": "POS-STALEMATE-002",
+      "position_version": 1,
+      "position_title": "Not Stalemate (Pawn can move)",
+      "diagram_alt": "Not Stalemate (Pawn can move)"
+    },
+    {
+      "id": "LES-038-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-021#12#B1",
+      "parent_prompt_trace": "KB-021#12#B1",
+      "text": "*White got too greedy trying to trap the King and forgot to make sure the King was in Check! The game ends in a disappointing Tie.*",
+      "diagram_id": "DGM-021-03",
+      "diagram_url": "assets/DGM-021-03.svg",
+      "position_id": "POS-STALEMATE-003",
+      "position_version": 1,
+      "position_title": "Greedy mistake",
+      "diagram_alt": "Greedy mistake"
+    },
+    {
+      "id": "LES-038-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-021#13#B1",
+      "parent_prompt_trace": "KB-021#13#B1",
+      "text": "- **Confusing Checkmate and Stalemate:** This happens constantly. The difference is entirely based on whether the King is currently under attack (Check).\n- **Forgetting about pawns:** A child will claim Stalemate because their King is trapped, completely ignoring that they have three pawns that are perfectly capable of moving.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child thinks it is a Stalemate, say: \"Okay, let's do the two tests! Test 1: Is the fire alarm ringing? Test 2: Can ANY of your pieces move?\""
+    },
+    {
+      "id": "LES-038-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-021#14#B1",
+      "parent_prompt_trace": "KB-021#14#B1",
+      "text": "Stalemate usually happens when a beginner is winning by 20 points, gets too excited, and pushes all their Queens and Rooks right up into the enemy King's face without actually attacking him. Teach your child that when the enemy has very few pieces left, they must be EXTREMELY careful with every move.\n\n> **🧑‍🏫 Coach Tip:**\n> Teach them the \"Check Rule for Beginners.\" When you have a massive advantage (like a Queen vs a lone King), make sure that almost every move you play is a CHECK. If you are always checking the King, you can never accidentally Stalemate him!"
+    },
+    {
+      "id": "LES-038-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-021#15#B1",
+      "parent_prompt_trace": "KB-021#15#B1",
+      "text": "**Q: My child was winning with a Queen, and Stalemated me. They are crying because it's unfair. What do I do?**\nA: Welcome to chess! Every grandmaster in the world has accidentally stalemated someone and felt that exact pain. Comfort them, but hold firm to the rule. Next time, they will be much more careful. It's a great lesson in focus.\n\n**Q: Are there other ways to tie?**\nA: Yes! If neither player has enough pieces to force a checkmate (like just two Kings left on the board), it is automatically a draw."
+    },
+    {
+      "id": "LES-038-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-021#16#B1",
+      "parent_prompt_trace": "KB-021#16#B1",
+      "text": "**The Jail Warden:**\nTake an empty board. You place the Black King in the middle of the board. Give your child two White Rooks, two White Knights, and the White King. Their goal is to set up a position where they have successfully Stalemated the Black King in the middle of the board (no checks allowed, but all squares around the King covered!). It is harder than it looks!"
+    },
+    {
+      "id": "LES-038-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-021#17#B1",
+      "parent_prompt_trace": "KB-021#17#B1",
+      "text": "**Checkmate or Stalemate?**\nSet up three positions rapidly for your child. \nPosition 1: True Checkmate (King attacked, can't move).\nPosition 2: True Stalemate (King safe, can't move).\nPosition 3: Fake Stalemate (King safe, can't move, but a pawn can move).\nFor each one, yell: \"What is it?!\" This rapid-fire drill trains their eyes to instantly recognize the difference."
+    },
+    {
+      "id": "LES-038-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-021#18#B1",
+      "parent_prompt_trace": "KB-021#18#B1",
+      "text": "### 🟢 Recognition (Easy)\n\n**Question:** Look at the Black King. Is he in Check right now? Can he move anywhere safely?\n**Answer:** He is not in Check! But he cannot move to a7, b7, or b8 because the Queen is watching. It is a Stalemate!\n\n### 🟡 Application (Medium)\n\n**Question:** Is this a Stalemate?\n**Answer:** No! The White Queen is pointing her laser right at the Black King (a7 to a8). The King is in Check! Since he is in Check and trapped, this is a Checkmate!\n\n### 🔴 Challenge (Hard)\n\n**Question:** The Black King is safe, but cannot move. Black has a pawn on h7. Can the pawn move? Is it a Stalemate?\n**Answer:** The pawn on h7 is blocked by the White pawn! Since the King can't move, and the pawn can't move, Black has NO legal moves. It is a Stalemate!",
+      "diagram_id": "DGM-021-06",
+      "diagram_url": "assets/DGM-021-06.svg",
+      "position_id": "POS-STALEMATE-006",
+      "position_version": 1,
+      "position_title": "Challenge Hard",
+      "diagram_alt": "Challenge Hard"
+    },
+    {
+      "id": "LES-038-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-021#19#B1",
+      "parent_prompt_trace": "KB-021#19#B1",
+      "text": "- **Lichess Practice:** [Stalemate](https://lichess.org/learn#/12) (Interactive stalemate avoidance puzzles)."
+    },
+    {
+      "id": "LES-038-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-021#20#B1",
+      "parent_prompt_trace": "KB-021#20#B1",
+      "text": "- **Prerequisites:** TOP-020 Checkmate\n- **Next Steps:** TOP-025 Draws"
+    },
+    {
+      "id": "LES-038-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-021#21#B1",
+      "parent_prompt_trace": "KB-021#21#B1",
+      "text": "- [ ] Do I know the difference between Checkmate and Stalemate?\n- [ ] Do I understand that Stalemate means the game is a Tie?\n- [ ] Do I know to look around the board for other pieces that can move?\n- [ ] Did we practice the \"Checkmate or Stalemate\" challenge?"
+    }
+  ],
+  "task_references": [
+    "PZL-038-01",
+    "PZL-038-02",
+    "PZL-038-03",
+    "PZL-038-04"
+  ],
+  "diagram_references": [
+    "DGM-021-01",
+    "DGM-021-02",
+    "DGM-021-03",
+    "DGM-021-04",
+    "DGM-021-05",
+    "DGM-021-06"
+  ],
+  "diagram_deferrals": [],
+  "assessment_reference": "ASM-038",
+  "deferred_topics": [],
+  "teach_slides": [
+    {
+      "id": "LES-038-S01",
+      "type": "INTRO",
+      "title": "Trapped!",
+      "text": "No legal moves.",
+      "parent_prompt": "Say: What if you are not in check but cannot move?",
+      "diagram_id": "DGM-021-01",
+      "diagram_url": "assets/DGM-021-01.svg",
+      "visual": {
+        "diagram_id": "DGM-021-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-STALEMATE-001",
+      "position_version": 1,
+      "position_title": "Basic Stalemate",
+      "diagram_alt": "Basic Stalemate"
+    },
+    {
+      "id": "LES-038-S02",
+      "type": "DIAGRAM",
+      "title": "Stalemate!",
+      "text": "Stalemate is a draw.",
+      "parent_prompt": "Show Stalemate.",
+      "diagram_id": "DGM-021-01",
+      "diagram_url": "assets/DGM-021-01.svg",
+      "visual": {
+        "diagram_id": "DGM-021-01",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-STALEMATE-001",
+      "position_version": 1,
+      "position_title": "Basic Stalemate",
+      "diagram_alt": "Basic Stalemate"
+    },
+    {
+      "id": "LES-038-S03",
+      "type": "DIAGRAM",
+      "title": "Another Stalemate",
+      "text": "Draw.",
+      "parent_prompt": "Show another Stalemate.",
+      "diagram_id": "DGM-021-02",
+      "diagram_url": "assets/DGM-021-02.svg",
+      "visual": {
+        "diagram_id": "DGM-021-02",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-STALEMATE-002",
+      "position_version": 1,
+      "position_title": "Not Stalemate (Pawn can move)",
+      "diagram_alt": "Not Stalemate (Pawn can move)"
+    },
+    {
+      "id": "LES-038-S04",
+      "type": "DIAGRAM",
+      "title": "Tricky Stalemate",
+      "text": "Pawn is blocked.",
+      "parent_prompt": "Show a tricky stalemate.",
+      "diagram_id": "DGM-021-03",
+      "diagram_url": "assets/DGM-021-03.svg",
+      "visual": {
+        "diagram_id": "DGM-021-03",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-STALEMATE-003",
+      "position_version": 1,
+      "position_title": "Greedy mistake",
+      "diagram_alt": "Greedy mistake"
+    },
+    {
+      "id": "LES-038-S05",
+      "type": "QUESTION",
+      "title": "Is it Stalemate?",
+      "text": "Any legal moves?",
+      "parent_prompt": "Ask if it is stalemate.",
+      "reveal": "Yes!",
+      "diagram_id": "DGM-021-04",
+      "diagram_url": "assets/DGM-021-04.svg",
+      "visual": {
+        "diagram_id": "DGM-021-04",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-STALEMATE-004",
+      "position_version": 1,
+      "position_title": "Recognition Easy",
+      "diagram_alt": "Recognition Easy"
+    },
+    {
+      "id": "LES-038-S06",
+      "type": "QUESTION",
+      "title": "Is it Stalemate?",
+      "text": "Any legal moves?",
+      "parent_prompt": "Ask if it is stalemate.",
+      "reveal": "No, not stalemate.",
+      "diagram_id": "DGM-021-05",
+      "diagram_url": "assets/DGM-021-05.svg",
+      "visual": {
+        "diagram_id": "DGM-021-05",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-STALEMATE-005",
+      "position_version": 1,
+      "position_title": "Application Medium",
+      "diagram_alt": "Application Medium"
+    },
+    {
+      "id": "LES-038-S07",
+      "type": "QUESTION",
+      "title": "Is it Stalemate?",
+      "text": "Any legal moves?",
+      "parent_prompt": "Ask if it is stalemate.",
+      "reveal": "Yes!",
+      "diagram_id": "DGM-021-06",
+      "diagram_url": "assets/DGM-021-06.svg",
+      "visual": {
+        "diagram_id": "DGM-021-06",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-STALEMATE-006",
+      "position_version": 1,
+      "position_title": "Challenge Hard",
+      "diagram_alt": "Challenge Hard"
+    },
+    {
+      "id": "LES-038-S08",
+      "type": "ASSESSMENT",
+      "title": "Stalemate Master",
+      "text": "Find the stalemates.",
+      "parent_prompt": "Run assessment.",
+      "diagram_id": "DGM-021-06",
+      "diagram_url": "assets/DGM-021-06.svg",
+      "visual": {
+        "diagram_id": "DGM-021-06",
+        "layout": "VISUAL_60",
+        "animation": "NONE"
+      },
+      "position_id": "POS-STALEMATE-006",
+      "position_version": 1,
+      "position_title": "Challenge Hard",
+      "diagram_alt": "Challenge Hard"
+    }
+  ],
+  "guide_sections": [
+    {
+      "id": "LES-038-S001",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "AT_A_GLANCE",
+      "section_ordinal": 1,
+      "title": "At a Glance",
+      "source_trace": "KB-021#1#B1",
+      "parent_prompt_trace": "KB-021#1#B1",
+      "text": "- **Topic**: Stalemate\n- **Difficulty**: Advanced\n- **Typical age**: 7+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-020 Checkmate\n\n**🎯 Today's Goal:**\nYour child will learn that if a player's King is completely safe (not in Check) but they have absolutely no legal moves left to play, the game is a Tie!\n\n**✅ Lesson Success Criteria:**\n- The child can visually distinguish between Checkmate (fire alarm) and Stalemate (no fire alarm).\n- The child understands that Stalemate means the game is a Draw (nobody wins).\n- The child checks for other movable pieces (like pawns) before calling Stalemate.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+    },
+    {
+      "id": "LES-038-S002",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DEFINITION",
+      "section_ordinal": 2,
+      "title": "Definition",
+      "source_trace": "KB-021#2#B1",
+      "parent_prompt_trace": "KB-021#2#B1",
+      "text": "Stalemate is a special rule that ends the game in a Draw (a Tie). It occurs when it is a player's turn to move, their King is **NOT in Check**, but they do not have a single legal move they can make anywhere on the board. Because you cannot skip your turn in chess, and you cannot make an illegal move (like stepping into danger), the game becomes \"frozen.\" Neither player wins, no matter how many extra pieces one player has!"
+    },
+    {
+      "id": "LES-038-S003",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "WHY_IT_MATTERS",
+      "section_ordinal": 3,
+      "title": "Why It Matters",
+      "source_trace": "KB-021#3#B1",
+      "parent_prompt_trace": "KB-021#3#B1",
+      "text": "Stalemate is the ultimate \"get out of jail free\" card in chess. If your child is losing badly and has only a King left, they can try to trick their opponent into accidentally Stalemating them to steal a tie! Conversely, when your child is winning with a huge army, they must be extremely careful not to accidentally freeze the enemy King and throw away their win."
+    },
+    {
+      "id": "LES-038-S004",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BEFORE_YOU_TEACH",
+      "section_ordinal": 4,
+      "title": "Before You Teach (Graph)",
+      "source_trace": "KB-021#4#B1",
+      "parent_prompt_trace": "KB-021#4#B1",
+      "text": "- **Requires:** TOP-020 (Checkmate)\n- **Unlocks:** TOP-025 (Draws)"
+    },
+    {
+      "id": "LES-038-S005",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_UNDERSTANDS",
+      "section_ordinal": 5,
+      "title": "Parent Understands",
+      "source_trace": "KB-021#5#B1",
+      "parent_prompt_trace": "KB-021#5#B1",
+      "text": "This rule feels deeply unfair to children (and adults!) when they first learn it. If you have 2 Queens and 3 Rooks, and your opponent just has a lonely King, how can it be a tie? \nThe logic is strict: \n1. It is Black's turn. \n2. Black MUST make a legal move. \n3. Any square the Black King steps to is guarded by White's pieces (stepping there would be illegal suicide).\n4. Since Black has no other pieces, Black cannot move.\n5. But White forgot to say \"Check!\" The King is currently safe where he stands. \nSince the game cannot proceed, it is a Stalemate."
+    },
+    {
+      "id": "LES-038-S006",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_TO_TEACH_IT",
+      "section_ordinal": 6,
+      "title": "How to Teach It",
+      "source_trace": "KB-021#6#B1",
+      "parent_prompt_trace": "KB-021#6#B1",
+      "text": "1. **The Safe King:** Set up a board with the Black King on `a8` (the corner). Place a White Queen on `c7` (a Knight's jump away from the King). \n2. **The Question:** Ask your child, \"Is the Queen pointing her laser at the King right now? Is the fire alarm ringing?\" (Have them trace the straight lines and diagonals. No! The Queen misses the King).\n3. **The Trap:** Say, \"Okay, it is Black's turn. Where can the Black King move?\" Have them touch `a7`, `b7`, and `b8`. Show that the White Queen's lasers are covering ALL of those squares. \n4. **The Frozen Kingdom:** \"The King wants to take a walk, but everywhere he steps is covered in hot lava! He can't step in lava. But he's perfectly safe where he is right now. He is frozen! This is a STALEMATE!\"\n5. **The Result:** Explain that when the kingdom freezes, nobody wins. It's a Tie!"
+    },
+    {
+      "id": "LES-038-S007",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "STORY_ANALOGY_MEMORY",
+      "section_ordinal": 7,
+      "title": "Teaching Story / Analogy / Memory Hint",
+      "source_trace": "KB-021#7#B1",
+      "parent_prompt_trace": "KB-021#7#B1",
+      "text": "**The Floor is Lava:** \nImagine the King is standing on a safe rock. The fire alarm is NOT ringing! But when he looks around to take a step, he sees that the floor everywhere else has turned into hot lava! He can't step in the lava, because that's illegal. Since he can't move, and he's not on fire, he just sits on his rock forever. The game is frozen. Tie game!"
+    },
+    {
+      "id": "LES-038-S008",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "DID_YOU_KNOW",
+      "section_ordinal": 8,
+      "title": "Did You Know? 🎓",
+      "source_trace": "KB-021#8#B1",
+      "parent_prompt_trace": "KB-021#8#B1",
+      "text": "In older versions of chess played hundreds of years ago, Stalemate was considered a win for the player who had the trapped King! They believed that if you trapped your opponent but forgot to attack them, you made a foolish mistake and deserved to lose. Today, we settled on it being a Tie."
+    },
+    {
+      "id": "LES-038-S009",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_1",
+      "section_ordinal": 9,
+      "title": "Board Diagram 1 — Basic Concept",
+      "source_trace": "KB-021#9#B1",
+      "parent_prompt_trace": "KB-021#9#B1",
+      "text": "*Stalemate! The King is not in Check, but every escape square is covered in \"lava.\"*",
+      "diagram_id": "DGM-021-01",
+      "diagram_url": "assets/DGM-021-01.svg",
+      "position_id": "POS-STALEMATE-001",
+      "position_version": 1,
+      "position_title": "Basic Stalemate",
+      "diagram_alt": "Basic Stalemate"
+    },
+    {
+      "id": "LES-038-S010",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "HOW_IT_WORKS",
+      "section_ordinal": 10,
+      "title": "How It Works",
+      "source_trace": "KB-021#10#B1",
+      "parent_prompt_trace": "KB-021#10#B1",
+      "text": "The most important word in Stalemate is **ANYWHERE**. To be a Stalemate, the player must have absolutely no legal moves *anywhere on the board*. If their King is trapped, but they have a pawn on the other side of the board that can move forward one square, it is NOT a Stalemate! They must move the pawn!"
+    },
+    {
+      "id": "LES-038-S011",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "BOARD_DIAGRAM_2",
+      "section_ordinal": 11,
+      "title": "Board Diagram 2 — Practical Example",
+      "source_trace": "KB-021#11#B1",
+      "parent_prompt_trace": "KB-021#11#B1",
+      "text": "*NOT Stalemate! The King is trapped, but Black can still move their pawn on a2. The game continues!*",
+      "diagram_id": "DGM-021-02",
+      "diagram_url": "assets/DGM-021-02.svg",
+      "position_id": "POS-STALEMATE-002",
+      "position_version": 1,
+      "position_title": "Not Stalemate (Pawn can move)",
+      "diagram_alt": "Not Stalemate (Pawn can move)"
+    },
+    {
+      "id": "LES-038-S012",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "REAL_GAME_EXAMPLE",
+      "section_ordinal": 12,
+      "title": "Real Game Example",
+      "source_trace": "KB-021#12#B1",
+      "parent_prompt_trace": "KB-021#12#B1",
+      "text": "*White got too greedy trying to trap the King and forgot to make sure the King was in Check! The game ends in a disappointing Tie.*",
+      "diagram_id": "DGM-021-03",
+      "diagram_url": "assets/DGM-021-03.svg",
+      "position_id": "POS-STALEMATE-003",
+      "position_version": 1,
+      "position_title": "Greedy mistake",
+      "diagram_alt": "Greedy mistake"
+    },
+    {
+      "id": "LES-038-S013",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COMMON_MISTAKES",
+      "section_ordinal": 13,
+      "title": "Common Mistakes",
+      "source_trace": "KB-021#13#B1",
+      "parent_prompt_trace": "KB-021#13#B1",
+      "text": "- **Confusing Checkmate and Stalemate:** This happens constantly. The difference is entirely based on whether the King is currently under attack (Check).\n- **Forgetting about pawns:** A child will claim Stalemate because their King is trapped, completely ignoring that they have three pawns that are perfectly capable of moving.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child thinks it is a Stalemate, say: \"Okay, let's do the two tests! Test 1: Is the fire alarm ringing? Test 2: Can ANY of your pieces move?\""
+    },
+    {
+      "id": "LES-038-S014",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TEACHING_NOTES",
+      "section_ordinal": 14,
+      "title": "Teaching Notes",
+      "source_trace": "KB-021#14#B1",
+      "parent_prompt_trace": "KB-021#14#B1",
+      "text": "Stalemate usually happens when a beginner is winning by 20 points, gets too excited, and pushes all their Queens and Rooks right up into the enemy King's face without actually attacking him. Teach your child that when the enemy has very few pieces left, they must be EXTREMELY careful with every move.\n\n> **🧑‍🏫 Coach Tip:**\n> Teach them the \"Check Rule for Beginners.\" When you have a massive advantage (like a Queen vs a lone King), make sure that almost every move you play is a CHECK. If you are always checking the King, you can never accidentally Stalemate him!"
+    },
+    {
+      "id": "LES-038-S015",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_FAQ",
+      "section_ordinal": 15,
+      "title": "Parent FAQ",
+      "source_trace": "KB-021#15#B1",
+      "parent_prompt_trace": "KB-021#15#B1",
+      "text": "**Q: My child was winning with a Queen, and Stalemated me. They are crying because it's unfair. What do I do?**\nA: Welcome to chess! Every grandmaster in the world has accidentally stalemated someone and felt that exact pain. Comfort them, but hold firm to the rule. Next time, they will be much more careful. It's a great lesson in focus.\n\n**Q: Are there other ways to tie?**\nA: Yes! If neither player has enough pieces to force a checkmate (like just two Kings left on the board), it is automatically a draw."
+    },
+    {
+      "id": "LES-038-S016",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PRACTICE_TOGETHER",
+      "section_ordinal": 16,
+      "title": "Practice Together",
+      "source_trace": "KB-021#16#B1",
+      "parent_prompt_trace": "KB-021#16#B1",
+      "text": "**The Jail Warden:**\nTake an empty board. You place the Black King in the middle of the board. Give your child two White Rooks, two White Knights, and the White King. Their goal is to set up a position where they have successfully Stalemated the Black King in the middle of the board (no checks allowed, but all squares around the King covered!). It is harder than it looks!"
+    },
+    {
+      "id": "LES-038-S017",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "COACH_CHALLENGE",
+      "section_ordinal": 17,
+      "title": "Coach Challenge ⭐",
+      "source_trace": "KB-021#17#B1",
+      "parent_prompt_trace": "KB-021#17#B1",
+      "text": "**Checkmate or Stalemate?**\nSet up three positions rapidly for your child. \nPosition 1: True Checkmate (King attacked, can't move).\nPosition 2: True Stalemate (King safe, can't move).\nPosition 3: Fake Stalemate (King safe, can't move, but a pawn can move).\nFor each one, yell: \"What is it?!\" This rapid-fire drill trains their eyes to instantly recognize the difference."
+    },
+    {
+      "id": "LES-038-S018",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "TRY_IT_YOURSELF",
+      "section_ordinal": 18,
+      "title": "Try It Yourself",
+      "source_trace": "KB-021#18#B1",
+      "parent_prompt_trace": "KB-021#18#B1",
+      "text": "### 🟢 Recognition (Easy)\n\n**Question:** Look at the Black King. Is he in Check right now? Can he move anywhere safely?\n**Answer:** He is not in Check! But he cannot move to a7, b7, or b8 because the Queen is watching. It is a Stalemate!\n\n### 🟡 Application (Medium)\n\n**Question:** Is this a Stalemate?\n**Answer:** No! The White Queen is pointing her laser right at the Black King (a7 to a8). The King is in Check! Since he is in Check and trapped, this is a Checkmate!\n\n### 🔴 Challenge (Hard)\n\n**Question:** The Black King is safe, but cannot move. Black has a pawn on h7. Can the pawn move? Is it a Stalemate?\n**Answer:** The pawn on h7 is blocked by the White pawn! Since the King can't move, and the pawn can't move, Black has NO legal moves. It is a Stalemate!",
+      "diagram_id": "DGM-021-06",
+      "diagram_url": "assets/DGM-021-06.svg",
+      "position_id": "POS-STALEMATE-006",
+      "position_version": 1,
+      "position_title": "Challenge Hard",
+      "diagram_alt": "Challenge Hard"
+    },
+    {
+      "id": "LES-038-S019",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "CONTINUE_LEARNING",
+      "section_ordinal": 19,
+      "title": "Continue Learning",
+      "source_trace": "KB-021#19#B1",
+      "parent_prompt_trace": "KB-021#19#B1",
+      "text": "- **Lichess Practice:** [Stalemate](https://lichess.org/learn#/12) (Interactive stalemate avoidance puzzles)."
+    },
+    {
+      "id": "LES-038-S020",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "RELATED_TOPICS",
+      "section_ordinal": 20,
+      "title": "Related Topics",
+      "source_trace": "KB-021#20#B1",
+      "parent_prompt_trace": "KB-021#20#B1",
+      "text": "- **Prerequisites:** TOP-020 Checkmate\n- **Next Steps:** TOP-025 Draws"
+    },
+    {
+      "id": "LES-038-S021",
+      "role": "KB_CONTENT",
+      "type": "SHARED",
+      "section_id": "PARENT_CONFIDENCE_CHECK",
+      "section_ordinal": 21,
+      "title": "Parent Confidence Check ✅",
+      "source_trace": "KB-021#21#B1",
+      "parent_prompt_trace": "KB-021#21#B1",
+      "text": "- [ ] Do I know the difference between Checkmate and Stalemate?\n- [ ] Do I understand that Stalemate means the game is a Tie?\n- [ ] Do I know to look around the board for other pieces that can move?\n- [ ] Did we practice the \"Checkmate or Stalemate\" challenge?"
+    }
+  ],
+  "title": "Stalemate",
+  "duration_minutes": 20,
+  "memory_phrase": "No check and no moves equals Stalemate!",
+  "teach": {
+    "title": "Core Lesson",
+    "estimated_minutes": 20,
+    "slides": [
+      {
+        "id": "LES-038-S01",
+        "type": "INTRO",
+        "title": "Trapped!",
+        "text": "No legal moves.",
+        "parent_prompt": "Say: What if you are not in check but cannot move?",
+        "diagram_id": "DGM-021-01",
+        "diagram_url": "assets/DGM-021-01.svg",
+        "visual": {
+          "diagram_id": "DGM-021-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-STALEMATE-001",
+        "position_version": 1,
+        "position_title": "Basic Stalemate",
+        "diagram_alt": "Basic Stalemate"
+      },
+      {
+        "id": "LES-038-S02",
+        "type": "DIAGRAM",
+        "title": "Stalemate!",
+        "text": "Stalemate is a draw.",
+        "parent_prompt": "Show Stalemate.",
+        "diagram_id": "DGM-021-01",
+        "diagram_url": "assets/DGM-021-01.svg",
+        "visual": {
+          "diagram_id": "DGM-021-01",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-STALEMATE-001",
+        "position_version": 1,
+        "position_title": "Basic Stalemate",
+        "diagram_alt": "Basic Stalemate"
+      },
+      {
+        "id": "LES-038-S03",
+        "type": "DIAGRAM",
+        "title": "Another Stalemate",
+        "text": "Draw.",
+        "parent_prompt": "Show another Stalemate.",
+        "diagram_id": "DGM-021-02",
+        "diagram_url": "assets/DGM-021-02.svg",
+        "visual": {
+          "diagram_id": "DGM-021-02",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-STALEMATE-002",
+        "position_version": 1,
+        "position_title": "Not Stalemate (Pawn can move)",
+        "diagram_alt": "Not Stalemate (Pawn can move)"
+      },
+      {
+        "id": "LES-038-S04",
+        "type": "DIAGRAM",
+        "title": "Tricky Stalemate",
+        "text": "Pawn is blocked.",
+        "parent_prompt": "Show a tricky stalemate.",
+        "diagram_id": "DGM-021-03",
+        "diagram_url": "assets/DGM-021-03.svg",
+        "visual": {
+          "diagram_id": "DGM-021-03",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-STALEMATE-003",
+        "position_version": 1,
+        "position_title": "Greedy mistake",
+        "diagram_alt": "Greedy mistake"
+      },
+      {
+        "id": "LES-038-S05",
+        "type": "QUESTION",
+        "title": "Is it Stalemate?",
+        "text": "Any legal moves?",
+        "parent_prompt": "Ask if it is stalemate.",
+        "reveal": "Yes!",
+        "diagram_id": "DGM-021-04",
+        "diagram_url": "assets/DGM-021-04.svg",
+        "visual": {
+          "diagram_id": "DGM-021-04",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-STALEMATE-004",
+        "position_version": 1,
+        "position_title": "Recognition Easy",
+        "diagram_alt": "Recognition Easy"
+      },
+      {
+        "id": "LES-038-S06",
+        "type": "QUESTION",
+        "title": "Is it Stalemate?",
+        "text": "Any legal moves?",
+        "parent_prompt": "Ask if it is stalemate.",
+        "reveal": "No, not stalemate.",
+        "diagram_id": "DGM-021-05",
+        "diagram_url": "assets/DGM-021-05.svg",
+        "visual": {
+          "diagram_id": "DGM-021-05",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-STALEMATE-005",
+        "position_version": 1,
+        "position_title": "Application Medium",
+        "diagram_alt": "Application Medium"
+      },
+      {
+        "id": "LES-038-S07",
+        "type": "QUESTION",
+        "title": "Is it Stalemate?",
+        "text": "Any legal moves?",
+        "parent_prompt": "Ask if it is stalemate.",
+        "reveal": "Yes!",
+        "diagram_id": "DGM-021-06",
+        "diagram_url": "assets/DGM-021-06.svg",
+        "visual": {
+          "diagram_id": "DGM-021-06",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-STALEMATE-006",
+        "position_version": 1,
+        "position_title": "Challenge Hard",
+        "diagram_alt": "Challenge Hard"
+      },
+      {
+        "id": "LES-038-S08",
+        "type": "ASSESSMENT",
+        "title": "Stalemate Master",
+        "text": "Find the stalemates.",
+        "parent_prompt": "Run assessment.",
+        "diagram_id": "DGM-021-06",
+        "diagram_url": "assets/DGM-021-06.svg",
+        "visual": {
+          "diagram_id": "DGM-021-06",
+          "layout": "VISUAL_60",
+          "animation": "NONE"
+        },
+        "position_id": "POS-STALEMATE-006",
+        "position_version": 1,
+        "position_title": "Challenge Hard",
+        "diagram_alt": "Challenge Hard"
+      }
+    ]
+  },
+  "continue_teaching": {
+    "title": "Continue Teaching",
+    "estimated_minutes": 0,
+    "groups": []
+  },
+  "full_guide": {
+    "title": "Parent Full Guide",
+    "sections": [
+      {
+        "id": "LES-038-S001",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "AT_A_GLANCE",
+        "section_ordinal": 1,
+        "title": "At a Glance",
+        "source_trace": "KB-021#1#B1",
+        "parent_prompt_trace": "KB-021#1#B1",
+        "text": "- **Topic**: Stalemate\n- **Difficulty**: Advanced\n- **Typical age**: 7+\n- **Estimated teaching time**: 20 min\n- **Piece/concept type**: Rule\n- **Prerequisites**: TOP-020 Checkmate\n\n**🎯 Today's Goal:**\nYour child will learn that if a player's King is completely safe (not in Check) but they have absolutely no legal moves left to play, the game is a Tie!\n\n**✅ Lesson Success Criteria:**\n- The child can visually distinguish between Checkmate (fire alarm) and Stalemate (no fire alarm).\n- The child understands that Stalemate means the game is a Draw (nobody wins).\n- The child checks for other movable pieces (like pawns) before calling Stalemate.\n\n*(Purpose: \"Can I teach this today?\" A quick summary for busy parents.)*"
+      },
+      {
+        "id": "LES-038-S002",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DEFINITION",
+        "section_ordinal": 2,
+        "title": "Definition",
+        "source_trace": "KB-021#2#B1",
+        "parent_prompt_trace": "KB-021#2#B1",
+        "text": "Stalemate is a special rule that ends the game in a Draw (a Tie). It occurs when it is a player's turn to move, their King is **NOT in Check**, but they do not have a single legal move they can make anywhere on the board. Because you cannot skip your turn in chess, and you cannot make an illegal move (like stepping into danger), the game becomes \"frozen.\" Neither player wins, no matter how many extra pieces one player has!"
+      },
+      {
+        "id": "LES-038-S003",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "WHY_IT_MATTERS",
+        "section_ordinal": 3,
+        "title": "Why It Matters",
+        "source_trace": "KB-021#3#B1",
+        "parent_prompt_trace": "KB-021#3#B1",
+        "text": "Stalemate is the ultimate \"get out of jail free\" card in chess. If your child is losing badly and has only a King left, they can try to trick their opponent into accidentally Stalemating them to steal a tie! Conversely, when your child is winning with a huge army, they must be extremely careful not to accidentally freeze the enemy King and throw away their win."
+      },
+      {
+        "id": "LES-038-S004",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BEFORE_YOU_TEACH",
+        "section_ordinal": 4,
+        "title": "Before You Teach (Graph)",
+        "source_trace": "KB-021#4#B1",
+        "parent_prompt_trace": "KB-021#4#B1",
+        "text": "- **Requires:** TOP-020 (Checkmate)\n- **Unlocks:** TOP-025 (Draws)"
+      },
+      {
+        "id": "LES-038-S005",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_UNDERSTANDS",
+        "section_ordinal": 5,
+        "title": "Parent Understands",
+        "source_trace": "KB-021#5#B1",
+        "parent_prompt_trace": "KB-021#5#B1",
+        "text": "This rule feels deeply unfair to children (and adults!) when they first learn it. If you have 2 Queens and 3 Rooks, and your opponent just has a lonely King, how can it be a tie? \nThe logic is strict: \n1. It is Black's turn. \n2. Black MUST make a legal move. \n3. Any square the Black King steps to is guarded by White's pieces (stepping there would be illegal suicide).\n4. Since Black has no other pieces, Black cannot move.\n5. But White forgot to say \"Check!\" The King is currently safe where he stands. \nSince the game cannot proceed, it is a Stalemate."
+      },
+      {
+        "id": "LES-038-S006",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_TO_TEACH_IT",
+        "section_ordinal": 6,
+        "title": "How to Teach It",
+        "source_trace": "KB-021#6#B1",
+        "parent_prompt_trace": "KB-021#6#B1",
+        "text": "1. **The Safe King:** Set up a board with the Black King on `a8` (the corner). Place a White Queen on `c7` (a Knight's jump away from the King). \n2. **The Question:** Ask your child, \"Is the Queen pointing her laser at the King right now? Is the fire alarm ringing?\" (Have them trace the straight lines and diagonals. No! The Queen misses the King).\n3. **The Trap:** Say, \"Okay, it is Black's turn. Where can the Black King move?\" Have them touch `a7`, `b7`, and `b8`. Show that the White Queen's lasers are covering ALL of those squares. \n4. **The Frozen Kingdom:** \"The King wants to take a walk, but everywhere he steps is covered in hot lava! He can't step in lava. But he's perfectly safe where he is right now. He is frozen! This is a STALEMATE!\"\n5. **The Result:** Explain that when the kingdom freezes, nobody wins. It's a Tie!"
+      },
+      {
+        "id": "LES-038-S007",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "STORY_ANALOGY_MEMORY",
+        "section_ordinal": 7,
+        "title": "Teaching Story / Analogy / Memory Hint",
+        "source_trace": "KB-021#7#B1",
+        "parent_prompt_trace": "KB-021#7#B1",
+        "text": "**The Floor is Lava:** \nImagine the King is standing on a safe rock. The fire alarm is NOT ringing! But when he looks around to take a step, he sees that the floor everywhere else has turned into hot lava! He can't step in the lava, because that's illegal. Since he can't move, and he's not on fire, he just sits on his rock forever. The game is frozen. Tie game!"
+      },
+      {
+        "id": "LES-038-S008",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "DID_YOU_KNOW",
+        "section_ordinal": 8,
+        "title": "Did You Know? 🎓",
+        "source_trace": "KB-021#8#B1",
+        "parent_prompt_trace": "KB-021#8#B1",
+        "text": "In older versions of chess played hundreds of years ago, Stalemate was considered a win for the player who had the trapped King! They believed that if you trapped your opponent but forgot to attack them, you made a foolish mistake and deserved to lose. Today, we settled on it being a Tie."
+      },
+      {
+        "id": "LES-038-S009",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_1",
+        "section_ordinal": 9,
+        "title": "Board Diagram 1 — Basic Concept",
+        "source_trace": "KB-021#9#B1",
+        "parent_prompt_trace": "KB-021#9#B1",
+        "text": "*Stalemate! The King is not in Check, but every escape square is covered in \"lava.\"*",
+        "diagram_id": "DGM-021-01",
+        "diagram_url": "assets/DGM-021-01.svg",
+        "position_id": "POS-STALEMATE-001",
+        "position_version": 1,
+        "position_title": "Basic Stalemate",
+        "diagram_alt": "Basic Stalemate"
+      },
+      {
+        "id": "LES-038-S010",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "HOW_IT_WORKS",
+        "section_ordinal": 10,
+        "title": "How It Works",
+        "source_trace": "KB-021#10#B1",
+        "parent_prompt_trace": "KB-021#10#B1",
+        "text": "The most important word in Stalemate is **ANYWHERE**. To be a Stalemate, the player must have absolutely no legal moves *anywhere on the board*. If their King is trapped, but they have a pawn on the other side of the board that can move forward one square, it is NOT a Stalemate! They must move the pawn!"
+      },
+      {
+        "id": "LES-038-S011",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "BOARD_DIAGRAM_2",
+        "section_ordinal": 11,
+        "title": "Board Diagram 2 — Practical Example",
+        "source_trace": "KB-021#11#B1",
+        "parent_prompt_trace": "KB-021#11#B1",
+        "text": "*NOT Stalemate! The King is trapped, but Black can still move their pawn on a2. The game continues!*",
+        "diagram_id": "DGM-021-02",
+        "diagram_url": "assets/DGM-021-02.svg",
+        "position_id": "POS-STALEMATE-002",
+        "position_version": 1,
+        "position_title": "Not Stalemate (Pawn can move)",
+        "diagram_alt": "Not Stalemate (Pawn can move)"
+      },
+      {
+        "id": "LES-038-S012",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "REAL_GAME_EXAMPLE",
+        "section_ordinal": 12,
+        "title": "Real Game Example",
+        "source_trace": "KB-021#12#B1",
+        "parent_prompt_trace": "KB-021#12#B1",
+        "text": "*White got too greedy trying to trap the King and forgot to make sure the King was in Check! The game ends in a disappointing Tie.*",
+        "diagram_id": "DGM-021-03",
+        "diagram_url": "assets/DGM-021-03.svg",
+        "position_id": "POS-STALEMATE-003",
+        "position_version": 1,
+        "position_title": "Greedy mistake",
+        "diagram_alt": "Greedy mistake"
+      },
+      {
+        "id": "LES-038-S013",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COMMON_MISTAKES",
+        "section_ordinal": 13,
+        "title": "Common Mistakes",
+        "source_trace": "KB-021#13#B1",
+        "parent_prompt_trace": "KB-021#13#B1",
+        "text": "- **Confusing Checkmate and Stalemate:** This happens constantly. The difference is entirely based on whether the King is currently under attack (Check).\n- **Forgetting about pawns:** A child will claim Stalemate because their King is trapped, completely ignoring that they have three pawns that are perfectly capable of moving.\n\n> **🧑‍🏫 Coach Tip:**\n> If your child thinks it is a Stalemate, say: \"Okay, let's do the two tests! Test 1: Is the fire alarm ringing? Test 2: Can ANY of your pieces move?\""
+      },
+      {
+        "id": "LES-038-S014",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TEACHING_NOTES",
+        "section_ordinal": 14,
+        "title": "Teaching Notes",
+        "source_trace": "KB-021#14#B1",
+        "parent_prompt_trace": "KB-021#14#B1",
+        "text": "Stalemate usually happens when a beginner is winning by 20 points, gets too excited, and pushes all their Queens and Rooks right up into the enemy King's face without actually attacking him. Teach your child that when the enemy has very few pieces left, they must be EXTREMELY careful with every move.\n\n> **🧑‍🏫 Coach Tip:**\n> Teach them the \"Check Rule for Beginners.\" When you have a massive advantage (like a Queen vs a lone King), make sure that almost every move you play is a CHECK. If you are always checking the King, you can never accidentally Stalemate him!"
+      },
+      {
+        "id": "LES-038-S015",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_FAQ",
+        "section_ordinal": 15,
+        "title": "Parent FAQ",
+        "source_trace": "KB-021#15#B1",
+        "parent_prompt_trace": "KB-021#15#B1",
+        "text": "**Q: My child was winning with a Queen, and Stalemated me. They are crying because it's unfair. What do I do?**\nA: Welcome to chess! Every grandmaster in the world has accidentally stalemated someone and felt that exact pain. Comfort them, but hold firm to the rule. Next time, they will be much more careful. It's a great lesson in focus.\n\n**Q: Are there other ways to tie?**\nA: Yes! If neither player has enough pieces to force a checkmate (like just two Kings left on the board), it is automatically a draw."
+      },
+      {
+        "id": "LES-038-S016",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PRACTICE_TOGETHER",
+        "section_ordinal": 16,
+        "title": "Practice Together",
+        "source_trace": "KB-021#16#B1",
+        "parent_prompt_trace": "KB-021#16#B1",
+        "text": "**The Jail Warden:**\nTake an empty board. You place the Black King in the middle of the board. Give your child two White Rooks, two White Knights, and the White King. Their goal is to set up a position where they have successfully Stalemated the Black King in the middle of the board (no checks allowed, but all squares around the King covered!). It is harder than it looks!"
+      },
+      {
+        "id": "LES-038-S017",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "COACH_CHALLENGE",
+        "section_ordinal": 17,
+        "title": "Coach Challenge ⭐",
+        "source_trace": "KB-021#17#B1",
+        "parent_prompt_trace": "KB-021#17#B1",
+        "text": "**Checkmate or Stalemate?**\nSet up three positions rapidly for your child. \nPosition 1: True Checkmate (King attacked, can't move).\nPosition 2: True Stalemate (King safe, can't move).\nPosition 3: Fake Stalemate (King safe, can't move, but a pawn can move).\nFor each one, yell: \"What is it?!\" This rapid-fire drill trains their eyes to instantly recognize the difference."
+      },
+      {
+        "id": "LES-038-S018",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "TRY_IT_YOURSELF",
+        "section_ordinal": 18,
+        "title": "Try It Yourself",
+        "source_trace": "KB-021#18#B1",
+        "parent_prompt_trace": "KB-021#18#B1",
+        "text": "### 🟢 Recognition (Easy)\n\n**Question:** Look at the Black King. Is he in Check right now? Can he move anywhere safely?\n**Answer:** He is not in Check! But he cannot move to a7, b7, or b8 because the Queen is watching. It is a Stalemate!\n\n### 🟡 Application (Medium)\n\n**Question:** Is this a Stalemate?\n**Answer:** No! The White Queen is pointing her laser right at the Black King (a7 to a8). The King is in Check! Since he is in Check and trapped, this is a Checkmate!\n\n### 🔴 Challenge (Hard)\n\n**Question:** The Black King is safe, but cannot move. Black has a pawn on h7. Can the pawn move? Is it a Stalemate?\n**Answer:** The pawn on h7 is blocked by the White pawn! Since the King can't move, and the pawn can't move, Black has NO legal moves. It is a Stalemate!",
+        "diagram_id": "DGM-021-06",
+        "diagram_url": "assets/DGM-021-06.svg",
+        "position_id": "POS-STALEMATE-006",
+        "position_version": 1,
+        "position_title": "Challenge Hard",
+        "diagram_alt": "Challenge Hard"
+      },
+      {
+        "id": "LES-038-S019",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "CONTINUE_LEARNING",
+        "section_ordinal": 19,
+        "title": "Continue Learning",
+        "source_trace": "KB-021#19#B1",
+        "parent_prompt_trace": "KB-021#19#B1",
+        "text": "- **Lichess Practice:** [Stalemate](https://lichess.org/learn#/12) (Interactive stalemate avoidance puzzles)."
+      },
+      {
+        "id": "LES-038-S020",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "RELATED_TOPICS",
+        "section_ordinal": 20,
+        "title": "Related Topics",
+        "source_trace": "KB-021#20#B1",
+        "parent_prompt_trace": "KB-021#20#B1",
+        "text": "- **Prerequisites:** TOP-020 Checkmate\n- **Next Steps:** TOP-025 Draws"
+      },
+      {
+        "id": "LES-038-S021",
+        "role": "KB_CONTENT",
+        "type": "SHARED",
+        "section_id": "PARENT_CONFIDENCE_CHECK",
+        "section_ordinal": 21,
+        "title": "Parent Confidence Check ✅",
+        "source_trace": "KB-021#21#B1",
+        "parent_prompt_trace": "KB-021#21#B1",
+        "text": "- [ ] Do I know the difference between Checkmate and Stalemate?\n- [ ] Do I understand that Stalemate means the game is a Tie?\n- [ ] Do I know to look around the board for other pieces that can move?\n- [ ] Did we practice the \"Checkmate or Stalemate\" challenge?"
+      }
+    ]
+  }
+}
